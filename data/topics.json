@@ -1,0 +1,208 @@
+{
+ "categories": [
+  {
+   "id": "gi-foundations-anatomy",
+   "name": "Foundations, Anatomy & Development",
+   "topics": [
+    {
+     "id": "gi-foundations-overview",
+     "name": "GI System: Foundations and Overview",
+     "questionCount": 20
+    },
+    {
+     "id": "gi-tract-anatomy",
+     "name": "Anatomy of the Gastrointestinal Tract",
+     "questionCount": 20
+    },
+    {
+     "id": "gi-blood-supply-innervation",
+     "name": "GI Blood Supply and Innervation",
+     "questionCount": 20
+    },
+    {
+     "id": "gi-development",
+     "name": "Development of the Gastrointestinal System",
+     "questionCount": 20
+    },
+    {
+     "id": "gi-congenital-disorders",
+     "name": "Congenital Disorders of the GI Tract",
+     "questionCount": 20
+    },
+    {
+     "id": "femoral-inguinal-anatomy",
+     "name": "Anatomy of the Femoral and Inguinal Regions",
+     "questionCount": 20
+    }
+   ]
+  },
+  {
+   "id": "gi-histology",
+   "name": "Histology",
+   "topics": [
+    {
+     "id": "histology-gi-tract",
+     "name": "Histology of the Gastrointestinal Tract",
+     "questionCount": 20
+    },
+    {
+     "id": "histology-accessory-organs",
+     "name": "Histology of the Accessory Digestive Organs",
+     "questionCount": 20
+    }
+   ]
+  },
+  {
+   "id": "gi-oral-esophagus",
+   "name": "Oral Cavity, Salivary Glands & Esophagus",
+   "topics": [
+    {
+     "id": "oral-region-anatomy",
+     "name": "Gross Anatomy and Histology of the Oral Region",
+     "questionCount": 20
+    },
+    {
+     "id": "oral-dysbiosis",
+     "name": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+     "questionCount": 20
+    },
+    {
+     "id": "sjogren-syndrome",
+     "name": "Sjögren Syndrome",
+     "questionCount": 20
+    },
+    {
+     "id": "benign-esophageal-disorders",
+     "name": "Benign Esophageal Disorders: GERD, Esophagitis, and Structural Disorders",
+     "questionCount": 20
+    },
+    {
+     "id": "upper-gi-neoplasms",
+     "name": "Oral, Salivary Gland, and Esophageal Neoplasms",
+     "questionCount": 20
+    }
+   ]
+  },
+  {
+   "id": "gi-stomach",
+   "name": "Stomach: Ulcers & Neoplasms",
+   "topics": [
+    {
+     "id": "peptic-ulcer-gastritis",
+     "name": "Peptic Ulcer Disease and Gastritis",
+     "questionCount": 20
+    },
+    {
+     "id": "gastric-neoplasms",
+     "name": "Gastric Neoplasms",
+     "questionCount": 20
+    }
+   ]
+  },
+  {
+   "id": "gi-liver-structure-metabolism",
+   "name": "Liver: Structure, Function & Metabolism",
+   "topics": [
+    {
+     "id": "liver-biliary-pancreas-anatomy",
+     "name": "Anatomy of the Liver, Biliary System, and Exocrine Pancreas",
+     "questionCount": 20
+    },
+    {
+     "id": "liver-function-regeneration",
+     "name": "Liver Function and Regeneration",
+     "questionCount": 20
+    },
+    {
+     "id": "porphyrins-iron-homeostasis",
+     "name": "Porphyrins and Iron Homeostasis",
+     "questionCount": 20
+    },
+    {
+     "id": "hepatic-ethanol-metabolism",
+     "name": "Hepatic Ethanol Metabolism",
+     "questionCount": 20
+    }
+   ]
+  },
+  {
+   "id": "gi-liver-disease",
+   "name": "Liver Disease",
+   "topics": [
+    {
+     "id": "benign-liver-disease",
+     "name": "Benign Liver Disease",
+     "questionCount": 20
+    },
+    {
+     "id": "masld",
+     "name": "Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD)",
+     "questionCount": 20
+    },
+    {
+     "id": "alcohol-liver-disease",
+     "name": "Alcohol-Associated Liver Disease",
+     "questionCount": 20
+    },
+    {
+     "id": "inherited-metabolic-liver",
+     "name": "Inherited Metabolic Liver Diseases (Wilson, Hemochromatosis, A1AT)",
+     "questionCount": 20
+    },
+    {
+     "id": "cirrhosis-portal-hypertension",
+     "name": "Cirrhosis and Portal Hypertension",
+     "questionCount": 20
+    }
+   ]
+  },
+  {
+   "id": "gi-hepatobiliary-infection-neoplasm",
+   "name": "Hepatobiliary Infections, Biliary Disease & Neoplasms",
+   "topics": [
+    {
+     "id": "hepatic-abscesses-flukes",
+     "name": "Infectious Hepatic Abscesses and Flukes",
+     "questionCount": 20
+    },
+    {
+     "id": "hepatitis-bc-drugs",
+     "name": "Drugs to Treat Hepatitis B and C Infections",
+     "questionCount": 20
+    },
+    {
+     "id": "biliary-noninfectious",
+     "name": "Noninfectious Disorders of the Biliary System",
+     "questionCount": 20
+    },
+    {
+     "id": "hepatobiliary-neoplasms",
+     "name": "Hepatic and Biliary Neoplasms",
+     "questionCount": 20
+    }
+   ]
+  },
+  {
+   "id": "gi-pancreas-peritoneum",
+   "name": "Pancreas & Peritoneum",
+   "topics": [
+    {
+     "id": "peritonitis",
+     "name": "Peritonitis",
+     "questionCount": 20
+    },
+    {
+     "id": "pancreatitis",
+     "name": "Acute and Chronic Pancreatitis",
+     "questionCount": 20
+    },
+    {
+     "id": "pancreatic-carcinoma",
+     "name": "Pancreatic Carcinoma",
+     "questionCount": 20
+    }
+   ]
+  }
+ ],
+ "totalQuestions": 620
+}
