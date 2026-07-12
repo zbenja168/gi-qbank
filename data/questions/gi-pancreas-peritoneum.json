@@ -270,7 +270,7 @@
      "E": "Large-volume paracentesis treats tense ascites, not the underlying perforation and infection."
     }
    },
-   "difficulty": "medium",
+   "difficulty": "hard",
    "imageRef": null,
    "tags": [
     "secondary peritonitis",
@@ -454,7 +454,7 @@
      "D": "CDX2 marks intestinal adenocarcinoma, not mesothelioma."
     }
    },
-   "difficulty": "medium",
+   "difficulty": "hard",
    "imageRef": null,
    "tags": [
     "mesothelioma",
@@ -592,7 +592,7 @@
      "E": "A single (monomicrobial) organism actually favors SBP; polymicrobial growth favors secondary peritonitis."
     }
    },
-   "difficulty": "medium",
+   "difficulty": "hard",
    "imageRef": null,
    "tags": [
     "SBP vs secondary",
@@ -700,11 +700,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Intraperitoneal antibiotics instilled through the dialysis catheter"
+     "text": "Oral antibiotics only"
     },
     {
      "label": "B",
-     "text": "Oral antibiotics only"
+     "text": "Intraperitoneal antibiotics instilled through the dialysis catheter"
     },
     {
      "label": "C",
@@ -719,12 +719,12 @@
      "text": "Topical antibiotic ointment at the exit site alone"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Uncomplicated dialysis peritonitis is treated with intraperitoneal antibiotics via the catheter.",
     "whyCorrect": "In peritoneal dialysis peritonitis, antibiotics are instilled directly into the peritoneal cavity through the catheter, delivering high local drug concentrations to the site of infection.",
     "whyWrongByChoice": {
-     "B": "Oral therapy alone provides inadequate peritoneal drug levels for this infection.",
+     "A": "Oral therapy alone provides inadequate peritoneal drug levels for this infection.",
      "C": "A single IM dose does not deliver sustained intraperitoneal concentrations needed for treatment.",
      "D": "Catheter removal is reserved for refractory, relapsing, or fungal cases, not first-line uncomplicated bacterial peritonitis.",
      "E": "Exit-site ointment does not treat established intraperitoneal infection."
@@ -822,7 +822,7 @@
      "E": "Damage-control resuscitation addresses hemorrhage/physiology, not elimination of an infectious focus."
     }
    },
-   "difficulty": "easy",
+   "difficulty": "medium",
    "imageRef": null,
    "tags": [
     "source control",
@@ -892,7 +892,7 @@
     },
     {
      "label": "C",
-     "text": "Cytoreductive surgery combined with heated intraperitoneal chemotherapy (HIPEC)"
+     "text": "Emergency exploratory laparotomy for source control of infection"
     },
     {
      "label": "D",
@@ -900,18 +900,18 @@
     },
     {
      "label": "E",
-     "text": "Emergency exploratory laparotomy for source control of infection"
+     "text": "Cytoreductive surgery combined with heated intraperitoneal chemotherapy (HIPEC)"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Cytoreductive surgery plus HIPEC can be curative in low-grade pseudomyxoma peritonei.",
     "whyCorrect": "Complete cytoreductive (debulking) surgery combined with heated intraperitoneal chemotherapy (HIPEC) removes mucinous tumor burden and treats microscopic peritoneal disease, offering the best chance of long-term control or cure in low-grade pseudomyxoma peritonei.",
     "whyWrongByChoice": {
      "A": "Pseudomyxoma peritonei is a mucinous neoplastic process, not a bacterial infection treatable with cephalosporins.",
      "B": "Intraperitoneal antibiotics treat dialysis peritonitis, not a mucinous malignancy.",
-     "D": "Observation allows progressive mucin accumulation and does not offer cure.",
-     "E": "Laparotomy for infectious source control does not address this noninfectious tumor; therapeutic cytoreduction plus HIPEC is required."
+     "C": "Laparotomy for infectious source control does not address this noninfectious tumor; therapeutic cytoreduction plus HIPEC is required.",
+     "D": "Observation allows progressive mucin accumulation and does not offer cure."
     }
    },
    "difficulty": "hard",
@@ -1052,7 +1052,7 @@
      "E": "Amylase is a digestive enzyme secreted normally and plays no role in trypsinogen activation."
     }
    },
-   "difficulty": "medium",
+   "difficulty": "hard",
    "imageRef": null,
    "tags": [
     "acute pancreatitis",
@@ -1210,33 +1210,33 @@
     },
     {
      "label": "B",
-     "text": "Retroperitoneal hemorrhage tracking to the periumbilical region"
-    },
-    {
-     "label": "C",
      "text": "Infected pancreatic necrosis"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Pseudocyst formation"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Splenic vein thrombosis"
+    },
+    {
+     "label": "E",
+     "text": "Retroperitoneal hemorrhage tracking to the periumbilical region"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Cullen sign reflects hemorrhagic pancreatitis.",
     "whyCorrect": "Periumbilical ecchymosis (Cullen sign) results from enzymatic destruction of blood vessels causing retroperitoneal hemorrhage that tracks to the periumbilical region, a marker of severe hemorrhagic pancreatitis.",
     "whyWrongByChoice": {
      "A": "Jaundice reflects biliary obstruction and causes yellow, not bluish periumbilical, discoloration.",
-     "C": "Infected necrosis causes sepsis and clinical deterioration, not periumbilical ecchymosis directly.",
-     "D": "Pseudocyst formation is a late fluid collection and does not cause skin ecchymosis.",
-     "E": "Splenic vein thrombosis causes gastric varices, not periumbilical discoloration."
+     "B": "Infected necrosis causes sepsis and clinical deterioration, not periumbilical ecchymosis directly.",
+     "C": "Pseudocyst formation is a late fluid collection and does not cause skin ecchymosis.",
+     "D": "Splenic vein thrombosis causes gastric varices, not periumbilical discoloration."
     }
    },
-   "difficulty": "medium",
+   "difficulty": "hard",
    "imageRef": null,
    "tags": [
     "acute pancreatitis",
@@ -1348,30 +1348,30 @@
     },
     {
      "label": "B",
-     "text": "Infected pancreatic necrosis"
-    },
-    {
-     "label": "C",
      "text": "Sterile edematous pancreatitis"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Chronic pancreatitis with calcification"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Splenic artery pseudoaneurysm"
+    },
+    {
+     "label": "E",
+     "text": "Infected pancreatic necrosis"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Late deterioration with gas in necrosis indicates infected necrosis.",
     "whyCorrect": "Infected necrosis arises when gut bacteria translocate into devitalized (non-enhancing) tissue, typically causing a mortality spike at 2-3 weeks with fever, leukocytosis, and gas on imaging.",
     "whyWrongByChoice": {
      "A": "An uncomplicated pseudocyst is a walled-off fluid collection and does not cause sepsis or gas within necrotic tissue.",
-     "C": "Sterile edematous pancreatitis is mild and would not cause late septic deterioration with gas.",
-     "D": "Chronic pancreatitis with calcification is a slow fibrotic process, not an acute septic complication.",
-     "E": "A pseudoaneurysm causes hemorrhage, not fever with gas-containing necrosis."
+     "B": "Sterile edematous pancreatitis is mild and would not cause late septic deterioration with gas.",
+     "C": "Chronic pancreatitis with calcification is a slow fibrotic process, not an acute septic complication.",
+     "D": "A pseudoaneurysm causes hemorrhage, not fever with gas-containing necrosis."
     }
    },
    "difficulty": "medium",
@@ -1490,29 +1490,29 @@
     },
     {
      "label": "C",
-     "text": "Pancreatic calcifications"
-    },
-    {
-     "label": "D",
      "text": "A dilated common bile duct"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "A pseudocyst"
+    },
+    {
+     "label": "E",
+     "text": "Pancreatic calcifications"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Calcifications are nearly pathognomonic for chronic pancreatitis.",
     "whyCorrect": "Pancreatic calcifications are the hallmark imaging finding of established chronic pancreatitis, with nearly 100% specificity; about 85% of advanced alcohol-induced cases show them.",
     "whyWrongByChoice": {
      "A": "Peripancreatic fluid collections are a feature of acute pancreatitis.",
      "B": "Non-enhancing necrotic parenchyma indicates acute necrotizing pancreatitis.",
-     "D": "A dilated CBD suggests biliary obstruction, not specifically chronic pancreatitis.",
-     "E": "A pseudocyst can occur in either form and is not specific for chronic disease."
+     "C": "A dilated CBD suggests biliary obstruction, not specifically chronic pancreatitis.",
+     "D": "A pseudocyst can occur in either form and is not specific for chronic disease."
     }
    },
-   "difficulty": "easy",
+   "difficulty": "medium",
    "imageRef": null,
    "tags": [
     "chronic pancreatitis",
@@ -1532,29 +1532,29 @@
     },
     {
      "label": "B",
-     "text": "Pancreatic stellate cell"
-    },
-    {
-     "label": "C",
      "text": "Islet beta cell"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Ductal epithelial cell"
+    },
+    {
+     "label": "D",
+     "text": "Pancreatic stellate cell"
     },
     {
      "label": "E",
      "text": "Kupffer cell"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "The stellate cell drives chronic pancreatitis fibrosis.",
     "whyCorrect": "Pancreatic stellate cells are the key cell of chronic pancreatitis; upon activation by cytokines (TGF-beta, PDGF), they lose their vitamin A stores and transform into collagen-depositing myofibroblasts, the final common pathway of fibrogenesis.",
     "whyWrongByChoice": {
      "A": "The acinar cell is central to acute pancreatitis (enzyme activation), not the fibrogenic cell of chronic disease.",
-     "C": "Islet beta cells produce insulin and are destroyed in the process, but they do not deposit collagen.",
-     "D": "Ductal epithelial cells contribute to secretion but are not the collagen-producing fibrogenic cell.",
+     "B": "Islet beta cells produce insulin and are destroyed in the process, but they do not deposit collagen.",
+     "C": "Ductal epithelial cells contribute to secretion but are not the collagen-producing fibrogenic cell.",
      "E": "Kupffer cells are hepatic macrophages, not pancreatic fibrogenic cells."
     }
    },
@@ -1604,7 +1604,7 @@
      "E": "Small losses are compensated by the large reserve of enzyme secretion."
     }
    },
-   "difficulty": "medium",
+   "difficulty": "hard",
    "imageRef": null,
    "tags": [
     "chronic pancreatitis",
@@ -1628,26 +1628,26 @@
     },
     {
      "label": "C",
-     "text": "Loss of both insulin-producing beta cells and glucagon-producing alpha cells"
-    },
-    {
-     "label": "D",
      "text": "Excess glucagon secretion from an alpha-cell tumor"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Antibodies against the insulin receptor"
+    },
+    {
+     "label": "E",
+     "text": "Loss of both insulin-producing beta cells and glucagon-producing alpha cells"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Type 3c diabetes destroys both beta and alpha cells.",
     "whyCorrect": "Type 3c (pancreatogenic) diabetes arises from destruction of pancreatic endocrine tissue including both insulin-producing beta cells and glucagon-producing alpha cells, causing brittle glucose control with a tendency to hypoglycemia.",
     "whyWrongByChoice": {
      "A": "Autoimmune beta-cell destruction alone describes type 1 diabetes.",
      "B": "Peripheral insulin resistance describes type 2 diabetes.",
-     "D": "Excess glucagon from a tumor describes a glucagonoma, not type 3c diabetes.",
-     "E": "Insulin receptor antibodies describe rare type B insulin resistance, not pancreatogenic diabetes."
+     "C": "Excess glucagon from a tumor describes a glucagonoma, not type 3c diabetes.",
+     "D": "Insulin receptor antibodies describe rare type B insulin resistance, not pancreatogenic diabetes."
     }
    },
    "difficulty": "medium",
@@ -1696,7 +1696,7 @@
      "E": "Prophylactic antibiotics have no role in slowing chronic pancreatitis."
     }
    },
-   "difficulty": "easy",
+   "difficulty": "medium",
    "imageRef": null,
    "tags": [
     "chronic pancreatitis",
@@ -1986,11 +1986,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Sheets of monotonous neuroendocrine cells with salt-and-pepper chromatin"
+     "text": "Malignant glands haphazardly arranged within a dense collagenous (desmoplastic) stroma"
     },
     {
      "label": "B",
-     "text": "Malignant glands haphazardly arranged within a dense collagenous (desmoplastic) stroma"
+     "text": "Sheets of monotonous neuroendocrine cells with salt-and-pepper chromatin"
     },
     {
      "label": "C",
@@ -2005,12 +2005,12 @@
      "text": "Nests of clear cells with abundant glycogen"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Ductal adenocarcinoma shows malignant glands in desmoplastic stroma.",
     "whyCorrect": "Infiltrating ductal adenocarcinoma is characterized by malignant glands arranged haphazardly within a dense desmoplastic (collagenous) stroma, frequently with perineural and vascular invasion.",
     "whyWrongByChoice": {
-     "A": "Sheets of cells with salt-and-pepper chromatin describe a neuroendocrine tumor, which is a distinct and far less common pancreatic malignancy.",
+     "B": "Sheets of cells with salt-and-pepper chromatin describe a neuroendocrine tumor, which is a distinct and far less common pancreatic malignancy.",
      "C": "Cysts lined by ciliated epithelium are not a feature of ductal adenocarcinoma.",
      "D": "Signet ring cells are typical of certain gastric or colonic carcinomas, not the defining feature of pancreatic ductal adenocarcinoma.",
      "E": "Clear cells rich in glycogen suggest renal cell carcinoma, not pancreatic ductal adenocarcinoma."
@@ -2355,25 +2355,25 @@
     },
     {
      "label": "C",
-     "text": "Peutz-Jeghers syndrome, with increased risk of pancreatic adenocarcinoma"
+     "text": "Familial pancreatitis, from a PRSS1 mutation"
     },
     {
      "label": "D",
-     "text": "Familial pancreatitis, from a PRSS1 mutation"
+     "text": "Peutz-Jeghers syndrome, with increased risk of pancreatic adenocarcinoma"
     },
     {
      "label": "E",
      "text": "Hereditary breast/ovarian cancer, from a BRCA1 mutation"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "STK11 with pigmentation and hamartomas is Peutz-Jeghers, which raises pancreatic cancer risk.",
     "whyCorrect": "Peutz-Jeghers syndrome is caused by STK11 mutations and is one of the inherited syndromes that increases the risk of pancreatic adenocarcinoma; it features mucocutaneous pigmentation and hamartomatous polyps.",
     "whyWrongByChoice": {
      "A": "Von Hippel-Lindau is caused by VHL mutations, not STK11, and does not present with mucocutaneous pigmentation and hamartomatous polyps.",
      "B": "Lynch syndrome results from mismatch-repair genes such as MLH1 or MSH2, not STK11.",
-     "D": "Familial pancreatitis is caused by PRSS1 mutations, not STK11, and lacks the mucocutaneous pigmentation described.",
+     "C": "Familial pancreatitis is caused by PRSS1 mutations, not STK11, and lacks the mucocutaneous pigmentation described.",
      "E": "Hereditary breast/ovarian cancer is caused by BRCA1/BRCA2, not STK11."
     }
    },
@@ -2401,25 +2401,25 @@
     },
     {
      "label": "C",
-     "text": "Pancreaticoduodenectomy (Whipple procedure)"
+     "text": "Left hepatectomy"
     },
     {
      "label": "D",
-     "text": "Left hepatectomy"
+     "text": "Pancreaticoduodenectomy (Whipple procedure)"
     },
     {
      "label": "E",
      "text": "Roux-en-Y gastric bypass"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Head-of-pancreas tumors are resected by the Whipple procedure.",
     "whyCorrect": "Pancreaticoduodenectomy (the Whipple procedure) is the standard resection for a tumor localized to the head of the pancreas, removing the pancreatic head, duodenum, and adjacent structures.",
     "whyWrongByChoice": {
      "A": "Distal pancreatectomy with splenectomy is used for tumors of the body or tail, not the head.",
      "B": "Total gastrectomy is an operation for gastric cancer, not pancreatic head carcinoma.",
-     "D": "Left hepatectomy removes liver, which is not the primary resection for a localized pancreatic head tumor.",
+     "C": "Left hepatectomy removes liver, which is not the primary resection for a localized pancreatic head tumor.",
      "E": "Roux-en-Y gastric bypass is a bariatric/anatomic bypass operation, not a cancer resection."
     }
    },
@@ -2537,7 +2537,7 @@
     },
     {
      "label": "C",
-     "text": "NETs are less than 5% of pancreatic tumors, arise from hormone-producing islet cells, and are often nonfunctional and slow-growing"
+     "text": "Adenocarcinoma is the rarer of the two and is usually slow-growing"
     },
     {
      "label": "D",
@@ -2545,18 +2545,18 @@
     },
     {
      "label": "E",
-     "text": "Adenocarcinoma is the rarer of the two and is usually slow-growing"
+     "text": "NETs are less than 5% of pancreatic tumors, arise from hormone-producing islet cells, and are often nonfunctional and slow-growing"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "NETs are <5% of pancreatic tumors, arise from islet cells, and are often indolent.",
     "whyCorrect": "Pancreatic neuroendocrine tumors constitute less than 5% of pancreatic tumors, arise from hormone-producing islet cells of the endocrine pancreas, and are frequently nonfunctional and slow-growing, in contrast with the aggressive ductal adenocarcinoma.",
     "whyWrongByChoice": {
      "A": "Adenocarcinoma, not NETs, makes up about 85% of pancreatic carcinomas and arises from ductal cells.",
      "B": "This reverses the origins: adenocarcinoma arises from ductal (exocrine) cells and NETs from islet (endocrine) cells.",
-     "D": "Adenocarcinoma arises from the exocrine (ductal/acinar) pancreas, not the endocrine pancreas.",
-     "E": "Adenocarcinoma is the more common and more aggressive tumor, not the rarer or slow-growing one."
+     "C": "Adenocarcinoma is the more common and more aggressive tumor, not the rarer or slow-growing one.",
+     "D": "Adenocarcinoma arises from the exocrine (ductal/acinar) pancreas, not the endocrine pancreas."
     }
    },
    "difficulty": "medium",
@@ -2578,7 +2578,7 @@
     },
     {
      "label": "B",
-     "text": "Insulinoma"
+     "text": "Mucinous cystadenocarcinoma"
     },
     {
      "label": "C",
@@ -2590,18 +2590,18 @@
     },
     {
      "label": "E",
-     "text": "Mucinous cystadenocarcinoma"
+     "text": "Insulinoma"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Fasting hypoglycemia with high insulin indicates an insulinoma.",
     "whyCorrect": "Insulinoma is the most common pancreatic neuroendocrine tumor and produces hypoglycemia with weakness and sweating due to inappropriate insulin secretion, matching this presentation.",
     "whyWrongByChoice": {
      "A": "Ductal adenocarcinoma typically causes painless jaundice, weight loss, and pain, not hyperinsulinemic hypoglycemia.",
+     "B": "Mucinous cystadenocarcinoma is a cystic exocrine neoplasm and does not secrete insulin.",
      "C": "Gastrinoma causes refractory peptic ulcers and diarrhea from excess gastrin (Zollinger-Ellison), not hypoglycemia.",
-     "D": "Acinar cell carcinoma is a rare exocrine tumor and does not classically cause hyperinsulinemic hypoglycemia.",
-     "E": "Mucinous cystadenocarcinoma is a cystic exocrine neoplasm and does not secrete insulin."
+     "D": "Acinar cell carcinoma is a rare exocrine tumor and does not classically cause hyperinsulinemic hypoglycemia."
     }
    },
    "difficulty": "medium",
@@ -2623,7 +2623,7 @@
     },
     {
      "label": "B",
-     "text": "Pancreatic ductal adenocarcinoma"
+     "text": "Simple obesity-related type 2 diabetes"
     },
     {
      "label": "C",
@@ -2635,18 +2635,18 @@
     },
     {
      "label": "E",
-     "text": "Simple obesity-related type 2 diabetes"
+     "text": "Pancreatic ductal adenocarcinoma"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Sudden new diabetes with pain and weight loss can herald pancreatic adenocarcinoma.",
     "whyCorrect": "Sudden-onset new diabetes mellitus is listed among the clinical signs and symptoms of pancreatic adenocarcinoma, and here it is accompanied by epigastric gnawing pain and weight loss, a classic presenting constellation.",
     "whyWrongByChoice": {
      "A": "Type 1 diabetes typically presents in younger patients with autoimmune islet destruction and is not accompanied by this cancer-associated pain and weight loss.",
+     "B": "Simple obesity-related type 2 diabetes develops gradually and does not explain the acute pain and significant weight loss seen here.",
      "C": "Hemochromatosis causes 'bronze diabetes' with iron overload features, not acute epigastric pain and weight loss suggestive of a mass.",
-     "D": "Gestational diabetes occurs in pregnancy and is unrelated to this older male patient.",
-     "E": "Simple obesity-related type 2 diabetes develops gradually and does not explain the acute pain and significant weight loss seen here."
+     "D": "Gestational diabetes occurs in pregnancy and is unrelated to this older male patient."
     }
    },
    "difficulty": "hard",
@@ -2668,7 +2668,7 @@
     },
     {
      "label": "B",
-     "text": "Perineural invasion"
+     "text": "Metaplasia"
     },
     {
      "label": "C",
@@ -2680,18 +2680,18 @@
     },
     {
      "label": "E",
-     "text": "Metaplasia"
+     "text": "Perineural invasion"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Tumor tracking along nerves is perineural invasion.",
     "whyCorrect": "Perineural invasion is the spread of malignant glands along nerves, a common feature of pancreatic ductal adenocarcinoma that provides a route for the cancer to spread outside the pancreas.",
     "whyWrongByChoice": {
      "A": "Lymphovascular invasion is spread through lymphatics or blood vessels, not along nerves.",
+     "B": "Metaplasia is a reversible change of one differentiated cell type to another, not invasion along nerves.",
      "C": "Desmoplasia is the dense collagenous stroma produced around the tumor, not spread along nerves.",
-     "D": "Dysplasia refers to disordered but pre-invasive epithelial growth, not nerve invasion.",
-     "E": "Metaplasia is a reversible change of one differentiated cell type to another, not invasion along nerves."
+     "D": "Dysplasia refers to disordered but pre-invasive epithelial growth, not nerve invasion."
     }
    },
    "difficulty": "medium",

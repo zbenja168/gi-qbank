@@ -929,6 +929,2780 @@
    ]
   },
   {
+   "id": "histology-gi-tract-001",
+   "topicId": "histology-gi-tract",
+   "topicName": "Histology of the Gastrointestinal Tract",
+   "stem": "A medical student is asked to name the layers of the gastrointestinal tract wall in order, beginning at the lumen and moving outward. Which of the following sequences is correct?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Submucosa, mucosa, serosa, muscularis propria"
+    },
+    {
+     "label": "B",
+     "text": "Mucosa, submucosa, muscularis propria, serosa/adventitia"
+    },
+    {
+     "label": "C",
+     "text": "Mucosa, muscularis propria, submucosa, serosa/adventitia"
+    },
+    {
+     "label": "D",
+     "text": "Serosa, muscularis propria, submucosa, mucosa"
+    },
+    {
+     "label": "E",
+     "text": "Muscularis mucosae, mucosa, submucosa, serosa"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "The GI tract wall has four concentric layers arranged from the lumen outward.",
+    "whyCorrect": "From the lumen outward the wall is organized as mucosa, submucosa, muscularis propria, and serosa/adventitia; this pattern repeats along the entire tract with regional modifications.",
+    "whyWrongByChoice": {
+     "A": "This reorders the layers incorrectly; the mucosa, not the submucosa, is innermost.",
+     "C": "The submucosa lies between the mucosa and muscularis propria, not deep to the muscle.",
+     "D": "This is the reverse order (outermost to innermost) rather than lumen outward.",
+     "E": "The muscularis mucosae is a sublayer of the mucosa, not a separate outermost-to-inner main layer, and this ordering is scrambled."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "wall-layers",
+    "tunics",
+    "orientation"
+   ]
+  },
+  {
+   "id": "histology-gi-tract-002",
+   "topicId": "histology-gi-tract",
+   "topicName": "Histology of the Gastrointestinal Tract",
+   "stem": "A biopsy of the lower esophagus in a healthy adult is examined microscopically. Which epithelial lining is expected in the normal esophagus?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Simple columnar epithelium with goblet cells"
+    },
+    {
+     "label": "B",
+     "text": "Transitional (urothelial) epithelium"
+    },
+    {
+     "label": "C",
+     "text": "Nonkeratinized stratified squamous epithelium"
+    },
+    {
+     "label": "D",
+     "text": "Simple cuboidal epithelium"
+    },
+    {
+     "label": "E",
+     "text": "Pseudostratified ciliated columnar epithelium"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "The esophagus is lined by protective nonkeratinized stratified squamous epithelium.",
+    "whyCorrect": "This epithelium resists abrasion from swallowed material and abruptly changes to gastric columnar epithelium at the Z line.",
+    "whyWrongByChoice": {
+     "A": "Simple columnar epithelium with goblet cells characterizes the intestine or metaplastic Barrett esophagus, not the normal esophagus.",
+     "B": "Transitional epithelium lines the urinary tract, not the GI tract.",
+     "D": "Simple cuboidal epithelium lines ducts and tubules, not the esophageal surface.",
+     "E": "Pseudostratified ciliated columnar epithelium lines the respiratory tract, not the esophagus."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "esophagus",
+    "epithelium"
+   ]
+  },
+  {
+   "id": "histology-gi-tract-003",
+   "topicId": "histology-gi-tract",
+   "topicName": "Histology of the Gastrointestinal Tract",
+   "stem": "A 55-year-old man with chronic acid reflux undergoes endoscopic biopsy of the distal esophagus. Histology shows the normal squamous lining replaced by simple columnar epithelium containing goblet cells. Which process best describes this finding?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Barrett esophagus (intestinal metaplasia)"
+    },
+    {
+     "label": "B",
+     "text": "Squamous cell carcinoma"
+    },
+    {
+     "label": "C",
+     "text": "Achalasia"
+    },
+    {
+     "label": "D",
+     "text": "Normal gastroesophageal junction"
+    },
+    {
+     "label": "E",
+     "text": "Eosinophilic esophagitis"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "Goblet-cell columnar epithelium replacing esophageal squamous epithelium is intestinal metaplasia.",
+    "whyCorrect": "Chronic acid exposure drives metaplasia of squamous to columnar epithelium with goblet cells (Barrett esophagus), which increases the risk of esophageal adenocarcinoma.",
+    "whyWrongByChoice": {
+     "B": "Squamous cell carcinoma shows malignant squamous cells, not benign columnar metaplasia with goblet cells.",
+     "C": "Achalasia is a motility disorder from loss of myenteric neurons, not an epithelial metaplasia.",
+     "D": "The normal gastroesophageal junction shows an abrupt squamous-to-gastric-columnar transition without intestinal goblet cells.",
+     "E": "Eosinophilic esophagitis shows eosinophil infiltration of squamous epithelium, not columnar goblet-cell metaplasia."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "esophagus",
+    "Barrett",
+    "metaplasia",
+    "GEJ"
+   ]
+  },
+  {
+   "id": "histology-gi-tract-004",
+   "topicId": "histology-gi-tract",
+   "topicName": "Histology of the Gastrointestinal Tract",
+   "stem": "At the gastroesophageal junction, the epithelium changes abruptly at a landmark visible on endoscopy as the Z line. This transition is best described as a change from:",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Simple columnar to stratified squamous epithelium"
+    },
+    {
+     "label": "B",
+     "text": "Pseudostratified columnar to simple squamous epithelium"
+    },
+    {
+     "label": "C",
+     "text": "Transitional to simple columnar epithelium"
+    },
+    {
+     "label": "D",
+     "text": "Simple cuboidal to stratified squamous epithelium"
+    },
+    {
+     "label": "E",
+     "text": "Stratified squamous to simple columnar epithelium"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "The Z line marks the esophageal squamous to gastric columnar transition.",
+    "whyCorrect": "Moving from esophagus to stomach, protective stratified squamous epithelium abruptly becomes gastric simple columnar epithelium at the Z line.",
+    "whyWrongByChoice": {
+     "A": "This is the reverse direction; the change is squamous to columnar as one enters the stomach.",
+     "B": "Neither pseudostratified columnar nor simple squamous epithelium lines the esophagus or gastric surface here.",
+     "C": "Transitional epithelium is not present in the GI tract.",
+     "D": "The esophageal surface is stratified squamous, not simple cuboidal, and the direction is reversed."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "GEJ",
+    "Z-line",
+    "epithelial-transition"
+   ]
+  },
+  {
+   "id": "histology-gi-tract-005",
+   "topicId": "histology-gi-tract",
+   "topicName": "Histology of the Gastrointestinal Tract",
+   "stem": "A gastric body biopsy shows deep glands containing numerous large, rounded cells with abundant eosinophilic (pink) cytoplasm and a central nucleus. These cells secrete hydrochloric acid and intrinsic factor. Which cell type is described?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Chief cell"
+    },
+    {
+     "label": "B",
+     "text": "Goblet cell"
+    },
+    {
+     "label": "C",
+     "text": "Parietal cell"
+    },
+    {
+     "label": "D",
+     "text": "G cell"
+    },
+    {
+     "label": "E",
+     "text": "Paneth cell"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "Eosinophilic acid- and intrinsic-factor-secreting gastric cells are parietal cells.",
+    "whyCorrect": "Parietal cells of the gastric body/fundus appear strongly eosinophilic because of abundant mitochondria and secrete HCl and intrinsic factor.",
+    "whyWrongByChoice": {
+     "A": "Chief cells are basophilic and secrete pepsinogen, not acid or intrinsic factor.",
+     "B": "Goblet cells secrete mucus and are found in the intestine, not the gastric body glands.",
+     "D": "G cells are enteroendocrine cells of the antrum that secrete gastrin, not acid.",
+     "E": "Paneth cells reside at the base of intestinal crypts and secrete antimicrobial products."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "stomach",
+    "parietal-cell",
+    "cell-ID"
+   ]
+  },
+  {
+   "id": "histology-gi-tract-006",
+   "topicId": "histology-gi-tract",
+   "topicName": "Histology of the Gastrointestinal Tract",
+   "stem": "A gastric fundic gland biopsy shows cells in the deeper portion of the gland with basophilic (blue) cytoplasm and abundant apical zymogen granules. Which secretory product do these cells release?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Hydrochloric acid"
+    },
+    {
+     "label": "B",
+     "text": "Bicarbonate-rich mucus"
+    },
+    {
+     "label": "C",
+     "text": "Gastrin"
+    },
+    {
+     "label": "D",
+     "text": "Intrinsic factor"
+    },
+    {
+     "label": "E",
+     "text": "Pepsinogen"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "Basophilic zymogen-rich gastric cells are chief cells that secrete pepsinogen.",
+    "whyCorrect": "Chief cells contain rough endoplasmic reticulum (basophilia) and apical zymogen granules, and they secrete pepsinogen, which is activated to pepsin in acid.",
+    "whyWrongByChoice": {
+     "A": "Hydrochloric acid is secreted by eosinophilic parietal cells, not basophilic chief cells.",
+     "B": "Bicarbonate-rich mucus is secreted by duodenal Brunner glands, not gastric chief cells.",
+     "C": "Gastrin is secreted by antral G cells, an enteroendocrine population.",
+     "D": "Intrinsic factor is a parietal cell product."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "stomach",
+    "chief-cell",
+    "pepsinogen"
+   ]
+  },
+  {
+   "id": "histology-gi-tract-007",
+   "topicId": "histology-gi-tract",
+   "topicName": "Histology of the Gastrointestinal Tract",
+   "stem": "A patient with a gastrin-secreting tumor has elevated serum gastrin. The hormone-producing cells that are the normal source of gastrin are located predominantly in which gastric region?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Antrum"
+    },
+    {
+     "label": "B",
+     "text": "Fundus"
+    },
+    {
+     "label": "C",
+     "text": "Body"
+    },
+    {
+     "label": "D",
+     "text": "Cardia"
+    },
+    {
+     "label": "E",
+     "text": "Pylorus of the duodenum"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "Gastrin-secreting G cells reside chiefly in the gastric antrum.",
+    "whyCorrect": "G cells are enteroendocrine cells concentrated in the antral mucosa where they release gastrin to stimulate acid secretion.",
+    "whyWrongByChoice": {
+     "B": "The fundus contains acid-secreting parietal and pepsinogen-secreting chief cells, not the main G cell population.",
+     "C": "The body, like the fundus, is dominated by parietal and chief cells rather than G cells.",
+     "D": "The cardia is a transitional mucus-secreting region and is not the principal site of gastrin production.",
+     "E": "The duodenal pylorus is not a gastric region; gastrin's main gastric source is the antrum."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "stomach",
+    "G-cell",
+    "gastrin",
+    "antrum"
+   ]
+  },
+  {
+   "id": "histology-gi-tract-008",
+   "topicId": "histology-gi-tract",
+   "topicName": "Histology of the Gastrointestinal Tract",
+   "stem": "A duodenal biopsy shows finger-like villi, crypts of Lieberkuhn, and prominent coiled mucous glands located within the submucosa that secrete a bicarbonate-rich, alkaline product. Which structures are these submucosal glands?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Peyer patches"
+    },
+    {
+     "label": "B",
+     "text": "Gastric glands"
+    },
+    {
+     "label": "C",
+     "text": "Crypts of Lieberkuhn"
+    },
+    {
+     "label": "D",
+     "text": "Brunner glands"
+    },
+    {
+     "label": "E",
+     "text": "Rugae"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "Submucosal alkaline mucous glands unique to the duodenum are Brunner glands.",
+    "whyCorrect": "Brunner glands lie in the duodenal submucosa and secrete bicarbonate-rich mucus that neutralizes acidic chyme entering from the stomach; they are the hallmark of the duodenum.",
+    "whyWrongByChoice": {
+     "A": "Peyer patches are lymphoid aggregates of the ileum, not bicarbonate-secreting submucosal glands.",
+     "B": "Gastric glands are in the stomach mucosa, not the duodenal submucosa.",
+     "C": "Crypts of Lieberkuhn are mucosal invaginations, not submucosal glands, and do not secrete bicarbonate mucus.",
+     "E": "Rugae are folds of the empty stomach wall, not glands."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "duodenum",
+    "Brunner-glands",
+    "small-intestine"
+   ]
+  },
+  {
+   "id": "histology-gi-tract-009",
+   "topicId": "histology-gi-tract",
+   "topicName": "Histology of the Gastrointestinal Tract",
+   "stem": "A section of small intestine demonstrates large circular folds formed by the mucosa AND submucosa that project into the lumen to increase absorptive surface area. These folds are most concentrated in the jejunum. What are they called?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Villi"
+    },
+    {
+     "label": "B",
+     "text": "Haustra"
+    },
+    {
+     "label": "C",
+     "text": "Microvilli"
+    },
+    {
+     "label": "D",
+     "text": "Rugae"
+    },
+    {
+     "label": "E",
+     "text": "Plicae circulares"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "Submucosal circular folds of the small intestine are plicae circulares.",
+    "whyCorrect": "Plicae circulares are permanent circular folds involving the submucosa, most prominent in the jejunum, that greatly increase surface area for absorption.",
+    "whyWrongByChoice": {
+     "A": "Villi are mucosal projections only and do not involve the submucosa.",
+     "B": "Haustra are sacculations of the colon produced by the teniae coli, not small intestinal folds.",
+     "C": "Microvilli are microscopic apical projections of enterocytes forming the brush border, not gross folds.",
+     "D": "Rugae are gastric folds that flatten when the stomach fills."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "small-intestine",
+    "plicae-circulares",
+    "jejunum",
+    "surface-area"
+   ]
+  },
+  {
+   "id": "histology-gi-tract-010",
+   "topicId": "histology-gi-tract",
+   "topicName": "Histology of the Gastrointestinal Tract",
+   "stem": "High-magnification histology of the intestinal surface shows tall columnar absorptive cells whose apical membranes bear a dense array of uniform projections forming a striated brush border. What are these apical projections?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Cilia"
+    },
+    {
+     "label": "B",
+     "text": "Villi"
+    },
+    {
+     "label": "C",
+     "text": "Stereocilia"
+    },
+    {
+     "label": "D",
+     "text": "Microvilli"
+    },
+    {
+     "label": "E",
+     "text": "Plicae circulares"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "The enterocyte brush border is composed of microvilli.",
+    "whyCorrect": "Microvilli are actin-cored apical membrane projections of enterocytes that form the brush border and dramatically increase absorptive surface area.",
+    "whyWrongByChoice": {
+     "A": "Cilia are longer, motile, and axoneme-based; they are not the intestinal brush border.",
+     "B": "Villi are much larger multicellular mucosal projections, not the apical border of a single cell.",
+     "C": "Stereocilia are found in the epididymis and inner ear, not the intestinal brush border.",
+     "E": "Plicae circulares are gross submucosal folds, not microscopic apical projections."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "small-intestine",
+    "microvilli",
+    "brush-border",
+    "enterocyte"
+   ]
+  },
+  {
+   "id": "histology-gi-tract-011",
+   "topicId": "histology-gi-tract",
+   "topicName": "Histology of the Gastrointestinal Tract",
+   "stem": "At the base of the crypts of Lieberkuhn, a biopsy shows cells with prominent, brightly eosinophilic apical granules. These cells secrete defensins, lysozyme, and phospholipase A2. Which cell type is this?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Paneth cell"
+    },
+    {
+     "label": "B",
+     "text": "Goblet cell"
+    },
+    {
+     "label": "C",
+     "text": "Enteroendocrine cell"
+    },
+    {
+     "label": "D",
+     "text": "Parietal cell"
+    },
+    {
+     "label": "E",
+     "text": "Enterocyte"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "Eosinophilic-granule antimicrobial cells at the crypt base are Paneth cells.",
+    "whyCorrect": "Paneth cells reside at the base of the crypts of Lieberkuhn and secrete defensins, lysozyme, and phospholipase A2 as part of innate mucosal defense.",
+    "whyWrongByChoice": {
+     "B": "Goblet cells secrete mucus and appear as clear, pale cups, not eosinophilic-granule cells.",
+     "C": "Enteroendocrine cells secrete hormones and lack the prominent apical eosinophilic granules of Paneth cells.",
+     "D": "Parietal cells are in the gastric body, not intestinal crypts.",
+     "E": "Enterocytes are absorptive brush-border cells and do not carry antimicrobial granules."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "small-intestine",
+    "Paneth-cell",
+    "crypts",
+    "cell-ID"
+   ]
+  },
+  {
+   "id": "histology-gi-tract-012",
+   "topicId": "histology-gi-tract",
+   "topicName": "Histology of the Gastrointestinal Tract",
+   "stem": "Stem cells located within the crypts of Lieberkuhn continuously regenerate the intestinal epithelium. These stem cells give rise to how many differentiated cell types, and which set is correct?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Two: parietal and chief cells"
+    },
+    {
+     "label": "B",
+     "text": "Three: goblet, Paneth, and parietal cells"
+    },
+    {
+     "label": "C",
+     "text": "Four: enterocytes, goblet, Paneth, and enteroendocrine cells"
+    },
+    {
+     "label": "D",
+     "text": "Four: enterocytes, parietal, chief, and G cells"
+    },
+    {
+     "label": "E",
+     "text": "Five: enterocytes, goblet, Paneth, parietal, and chief cells"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "Intestinal crypt stem cells generate four cell types.",
+    "whyCorrect": "Crypt stem cells differentiate into enterocytes (absorptive), goblet cells (mucus), Paneth cells (antimicrobial), and enteroendocrine cells (hormones).",
+    "whyWrongByChoice": {
+     "A": "Parietal and chief cells are gastric, not products of intestinal crypt stem cells.",
+     "B": "Parietal cells are gastric; the intestinal set includes enteroendocrine cells, not parietal cells.",
+     "D": "Parietal, chief, and G cells are gastric cell types, not the intestinal lineage.",
+     "E": "Parietal and chief cells belong to the stomach and are not derived from intestinal crypts."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "small-intestine",
+    "crypt-stem-cells",
+    "cell-lineage"
+   ]
+  },
+  {
+   "id": "histology-gi-tract-013",
+   "topicId": "histology-gi-tract",
+   "topicName": "Histology of the Gastrointestinal Tract",
+   "stem": "A biopsy taken from the terminal ileum shows prominent aggregates of lymphoid follicles spanning the lamina propria and submucosa, with an overlying specialized epithelium. These lymphoid aggregates are characteristic of which region and are called what?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Brunner glands of the duodenum"
+    },
+    {
+     "label": "B",
+     "text": "Peyer patches of the ileum"
+    },
+    {
+     "label": "C",
+     "text": "Rugae of the stomach"
+    },
+    {
+     "label": "D",
+     "text": "Haustra of the colon"
+    },
+    {
+     "label": "E",
+     "text": "Plicae circulares of the jejunum"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "Lymphoid aggregates in the ileal wall are Peyer patches.",
+    "whyCorrect": "Peyer patches are lymphoid follicle aggregates in the mucosa and submucosa of the ileum that provide immune surveillance of luminal contents.",
+    "whyWrongByChoice": {
+     "A": "Brunner glands are bicarbonate-secreting submucosal glands of the duodenum, not lymphoid tissue.",
+     "C": "Rugae are gastric mucosal folds, not lymphoid aggregates.",
+     "D": "Haustra are colonic sacculations, not lymphoid follicles.",
+     "E": "Plicae circulares are submucosal folds of the jejunum, not lymphoid aggregates."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "ileum",
+    "Peyer-patches",
+    "lymphoid",
+    "small-intestine"
+   ]
+  },
+  {
+   "id": "histology-gi-tract-014",
+   "topicId": "histology-gi-tract",
+   "topicName": "Histology of the Gastrointestinal Tract",
+   "stem": "A colon biopsy is compared with a small intestine biopsy. Which histologic feature most reliably identifies the specimen as large intestine rather than small intestine?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Presence of tall finger-like villi"
+    },
+    {
+     "label": "B",
+     "text": "Presence of Brunner glands in the submucosa"
+    },
+    {
+     "label": "C",
+     "text": "Absence of villi with crypts rich in goblet cells"
+    },
+    {
+     "label": "D",
+     "text": "Presence of Peyer patches"
+    },
+    {
+     "label": "E",
+     "text": "Presence of plicae circulares"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "The colon lacks villi and has goblet-cell-rich crypts.",
+    "whyCorrect": "The large intestine has a flat mucosal surface without villi and straight crypts of Lieberkuhn packed with goblet cells for lubrication of forming feces.",
+    "whyWrongByChoice": {
+     "A": "Villi are a feature of the small intestine and are absent in the colon.",
+     "B": "Brunner glands are specific to the duodenum, not the colon.",
+     "D": "Peyer patches are most prominent in the ileum of the small intestine.",
+     "E": "Plicae circulares are folds of the small intestine, not the colon."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "large-intestine",
+    "colon",
+    "goblet-cells",
+    "region-ID"
+   ]
+  },
+  {
+   "id": "histology-gi-tract-015",
+   "topicId": "histology-gi-tract",
+   "topicName": "Histology of the Gastrointestinal Tract",
+   "stem": "During surgery, a segment of retroperitoneal GI tract is examined. Its outermost layer is composed of loose connective tissue that blends with surrounding tissues rather than being covered by a smooth mesothelial lining. This outer layer is best termed:",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Serosa"
+    },
+    {
+     "label": "B",
+     "text": "Adventitia"
+    },
+    {
+     "label": "C",
+     "text": "Muscularis propria"
+    },
+    {
+     "label": "D",
+     "text": "Muscularis mucosae"
+    },
+    {
+     "label": "E",
+     "text": "Submucosa"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "Retroperitoneal GI segments have an adventitia rather than a serosa.",
+    "whyCorrect": "Adventitia is loose connective tissue that anchors retroperitoneal organs to surrounding structures; it lacks the mesothelial covering of a serosa.",
+    "whyWrongByChoice": {
+     "A": "A serosa (mesothelium-covered) surrounds intraperitoneal organs, not retroperitoneal ones.",
+     "C": "The muscularis propria is the smooth muscle layer beneath the outer coat, not the outermost connective tissue.",
+     "D": "The muscularis mucosae is a thin muscle layer within the mucosa, deep to the outer wall.",
+     "E": "The submucosa is an inner connective tissue layer, not the outermost coat."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "serosa",
+    "adventitia",
+    "wall-layers",
+    "retroperitoneal"
+   ]
+  },
+  {
+   "id": "histology-gi-tract-016",
+   "topicId": "histology-gi-tract",
+   "topicName": "Histology of the Gastrointestinal Tract",
+   "stem": "A patient with Hirschsprung disease lacks ganglion cells of the enteric nervous system in the distal colon. The plexus of autonomic ganglia that normally lies BETWEEN the inner circular and outer longitudinal smooth muscle layers, controlling motility, is the:",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Submucosal (Meissner) plexus"
+    },
+    {
+     "label": "B",
+     "text": "Serosal plexus"
+    },
+    {
+     "label": "C",
+     "text": "Lamina propria"
+    },
+    {
+     "label": "D",
+     "text": "Muscularis mucosae"
+    },
+    {
+     "label": "E",
+     "text": "Myenteric (Auerbach) plexus"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "The myenteric (Auerbach) plexus lies between the muscularis propria's two muscle layers.",
+    "whyCorrect": "The myenteric plexus sits in connective tissue between the inner circular and outer longitudinal muscle layers and primarily regulates gut motility.",
+    "whyWrongByChoice": {
+     "A": "The submucosal (Meissner) plexus lies in the submucosa and mainly controls secretion and local blood flow, not the location described.",
+     "B": "There is no distinct 'serosal plexus' controlling motility between the muscle layers.",
+     "C": "The lamina propria is loose connective tissue of the mucosa, not an intermuscular plexus.",
+     "D": "The muscularis mucosae is a thin muscle layer of the mucosa, not a nerve plexus."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "plexus",
+    "myenteric",
+    "Auerbach",
+    "muscularis-propria",
+    "motility"
+   ]
+  },
+  {
+   "id": "histology-gi-tract-017",
+   "topicId": "histology-gi-tract",
+   "topicName": "Histology of the Gastrointestinal Tract",
+   "stem": "A biopsy of the submucosa demonstrates a network of parasympathetic ganglion cells and nerve fibers that regulate mucosal secretion and local blood flow. This plexus is correctly identified as the:",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Myenteric (Auerbach) plexus"
+    },
+    {
+     "label": "B",
+     "text": "Submucosal (Meissner) plexus"
+    },
+    {
+     "label": "C",
+     "text": "Celiac plexus"
+    },
+    {
+     "label": "D",
+     "text": "Muscularis mucosae"
+    },
+    {
+     "label": "E",
+     "text": "Subserosal plexus"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "The plexus within the submucosa is the Meissner (submucosal) plexus.",
+    "whyCorrect": "The submucosal (Meissner) plexus lies in the submucosa and modulates local secretion, absorption, and mucosal blood flow.",
+    "whyWrongByChoice": {
+     "A": "The myenteric plexus lies between the muscle layers of the muscularis propria, not in the submucosa.",
+     "C": "The celiac plexus is a prevertebral sympathetic ganglion outside the gut wall, not within the submucosa.",
+     "D": "The muscularis mucosae is a muscle layer, not a nerve plexus.",
+     "E": "A distinct subserosal secretory plexus is not the structure described here."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "plexus",
+    "submucosal",
+    "Meissner",
+    "submucosa"
+   ]
+  },
+  {
+   "id": "histology-gi-tract-018",
+   "topicId": "histology-gi-tract",
+   "topicName": "Histology of the Gastrointestinal Tract",
+   "stem": "A 75-year-old man's colon adenocarcinoma is reported as T2 stage. The pathologist explains this reflects the depth of tumor invasion. Invasion into which wall layer specifically defines T2 stage?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Mucosa only"
+    },
+    {
+     "label": "B",
+     "text": "Submucosa only"
+    },
+    {
+     "label": "C",
+     "text": "Through the serosa into adjacent organs"
+    },
+    {
+     "label": "D",
+     "text": "Muscularis propria"
+    },
+    {
+     "label": "E",
+     "text": "Lamina propria only"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "T2 colon cancer is defined by invasion into the muscularis propria.",
+    "whyCorrect": "Colorectal cancer staging is based on depth of invasion; T2 denotes tumor extension into (but not beyond) the muscularis propria.",
+    "whyWrongByChoice": {
+     "A": "Tumor confined to the mucosa corresponds to earlier (Tis/T1-related) findings, not T2.",
+     "B": "Invasion limited to the submucosa is T1, not T2.",
+     "C": "Extension through the serosa into adjacent organs corresponds to more advanced T4 disease.",
+     "E": "Involvement limited to the lamina propria is an early, superficial finding, not T2."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "colon",
+    "staging",
+    "muscularis-propria",
+    "clinical"
+   ]
+  },
+  {
+   "id": "histology-gi-tract-019",
+   "topicId": "histology-gi-tract",
+   "topicName": "Histology of the Gastrointestinal Tract",
+   "stem": "A biopsy at the anorectal junction shows the mucosa transitioning from one epithelium to another as it approaches the anal verge. Which epithelial transition characterizes this junction?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Simple columnar transitioning to stratified squamous epithelium"
+    },
+    {
+     "label": "B",
+     "text": "Stratified squamous transitioning to transitional epithelium"
+    },
+    {
+     "label": "C",
+     "text": "Simple cuboidal transitioning to simple columnar epithelium"
+    },
+    {
+     "label": "D",
+     "text": "Pseudostratified columnar transitioning to simple squamous epithelium"
+    },
+    {
+     "label": "E",
+     "text": "Simple squamous transitioning to stratified columnar epithelium"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "The anorectal junction changes from columnar to stratified squamous epithelium.",
+    "whyCorrect": "The rectal simple columnar epithelium transitions to protective stratified squamous epithelium near the anus, suited to abrasion and the forces of defecation.",
+    "whyWrongByChoice": {
+     "B": "Transitional epithelium is a urinary tract feature, not found at the anorectal junction.",
+     "C": "The transition is columnar to squamous, not cuboidal to columnar.",
+     "D": "Neither pseudostratified columnar nor simple squamous epithelium describes this junction.",
+     "E": "Stratified columnar epithelium is not the protective lining that appears at the anus; the correct change is to stratified squamous."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "anus",
+    "anorectal-junction",
+    "epithelial-transition"
+   ]
+  },
+  {
+   "id": "histology-gi-tract-020",
+   "topicId": "histology-gi-tract",
+   "topicName": "Histology of the Gastrointestinal Tract",
+   "stem": "A biopsy shows a tubular structure whose mucosa resembles colon (crypts, goblet cells, no villi) but is distinguished by abundant lymphoid follicles that expand the lamina propria and often obliterate the muscularis mucosae, extending into the submucosa. From which structure was this specimen most likely taken?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Jejunum"
+    },
+    {
+     "label": "B",
+     "text": "Gastric antrum"
+    },
+    {
+     "label": "C",
+     "text": "Esophagus"
+    },
+    {
+     "label": "D",
+     "text": "Appendix"
+    },
+    {
+     "label": "E",
+     "text": "Duodenum"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "Colon-like mucosa with dense lymphoid tissue identifies the appendix.",
+    "whyCorrect": "The appendix has a colon-like mucosa but is notable for prominent lymphoid follicles that expand the lamina propria and frequently disrupt the muscularis mucosae into the submucosa.",
+    "whyWrongByChoice": {
+     "A": "The jejunum has tall villi and plicae circulares, not colon-like crypts with abundant lymphoid nodules obliterating the muscularis mucosae.",
+     "B": "The gastric antrum has gastric pits and glands, not colonic crypts with goblet cells.",
+     "C": "The esophagus is lined by stratified squamous epithelium, unlike the described columnar crypt mucosa.",
+     "E": "The duodenum has villi and Brunner glands, distinguishing it from the villus-free, lymphoid-rich appendix."
+    }
+   },
+   "difficulty": "hard",
+   "imageRef": null,
+   "tags": [
+    "appendix",
+    "lymphoid",
+    "region-ID",
+    "colon-like"
+   ]
+  },
+  {
+   "id": "oral-region-anatomy-001",
+   "topicId": "oral-region-anatomy",
+   "topicName": "Gross Anatomy and Histology of the Oral Region",
+   "stem": "A 55-year-old man undergoes a biopsy of a salivary gland mass located just anterior to the ear and overlying the masseter muscle. Histology of adjacent normal tissue shows acini composed entirely of cells with dark, granular basophilic cytoplasm and no mucous cells. Which gland was biopsied, and what is its principal secretory product?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Sublingual gland; predominantly mucus"
+    },
+    {
+     "label": "B",
+     "text": "Parotid gland; serous secretion rich in amylase"
+    },
+    {
+     "label": "C",
+     "text": "Submandibular gland; mixed sero-mucous secretion"
+    },
+    {
+     "label": "D",
+     "text": "Minor palatal gland; predominantly mucus"
+    },
+    {
+     "label": "E",
+     "text": "Submandibular gland; predominantly serous secretion"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "The parotid is a purely serous gland producing amylase.",
+    "whyCorrect": "The parotid gland lies over the masseter anterior to the ear and consists entirely of serous acini with dark granular cytoplasm that secrete amylase.",
+    "whyWrongByChoice": {
+     "A": "The sublingual gland is predominantly mucous and lies in the floor of the mouth, not over the masseter.",
+     "C": "The submandibular gland is mixed sero-mucous, but the purely serous histology described is parotid.",
+     "D": "Minor palatal glands are mucous and are not located over the masseter.",
+     "E": "The submandibular gland is mixed, not predominantly serous, and lies below the mandible."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "salivary-glands",
+    "parotid",
+    "histology"
+   ]
+  },
+  {
+   "id": "oral-region-anatomy-002",
+   "topicId": "oral-region-anatomy",
+   "topicName": "Gross Anatomy and Histology of the Oral Region",
+   "stem": "A 62-year-old woman with a skull-base tumor is asked to protrude her tongue. The tongue deviates to the right on protrusion. There is no uvular deviation and palatal elevation is symmetric. A lesion of which nerve on which side best explains this finding?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Right hypoglossal nerve (CN XII)"
+    },
+    {
+     "label": "B",
+     "text": "Left hypoglossal nerve (CN XII)"
+    },
+    {
+     "label": "C",
+     "text": "Right vagus nerve (CN X)"
+    },
+    {
+     "label": "D",
+     "text": "Left lingual nerve (CN V3)"
+    },
+    {
+     "label": "E",
+     "text": "Right glossopharyngeal nerve (CN IX)"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "CN XII injury causes tongue deviation toward the lesioned side.",
+    "whyCorrect": "The genioglossus protrudes the tongue; with a right CN XII lesion, the weak right genioglossus cannot counter the intact left muscle, so the tongue deviates toward the lesion (right).",
+    "whyWrongByChoice": {
+     "B": "A left CN XII lesion would deviate the tongue to the left, not the right.",
+     "C": "CN X controls the palate and pharynx; a lesion would cause uvular deviation, which is absent here.",
+     "D": "The lingual nerve is sensory to the anterior tongue and would not cause motor deviation.",
+     "E": "CN IX supplies posterior tongue sensation/taste and stylopharyngeus, not genioglossus."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "tongue",
+    "hypoglossal-nerve",
+    "cranial-nerve-lesion"
+   ]
+  },
+  {
+   "id": "oral-region-anatomy-003",
+   "topicId": "oral-region-anatomy",
+   "topicName": "Gross Anatomy and Histology of the Oral Region",
+   "stem": "An 18-year-old develops rapidly spreading swelling of the floor of the mouth after a lower molar infection, with elevation of the tongue and difficulty breathing (Ludwig's angina). Which muscle forms the partition that infection must cross to spread from the sublingual space into the submandibular space and neck?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Buccinator"
+    },
+    {
+     "label": "B",
+     "text": "Genioglossus"
+    },
+    {
+     "label": "C",
+     "text": "Mylohyoid"
+    },
+    {
+     "label": "D",
+     "text": "Palatoglossus"
+    },
+    {
+     "label": "E",
+     "text": "Orbicularis oris"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "The mylohyoid forms the muscular floor of the mouth separating sublingual and submandibular spaces.",
+    "whyCorrect": "The mylohyoid is a thin sheet forming the floor of the mouth; it partitions the sublingual space above from the submandibular space below, and infection crossing it spreads into deep cervical spaces.",
+    "whyWrongByChoice": {
+     "A": "The buccinator is the cheek muscle keeping food between the teeth, not the floor of the mouth.",
+     "B": "The genioglossus is a tongue protruder, not the boundary between these spaces.",
+     "D": "The palatoglossus elevates the posterior tongue and forms the anterior tonsillar pillar.",
+     "E": "The orbicularis oris is the lip sphincter, unrelated to floor-of-mouth compartments."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "floor-of-mouth",
+    "mylohyoid",
+    "ludwigs-angina"
+   ]
+  },
+  {
+   "id": "oral-region-anatomy-004",
+   "topicId": "oral-region-anatomy",
+   "topicName": "Gross Anatomy and Histology of the Oral Region",
+   "stem": "During a difficult lower third-molar extraction, a nerve running in the floor of the mouth is injured. The patient reports numbness (loss of touch and temperature) over the anterior two-thirds of the tongue on that side, but taste on that side is preserved. Which nerve was injured?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Chorda tympani"
+    },
+    {
+     "label": "B",
+     "text": "Glossopharyngeal nerve (CN IX)"
+    },
+    {
+     "label": "C",
+     "text": "Hypoglossal nerve (CN XII)"
+    },
+    {
+     "label": "D",
+     "text": "Lingual nerve (branch of CN V3)"
+    },
+    {
+     "label": "E",
+     "text": "Facial nerve main trunk (CN VII)"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "The lingual nerve carries general sensation from the anterior two-thirds of the tongue.",
+    "whyCorrect": "General sensation (touch, temperature) of the anterior two-thirds is carried by the lingual nerve, a branch of CN V3. Isolated lingual nerve injury distal to where chorda tympani joins can spare taste while abolishing general sensation.",
+    "whyWrongByChoice": {
+     "A": "The chorda tympani carries taste; its injury would impair taste, but taste is preserved here.",
+     "B": "CN IX supplies the posterior one-third, not the anterior two-thirds.",
+     "C": "CN XII is purely motor to tongue muscles and does not carry tongue sensation.",
+     "E": "The facial nerve main trunk supplies facial muscles; taste fibers travel via chorda tympani, and taste is intact."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "tongue",
+    "lingual-nerve",
+    "innervation"
+   ]
+  },
+  {
+   "id": "oral-region-anatomy-005",
+   "topicId": "oral-region-anatomy",
+   "topicName": "Gross Anatomy and Histology of the Oral Region",
+   "stem": "A medical student is memorizing tongue muscle innervation. All the extrinsic and intrinsic tongue muscles share a common motor nerve except for one, which is supplied by a different cranial nerve. Which muscle is the exception, and which nerve supplies it?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Genioglossus; glossopharyngeal nerve (CN IX)"
+    },
+    {
+     "label": "B",
+     "text": "Hyoglossus; lingual nerve (CN V3)"
+    },
+    {
+     "label": "C",
+     "text": "Styloglossus; facial nerve (CN VII)"
+    },
+    {
+     "label": "D",
+     "text": "Genioglossus; vagus nerve (CN X)"
+    },
+    {
+     "label": "E",
+     "text": "Palatoglossus; vagus nerve (CN X)"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "The palatoglossus is the only tongue muscle not supplied by CN XII; it is supplied by CN X.",
+    "whyCorrect": "All tongue muscles are innervated by the hypoglossal nerve except the palatoglossus, which is a palatal muscle supplied by the vagus nerve (CN X).",
+    "whyWrongByChoice": {
+     "A": "The genioglossus is supplied by CN XII, not CN IX.",
+     "B": "The hyoglossus is a CN XII muscle; the lingual nerve is sensory.",
+     "C": "The styloglossus is supplied by CN XII, not CN VII.",
+     "D": "The genioglossus is a CN XII muscle, not CN X."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "tongue-muscles",
+    "palatoglossus",
+    "innervation"
+   ]
+  },
+  {
+   "id": "oral-region-anatomy-006",
+   "topicId": "oral-region-anatomy",
+   "topicName": "Gross Anatomy and Histology of the Oral Region",
+   "stem": "A patient with recurrent parotid swelling undergoes sialography. To cannulate the parotid (Stensen's) duct, the clinician places a probe at its orifice in the oral vestibule. Adjacent to which structure does the parotid duct open?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "The sublingual caruncle beside the lingual frenulum"
+    },
+    {
+     "label": "B",
+     "text": "The buccal mucosa opposite the maxillary second molar"
+    },
+    {
+     "label": "C",
+     "text": "The incisive papilla behind the maxillary central incisors"
+    },
+    {
+     "label": "D",
+     "text": "The floor of the mouth lateral to the tongue"
+    },
+    {
+     "label": "E",
+     "text": "The retromolar trigone behind the mandibular third molar"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "The parotid duct opens into the vestibule opposite the maxillary second molar.",
+    "whyCorrect": "Stensen's duct pierces the buccinator and opens onto the buccal mucosa of the oral vestibule opposite the maxillary second molar.",
+    "whyWrongByChoice": {
+     "A": "The sublingual caruncle is where the submandibular duct opens, not the parotid duct.",
+     "C": "The incisive papilla overlies the incisive foramen and is not a salivary duct orifice.",
+     "D": "Sublingual ducts open along the floor of the mouth, not the parotid duct.",
+     "E": "The retromolar trigone is not the site of the parotid duct orifice."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "parotid-duct",
+    "stensens-duct",
+    "oral-vestibule"
+   ]
+  },
+  {
+   "id": "oral-region-anatomy-007",
+   "topicId": "oral-region-anatomy",
+   "topicName": "Gross Anatomy and Histology of the Oral Region",
+   "stem": "A child with a repaired cleft palate has hypernasal speech and nasal regurgitation of liquids during swallowing. These symptoms result from failure of a structure that normally elevates to seal off one region from another during swallowing. Which structure and action is defective?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Soft palate elevation to close off the nasopharynx"
+    },
+    {
+     "label": "B",
+     "text": "Epiglottis folding to close the laryngeal inlet"
+    },
+    {
+     "label": "C",
+     "text": "Genioglossus contraction to protrude the tongue"
+    },
+    {
+     "label": "D",
+     "text": "Buccinator contraction to compress the cheeks"
+    },
+    {
+     "label": "E",
+     "text": "Mylohyoid elevation to raise the floor of the mouth"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "Soft palate elevation closes the nasopharynx during swallowing; failure causes hypernasal speech and nasal regurgitation.",
+    "whyCorrect": "During swallowing the soft palate elevates and contacts the posterior pharyngeal wall to seal the nasopharynx. Inadequate elevation (velopharyngeal insufficiency) allows air and liquid to escape into the nose, producing hypernasal speech and nasal regurgitation.",
+    "whyWrongByChoice": {
+     "B": "The epiglottis protects the airway from aspiration, not nasal regurgitation or nasal air escape.",
+     "C": "Genioglossus dysfunction affects tongue protrusion, not nasopharyngeal sealing.",
+     "D": "The buccinator positions food between the teeth and does not seal the nasopharynx.",
+     "E": "Mylohyoid elevation raises the tongue/floor but does not close the nasopharynx."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "soft-palate",
+    "swallowing",
+    "velopharyngeal"
+   ]
+  },
+  {
+   "id": "oral-region-anatomy-008",
+   "topicId": "oral-region-anatomy",
+   "topicName": "Gross Anatomy and Histology of the Oral Region",
+   "stem": "A histologist examines the dorsal surface of the tongue. She identifies the most numerous papillae, which give the surface a velvety texture, provide friction for manipulating food, but contain no taste buds. Which papillae are these?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Fungiform papillae"
+    },
+    {
+     "label": "B",
+     "text": "Circumvallate papillae"
+    },
+    {
+     "label": "C",
+     "text": "Filiform papillae"
+    },
+    {
+     "label": "D",
+     "text": "Foliate papillae"
+    },
+    {
+     "label": "E",
+     "text": "Lingual tonsillar crypts"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "Filiform papillae are the most numerous and lack taste buds.",
+    "whyCorrect": "Filiform papillae are the most numerous and cover the dorsum, providing a mechanical, abrasive function; they contain no taste buds.",
+    "whyWrongByChoice": {
+     "A": "Fungiform papillae are less numerous and do contain taste buds.",
+     "B": "Circumvallate papillae are large, arranged in a V anterior to the terminal sulcus, and bear taste buds.",
+     "D": "Foliate papillae are on the lateral tongue and contain taste buds.",
+     "E": "Lingual tonsillar crypts are lymphoid tissue of the posterior tongue, not papillae."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "tongue",
+    "papillae",
+    "histology"
+   ]
+  },
+  {
+   "id": "oral-region-anatomy-009",
+   "topicId": "oral-region-anatomy",
+   "topicName": "Gross Anatomy and Histology of the Oral Region",
+   "stem": "On oral examination, a clinician identifies the fauces, the opening through which the oral cavity communicates with the oropharynx. Between which two structures do the palatine tonsils lie within the tonsillar fossa?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "The vermilion border and the philtrum"
+    },
+    {
+     "label": "B",
+     "text": "The terminal sulcus and the foramen cecum"
+    },
+    {
+     "label": "C",
+     "text": "The sublingual folds and the caruncles"
+    },
+    {
+     "label": "D",
+     "text": "The palatoglossal and palatopharyngeal folds"
+    },
+    {
+     "label": "E",
+     "text": "The hard palate and the soft palate"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "The palatine tonsils lie in the tonsillar fossa between the palatoglossal and palatopharyngeal folds.",
+    "whyCorrect": "The fauces are bounded by the palatoglossal (anterior) and palatopharyngeal (posterior) arches, with the palatine tonsil in the fossa between them.",
+    "whyWrongByChoice": {
+     "A": "The vermilion border and philtrum are surface features of the lips, unrelated to the fauces.",
+     "B": "The terminal sulcus and foramen cecum are dorsal tongue landmarks.",
+     "C": "The sublingual folds and caruncles are in the floor of the mouth.",
+     "E": "The hard and soft palate form the roof of the mouth, not the tonsillar boundaries."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "fauces",
+    "palatine-tonsils",
+    "palate"
+   ]
+  },
+  {
+   "id": "oral-region-anatomy-010",
+   "topicId": "oral-region-anatomy",
+   "topicName": "Gross Anatomy and Histology of the Oral Region",
+   "stem": "A pathology resident examines a mixed salivary gland and notes crescent-shaped caps of serous cells applied to the outer surface of mucous acini. What is this structure called, and in which major gland is it most characteristically seen?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Myoepithelial basket; parotid gland"
+    },
+    {
+     "label": "B",
+     "text": "Intercalated duct; sublingual gland"
+    },
+    {
+     "label": "C",
+     "text": "Striated duct; parotid gland"
+    },
+    {
+     "label": "D",
+     "text": "Zymogen granule cluster; parotid gland"
+    },
+    {
+     "label": "E",
+     "text": "Serous demilune; submandibular gland"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "A serous demilune is a serous cap on mucous acini, typical of the mixed submandibular gland.",
+    "whyCorrect": "In mixed glands like the submandibular, serous cells form a crescent (demilune) capping the mucous acini, allowing serous secretions to drain through the mucous acinus.",
+    "whyWrongByChoice": {
+     "A": "Myoepithelial cells are contractile cells inside the basal lamina, not a serous cap.",
+     "B": "An intercalated duct is a cuboidal-lined initial duct segment, not a demilune.",
+     "C": "A striated duct is a columnar-lined intralobular duct, not a serous cap.",
+     "D": "Zymogen granules are secretory granules within serous cells, not the crescent structure."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "salivary-glands",
+    "serous-demilune",
+    "submandibular"
+   ]
+  },
+  {
+   "id": "oral-region-anatomy-011",
+   "topicId": "oral-region-anatomy",
+   "topicName": "Gross Anatomy and Histology of the Oral Region",
+   "stem": "A dental abscess of a mandibular molar leads to a rapidly spreading, life-threatening neck infection. Which anatomic feature of the floor of the mouth best explains why infection there can progress to airway compromise?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "The floor of the mouth lacks any blood supply, permitting bacterial overgrowth"
+    },
+    {
+     "label": "B",
+     "text": "The floor of the mouth is separated from the neck by a complete bony plate"
+    },
+    {
+     "label": "C",
+     "text": "The floor of the mouth is anatomically continuous with the submandibular and deep cervical spaces"
+    },
+    {
+     "label": "D",
+     "text": "The floor of the mouth contains only avascular lymphoid tissue"
+    },
+    {
+     "label": "E",
+     "text": "The floor of the mouth drains exclusively into the parotid duct system"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "The floor of the mouth communicates with the submandibular and deep cervical spaces, allowing rapid infection spread.",
+    "whyCorrect": "Because the sublingual/submandibular spaces are continuous with the deep cervical spaces, infection can extend into the neck, elevate the tongue, and threaten the airway (Ludwig's angina).",
+    "whyWrongByChoice": {
+     "A": "The floor of the mouth is highly vascular; it does not lack blood supply.",
+     "B": "It is separated from the submandibular space only by the muscular mylohyoid, not a complete bony plate.",
+     "D": "The region is muscular and vascular, not solely avascular lymphoid tissue.",
+     "E": "It drains via submandibular and sublingual ducts, not the parotid duct."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "floor-of-mouth",
+    "infection-spread",
+    "fascial-spaces"
+   ]
+  },
+  {
+   "id": "oral-region-anatomy-012",
+   "topicId": "oral-region-anatomy",
+   "topicName": "Gross Anatomy and Histology of the Oral Region",
+   "stem": "A histology section of a salivary gland shows plasma cells clustered in the connective tissue around small intralobular ducts. These cells secrete an antibody that is transported into saliva to provide mucosal immune defense. Which antibody is it?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Immunoglobulin A (IgA)"
+    },
+    {
+     "label": "B",
+     "text": "Immunoglobulin G (IgG)"
+    },
+    {
+     "label": "C",
+     "text": "Immunoglobulin M (IgM)"
+    },
+    {
+     "label": "D",
+     "text": "Immunoglobulin E (IgE)"
+    },
+    {
+     "label": "E",
+     "text": "Immunoglobulin D (IgD)"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "Plasma cells around salivary intralobular ducts secrete IgA for oral mucosal defense.",
+    "whyCorrect": "Secretory IgA produced by plasma cells around the ducts is transported across the duct epithelium into saliva, providing immunologic defense at the oral mucosal surface.",
+    "whyWrongByChoice": {
+     "B": "IgG is the main serum antibody but is not the predominant secretory antibody in saliva.",
+     "C": "IgM is a large early-response antibody, not the principal salivary secretory immunoglobulin.",
+     "D": "IgE mediates allergic and antiparasitic responses, not salivary mucosal secretion.",
+     "E": "IgD functions mainly as a B-cell receptor and is not secreted into saliva."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "salivary-glands",
+    "immunology",
+    "IgA"
+   ]
+  },
+  {
+   "id": "oral-region-anatomy-013",
+   "topicId": "oral-region-anatomy",
+   "topicName": "Gross Anatomy and Histology of the Oral Region",
+   "stem": "After middle-ear surgery, a patient reports loss of taste over the anterior two-thirds of the tongue on the operated side, but touch sensation and tongue movement are normal. Injury to which nerve, traveling with the lingual nerve, explains this isolated taste loss?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Lingual nerve proper (CN V3)"
+    },
+    {
+     "label": "B",
+     "text": "Chorda tympani (a branch of CN VII)"
+    },
+    {
+     "label": "C",
+     "text": "Glossopharyngeal nerve (CN IX)"
+    },
+    {
+     "label": "D",
+     "text": "Hypoglossal nerve (CN XII)"
+    },
+    {
+     "label": "E",
+     "text": "Greater petrosal nerve (CN VII)"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "The chorda tympani carries taste from the anterior two-thirds of the tongue and passes through the middle ear.",
+    "whyCorrect": "The chorda tympani, a branch of the facial nerve, traverses the middle ear and joins the lingual nerve to carry taste from the anterior two-thirds; its isolated injury abolishes taste while sparing general sensation and movement.",
+    "whyWrongByChoice": {
+     "A": "The lingual nerve proper carries general sensation; its injury would impair touch, which is intact.",
+     "C": "CN IX supplies taste to the posterior one-third, not the anterior two-thirds.",
+     "D": "CN XII is motor only and does not carry taste.",
+     "E": "The greater petrosal nerve carries parasympathetic and palatal taste fibers, not anterior tongue taste."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "tongue",
+    "chorda-tympani",
+    "taste"
+   ]
+  },
+  {
+   "id": "oral-region-anatomy-014",
+   "topicId": "oral-region-anatomy",
+   "topicName": "Gross Anatomy and Histology of the Oral Region",
+   "stem": "A patient with a submandibular gland stone (sialolithiasis) has pain and swelling when eating. To locate the duct orifice for stone retrieval, the clinician inspects the floor of the mouth. Where does the submandibular (Wharton's) duct open?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Opposite the maxillary second molar in the vestibule"
+    },
+    {
+     "label": "B",
+     "text": "Along the sublingual fold via multiple small openings"
+    },
+    {
+     "label": "C",
+     "text": "At the retromolar trigone behind the last molar"
+    },
+    {
+     "label": "D",
+     "text": "At the incisive papilla behind the central incisors"
+    },
+    {
+     "label": "E",
+     "text": "At the sublingual caruncle beside the lingual frenulum"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "The submandibular duct opens at the sublingual caruncle next to the lingual frenulum.",
+    "whyCorrect": "Wharton's duct opens at the sublingual caruncle (papilla) on either side of the base of the lingual frenulum in the floor of the mouth.",
+    "whyWrongByChoice": {
+     "A": "Opposite the maxillary second molar is the parotid (Stensen's) duct orifice.",
+     "B": "Multiple small openings along the sublingual fold belong to the sublingual gland ducts (of Rivinus).",
+     "C": "The retromolar trigone is not a salivary duct orifice.",
+     "D": "The incisive papilla overlies the incisive foramen, not a salivary duct."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "submandibular-duct",
+    "whartons-duct",
+    "floor-of-mouth"
+   ]
+  },
+  {
+   "id": "oral-region-anatomy-015",
+   "topicId": "oral-region-anatomy",
+   "topicName": "Gross Anatomy and Histology of the Oral Region",
+   "stem": "A newborn is found to have a midline cyst at the base of the tongue that moves with swallowing, thought to arise from thyroid tissue that failed to descend. This lesion is located at a landmark at the apex of the terminal sulcus. What is this landmark?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Lingual frenulum"
+    },
+    {
+     "label": "B",
+     "text": "Circumvallate papilla row"
+    },
+    {
+     "label": "C",
+     "text": "Median lingual furrow"
+    },
+    {
+     "label": "D",
+     "text": "Foramen cecum"
+    },
+    {
+     "label": "E",
+     "text": "Sublingual caruncle"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "The foramen cecum, at the apex of the terminal sulcus, marks the embryologic origin of the thyroid.",
+    "whyCorrect": "The foramen cecum lies at the apex of the V-shaped terminal sulcus and marks where the thyroid gland originated before descending; ectopic thyroid and thyroglossal remnants relate to this site.",
+    "whyWrongByChoice": {
+     "A": "The lingual frenulum is on the ventral tongue and is unrelated to thyroid descent.",
+     "B": "The circumvallate papillae lie just anterior to the terminal sulcus but are taste structures, not the thyroid landmark.",
+     "C": "The median furrow divides the dorsum but does not mark thyroid origin.",
+     "E": "The sublingual caruncle is in the floor of the mouth, not at the terminal sulcus."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "tongue",
+    "foramen-cecum",
+    "embryology"
+   ]
+  },
+  {
+   "id": "oral-region-anatomy-016",
+   "topicId": "oral-region-anatomy",
+   "topicName": "Gross Anatomy and Histology of the Oral Region",
+   "stem": "A neurologist tests tongue movements. She notes that the extrinsic tongue muscles move the tongue as a whole. Which extrinsic muscle, when both sides contract, is chiefly responsible for protruding (sticking out) the tongue?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Genioglossus"
+    },
+    {
+     "label": "B",
+     "text": "Hyoglossus"
+    },
+    {
+     "label": "C",
+     "text": "Styloglossus"
+    },
+    {
+     "label": "D",
+     "text": "Palatoglossus"
+    },
+    {
+     "label": "E",
+     "text": "Superior longitudinal (intrinsic) muscle"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "The genioglossus protrudes the tongue.",
+    "whyCorrect": "The genioglossus arises from the mandible and, on bilateral contraction, protrudes the tongue; this is why CN XII lesions cause deviation on protrusion.",
+    "whyWrongByChoice": {
+     "B": "The hyoglossus depresses the tongue.",
+     "C": "The styloglossus retracts and elevates the tongue.",
+     "D": "The palatoglossus elevates the posterior tongue and is a palatal (CN X) muscle.",
+     "E": "The superior longitudinal muscle is intrinsic and changes tongue shape rather than protruding it as a whole."
+    }
+   },
+   "difficulty": "hard",
+   "imageRef": null,
+   "tags": [
+    "tongue-muscles",
+    "genioglossus",
+    "function"
+   ]
+  },
+  {
+   "id": "oral-region-anatomy-017",
+   "topicId": "oral-region-anatomy",
+   "topicName": "Gross Anatomy and Histology of the Oral Region",
+   "stem": "Tracing saliva from acinus to oral cavity, a resident lists the duct segments and their epithelia. Which sequence correctly matches a duct segment with its lining epithelium?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Intercalated duct lined by columnar epithelium with basal striations"
+    },
+    {
+     "label": "B",
+     "text": "Main excretory duct lined by nonkeratinized stratified squamous epithelium before emptying into the mouth"
+    },
+    {
+     "label": "C",
+     "text": "Striated duct lined by simple squamous epithelium"
+    },
+    {
+     "label": "D",
+     "text": "Interlobular excretory duct lined by pseudostratified ciliated epithelium"
+    },
+    {
+     "label": "E",
+     "text": "Intercalated duct lined by keratinized stratified squamous epithelium"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "The main salivary duct is lined by nonkeratinized stratified squamous epithelium as it opens into the oral cavity.",
+    "whyCorrect": "Saliva flows from acini through intercalated ducts (cuboidal), striated ducts (columnar), and interlobular ducts, and the main duct becomes nonkeratinized stratified squamous where it joins the oral mucosa.",
+    "whyWrongByChoice": {
+     "A": "Intercalated ducts are lined by low cuboidal epithelium; basal striations characterize striated ducts (columnar).",
+     "C": "Striated ducts are lined by simple columnar epithelium with basal striations, not simple squamous.",
+     "D": "Interlobular excretory ducts are lined by columnar/stratified epithelium, not pseudostratified ciliated (that is respiratory epithelium).",
+     "E": "Intercalated ducts are cuboidal, not keratinized stratified squamous."
+    }
+   },
+   "difficulty": "hard",
+   "imageRef": null,
+   "tags": [
+    "salivary-glands",
+    "duct-system",
+    "histology"
+   ]
+  },
+  {
+   "id": "oral-region-anatomy-018",
+   "topicId": "oral-region-anatomy",
+   "topicName": "Gross Anatomy and Histology of the Oral Region",
+   "stem": "A physiology exam asks which of the three major salivary glands contributes the largest share of resting (unstimulated) whole saliva volume. Which gland is it, and approximately what fraction does it produce?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Parotid gland; about two-thirds"
+    },
+    {
+     "label": "B",
+     "text": "Sublingual gland; about two-thirds"
+    },
+    {
+     "label": "C",
+     "text": "Submandibular gland; about two-thirds"
+    },
+    {
+     "label": "D",
+     "text": "Parotid gland; about one-tenth"
+    },
+    {
+     "label": "E",
+     "text": "Sublingual gland; about one-half"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "The submandibular gland produces roughly two-thirds of saliva.",
+    "whyCorrect": "The submandibular gland produces approximately two-thirds of total saliva, making it the largest contributor to whole-mouth secretion at rest.",
+    "whyWrongByChoice": {
+     "A": "The parotid is a major contributor when stimulated but does not produce two-thirds of resting saliva.",
+     "B": "The sublingual gland contributes a small proportion, not two-thirds.",
+     "D": "The parotid produces far more than one-tenth and is not the leading resting contributor.",
+     "E": "The sublingual gland does not produce about one-half of saliva."
+    }
+   },
+   "difficulty": "hard",
+   "imageRef": null,
+   "tags": [
+    "salivary-glands",
+    "submandibular",
+    "physiology"
+   ]
+  },
+  {
+   "id": "oral-region-anatomy-019",
+   "topicId": "oral-region-anatomy",
+   "topicName": "Gross Anatomy and Histology of the Oral Region",
+   "stem": "A surgeon planning a cleft palate repair reviews the bony hard palate. Which pair of bony structures fuse in the midline to form the hard palate?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "The greater wings of the sphenoid and the vomer"
+    },
+    {
+     "label": "B",
+     "text": "The alveolar processes of the mandible and the hyoid"
+    },
+    {
+     "label": "C",
+     "text": "The pterygoid plates and the palatine tonsils"
+    },
+    {
+     "label": "D",
+     "text": "The zygomatic processes and the nasal bones"
+    },
+    {
+     "label": "E",
+     "text": "The palatine processes of the maxillae and the horizontal plates of the palatine bones"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "The hard palate is formed by the palatine processes of the maxillae and horizontal plates of the palatine bones.",
+    "whyCorrect": "Anteriorly the palatine processes of the maxillae and posteriorly the horizontal plates of the palatine bones fuse in the midline to form the bony hard palate.",
+    "whyWrongByChoice": {
+     "A": "The vomer forms part of the nasal septum, not the hard palate surface; the sphenoid wings are not palate components.",
+     "B": "The mandible and hyoid are part of the lower jaw and floor of mouth, not the hard palate.",
+     "C": "The pterygoid plates are posterior skull-base processes; the tonsils are lymphoid tissue, not bone.",
+     "D": "The zygomatic and nasal bones are facial bones that do not form the hard palate."
+    }
+   },
+   "difficulty": "hard",
+   "imageRef": null,
+   "tags": [
+    "hard-palate",
+    "osteology",
+    "palate"
+   ]
+  },
+  {
+   "id": "oral-region-anatomy-020",
+   "topicId": "oral-region-anatomy",
+   "topicName": "Gross Anatomy and Histology of the Oral Region",
+   "stem": "An emergency physician repairs a lip laceration that extends from the facial skin across the lip margin onto the red lip mucosa. To achieve the best cosmetic result, which principle should guide the very first suture?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Begin with a deep muscular suture in the orbicularis oris before any skin sutures"
+    },
+    {
+     "label": "B",
+     "text": "Begin at the philtral columns to recreate the midline dimple"
+    },
+    {
+     "label": "C",
+     "text": "Begin at the wet-dry line inside the mouth to align the mucosa"
+    },
+    {
+     "label": "D",
+     "text": "Precisely realign the vermilion border first before closing the remaining wound"
+    },
+    {
+     "label": "E",
+     "text": "Begin at the commissure (corner of the mouth) and work medially"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "The vermilion border must be realigned first in lip laceration repair.",
+    "whyCorrect": "The vermilion border (the sharp junction of lip mucosa and facial skin) is highly visible; even a small step-off is conspicuous, so the first suture must precisely realign the vermilion border before closing the rest of the wound.",
+    "whyWrongByChoice": {
+     "A": "Deep muscular approximation is important but is not the alignment landmark placed first; a malaligned vermilion border would remain obvious.",
+     "B": "The philtral columns are landmarks but do not take priority over precise vermilion border alignment for a wound crossing the margin.",
+     "C": "The intraoral wet-dry line is not the critical visible landmark; the external vermilion border is.",
+     "E": "Starting at the commissure does not ensure the vermilion border edges meet, which is the key cosmetic determinant."
+    }
+   },
+   "difficulty": "hard",
+   "imageRef": null,
+   "tags": [
+    "lips",
+    "vermilion-border",
+    "laceration-repair"
+   ]
+  },
+  {
+   "id": "gi-blood-supply-innervation-001",
+   "topicId": "gi-blood-supply-innervation",
+   "topicName": "GI Blood Supply and Innervation",
+   "stem": "A 58-year-old man undergoes elective surgery. The surgeon ligates the artery that supplies the abdominal esophagus, stomach, and proximal duodenum. Which unpaired branch of the abdominal aorta was ligated?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Superior mesenteric artery"
+    },
+    {
+     "label": "B",
+     "text": "Inferior mesenteric artery"
+    },
+    {
+     "label": "C",
+     "text": "Internal iliac artery"
+    },
+    {
+     "label": "D",
+     "text": "Celiac trunk"
+    },
+    {
+     "label": "E",
+     "text": "Middle colic artery"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "The foregut (abdominal esophagus, stomach, proximal duodenum) is supplied by the celiac trunk.",
+    "whyCorrect": "The celiac trunk is the first unpaired anterior aortic branch and supplies all foregut-derived structures, giving rise to the left gastric, splenic, and common hepatic arteries.",
+    "whyWrongByChoice": {
+     "A": "The SMA supplies the midgut (distal duodenum through the proximal two-thirds of the transverse colon), not the stomach.",
+     "B": "The IMA supplies the hindgut (distal transverse colon to upper rectum).",
+     "C": "The internal iliac artery supplies pelvic structures and the lower rectum, not the foregut.",
+     "E": "The middle colic artery is an SMA branch to the transverse colon, not a direct aortic branch supplying the stomach."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "arterial-supply",
+    "foregut",
+    "celiac-trunk"
+   ]
+  },
+  {
+   "id": "gi-blood-supply-innervation-002",
+   "topicId": "gi-blood-supply-innervation",
+   "topicName": "GI Blood Supply and Innervation",
+   "stem": "A medical student is asked to identify the single artery that supplies the midgut, extending from the distal duodenum through the proximal two-thirds of the transverse colon. Which artery is it?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Celiac trunk"
+    },
+    {
+     "label": "B",
+     "text": "Superior mesenteric artery"
+    },
+    {
+     "label": "C",
+     "text": "Inferior mesenteric artery"
+    },
+    {
+     "label": "D",
+     "text": "Splenic artery"
+    },
+    {
+     "label": "E",
+     "text": "Internal iliac artery"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "The midgut is supplied by the superior mesenteric artery (SMA).",
+    "whyCorrect": "The SMA supplies midgut derivatives: the distal duodenum, jejunum, ileum, cecum, appendix, ascending colon, and proximal two-thirds of the transverse colon.",
+    "whyWrongByChoice": {
+     "A": "The celiac trunk supplies the foregut, not the midgut.",
+     "C": "The IMA supplies the hindgut (distal one-third of the transverse colon to upper rectum).",
+     "D": "The splenic artery is a branch of the celiac trunk supplying the spleen and pancreas, part of the foregut supply.",
+     "E": "The internal iliac artery supplies pelvic viscera and the lower rectum."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "arterial-supply",
+    "midgut",
+    "SMA"
+   ]
+  },
+  {
+   "id": "gi-blood-supply-innervation-003",
+   "topicId": "gi-blood-supply-innervation",
+   "topicName": "GI Blood Supply and Innervation",
+   "stem": "Lymph from the abdominal GI organs collects in the cisterna chyli and ascends through the thoracic duct. Into which vessel does the thoracic duct empty its lymph before it re-enters systemic circulation?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Right subclavian vein"
+    },
+    {
+     "label": "B",
+     "text": "Superior vena cava"
+    },
+    {
+     "label": "C",
+     "text": "Left subclavian vein"
+    },
+    {
+     "label": "D",
+     "text": "Inferior vena cava"
+    },
+    {
+     "label": "E",
+     "text": "Azygos vein"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "The thoracic duct empties abdominal lymph into the left subclavian vein.",
+    "whyCorrect": "The thoracic duct continues from the cisterna chyli, ascends through the thorax, and drains lymph from the abdomen and most of the body into the left subclavian vein (near its junction with the internal jugular vein).",
+    "whyWrongByChoice": {
+     "A": "The right subclavian vein receives the right lymphatic duct, which drains only the right upper body, not the abdomen.",
+     "B": "The thoracic duct empties into the subclavian venous system, not directly into the SVC.",
+     "D": "Portal blood, not thoracic duct lymph, ultimately returns via the IVC after passing through the liver.",
+     "E": "The azygos vein drains thoracic wall/venous blood and is not the termination of the thoracic duct."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "lymphatics",
+    "thoracic-duct"
+   ]
+  },
+  {
+   "id": "gi-blood-supply-innervation-004",
+   "topicId": "gi-blood-supply-innervation",
+   "topicName": "GI Blood Supply and Innervation",
+   "stem": "A 45-year-old man with a peptic ulcer of the gastric body describes dull, poorly localized pain. Based on the visceral referred pain pattern of the foregut, in which region is his pain most likely felt?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Epigastric region"
+    },
+    {
+     "label": "B",
+     "text": "Periumbilical region"
+    },
+    {
+     "label": "C",
+     "text": "Suprapubic region"
+    },
+    {
+     "label": "D",
+     "text": "Right lower quadrant"
+    },
+    {
+     "label": "E",
+     "text": "Left shoulder tip"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "Foregut visceral pain is referred to the epigastric region (T5-T9).",
+    "whyCorrect": "Foregut afferents enter the spinal cord at levels T5-T9, so poorly localized visceral pain from the stomach is referred to the epigastric region.",
+    "whyWrongByChoice": {
+     "B": "Periumbilical referred pain corresponds to the midgut (T10-T11), not the stomach.",
+     "C": "Suprapubic referred pain corresponds to the hindgut (T12-L2).",
+     "D": "Right lower quadrant pain is somatic/parietal (e.g., appendicitis after peritoneal irritation), not foregut visceral referral.",
+     "E": "Left shoulder tip pain reflects diaphragmatic (phrenic, C3-C5) irritation, not foregut gastric referral."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "referred-pain",
+    "foregut",
+    "dermatomes"
+   ]
+  },
+  {
+   "id": "gi-blood-supply-innervation-005",
+   "topicId": "gi-blood-supply-innervation",
+   "topicName": "GI Blood Supply and Innervation",
+   "stem": "During an appendectomy, the surgeon isolates the primary artery supplying the appendix. This vessel is a terminal branch of which artery?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Middle colic artery"
+    },
+    {
+     "label": "B",
+     "text": "Superior rectal artery"
+    },
+    {
+     "label": "C",
+     "text": "Left colic artery"
+    },
+    {
+     "label": "D",
+     "text": "Right colic artery"
+    },
+    {
+     "label": "E",
+     "text": "Ileocolic artery"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "The appendicular artery is a terminal branch of the ileocolic artery.",
+    "whyCorrect": "The appendicular artery, which runs in the mesoappendix, is the primary blood supply of the appendix and arises as a terminal branch of the ileocolic artery (an SMA branch).",
+    "whyWrongByChoice": {
+     "A": "The middle colic artery supplies the transverse colon.",
+     "B": "The superior rectal artery is an IMA branch supplying the upper rectum, part of the hindgut.",
+     "C": "The left colic artery is an IMA branch supplying the descending colon.",
+     "D": "The right colic artery supplies the ascending colon, not the appendix."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "arterial-supply",
+    "appendix",
+    "ileocolic"
+   ]
+  },
+  {
+   "id": "gi-blood-supply-innervation-006",
+   "topicId": "gi-blood-supply-innervation",
+   "topicName": "GI Blood Supply and Innervation",
+   "stem": "A 72-year-old woman with atrial fibrillation who stopped her anticoagulation develops sudden, severe, diffuse abdominal pain that is out of proportion to physical exam findings. A cardioembolus is suspected to have occluded a mesenteric artery. Which artery is most commonly occluded in this scenario?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Celiac trunk"
+    },
+    {
+     "label": "B",
+     "text": "Superior mesenteric artery"
+    },
+    {
+     "label": "C",
+     "text": "Inferior mesenteric artery"
+    },
+    {
+     "label": "D",
+     "text": "Splenic artery"
+    },
+    {
+     "label": "E",
+     "text": "Gastroduodenal artery"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "Cardioemboli most commonly lodge in the SMA, causing acute mesenteric ischemia.",
+    "whyCorrect": "The SMA has a large diameter, high blood flow, and a shallow (oblique) takeoff angle from the aorta, so emboli preferentially lodge there; occlusion can necrose the entire midgut.",
+    "whyWrongByChoice": {
+     "A": "The celiac trunk arises at a steeper angle and is less commonly embolized than the SMA.",
+     "C": "The IMA is smaller with lower flow and is a less common embolic target.",
+     "D": "The splenic artery embolus causes splenic infarct, not the classic diffuse midgut ischemia described.",
+     "E": "The gastroduodenal artery is a smaller foregut branch and is not the typical site of cardioembolic occlusion."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "ischemia",
+    "SMA",
+    "embolism"
+   ]
+  },
+  {
+   "id": "gi-blood-supply-innervation-007",
+   "topicId": "gi-blood-supply-innervation",
+   "topicName": "GI Blood Supply and Innervation",
+   "stem": "A 68-year-old man develops crampy left-sided abdominal pain and bloody diarrhea after an episode of hypotension during cardiac surgery. Colonoscopy shows mucosal ischemia in a watershed region located at the junction of the SMA and IMA territories. Which colonic site is most likely affected?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Cecum"
+    },
+    {
+     "label": "B",
+     "text": "Hepatic flexure"
+    },
+    {
+     "label": "C",
+     "text": "Splenic flexure"
+    },
+    {
+     "label": "D",
+     "text": "Mid-ascending colon"
+    },
+    {
+     "label": "E",
+     "text": "Proximal transverse colon"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "The splenic flexure is a watershed area between SMA and IMA territories, prone to ischemic colitis.",
+    "whyCorrect": "The splenic flexure lies at the border of the SMA (midgut) and IMA (hindgut) supply with limited collateral circulation, making it vulnerable to ischemia during hypoperfusion.",
+    "whyWrongByChoice": {
+     "A": "The cecum is well within the SMA (ileocolic) territory and is not a watershed zone.",
+     "B": "The hepatic flexure is supplied by the SMA and is relatively protected compared with the splenic flexure.",
+     "D": "The mid-ascending colon is squarely within SMA territory.",
+     "E": "The proximal transverse colon is midgut/SMA supplied; the watershed is at the distal (splenic flexure) transition."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "watershed",
+    "ischemia",
+    "splenic-flexure"
+   ]
+  },
+  {
+   "id": "gi-blood-supply-innervation-008",
+   "topicId": "gi-blood-supply-innervation",
+   "topicName": "GI Blood Supply and Innervation",
+   "stem": "A researcher stimulates the parasympathetic nerve that innervates the foregut and midgut as far distal as the proximal two-thirds of the transverse colon. Which nerve is being stimulated?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pelvic splanchnic nerves"
+    },
+    {
+     "label": "B",
+     "text": "Greater splanchnic nerve"
+    },
+    {
+     "label": "C",
+     "text": "Lumbar splanchnic nerves"
+    },
+    {
+     "label": "D",
+     "text": "Vagus nerve"
+    },
+    {
+     "label": "E",
+     "text": "Least splanchnic nerve"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "The vagus nerve provides parasympathetic innervation to the foregut and midgut.",
+    "whyCorrect": "The vagus nerve (CN X) supplies parasympathetic input to foregut and midgut structures up to the proximal two-thirds of the transverse colon; roughly 75% of its fibers are parasympathetic.",
+    "whyWrongByChoice": {
+     "A": "Pelvic splanchnic nerves (S2-S4) provide parasympathetic input to the hindgut, not foregut/midgut.",
+     "B": "The greater splanchnic nerve carries sympathetic fibers to the foregut, not parasympathetic.",
+     "C": "Lumbar splanchnic nerves carry sympathetic fibers.",
+     "E": "The least splanchnic nerve is sympathetic and supplies the renal plexus, not GI parasympathetics."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "innervation",
+    "parasympathetic",
+    "vagus"
+   ]
+  },
+  {
+   "id": "gi-blood-supply-innervation-009",
+   "topicId": "gi-blood-supply-innervation",
+   "topicName": "GI Blood Supply and Innervation",
+   "stem": "A patient with a spinal cord injury has lost parasympathetic control of the descending colon, sigmoid colon, and upper rectum. Injury to which nerves, arising from spinal levels S2-S4, best explains this hindgut deficit?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pelvic splanchnic nerves"
+    },
+    {
+     "label": "B",
+     "text": "Vagus nerve"
+    },
+    {
+     "label": "C",
+     "text": "Greater splanchnic nerve"
+    },
+    {
+     "label": "D",
+     "text": "Lumbar splanchnic nerves"
+    },
+    {
+     "label": "E",
+     "text": "Phrenic nerve"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "Hindgut parasympathetic innervation comes from the pelvic splanchnic nerves (S2-S4).",
+    "whyCorrect": "The pelvic splanchnic nerves carry sacral (S2-S4) parasympathetic fibers to hindgut structures, including the distal transverse colon through the upper rectum. Remember the 'two Ps': pelvic splanchnics are Parasympathetic.",
+    "whyWrongByChoice": {
+     "B": "The vagus supplies foregut and midgut parasympathetics, stopping at the proximal two-thirds of the transverse colon.",
+     "C": "The greater splanchnic nerve is sympathetic.",
+     "D": "Lumbar splanchnic nerves are sympathetic.",
+     "E": "The phrenic nerve is motor/sensory to the diaphragm, not a GI parasympathetic nerve."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "innervation",
+    "parasympathetic",
+    "hindgut",
+    "pelvic-splanchnic"
+   ]
+  },
+  {
+   "id": "gi-blood-supply-innervation-010",
+   "topicId": "gi-blood-supply-innervation",
+   "topicName": "GI Blood Supply and Innervation",
+   "stem": "An anatomy exam asks how the hepatic portal vein is principally formed. The confluence of which two veins is the primary origin of the portal vein?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Inferior mesenteric vein and left gastric vein"
+    },
+    {
+     "label": "B",
+     "text": "Left gastric vein and splenic vein"
+    },
+    {
+     "label": "C",
+     "text": "Superior mesenteric vein and inferior mesenteric vein"
+    },
+    {
+     "label": "D",
+     "text": "Right and left hepatic veins"
+    },
+    {
+     "label": "E",
+     "text": "Splenic vein and superior mesenteric vein"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "The portal vein is formed mainly by the union of the splenic vein and the superior mesenteric vein.",
+    "whyCorrect": "The SMV (draining the midgut) and the splenic vein (which often receives the IMV) unite posterior to the pancreatic neck to form the portal vein, carrying GI blood to the liver.",
+    "whyWrongByChoice": {
+     "A": "The IMV typically drains into the splenic vein; it does not join the left gastric vein to form the portal vein.",
+     "B": "The left gastric vein drains into the portal vein but is not one of the two principal tributaries forming it.",
+     "C": "The IMV usually joins the splenic vein rather than uniting directly with the SMV to form the portal vein.",
+     "D": "The hepatic veins drain the liver into the IVC and are unrelated to portal vein formation."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "portal-drainage",
+    "portal-vein",
+    "venous"
+   ]
+  },
+  {
+   "id": "gi-blood-supply-innervation-011",
+   "topicId": "gi-blood-supply-innervation",
+   "topicName": "GI Blood Supply and Innervation",
+   "stem": "A 55-year-old man with alcoholic cirrhosis has dilated, tortuous subcutaneous veins radiating from his umbilicus. This finding results from recanalization of the umbilical vein (via the round ligament) shunting portal blood into superficial abdominal wall veins. What is this finding called?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Esophageal varices"
+    },
+    {
+     "label": "B",
+     "text": "Rectal varices"
+    },
+    {
+     "label": "C",
+     "text": "Caput medusae"
+    },
+    {
+     "label": "D",
+     "text": "Splenomegaly"
+    },
+    {
+     "label": "E",
+     "text": "Retroperitoneal varices"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "Recanalization of the umbilical vein in portal hypertension produces caput medusae.",
+    "whyCorrect": "Elevated portal pressure reopens the umbilical vein via the round ligament (ligamentum teres), shunting blood into the superficial periumbilical veins and creating the radiating pattern known as caput medusae.",
+    "whyWrongByChoice": {
+     "A": "Esophageal varices arise from the left gastric-to-esophageal portosystemic anastomosis, not the periumbilical veins.",
+     "B": "Rectal varices arise from the superior-to-middle/inferior rectal vein anastomosis.",
+     "D": "Splenomegaly is congestive enlargement of the spleen, not the abdominal wall vein finding described.",
+     "E": "Retroperitoneal varices are internal collaterals and do not produce the visible periumbilical pattern."
+    }
+   },
+   "difficulty": "hard",
+   "imageRef": null,
+   "tags": [
+    "portal-hypertension",
+    "portosystemic-anastomosis",
+    "caput-medusae"
+   ]
+  },
+  {
+   "id": "gi-blood-supply-innervation-012",
+   "topicId": "gi-blood-supply-innervation",
+   "topicName": "GI Blood Supply and Innervation",
+   "stem": "A physiology instructor asks why pain from an inflamed abdominal viscus is frequently perceived at a distant body-wall location. Which mechanism best explains referred pain?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Visceral afferents enter the spinal cord at the same levels as somatic afferents, and the brain misattributes the signal to the somatic dermatome"
+    },
+    {
+     "label": "B",
+     "text": "Visceral afferents enter the spinal cord through the ventral roots"
+    },
+    {
+     "label": "C",
+     "text": "Visceral afferents travel entirely independently of autonomic pathways"
+    },
+    {
+     "label": "D",
+     "text": "Visceral afferents are precisely localized to individual organs without any overlap"
+    },
+    {
+     "label": "E",
+     "text": "Somatic afferents synapse directly on postganglionic sympathetic neurons"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "Referred pain arises because visceral and somatic afferents converge at the same spinal cord levels.",
+    "whyCorrect": "Both visceral and somatic afferents enter the cord through the dorsal roots at shared spinal levels; the CNS cannot distinguish the source, so visceral pain is felt in the corresponding somatic dermatome.",
+    "whyWrongByChoice": {
+     "B": "Afferent (sensory) fibers enter through the dorsal roots, not the ventral (motor) roots.",
+     "C": "Visceral afferents actually travel alongside autonomic fibers, which is part of the pathway that enables referral.",
+     "D": "Visceral afferents are poorly localized with substantial convergence, which is precisely why pain is referred.",
+     "E": "Somatic afferents are sensory and do not synapse on postganglionic sympathetic neurons; this does not explain referred pain."
+    }
+   },
+   "difficulty": "hard",
+   "imageRef": null,
+   "tags": [
+    "referred-pain",
+    "afferents",
+    "dorsal-root"
+   ]
+  },
+  {
+   "id": "gi-blood-supply-innervation-013",
+   "topicId": "gi-blood-supply-innervation",
+   "topicName": "GI Blood Supply and Innervation",
+   "stem": "A 63-year-old man with unresectable pancreatic adenocarcinoma has intractable visceral upper abdominal pain that is poorly controlled with opioids. A procedure that permanently destroys the plexus surrounding the celiac trunk with injected alcohol is planned. What is this procedure?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Vagotomy"
+    },
+    {
+     "label": "B",
+     "text": "Celiac plexus neurolysis"
+    },
+    {
+     "label": "C",
+     "text": "Pelvic splanchnic nerve block"
+    },
+    {
+     "label": "D",
+     "text": "Bilateral L1-L2 sympathectomy"
+    },
+    {
+     "label": "E",
+     "text": "Transversus abdominis plane block"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "Celiac plexus neurolysis with alcohol relieves intractable visceral foregut pain.",
+    "whyCorrect": "The celiac plexus transmits visceral afferent pain from foregut structures including the pancreas; injecting alcohol permanently destroys the plexus, providing durable relief in pancreatic cancer.",
+    "whyWrongByChoice": {
+     "A": "Vagotomy severs parasympathetic (efferent) vagal fibers to reduce acid secretion; it is not used for pancreatic cancer pain neurolysis.",
+     "C": "Pelvic splanchnic blocks target hindgut/pelvic parasympathetics, not foregut visceral pain.",
+     "D": "L1-L2 sympathectomy is not the standard procedure for foregut visceral pain; the celiac plexus is the target.",
+     "E": "A TAP block anesthetizes the anterior abdominal wall (somatic), not visceral foregut afferents."
+    }
+   },
+   "difficulty": "hard",
+   "imageRef": null,
+   "tags": [
+    "innervation",
+    "celiac-plexus",
+    "pain-management"
+   ]
+  },
+  {
+   "id": "gi-blood-supply-innervation-014",
+   "topicId": "gi-blood-supply-innervation",
+   "topicName": "GI Blood Supply and Innervation",
+   "stem": "A 60-year-old man with weight loss and early satiety is found to have gastric adenocarcinoma. On exam, a firm, enlarged lymph node is palpated just above the left clavicle. Enlargement of which lymph node does this represent?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Right supraclavicular node"
+    },
+    {
+     "label": "B",
+     "text": "Axillary node"
+    },
+    {
+     "label": "C",
+     "text": "Inguinal node"
+    },
+    {
+     "label": "D",
+     "text": "Periumbilical (Sister Mary Joseph) node"
+    },
+    {
+     "label": "E",
+     "text": "Left supraclavicular (Virchow) node"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "A left supraclavicular (Virchow) node enlarged by abdominal malignancy is the Troisier sign.",
+    "whyCorrect": "The Virchow node sits near the thoracic duct termination at the left subclavian vein; metastatic abdominal cancer (e.g., gastric) can seed it, producing a palpable left supraclavicular node (Troisier sign).",
+    "whyWrongByChoice": {
+     "A": "The right supraclavicular node drains the right lymphatic duct territory (right thorax/upper body), not the abdomen.",
+     "B": "Axillary nodes drain the upper limb and breast, not gastric lymphatics.",
+     "C": "Inguinal nodes drain the lower limb and perineum.",
+     "D": "A periumbilical node (Sister Mary Joseph nodule) is also a metastatic sign, but the described location is the left supraclavicular Virchow node."
+    }
+   },
+   "difficulty": "hard",
+   "imageRef": null,
+   "tags": [
+    "lymphatics",
+    "Virchow-node",
+    "metastasis"
+   ]
+  },
+  {
+   "id": "gi-blood-supply-innervation-015",
+   "topicId": "gi-blood-supply-innervation",
+   "topicName": "GI Blood Supply and Innervation",
+   "stem": "During bowel resection, a surgeon distinguishes jejunum from ileum by inspecting the mesenteric vasculature. Which vascular feature is characteristic of the jejunum?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Short vasa recta with numerous arterial arcades"
+    },
+    {
+     "label": "B",
+     "text": "Short vasa recta with a single arterial arcade"
+    },
+    {
+     "label": "C",
+     "text": "Absence of vasa recta"
+    },
+    {
+     "label": "D",
+     "text": "Long vasa recta with few arterial arcades"
+    },
+    {
+     "label": "E",
+     "text": "Direct arterial supply from the IMA"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "The jejunum has long vasa recta and few arterial arcades.",
+    "whyCorrect": "The jejunum is characterized by long vasa recta and fewer, larger arcades, providing greater perfusion; the ileum has short vasa recta and more numerous arcades.",
+    "whyWrongByChoice": {
+     "A": "Short vasa recta with numerous arcades describes the ileum, not the jejunum.",
+     "B": "A single arcade with short vasa recta does not describe the jejunum's long vasa recta pattern.",
+     "C": "Both jejunum and ileum have vasa recta; they are not absent.",
+     "E": "Both jejunum and ileum are midgut and supplied by the SMA, not the IMA."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "arterial-supply",
+    "jejunum",
+    "ileum",
+    "vasa-recta"
+   ]
+  },
+  {
+   "id": "gi-blood-supply-innervation-016",
+   "topicId": "gi-blood-supply-innervation",
+   "topicName": "GI Blood Supply and Innervation",
+   "stem": "A 16-year-old presents with abdominal pain that began around the umbilicus and later migrated to the right lower quadrant, with fever and leukocytosis. Which mechanism best explains why the EARLY pain was localized to the periumbilical region?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Visceral referred pain from the midgut appendix enters the cord at the T10 level"
+    },
+    {
+     "label": "B",
+     "text": "Somatic afferents from the parietal peritoneum were directly stimulated"
+    },
+    {
+     "label": "C",
+     "text": "Foregut afferents referred pain to the periumbilical dermatome"
+    },
+    {
+     "label": "D",
+     "text": "Phrenic nerve irritation referred pain to the umbilicus"
+    },
+    {
+     "label": "E",
+     "text": "Hindgut afferents entering at T12-L2 caused periumbilical pain"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "Early appendicitis pain is periumbilical because it is midgut visceral referred pain at T10.",
+    "whyCorrect": "The appendix is a midgut structure; its visceral afferents enter the cord around T10, so early inflammation produces diffuse periumbilical (T10 dermatome) referred pain before the parietal peritoneum is involved.",
+    "whyWrongByChoice": {
+     "B": "Parietal peritoneal (somatic) stimulation causes the LATER, sharply localized RLQ pain, not the early periumbilical pain.",
+     "C": "Foregut afferents (T5-T9) refer to the epigastrium, not the umbilicus, and the appendix is not foregut.",
+     "D": "Phrenic nerve (C3-C5) irritation refers pain to the shoulder, not the umbilicus.",
+     "E": "Hindgut afferents (T12-L2) refer to the suprapubic region; the appendix is midgut, not hindgut."
+    }
+   },
+   "difficulty": "hard",
+   "imageRef": null,
+   "tags": [
+    "referred-pain",
+    "appendicitis",
+    "midgut"
+   ]
+  },
+  {
+   "id": "gi-blood-supply-innervation-017",
+   "topicId": "gi-blood-supply-innervation",
+   "topicName": "GI Blood Supply and Innervation",
+   "stem": "A 50-year-old man with cirrhosis has hematemesis from bleeding submucosal veins of the distal esophagus. Elevated portal pressure is transmitted to the esophageal veins primarily through which vein?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Splenic vein"
+    },
+    {
+     "label": "B",
+     "text": "Left gastric vein"
+    },
+    {
+     "label": "C",
+     "text": "Superior mesenteric vein"
+    },
+    {
+     "label": "D",
+     "text": "Inferior mesenteric vein"
+    },
+    {
+     "label": "E",
+     "text": "Paraumbilical vein"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "Esophageal varices form via portal pressure transmitted through the left gastric (coronary) vein.",
+    "whyCorrect": "The left gastric vein drains into the portal vein and anastomoses with esophageal veins of the azygos system; portal hypertension backs up into these submucosal esophageal veins, producing varices that can bleed.",
+    "whyWrongByChoice": {
+     "A": "The splenic vein contributes to portal pressure but does not directly connect to the distal esophageal veins responsible for varices.",
+     "C": "The SMV drains the midgut and is not the direct route to esophageal varices.",
+     "D": "The IMV drains the hindgut and is associated with rectal, not esophageal, varices.",
+     "E": "The paraumbilical vein is the route for caput medusae, not esophageal varices."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "portal-hypertension",
+    "esophageal-varices",
+    "left-gastric-vein"
+   ]
+  },
+  {
+   "id": "gi-blood-supply-innervation-018",
+   "topicId": "gi-blood-supply-innervation",
+   "topicName": "GI Blood Supply and Innervation",
+   "stem": "A pharmacology student is reviewing autonomic effects on the gut. Increased sympathetic activity to the GI tract produces which set of effects?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Increased motility, increased secretion, increased blood flow"
+    },
+    {
+     "label": "B",
+     "text": "Increased motility, decreased secretion, increased blood flow"
+    },
+    {
+     "label": "C",
+     "text": "Decreased motility, decreased secretion, decreased blood flow"
+    },
+    {
+     "label": "D",
+     "text": "Decreased motility, increased secretion, decreased blood flow"
+    },
+    {
+     "label": "E",
+     "text": "No effect on motility, increased blood flow, increased secretion"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "Sympathetic activation decreases GI motility, secretion, and blood flow.",
+    "whyCorrect": "Sympathetic ('fight or flight') input opposes the parasympathetic 'rest and digest' state, reducing GI motility, secretion, and mucosal blood flow while promoting sphincter contraction.",
+    "whyWrongByChoice": {
+     "A": "Increased motility, secretion, and blood flow describe parasympathetic, not sympathetic, effects.",
+     "B": "This mixes increased motility/blood flow (parasympathetic-like) with decreased secretion, which is inconsistent.",
+     "D": "Sympathetic activity decreases, not increases, secretion.",
+     "E": "Sympathetic input decreases blood flow and secretion and does reduce motility; it is not neutral."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "innervation",
+    "sympathetic",
+    "autonomic-effects"
+   ]
+  },
+  {
+   "id": "gi-blood-supply-innervation-019",
+   "topicId": "gi-blood-supply-innervation",
+   "topicName": "GI Blood Supply and Innervation",
+   "stem": "An examiner asks a student to name a primary branch of the celiac trunk. Which of the following is a direct branch of the celiac trunk?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Superior mesenteric artery"
+    },
+    {
+     "label": "B",
+     "text": "Inferior mesenteric artery"
+    },
+    {
+     "label": "C",
+     "text": "Ileocolic artery"
+    },
+    {
+     "label": "D",
+     "text": "Middle colic artery"
+    },
+    {
+     "label": "E",
+     "text": "Splenic artery"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "The celiac trunk gives rise to the left gastric, splenic, and common hepatic arteries.",
+    "whyCorrect": "The splenic artery is one of the three primary branches of the celiac trunk (along with the left gastric and common hepatic arteries), supplying the spleen, pancreas, and parts of the stomach.",
+    "whyWrongByChoice": {
+     "A": "The SMA is a separate unpaired aortic branch, not a branch of the celiac trunk.",
+     "B": "The IMA is a separate unpaired aortic branch supplying the hindgut.",
+     "C": "The ileocolic artery is a branch of the SMA.",
+     "D": "The middle colic artery is a branch of the SMA."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "arterial-supply",
+    "celiac-trunk",
+    "branches"
+   ]
+  },
+  {
+   "id": "gi-blood-supply-innervation-020",
+   "topicId": "gi-blood-supply-innervation",
+   "topicName": "GI Blood Supply and Innervation",
+   "stem": "An interventional radiologist notes that cardioemboli travel down the aorta and preferentially enter one mesenteric artery. Which combination of anatomic features best explains why the SMA is the most common site of embolic lodgment?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Small diameter, low flow, and a perpendicular takeoff angle"
+    },
+    {
+     "label": "B",
+     "text": "Large diameter, low flow, and a steep downward takeoff angle"
+    },
+    {
+     "label": "C",
+     "text": "Small diameter, high flow, and a horizontal takeoff angle"
+    },
+    {
+     "label": "D",
+     "text": "Large diameter, high flow, and a shallow (oblique) takeoff angle from the aorta"
+    },
+    {
+     "label": "E",
+     "text": "Absence of collateral circulation and a right-angle takeoff"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "The SMA's large caliber, high flow, and shallow takeoff angle make it the favored embolic site.",
+    "whyCorrect": "Because the SMA branches from the aorta at a shallow oblique angle with a large diameter and high blood flow, emboli carried by the aortic stream easily enter and lodge in it, causing acute mesenteric ischemia.",
+    "whyWrongByChoice": {
+     "A": "The SMA is large with high flow, not small with low flow, and its angle is oblique, not perpendicular.",
+     "B": "The SMA has high flow, not low flow, and a shallow rather than steep downward angle.",
+     "C": "The SMA is large-caliber, not small, though it does have high flow.",
+     "E": "The mesenteric circulation has collateral pathways (e.g., marginal artery), and the SMA takeoff is oblique, not a right angle."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "ischemia",
+    "SMA",
+    "embolism",
+    "anatomy"
+   ]
+  },
+  {
    "id": "gi-tract-anatomy-001",
    "topicId": "gi-tract-anatomy",
    "topicName": "Anatomy of the Gastrointestinal Tract",
@@ -1867,928 +4641,6 @@
     "rectovesical-pouch",
     "male-pelvis",
     "clinical-correlate"
-   ]
-  },
-  {
-   "id": "gi-blood-supply-innervation-001",
-   "topicId": "gi-blood-supply-innervation",
-   "topicName": "GI Blood Supply and Innervation",
-   "stem": "A 58-year-old man undergoes elective surgery. The surgeon ligates the artery that supplies the abdominal esophagus, stomach, and proximal duodenum. Which unpaired branch of the abdominal aorta was ligated?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Superior mesenteric artery"
-    },
-    {
-     "label": "B",
-     "text": "Inferior mesenteric artery"
-    },
-    {
-     "label": "C",
-     "text": "Internal iliac artery"
-    },
-    {
-     "label": "D",
-     "text": "Celiac trunk"
-    },
-    {
-     "label": "E",
-     "text": "Middle colic artery"
-    }
-   ],
-   "correctAnswer": "D",
-   "explanation": {
-    "summary": "The foregut (abdominal esophagus, stomach, proximal duodenum) is supplied by the celiac trunk.",
-    "whyCorrect": "The celiac trunk is the first unpaired anterior aortic branch and supplies all foregut-derived structures, giving rise to the left gastric, splenic, and common hepatic arteries.",
-    "whyWrongByChoice": {
-     "A": "The SMA supplies the midgut (distal duodenum through the proximal two-thirds of the transverse colon), not the stomach.",
-     "B": "The IMA supplies the hindgut (distal transverse colon to upper rectum).",
-     "C": "The internal iliac artery supplies pelvic structures and the lower rectum, not the foregut.",
-     "E": "The middle colic artery is an SMA branch to the transverse colon, not a direct aortic branch supplying the stomach."
-    }
-   },
-   "difficulty": "easy",
-   "imageRef": null,
-   "tags": [
-    "arterial-supply",
-    "foregut",
-    "celiac-trunk"
-   ]
-  },
-  {
-   "id": "gi-blood-supply-innervation-002",
-   "topicId": "gi-blood-supply-innervation",
-   "topicName": "GI Blood Supply and Innervation",
-   "stem": "A medical student is asked to identify the single artery that supplies the midgut, extending from the distal duodenum through the proximal two-thirds of the transverse colon. Which artery is it?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Celiac trunk"
-    },
-    {
-     "label": "B",
-     "text": "Superior mesenteric artery"
-    },
-    {
-     "label": "C",
-     "text": "Inferior mesenteric artery"
-    },
-    {
-     "label": "D",
-     "text": "Splenic artery"
-    },
-    {
-     "label": "E",
-     "text": "Internal iliac artery"
-    }
-   ],
-   "correctAnswer": "B",
-   "explanation": {
-    "summary": "The midgut is supplied by the superior mesenteric artery (SMA).",
-    "whyCorrect": "The SMA supplies midgut derivatives: the distal duodenum, jejunum, ileum, cecum, appendix, ascending colon, and proximal two-thirds of the transverse colon.",
-    "whyWrongByChoice": {
-     "A": "The celiac trunk supplies the foregut, not the midgut.",
-     "C": "The IMA supplies the hindgut (distal one-third of the transverse colon to upper rectum).",
-     "D": "The splenic artery is a branch of the celiac trunk supplying the spleen and pancreas, part of the foregut supply.",
-     "E": "The internal iliac artery supplies pelvic viscera and the lower rectum."
-    }
-   },
-   "difficulty": "easy",
-   "imageRef": null,
-   "tags": [
-    "arterial-supply",
-    "midgut",
-    "SMA"
-   ]
-  },
-  {
-   "id": "gi-blood-supply-innervation-003",
-   "topicId": "gi-blood-supply-innervation",
-   "topicName": "GI Blood Supply and Innervation",
-   "stem": "Lymph from the abdominal GI organs collects in the cisterna chyli and ascends through the thoracic duct. Into which vessel does the thoracic duct empty its lymph before it re-enters systemic circulation?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Right subclavian vein"
-    },
-    {
-     "label": "B",
-     "text": "Superior vena cava"
-    },
-    {
-     "label": "C",
-     "text": "Left subclavian vein"
-    },
-    {
-     "label": "D",
-     "text": "Inferior vena cava"
-    },
-    {
-     "label": "E",
-     "text": "Azygos vein"
-    }
-   ],
-   "correctAnswer": "C",
-   "explanation": {
-    "summary": "The thoracic duct empties abdominal lymph into the left subclavian vein.",
-    "whyCorrect": "The thoracic duct continues from the cisterna chyli, ascends through the thorax, and drains lymph from the abdomen and most of the body into the left subclavian vein (near its junction with the internal jugular vein).",
-    "whyWrongByChoice": {
-     "A": "The right subclavian vein receives the right lymphatic duct, which drains only the right upper body, not the abdomen.",
-     "B": "The thoracic duct empties into the subclavian venous system, not directly into the SVC.",
-     "D": "Portal blood, not thoracic duct lymph, ultimately returns via the IVC after passing through the liver.",
-     "E": "The azygos vein drains thoracic wall/venous blood and is not the termination of the thoracic duct."
-    }
-   },
-   "difficulty": "easy",
-   "imageRef": null,
-   "tags": [
-    "lymphatics",
-    "thoracic-duct"
-   ]
-  },
-  {
-   "id": "gi-blood-supply-innervation-004",
-   "topicId": "gi-blood-supply-innervation",
-   "topicName": "GI Blood Supply and Innervation",
-   "stem": "A 45-year-old man with a peptic ulcer of the gastric body describes dull, poorly localized pain. Based on the visceral referred pain pattern of the foregut, in which region is his pain most likely felt?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Epigastric region"
-    },
-    {
-     "label": "B",
-     "text": "Periumbilical region"
-    },
-    {
-     "label": "C",
-     "text": "Suprapubic region"
-    },
-    {
-     "label": "D",
-     "text": "Right lower quadrant"
-    },
-    {
-     "label": "E",
-     "text": "Left shoulder tip"
-    }
-   ],
-   "correctAnswer": "A",
-   "explanation": {
-    "summary": "Foregut visceral pain is referred to the epigastric region (T5-T9).",
-    "whyCorrect": "Foregut afferents enter the spinal cord at levels T5-T9, so poorly localized visceral pain from the stomach is referred to the epigastric region.",
-    "whyWrongByChoice": {
-     "B": "Periumbilical referred pain corresponds to the midgut (T10-T11), not the stomach.",
-     "C": "Suprapubic referred pain corresponds to the hindgut (T12-L2).",
-     "D": "Right lower quadrant pain is somatic/parietal (e.g., appendicitis after peritoneal irritation), not foregut visceral referral.",
-     "E": "Left shoulder tip pain reflects diaphragmatic (phrenic, C3-C5) irritation, not foregut gastric referral."
-    }
-   },
-   "difficulty": "easy",
-   "imageRef": null,
-   "tags": [
-    "referred-pain",
-    "foregut",
-    "dermatomes"
-   ]
-  },
-  {
-   "id": "gi-blood-supply-innervation-005",
-   "topicId": "gi-blood-supply-innervation",
-   "topicName": "GI Blood Supply and Innervation",
-   "stem": "During an appendectomy, the surgeon isolates the primary artery supplying the appendix. This vessel is a terminal branch of which artery?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Middle colic artery"
-    },
-    {
-     "label": "B",
-     "text": "Superior rectal artery"
-    },
-    {
-     "label": "C",
-     "text": "Left colic artery"
-    },
-    {
-     "label": "D",
-     "text": "Right colic artery"
-    },
-    {
-     "label": "E",
-     "text": "Ileocolic artery"
-    }
-   ],
-   "correctAnswer": "E",
-   "explanation": {
-    "summary": "The appendicular artery is a terminal branch of the ileocolic artery.",
-    "whyCorrect": "The appendicular artery, which runs in the mesoappendix, is the primary blood supply of the appendix and arises as a terminal branch of the ileocolic artery (an SMA branch).",
-    "whyWrongByChoice": {
-     "A": "The middle colic artery supplies the transverse colon.",
-     "B": "The superior rectal artery is an IMA branch supplying the upper rectum, part of the hindgut.",
-     "C": "The left colic artery is an IMA branch supplying the descending colon.",
-     "D": "The right colic artery supplies the ascending colon, not the appendix."
-    }
-   },
-   "difficulty": "easy",
-   "imageRef": null,
-   "tags": [
-    "arterial-supply",
-    "appendix",
-    "ileocolic"
-   ]
-  },
-  {
-   "id": "gi-blood-supply-innervation-006",
-   "topicId": "gi-blood-supply-innervation",
-   "topicName": "GI Blood Supply and Innervation",
-   "stem": "A 72-year-old woman with atrial fibrillation who stopped her anticoagulation develops sudden, severe, diffuse abdominal pain that is out of proportion to physical exam findings. A cardioembolus is suspected to have occluded a mesenteric artery. Which artery is most commonly occluded in this scenario?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Celiac trunk"
-    },
-    {
-     "label": "B",
-     "text": "Superior mesenteric artery"
-    },
-    {
-     "label": "C",
-     "text": "Inferior mesenteric artery"
-    },
-    {
-     "label": "D",
-     "text": "Splenic artery"
-    },
-    {
-     "label": "E",
-     "text": "Gastroduodenal artery"
-    }
-   ],
-   "correctAnswer": "B",
-   "explanation": {
-    "summary": "Cardioemboli most commonly lodge in the SMA, causing acute mesenteric ischemia.",
-    "whyCorrect": "The SMA has a large diameter, high blood flow, and a shallow (oblique) takeoff angle from the aorta, so emboli preferentially lodge there; occlusion can necrose the entire midgut.",
-    "whyWrongByChoice": {
-     "A": "The celiac trunk arises at a steeper angle and is less commonly embolized than the SMA.",
-     "C": "The IMA is smaller with lower flow and is a less common embolic target.",
-     "D": "The splenic artery embolus causes splenic infarct, not the classic diffuse midgut ischemia described.",
-     "E": "The gastroduodenal artery is a smaller foregut branch and is not the typical site of cardioembolic occlusion."
-    }
-   },
-   "difficulty": "medium",
-   "imageRef": null,
-   "tags": [
-    "ischemia",
-    "SMA",
-    "embolism"
-   ]
-  },
-  {
-   "id": "gi-blood-supply-innervation-007",
-   "topicId": "gi-blood-supply-innervation",
-   "topicName": "GI Blood Supply and Innervation",
-   "stem": "A 68-year-old man develops crampy left-sided abdominal pain and bloody diarrhea after an episode of hypotension during cardiac surgery. Colonoscopy shows mucosal ischemia in a watershed region located at the junction of the SMA and IMA territories. Which colonic site is most likely affected?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Cecum"
-    },
-    {
-     "label": "B",
-     "text": "Hepatic flexure"
-    },
-    {
-     "label": "C",
-     "text": "Splenic flexure"
-    },
-    {
-     "label": "D",
-     "text": "Mid-ascending colon"
-    },
-    {
-     "label": "E",
-     "text": "Proximal transverse colon"
-    }
-   ],
-   "correctAnswer": "C",
-   "explanation": {
-    "summary": "The splenic flexure is a watershed area between SMA and IMA territories, prone to ischemic colitis.",
-    "whyCorrect": "The splenic flexure lies at the border of the SMA (midgut) and IMA (hindgut) supply with limited collateral circulation, making it vulnerable to ischemia during hypoperfusion.",
-    "whyWrongByChoice": {
-     "A": "The cecum is well within the SMA (ileocolic) territory and is not a watershed zone.",
-     "B": "The hepatic flexure is supplied by the SMA and is relatively protected compared with the splenic flexure.",
-     "D": "The mid-ascending colon is squarely within SMA territory.",
-     "E": "The proximal transverse colon is midgut/SMA supplied; the watershed is at the distal (splenic flexure) transition."
-    }
-   },
-   "difficulty": "medium",
-   "imageRef": null,
-   "tags": [
-    "watershed",
-    "ischemia",
-    "splenic-flexure"
-   ]
-  },
-  {
-   "id": "gi-blood-supply-innervation-008",
-   "topicId": "gi-blood-supply-innervation",
-   "topicName": "GI Blood Supply and Innervation",
-   "stem": "A researcher stimulates the parasympathetic nerve that innervates the foregut and midgut as far distal as the proximal two-thirds of the transverse colon. Which nerve is being stimulated?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Pelvic splanchnic nerves"
-    },
-    {
-     "label": "B",
-     "text": "Greater splanchnic nerve"
-    },
-    {
-     "label": "C",
-     "text": "Lumbar splanchnic nerves"
-    },
-    {
-     "label": "D",
-     "text": "Vagus nerve"
-    },
-    {
-     "label": "E",
-     "text": "Least splanchnic nerve"
-    }
-   ],
-   "correctAnswer": "D",
-   "explanation": {
-    "summary": "The vagus nerve provides parasympathetic innervation to the foregut and midgut.",
-    "whyCorrect": "The vagus nerve (CN X) supplies parasympathetic input to foregut and midgut structures up to the proximal two-thirds of the transverse colon; roughly 75% of its fibers are parasympathetic.",
-    "whyWrongByChoice": {
-     "A": "Pelvic splanchnic nerves (S2-S4) provide parasympathetic input to the hindgut, not foregut/midgut.",
-     "B": "The greater splanchnic nerve carries sympathetic fibers to the foregut, not parasympathetic.",
-     "C": "Lumbar splanchnic nerves carry sympathetic fibers.",
-     "E": "The least splanchnic nerve is sympathetic and supplies the renal plexus, not GI parasympathetics."
-    }
-   },
-   "difficulty": "medium",
-   "imageRef": null,
-   "tags": [
-    "innervation",
-    "parasympathetic",
-    "vagus"
-   ]
-  },
-  {
-   "id": "gi-blood-supply-innervation-009",
-   "topicId": "gi-blood-supply-innervation",
-   "topicName": "GI Blood Supply and Innervation",
-   "stem": "A patient with a spinal cord injury has lost parasympathetic control of the descending colon, sigmoid colon, and upper rectum. Injury to which nerves, arising from spinal levels S2-S4, best explains this hindgut deficit?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Pelvic splanchnic nerves"
-    },
-    {
-     "label": "B",
-     "text": "Vagus nerve"
-    },
-    {
-     "label": "C",
-     "text": "Greater splanchnic nerve"
-    },
-    {
-     "label": "D",
-     "text": "Lumbar splanchnic nerves"
-    },
-    {
-     "label": "E",
-     "text": "Phrenic nerve"
-    }
-   ],
-   "correctAnswer": "A",
-   "explanation": {
-    "summary": "Hindgut parasympathetic innervation comes from the pelvic splanchnic nerves (S2-S4).",
-    "whyCorrect": "The pelvic splanchnic nerves carry sacral (S2-S4) parasympathetic fibers to hindgut structures, including the distal transverse colon through the upper rectum. Remember the 'two Ps': pelvic splanchnics are Parasympathetic.",
-    "whyWrongByChoice": {
-     "B": "The vagus supplies foregut and midgut parasympathetics, stopping at the proximal two-thirds of the transverse colon.",
-     "C": "The greater splanchnic nerve is sympathetic.",
-     "D": "Lumbar splanchnic nerves are sympathetic.",
-     "E": "The phrenic nerve is motor/sensory to the diaphragm, not a GI parasympathetic nerve."
-    }
-   },
-   "difficulty": "medium",
-   "imageRef": null,
-   "tags": [
-    "innervation",
-    "parasympathetic",
-    "hindgut",
-    "pelvic-splanchnic"
-   ]
-  },
-  {
-   "id": "gi-blood-supply-innervation-010",
-   "topicId": "gi-blood-supply-innervation",
-   "topicName": "GI Blood Supply and Innervation",
-   "stem": "An anatomy exam asks how the hepatic portal vein is principally formed. The confluence of which two veins is the primary origin of the portal vein?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Inferior mesenteric vein and left gastric vein"
-    },
-    {
-     "label": "B",
-     "text": "Left gastric vein and splenic vein"
-    },
-    {
-     "label": "C",
-     "text": "Superior mesenteric vein and inferior mesenteric vein"
-    },
-    {
-     "label": "D",
-     "text": "Right and left hepatic veins"
-    },
-    {
-     "label": "E",
-     "text": "Splenic vein and superior mesenteric vein"
-    }
-   ],
-   "correctAnswer": "E",
-   "explanation": {
-    "summary": "The portal vein is formed mainly by the union of the splenic vein and the superior mesenteric vein.",
-    "whyCorrect": "The SMV (draining the midgut) and the splenic vein (which often receives the IMV) unite posterior to the pancreatic neck to form the portal vein, carrying GI blood to the liver.",
-    "whyWrongByChoice": {
-     "A": "The IMV typically drains into the splenic vein; it does not join the left gastric vein to form the portal vein.",
-     "B": "The left gastric vein drains into the portal vein but is not one of the two principal tributaries forming it.",
-     "C": "The IMV usually joins the splenic vein rather than uniting directly with the SMV to form the portal vein.",
-     "D": "The hepatic veins drain the liver into the IVC and are unrelated to portal vein formation."
-    }
-   },
-   "difficulty": "medium",
-   "imageRef": null,
-   "tags": [
-    "portal-drainage",
-    "portal-vein",
-    "venous"
-   ]
-  },
-  {
-   "id": "gi-blood-supply-innervation-011",
-   "topicId": "gi-blood-supply-innervation",
-   "topicName": "GI Blood Supply and Innervation",
-   "stem": "A 55-year-old man with alcoholic cirrhosis has dilated, tortuous subcutaneous veins radiating from his umbilicus. This finding results from recanalization of the umbilical vein (via the round ligament) shunting portal blood into superficial abdominal wall veins. What is this finding called?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Esophageal varices"
-    },
-    {
-     "label": "B",
-     "text": "Rectal varices"
-    },
-    {
-     "label": "C",
-     "text": "Caput medusae"
-    },
-    {
-     "label": "D",
-     "text": "Splenomegaly"
-    },
-    {
-     "label": "E",
-     "text": "Retroperitoneal varices"
-    }
-   ],
-   "correctAnswer": "C",
-   "explanation": {
-    "summary": "Recanalization of the umbilical vein in portal hypertension produces caput medusae.",
-    "whyCorrect": "Elevated portal pressure reopens the umbilical vein via the round ligament (ligamentum teres), shunting blood into the superficial periumbilical veins and creating the radiating pattern known as caput medusae.",
-    "whyWrongByChoice": {
-     "A": "Esophageal varices arise from the left gastric-to-esophageal portosystemic anastomosis, not the periumbilical veins.",
-     "B": "Rectal varices arise from the superior-to-middle/inferior rectal vein anastomosis.",
-     "D": "Splenomegaly is congestive enlargement of the spleen, not the abdominal wall vein finding described.",
-     "E": "Retroperitoneal varices are internal collaterals and do not produce the visible periumbilical pattern."
-    }
-   },
-   "difficulty": "hard",
-   "imageRef": null,
-   "tags": [
-    "portal-hypertension",
-    "portosystemic-anastomosis",
-    "caput-medusae"
-   ]
-  },
-  {
-   "id": "gi-blood-supply-innervation-012",
-   "topicId": "gi-blood-supply-innervation",
-   "topicName": "GI Blood Supply and Innervation",
-   "stem": "A physiology instructor asks why pain from an inflamed abdominal viscus is frequently perceived at a distant body-wall location. Which mechanism best explains referred pain?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Visceral afferents enter the spinal cord at the same levels as somatic afferents, and the brain misattributes the signal to the somatic dermatome"
-    },
-    {
-     "label": "B",
-     "text": "Visceral afferents enter the spinal cord through the ventral roots"
-    },
-    {
-     "label": "C",
-     "text": "Visceral afferents travel entirely independently of autonomic pathways"
-    },
-    {
-     "label": "D",
-     "text": "Visceral afferents are precisely localized to individual organs without any overlap"
-    },
-    {
-     "label": "E",
-     "text": "Somatic afferents synapse directly on postganglionic sympathetic neurons"
-    }
-   ],
-   "correctAnswer": "A",
-   "explanation": {
-    "summary": "Referred pain arises because visceral and somatic afferents converge at the same spinal cord levels.",
-    "whyCorrect": "Both visceral and somatic afferents enter the cord through the dorsal roots at shared spinal levels; the CNS cannot distinguish the source, so visceral pain is felt in the corresponding somatic dermatome.",
-    "whyWrongByChoice": {
-     "B": "Afferent (sensory) fibers enter through the dorsal roots, not the ventral (motor) roots.",
-     "C": "Visceral afferents actually travel alongside autonomic fibers, which is part of the pathway that enables referral.",
-     "D": "Visceral afferents are poorly localized with substantial convergence, which is precisely why pain is referred.",
-     "E": "Somatic afferents are sensory and do not synapse on postganglionic sympathetic neurons; this does not explain referred pain."
-    }
-   },
-   "difficulty": "hard",
-   "imageRef": null,
-   "tags": [
-    "referred-pain",
-    "afferents",
-    "dorsal-root"
-   ]
-  },
-  {
-   "id": "gi-blood-supply-innervation-013",
-   "topicId": "gi-blood-supply-innervation",
-   "topicName": "GI Blood Supply and Innervation",
-   "stem": "A 63-year-old man with unresectable pancreatic adenocarcinoma has intractable visceral upper abdominal pain that is poorly controlled with opioids. A procedure that permanently destroys the plexus surrounding the celiac trunk with injected alcohol is planned. What is this procedure?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Vagotomy"
-    },
-    {
-     "label": "B",
-     "text": "Celiac plexus neurolysis"
-    },
-    {
-     "label": "C",
-     "text": "Pelvic splanchnic nerve block"
-    },
-    {
-     "label": "D",
-     "text": "Bilateral L1-L2 sympathectomy"
-    },
-    {
-     "label": "E",
-     "text": "Transversus abdominis plane block"
-    }
-   ],
-   "correctAnswer": "B",
-   "explanation": {
-    "summary": "Celiac plexus neurolysis with alcohol relieves intractable visceral foregut pain.",
-    "whyCorrect": "The celiac plexus transmits visceral afferent pain from foregut structures including the pancreas; injecting alcohol permanently destroys the plexus, providing durable relief in pancreatic cancer.",
-    "whyWrongByChoice": {
-     "A": "Vagotomy severs parasympathetic (efferent) vagal fibers to reduce acid secretion; it is not used for pancreatic cancer pain neurolysis.",
-     "C": "Pelvic splanchnic blocks target hindgut/pelvic parasympathetics, not foregut visceral pain.",
-     "D": "L1-L2 sympathectomy is not the standard procedure for foregut visceral pain; the celiac plexus is the target.",
-     "E": "A TAP block anesthetizes the anterior abdominal wall (somatic), not visceral foregut afferents."
-    }
-   },
-   "difficulty": "hard",
-   "imageRef": null,
-   "tags": [
-    "innervation",
-    "celiac-plexus",
-    "pain-management"
-   ]
-  },
-  {
-   "id": "gi-blood-supply-innervation-014",
-   "topicId": "gi-blood-supply-innervation",
-   "topicName": "GI Blood Supply and Innervation",
-   "stem": "A 60-year-old man with weight loss and early satiety is found to have gastric adenocarcinoma. On exam, a firm, enlarged lymph node is palpated just above the left clavicle. Enlargement of which lymph node does this represent?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Right supraclavicular node"
-    },
-    {
-     "label": "B",
-     "text": "Axillary node"
-    },
-    {
-     "label": "C",
-     "text": "Inguinal node"
-    },
-    {
-     "label": "D",
-     "text": "Periumbilical (Sister Mary Joseph) node"
-    },
-    {
-     "label": "E",
-     "text": "Left supraclavicular (Virchow) node"
-    }
-   ],
-   "correctAnswer": "E",
-   "explanation": {
-    "summary": "A left supraclavicular (Virchow) node enlarged by abdominal malignancy is the Troisier sign.",
-    "whyCorrect": "The Virchow node sits near the thoracic duct termination at the left subclavian vein; metastatic abdominal cancer (e.g., gastric) can seed it, producing a palpable left supraclavicular node (Troisier sign).",
-    "whyWrongByChoice": {
-     "A": "The right supraclavicular node drains the right lymphatic duct territory (right thorax/upper body), not the abdomen.",
-     "B": "Axillary nodes drain the upper limb and breast, not gastric lymphatics.",
-     "C": "Inguinal nodes drain the lower limb and perineum.",
-     "D": "A periumbilical node (Sister Mary Joseph nodule) is also a metastatic sign, but the described location is the left supraclavicular Virchow node."
-    }
-   },
-   "difficulty": "hard",
-   "imageRef": null,
-   "tags": [
-    "lymphatics",
-    "Virchow-node",
-    "metastasis"
-   ]
-  },
-  {
-   "id": "gi-blood-supply-innervation-015",
-   "topicId": "gi-blood-supply-innervation",
-   "topicName": "GI Blood Supply and Innervation",
-   "stem": "During bowel resection, a surgeon distinguishes jejunum from ileum by inspecting the mesenteric vasculature. Which vascular feature is characteristic of the jejunum?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Short vasa recta with numerous arterial arcades"
-    },
-    {
-     "label": "B",
-     "text": "Short vasa recta with a single arterial arcade"
-    },
-    {
-     "label": "C",
-     "text": "Absence of vasa recta"
-    },
-    {
-     "label": "D",
-     "text": "Long vasa recta with few arterial arcades"
-    },
-    {
-     "label": "E",
-     "text": "Direct arterial supply from the IMA"
-    }
-   ],
-   "correctAnswer": "D",
-   "explanation": {
-    "summary": "The jejunum has long vasa recta and few arterial arcades.",
-    "whyCorrect": "The jejunum is characterized by long vasa recta and fewer, larger arcades, providing greater perfusion; the ileum has short vasa recta and more numerous arcades.",
-    "whyWrongByChoice": {
-     "A": "Short vasa recta with numerous arcades describes the ileum, not the jejunum.",
-     "B": "A single arcade with short vasa recta does not describe the jejunum's long vasa recta pattern.",
-     "C": "Both jejunum and ileum have vasa recta; they are not absent.",
-     "E": "Both jejunum and ileum are midgut and supplied by the SMA, not the IMA."
-    }
-   },
-   "difficulty": "medium",
-   "imageRef": null,
-   "tags": [
-    "arterial-supply",
-    "jejunum",
-    "ileum",
-    "vasa-recta"
-   ]
-  },
-  {
-   "id": "gi-blood-supply-innervation-016",
-   "topicId": "gi-blood-supply-innervation",
-   "topicName": "GI Blood Supply and Innervation",
-   "stem": "A 16-year-old presents with abdominal pain that began around the umbilicus and later migrated to the right lower quadrant, with fever and leukocytosis. Which mechanism best explains why the EARLY pain was localized to the periumbilical region?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Visceral referred pain from the midgut appendix enters the cord at the T10 level"
-    },
-    {
-     "label": "B",
-     "text": "Somatic afferents from the parietal peritoneum were directly stimulated"
-    },
-    {
-     "label": "C",
-     "text": "Foregut afferents referred pain to the periumbilical dermatome"
-    },
-    {
-     "label": "D",
-     "text": "Phrenic nerve irritation referred pain to the umbilicus"
-    },
-    {
-     "label": "E",
-     "text": "Hindgut afferents entering at T12-L2 caused periumbilical pain"
-    }
-   ],
-   "correctAnswer": "A",
-   "explanation": {
-    "summary": "Early appendicitis pain is periumbilical because it is midgut visceral referred pain at T10.",
-    "whyCorrect": "The appendix is a midgut structure; its visceral afferents enter the cord around T10, so early inflammation produces diffuse periumbilical (T10 dermatome) referred pain before the parietal peritoneum is involved.",
-    "whyWrongByChoice": {
-     "B": "Parietal peritoneal (somatic) stimulation causes the LATER, sharply localized RLQ pain, not the early periumbilical pain.",
-     "C": "Foregut afferents (T5-T9) refer to the epigastrium, not the umbilicus, and the appendix is not foregut.",
-     "D": "Phrenic nerve (C3-C5) irritation refers pain to the shoulder, not the umbilicus.",
-     "E": "Hindgut afferents (T12-L2) refer to the suprapubic region; the appendix is midgut, not hindgut."
-    }
-   },
-   "difficulty": "hard",
-   "imageRef": null,
-   "tags": [
-    "referred-pain",
-    "appendicitis",
-    "midgut"
-   ]
-  },
-  {
-   "id": "gi-blood-supply-innervation-017",
-   "topicId": "gi-blood-supply-innervation",
-   "topicName": "GI Blood Supply and Innervation",
-   "stem": "A 50-year-old man with cirrhosis has hematemesis from bleeding submucosal veins of the distal esophagus. Elevated portal pressure is transmitted to the esophageal veins primarily through which vein?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Splenic vein"
-    },
-    {
-     "label": "B",
-     "text": "Left gastric vein"
-    },
-    {
-     "label": "C",
-     "text": "Superior mesenteric vein"
-    },
-    {
-     "label": "D",
-     "text": "Inferior mesenteric vein"
-    },
-    {
-     "label": "E",
-     "text": "Paraumbilical vein"
-    }
-   ],
-   "correctAnswer": "B",
-   "explanation": {
-    "summary": "Esophageal varices form via portal pressure transmitted through the left gastric (coronary) vein.",
-    "whyCorrect": "The left gastric vein drains into the portal vein and anastomoses with esophageal veins of the azygos system; portal hypertension backs up into these submucosal esophageal veins, producing varices that can bleed.",
-    "whyWrongByChoice": {
-     "A": "The splenic vein contributes to portal pressure but does not directly connect to the distal esophageal veins responsible for varices.",
-     "C": "The SMV drains the midgut and is not the direct route to esophageal varices.",
-     "D": "The IMV drains the hindgut and is associated with rectal, not esophageal, varices.",
-     "E": "The paraumbilical vein is the route for caput medusae, not esophageal varices."
-    }
-   },
-   "difficulty": "medium",
-   "imageRef": null,
-   "tags": [
-    "portal-hypertension",
-    "esophageal-varices",
-    "left-gastric-vein"
-   ]
-  },
-  {
-   "id": "gi-blood-supply-innervation-018",
-   "topicId": "gi-blood-supply-innervation",
-   "topicName": "GI Blood Supply and Innervation",
-   "stem": "A pharmacology student is reviewing autonomic effects on the gut. Increased sympathetic activity to the GI tract produces which set of effects?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Increased motility, increased secretion, increased blood flow"
-    },
-    {
-     "label": "B",
-     "text": "Increased motility, decreased secretion, increased blood flow"
-    },
-    {
-     "label": "C",
-     "text": "Decreased motility, decreased secretion, decreased blood flow"
-    },
-    {
-     "label": "D",
-     "text": "Decreased motility, increased secretion, decreased blood flow"
-    },
-    {
-     "label": "E",
-     "text": "No effect on motility, increased blood flow, increased secretion"
-    }
-   ],
-   "correctAnswer": "C",
-   "explanation": {
-    "summary": "Sympathetic activation decreases GI motility, secretion, and blood flow.",
-    "whyCorrect": "Sympathetic ('fight or flight') input opposes the parasympathetic 'rest and digest' state, reducing GI motility, secretion, and mucosal blood flow while promoting sphincter contraction.",
-    "whyWrongByChoice": {
-     "A": "Increased motility, secretion, and blood flow describe parasympathetic, not sympathetic, effects.",
-     "B": "This mixes increased motility/blood flow (parasympathetic-like) with decreased secretion, which is inconsistent.",
-     "D": "Sympathetic activity decreases, not increases, secretion.",
-     "E": "Sympathetic input decreases blood flow and secretion and does reduce motility; it is not neutral."
-    }
-   },
-   "difficulty": "medium",
-   "imageRef": null,
-   "tags": [
-    "innervation",
-    "sympathetic",
-    "autonomic-effects"
-   ]
-  },
-  {
-   "id": "gi-blood-supply-innervation-019",
-   "topicId": "gi-blood-supply-innervation",
-   "topicName": "GI Blood Supply and Innervation",
-   "stem": "An examiner asks a student to name a primary branch of the celiac trunk. Which of the following is a direct branch of the celiac trunk?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Superior mesenteric artery"
-    },
-    {
-     "label": "B",
-     "text": "Inferior mesenteric artery"
-    },
-    {
-     "label": "C",
-     "text": "Ileocolic artery"
-    },
-    {
-     "label": "D",
-     "text": "Middle colic artery"
-    },
-    {
-     "label": "E",
-     "text": "Splenic artery"
-    }
-   ],
-   "correctAnswer": "E",
-   "explanation": {
-    "summary": "The celiac trunk gives rise to the left gastric, splenic, and common hepatic arteries.",
-    "whyCorrect": "The splenic artery is one of the three primary branches of the celiac trunk (along with the left gastric and common hepatic arteries), supplying the spleen, pancreas, and parts of the stomach.",
-    "whyWrongByChoice": {
-     "A": "The SMA is a separate unpaired aortic branch, not a branch of the celiac trunk.",
-     "B": "The IMA is a separate unpaired aortic branch supplying the hindgut.",
-     "C": "The ileocolic artery is a branch of the SMA.",
-     "D": "The middle colic artery is a branch of the SMA."
-    }
-   },
-   "difficulty": "easy",
-   "imageRef": null,
-   "tags": [
-    "arterial-supply",
-    "celiac-trunk",
-    "branches"
-   ]
-  },
-  {
-   "id": "gi-blood-supply-innervation-020",
-   "topicId": "gi-blood-supply-innervation",
-   "topicName": "GI Blood Supply and Innervation",
-   "stem": "An interventional radiologist notes that cardioemboli travel down the aorta and preferentially enter one mesenteric artery. Which combination of anatomic features best explains why the SMA is the most common site of embolic lodgment?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Small diameter, low flow, and a perpendicular takeoff angle"
-    },
-    {
-     "label": "B",
-     "text": "Large diameter, low flow, and a steep downward takeoff angle"
-    },
-    {
-     "label": "C",
-     "text": "Small diameter, high flow, and a horizontal takeoff angle"
-    },
-    {
-     "label": "D",
-     "text": "Large diameter, high flow, and a shallow (oblique) takeoff angle from the aorta"
-    },
-    {
-     "label": "E",
-     "text": "Absence of collateral circulation and a right-angle takeoff"
-    }
-   ],
-   "correctAnswer": "D",
-   "explanation": {
-    "summary": "The SMA's large caliber, high flow, and shallow takeoff angle make it the favored embolic site.",
-    "whyCorrect": "Because the SMA branches from the aorta at a shallow oblique angle with a large diameter and high blood flow, emboli carried by the aortic stream easily enter and lodge in it, causing acute mesenteric ischemia.",
-    "whyWrongByChoice": {
-     "A": "The SMA is large with high flow, not small with low flow, and its angle is oblique, not perpendicular.",
-     "B": "The SMA has high flow, not low flow, and a shallow rather than steep downward angle.",
-     "C": "The SMA is large-caliber, not small, though it does have high flow.",
-     "E": "The mesenteric circulation has collateral pathways (e.g., marginal artery), and the SMA takeoff is oblique, not a right angle."
-    }
-   },
-   "difficulty": "medium",
-   "imageRef": null,
-   "tags": [
-    "ischemia",
-    "SMA",
-    "embolism",
-    "anatomy"
    ]
   },
   {
@@ -4659,939 +6511,6 @@
     "ectopic-gastric-mucosa",
     "diagnosis",
     "imaging"
-   ]
-  },
-  {
-   "id": "femoral-inguinal-anatomy-001",
-   "topicId": "femoral-inguinal-anatomy",
-   "topicName": "Anatomy of the Femoral and Inguinal Regions",
-   "stem": "A 62-year-old man in the ICU needs femoral venous access after peripheral sites are exhausted. The intern palpates the pulsating femoral artery in the femoral triangle just below the inguinal ligament. To cannulate the femoral vein safely, in which direction should the needle be advanced relative to the palpated arterial pulse?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Just medial to the femoral artery"
-    },
-    {
-     "label": "B",
-     "text": "Just lateral to the femoral artery"
-    },
-    {
-     "label": "C",
-     "text": "Directly through the center of the arterial pulse"
-    },
-    {
-     "label": "D",
-     "text": "Lateral to the femoral nerve"
-    },
-    {
-     "label": "E",
-     "text": "Superior to the inguinal ligament"
-    }
-   ],
-   "correctAnswer": "A",
-   "explanation": {
-    "summary": "Within the femoral triangle the order from lateral to medial is Nerve, Artery, Vein (NAVEL).",
-    "whyCorrect": "The femoral vein lies immediately medial to the femoral artery, so the needle is inserted just medial to the palpated pulse to enter the vein.",
-    "whyWrongByChoice": {
-     "B": "Lateral to the artery lies the femoral nerve, not the vein, risking nerve injury.",
-     "C": "Advancing through the pulse punctures the artery itself and can cause arterial bleeding or pseudoaneurysm.",
-     "D": "The femoral nerve is the most lateral structure; going lateral to it moves away from the vein entirely.",
-     "E": "Access is taken below the inguinal ligament in the femoral triangle; going superior enters the abdomen/pelvis."
-    }
-   },
-   "difficulty": "easy",
-   "imageRef": null,
-   "tags": [
-    "femoral-triangle",
-    "femoral-vein",
-    "vascular-access",
-    "NAVEL"
-   ]
-  },
-  {
-   "id": "femoral-inguinal-anatomy-002",
-   "topicId": "femoral-inguinal-anatomy",
-   "topicName": "Anatomy of the Femoral and Inguinal Regions",
-   "stem": "During an open inguinal hernia repair, the surgeon incises the tough aponeurotic sheet that forms the most superficial (anterior) wall of the inguinal canal to expose the cord. Which structure is being divided?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Transversalis fascia"
-    },
-    {
-     "label": "B",
-     "text": "External oblique aponeurosis"
-    },
-    {
-     "label": "C",
-     "text": "Internal oblique and transversus abdominis"
-    },
-    {
-     "label": "D",
-     "text": "Inguinal and lacunar ligaments"
-    },
-    {
-     "label": "E",
-     "text": "Peritoneum"
-    }
-   ],
-   "correctAnswer": "B",
-   "explanation": {
-    "summary": "The inguinal canal has four walls; the anterior wall is formed mainly by the external oblique aponeurosis.",
-    "whyCorrect": "The anterior wall of the inguinal canal is derived predominantly from the external oblique aponeurosis, which is the first firm layer incised to enter the canal.",
-    "whyWrongByChoice": {
-     "A": "The transversalis fascia forms the posterior wall of the canal, not the anterior wall.",
-     "C": "The internal oblique and transversus abdominis form the roof of the canal.",
-     "D": "The inguinal and lacunar ligaments form the floor of the canal.",
-     "E": "The peritoneum lies deep to the transversalis fascia and is not a wall of the canal."
-    }
-   },
-   "difficulty": "medium",
-   "imageRef": null,
-   "tags": [
-    "inguinal-canal",
-    "walls",
-    "external-oblique",
-    "surgical-anatomy"
-   ]
-  },
-  {
-   "id": "femoral-inguinal-anatomy-003",
-   "topicId": "femoral-inguinal-anatomy",
-   "topicName": "Anatomy of the Femoral and Inguinal Regions",
-   "stem": "An anatomy student is asked to define the deep inguinal ring, the entrance to the inguinal canal. The deep inguinal ring is an opening in which layer, and where does it lie relative to the inferior epigastric vessels?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "External oblique aponeurosis, medial to the inferior epigastric vessels"
-    },
-    {
-     "label": "B",
-     "text": "Internal oblique, lateral to the femoral vessels"
-    },
-    {
-     "label": "C",
-     "text": "Transversalis fascia, lateral to the inferior epigastric vessels"
-    },
-    {
-     "label": "D",
-     "text": "Peritoneum, lateral to the deep circumflex iliac vessels"
-    },
-    {
-     "label": "E",
-     "text": "External oblique aponeurosis, above the pubic crest"
-    }
-   ],
-   "correctAnswer": "C",
-   "explanation": {
-    "summary": "The deep inguinal ring is an evagination of transversalis fascia lateral to the inferior epigastric vessels.",
-    "whyCorrect": "The deep (internal) inguinal ring is an opening in the transversalis fascia located just lateral to the inferior epigastric vessels, which is why indirect hernias emerge lateral to those vessels.",
-    "whyWrongByChoice": {
-     "A": "The external oblique aponeurosis contains the superficial ring, not the deep ring, and the deep ring is lateral (not medial) to the inferior epigastric vessels.",
-     "B": "The deep ring lies in transversalis fascia, and its landmark is the inferior epigastric (not femoral) vessels.",
-     "D": "The deep ring is a defect in transversalis fascia, not peritoneum, and its landmark is the inferior epigastric vessels.",
-     "E": "An opening in the external oblique aponeurosis above the pubic crest describes the superficial inguinal ring."
-    }
-   },
-   "difficulty": "medium",
-   "imageRef": null,
-   "tags": [
-    "deep-inguinal-ring",
-    "transversalis-fascia",
-    "inferior-epigastric",
-    "landmarks"
-   ]
-  },
-  {
-   "id": "femoral-inguinal-anatomy-004",
-   "topicId": "femoral-inguinal-anatomy",
-   "topicName": "Anatomy of the Femoral and Inguinal Regions",
-   "stem": "A 5-month-old boy has a reducible groin bulge that extends toward the scrotum. At operation the hernia sac is found to originate at the deep inguinal ring and traverse the inguinal canal. What is the relationship of this hernia to the inferior epigastric vessels?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Medial to the inferior epigastric vessels, through Hesselbach triangle"
-    },
-    {
-     "label": "B",
-     "text": "Below the inguinal ligament, through the femoral canal"
-    },
-    {
-     "label": "C",
-     "text": "Medial to the femoral vein, within the femoral sheath"
-    },
-    {
-     "label": "D",
-     "text": "Lateral to the inferior epigastric vessels, through the deep inguinal ring"
-    },
-    {
-     "label": "E",
-     "text": "Through the linea alba above the umbilicus"
-    }
-   ],
-   "correctAnswer": "D",
-   "explanation": {
-    "summary": "An indirect inguinal hernia passes through the deep ring, which sits lateral to the inferior epigastric vessels.",
-    "whyCorrect": "Because the deep inguinal ring lies lateral to the inferior epigastric vessels, an indirect hernia (as in this infant with a persistent processus vaginalis) travels lateral to those vessels down the canal toward the scrotum.",
-    "whyWrongByChoice": {
-     "A": "Passage medial to the inferior epigastric vessels through Hesselbach triangle describes a direct inguinal hernia.",
-     "B": "Passage below the inguinal ligament through the femoral canal describes a femoral hernia.",
-     "C": "Being medial to the femoral vein within the femoral sheath describes a femoral hernia, not one through the canal.",
-     "E": "A defect through the linea alba describes a ventral/epigastric hernia, not an inguinal hernia."
-    }
-   },
-   "difficulty": "medium",
-   "imageRef": null,
-   "tags": [
-    "indirect-inguinal-hernia",
-    "deep-ring",
-    "inferior-epigastric",
-    "pediatric"
-   ]
-  },
-  {
-   "id": "femoral-inguinal-anatomy-005",
-   "topicId": "femoral-inguinal-anatomy",
-   "topicName": "Anatomy of the Femoral and Inguinal Regions",
-   "stem": "A surgeon exposes the femoral triangle to explore a groin mass. Which muscle forms the medial border of the femoral triangle?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Inguinal ligament"
-    },
-    {
-     "label": "B",
-     "text": "Sartorius"
-    },
-    {
-     "label": "C",
-     "text": "Femoral vein"
-    },
-    {
-     "label": "D",
-     "text": "Rectus abdominis"
-    },
-    {
-     "label": "E",
-     "text": "Adductor longus"
-    }
-   ],
-   "correctAnswer": "E",
-   "explanation": {
-    "summary": "The femoral triangle is bounded by the inguinal ligament, sartorius, and adductor longus.",
-    "whyCorrect": "The medial border of the femoral triangle is the medial edge of the adductor longus muscle.",
-    "whyWrongByChoice": {
-     "A": "The inguinal ligament forms the superior (base) border of the triangle.",
-     "B": "The sartorius forms the lateral border of the triangle.",
-     "C": "The femoral vein is a content of the triangle, not a border.",
-     "D": "The rectus abdominis is an anterior abdominal wall muscle and a border of Hesselbach triangle, not the femoral triangle."
-    }
-   },
-   "difficulty": "easy",
-   "imageRef": null,
-   "tags": [
-    "femoral-triangle",
-    "borders",
-    "adductor-longus"
-   ]
-  },
-  {
-   "id": "femoral-inguinal-anatomy-006",
-   "topicId": "femoral-inguinal-anatomy",
-   "topicName": "Anatomy of the Femoral and Inguinal Regions",
-   "stem": "A weightlifter strains while lifting and tears the largest, most superficial of the three flat lateral abdominal wall muscles, whose fibers run inferomedially ('hands in pockets'). Which muscle was injured?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "External oblique"
-    },
-    {
-     "label": "B",
-     "text": "Internal oblique"
-    },
-    {
-     "label": "C",
-     "text": "Transversus abdominis"
-    },
-    {
-     "label": "D",
-     "text": "Rectus abdominis"
-    },
-    {
-     "label": "E",
-     "text": "Transversalis fascia"
-    }
-   ],
-   "correctAnswer": "A",
-   "explanation": {
-    "summary": "The external oblique is the most superficial flat lateral muscle with inferomedial fibers.",
-    "whyCorrect": "The external oblique is the largest and most superficial of the three lateral abdominal muscles, and its fibers run inferomedially like hands slipping into front pockets.",
-    "whyWrongByChoice": {
-     "B": "The internal oblique lies deep to the external oblique and its fibers run roughly perpendicular (superomedial).",
-     "C": "The transversus abdominis is the deepest lateral muscle with horizontal fibers.",
-     "D": "The rectus abdominis is a paramedian strap muscle, not a flat lateral muscle.",
-     "E": "The transversalis fascia is a fascial layer, not a muscle."
-    }
-   },
-   "difficulty": "easy",
-   "imageRef": null,
-   "tags": [
-    "abdominal-wall",
-    "external-oblique",
-    "muscle-fibers"
-   ]
-  },
-  {
-   "id": "femoral-inguinal-anatomy-007",
-   "topicId": "femoral-inguinal-anatomy",
-   "topicName": "Anatomy of the Femoral and Inguinal Regions",
-   "stem": "A 48-year-old woman presents with a small, tender mass in the upper thigh just below the inguinal ligament and medial to the femoral vein. Imaging shows a loop of bowel protruding through a fascial defect at that location. Through which structure has the bowel herniated?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Deep inguinal ring"
-    },
-    {
-     "label": "B",
-     "text": "Femoral canal"
-    },
-    {
-     "label": "C",
-     "text": "Hesselbach triangle"
-    },
-    {
-     "label": "D",
-     "text": "Superficial inguinal ring"
-    },
-    {
-     "label": "E",
-     "text": "Linea alba"
-    }
-   ],
-   "correctAnswer": "B",
-   "explanation": {
-    "summary": "A femoral hernia protrudes through the femoral canal, below the inguinal ligament and medial to the femoral vein.",
-    "whyCorrect": "The femoral canal is the medial compartment of the femoral sheath; a hernia there presents below the inguinal ligament and medial to the femoral vein, as described, and is more common in women.",
-    "whyWrongByChoice": {
-     "A": "The deep inguinal ring lies above the inguinal ligament and gives rise to indirect inguinal hernias.",
-     "C": "Hesselbach triangle lies above the inguinal ligament and is the site of direct inguinal hernias.",
-     "D": "The superficial inguinal ring is in the external oblique aponeurosis above the pubic crest, not in the thigh.",
-     "E": "The linea alba is the anterior midline raphe, unrelated to a groin/thigh hernia."
-    }
-   },
-   "difficulty": "medium",
-   "imageRef": null,
-   "tags": [
-    "femoral-hernia",
-    "femoral-canal",
-    "femoral-vein",
-    "females"
-   ]
-  },
-  {
-   "id": "femoral-inguinal-anatomy-008",
-   "topicId": "femoral-inguinal-anatomy",
-   "topicName": "Anatomy of the Femoral and Inguinal Regions",
-   "stem": "A resident is asked to state the borders of the inguinal (Hesselbach) triangle, the site of direct inguinal hernias. Which option correctly lists its three boundaries?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Inguinal ligament, sartorius, and adductor longus"
-    },
-    {
-     "label": "B",
-     "text": "External oblique, internal oblique, and transversalis fascia"
-    },
-    {
-     "label": "C",
-     "text": "Rectus abdominis medially, inferior epigastric vessels laterally, and inguinal ligament inferiorly"
-    },
-    {
-     "label": "D",
-     "text": "Median, medial, and lateral umbilical folds"
-    },
-    {
-     "label": "E",
-     "text": "Pectineal ligament, lacunar ligament, and femoral vein"
-    }
-   ],
-   "correctAnswer": "C",
-   "explanation": {
-    "summary": "Hesselbach triangle is bounded by rectus abdominis, inferior epigastric vessels, and the inguinal ligament.",
-    "whyCorrect": "The inguinal (Hesselbach) triangle is bordered medially by the rectus abdominis, laterally by the inferior epigastric vessels, and inferiorly by the inguinal ligament; direct hernias push through this weak floor.",
-    "whyWrongByChoice": {
-     "A": "The inguinal ligament, sartorius, and adductor longus are the borders of the femoral triangle.",
-     "B": "These three layers are the flat abdominal wall/fascia, not the borders of Hesselbach triangle.",
-     "D": "The umbilical folds are peritoneal reflections on the internal abdominal wall, not the triangle's borders.",
-     "E": "These structures relate to the femoral canal/ring region, not Hesselbach triangle."
-    }
-   },
-   "difficulty": "medium",
-   "imageRef": null,
-   "tags": [
-    "hesselbach-triangle",
-    "direct-hernia",
-    "borders",
-    "inferior-epigastric"
-   ]
-  },
-  {
-   "id": "femoral-inguinal-anatomy-009",
-   "topicId": "femoral-inguinal-anatomy",
-   "topicName": "Anatomy of the Femoral and Inguinal Regions",
-   "stem": "A 17-year-old sustains a stab wound that lacerates the femoral sheath in the femoral triangle. Which structure is LEAST likely to be injured because it lies outside the femoral sheath?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Femoral artery"
-    },
-    {
-     "label": "B",
-     "text": "Femoral vein"
-    },
-    {
-     "label": "C",
-     "text": "Femoral lymphatics"
-    },
-    {
-     "label": "D",
-     "text": "Femoral nerve"
-    },
-    {
-     "label": "E",
-     "text": "Contents of the femoral canal"
-    }
-   ],
-   "correctAnswer": "D",
-   "explanation": {
-    "summary": "The femoral sheath encloses the artery, vein, and femoral canal but not the femoral nerve.",
-    "whyCorrect": "The femoral nerve lies just lateral to and outside the femoral sheath, so a laceration confined to the sheath is least likely to injure it.",
-    "whyWrongByChoice": {
-     "A": "The femoral artery occupies the lateral compartment of the femoral sheath and is at risk.",
-     "B": "The femoral vein occupies the intermediate compartment of the sheath and is at risk.",
-     "C": "Lymphatics travel within the medial compartment (femoral canal) inside the sheath.",
-     "E": "The femoral canal is the medial compartment of the sheath and its contents are within the injured structure."
-    }
-   },
-   "difficulty": "hard",
-   "imageRef": null,
-   "tags": [
-    "femoral-sheath",
-    "femoral-nerve",
-    "compartments",
-    "trauma"
-   ]
-  },
-  {
-   "id": "femoral-inguinal-anatomy-010",
-   "topicId": "femoral-inguinal-anatomy",
-   "topicName": "Anatomy of the Femoral and Inguinal Regions",
-   "stem": "During a hernia repair in a 30-year-old woman, the surgeon opens the inguinal canal and identifies the principal structure it transmits in females. What is this structure?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Spermatic cord"
-    },
-    {
-     "label": "B",
-     "text": "Median umbilical ligament"
-    },
-    {
-     "label": "C",
-     "text": "Processus vaginalis"
-    },
-    {
-     "label": "D",
-     "text": "Ovarian artery"
-    },
-    {
-     "label": "E",
-     "text": "Round ligament of the uterus"
-    }
-   ],
-   "correctAnswer": "E",
-   "explanation": {
-    "summary": "In females the inguinal canal transmits the round ligament of the uterus.",
-    "whyCorrect": "The round ligament of the uterus passes through the inguinal canal to end in the labium majus/mons pubis, the female counterpart to the spermatic cord's course.",
-    "whyWrongByChoice": {
-     "A": "The spermatic cord is the male content of the inguinal canal, not the female.",
-     "B": "The median umbilical ligament (urachal remnant) runs from bladder to umbilicus, not through the inguinal canal.",
-     "C": "A patent processus vaginalis is a developmental hernia sac precursor, not the normal transmitted structure.",
-     "D": "The ovarian artery arises from the aorta and descends to the ovary via the suspensory ligament, not through the inguinal canal."
-    }
-   },
-   "difficulty": "medium",
-   "imageRef": null,
-   "tags": [
-    "inguinal-canal",
-    "round-ligament",
-    "female-anatomy"
-   ]
-  },
-  {
-   "id": "femoral-inguinal-anatomy-011",
-   "topicId": "femoral-inguinal-anatomy",
-   "topicName": "Anatomy of the Femoral and Inguinal Regions",
-   "stem": "A 68-year-old man with chronic cough and heavy lifting develops a groin bulge. At operation the hernia sac protrudes through the posterior wall of the inguinal canal, medial to the inferior epigastric vessels, without traversing the deep ring. What is the diagnosis?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Direct inguinal hernia"
-    },
-    {
-     "label": "B",
-     "text": "Indirect inguinal hernia"
-    },
-    {
-     "label": "C",
-     "text": "Femoral hernia"
-    },
-    {
-     "label": "D",
-     "text": "Diastasis recti"
-    },
-    {
-     "label": "E",
-     "text": "Incisional hernia"
-    }
-   ],
-   "correctAnswer": "A",
-   "explanation": {
-    "summary": "A hernia bulging medial to the inferior epigastric vessels through Hesselbach triangle is a direct inguinal hernia.",
-    "whyCorrect": "Direct inguinal hernias push directly through the weak posterior wall (Hesselbach triangle) medial to the inferior epigastric vessels and are typically acquired in older men with raised intra-abdominal pressure.",
-    "whyWrongByChoice": {
-     "B": "An indirect hernia passes through the deep ring lateral to the inferior epigastric vessels, which this hernia does not.",
-     "C": "A femoral hernia lies below the inguinal ligament in the femoral canal, not through the posterior canal wall.",
-     "D": "Diastasis recti is a midline linea alba bulge with no true fascial defect.",
-     "E": "An incisional hernia occurs through a prior surgical wound, not described here."
-    }
-   },
-   "difficulty": "medium",
-   "imageRef": null,
-   "tags": [
-    "direct-inguinal-hernia",
-    "hesselbach-triangle",
-    "inferior-epigastric"
-   ]
-  },
-  {
-   "id": "femoral-inguinal-anatomy-012",
-   "topicId": "femoral-inguinal-anatomy",
-   "topicName": "Anatomy of the Femoral and Inguinal Regions",
-   "stem": "On a transverse section of the lower abdominal wall a few centimeters below the umbilicus, the arcuate line is identified. Which statement best describes the rectus sheath at this level?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Only the transversus abdominis aponeurosis remains posterior to the rectus"
-    },
-    {
-     "label": "B",
-     "text": "All three lateral aponeuroses pass anterior to the rectus, leaving no posterior sheath"
-    },
-    {
-     "label": "C",
-     "text": "The rectus abdominis muscle is absent below the arcuate line"
-    },
-    {
-     "label": "D",
-     "text": "The external oblique aponeurosis passes posterior to the rectus"
-    },
-    {
-     "label": "E",
-     "text": "The linea alba terminates at the arcuate line"
-    }
-   ],
-   "correctAnswer": "B",
-   "explanation": {
-    "summary": "Below the arcuate line all three flat-muscle aponeuroses pass anterior to the rectus, so there is no posterior sheath.",
-    "whyCorrect": "Inferior to the arcuate line the aponeuroses of the external oblique, internal oblique, and transversus abdominis all pass in front of the rectus abdominis, leaving only transversalis fascia posteriorly.",
-    "whyWrongByChoice": {
-     "A": "No aponeurosis remains posterior below the arcuate line; all pass anteriorly.",
-     "C": "The rectus abdominis continues to its pubic insertion and is present below the arcuate line.",
-     "D": "The external oblique aponeurosis is always anterior to the rectus, above and below the line.",
-     "E": "The linea alba extends the full length of the midline from xiphoid to pubic symphysis, not ending at the arcuate line."
-    }
-   },
-   "difficulty": "medium",
-   "imageRef": null,
-   "tags": [
-    "rectus-sheath",
-    "arcuate-line",
-    "aponeuroses"
-   ]
-  },
-  {
-   "id": "femoral-inguinal-anatomy-013",
-   "topicId": "femoral-inguinal-anatomy",
-   "topicName": "Anatomy of the Femoral and Inguinal Regions",
-   "stem": "An examiner asks a student to list, from lateral to medial, the three neurovascular structures found deep to the inguinal ligament within the femoral triangle. What is the correct order?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Vein, artery, nerve"
-    },
-    {
-     "label": "B",
-     "text": "Artery, vein, nerve"
-    },
-    {
-     "label": "C",
-     "text": "Nerve, artery, vein"
-    },
-    {
-     "label": "D",
-     "text": "Vein, nerve, artery"
-    },
-    {
-     "label": "E",
-     "text": "Nerve, vein, artery"
-    }
-   ],
-   "correctAnswer": "C",
-   "explanation": {
-    "summary": "The mnemonic NAVEL gives lateral-to-medial order: Nerve, Artery, Vein, Empty space, Lymphatics.",
-    "whyCorrect": "From lateral to medial the structures are femoral Nerve, femoral Artery, then femoral Vein (NAVEL), placing the nerve most lateral and the vein most medial.",
-    "whyWrongByChoice": {
-     "A": "This reverses the order; the vein is medial, not lateral.",
-     "B": "The artery is not the most lateral structure; the nerve is.",
-     "D": "The vein is most medial of these three, not most lateral, and the nerve is lateral to the artery.",
-     "E": "The artery lies between the nerve and vein, not most medial."
-    }
-   },
-   "difficulty": "easy",
-   "imageRef": null,
-   "tags": [
-    "femoral-triangle",
-    "NAVEL",
-    "contents",
-    "order"
-   ]
-  },
-  {
-   "id": "femoral-inguinal-anatomy-014",
-   "topicId": "femoral-inguinal-anatomy",
-   "topicName": "Anatomy of the Femoral and Inguinal Regions",
-   "stem": "A 74-year-old woman on warfarin develops sudden lower abdominal pain and a tender palpable mass after a violent coughing fit. CT shows a large hematoma within the rectus sheath below the arcuate line that tracks freely into the pelvis. Rupture of which artery best explains this poorly confined hematoma?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Superior epigastric artery"
-    },
-    {
-     "label": "B",
-     "text": "Deep circumflex iliac artery"
-    },
-    {
-     "label": "C",
-     "text": "Subcostal artery"
-    },
-    {
-     "label": "D",
-     "text": "Inferior epigastric artery"
-    },
-    {
-     "label": "E",
-     "text": "Superficial epigastric artery"
-    }
-   ],
-   "correctAnswer": "D",
-   "explanation": {
-    "summary": "Below the arcuate line the inferior epigastric artery bleeds into an unconfined space because there is no posterior sheath.",
-    "whyCorrect": "The inferior epigastric artery (from the external iliac) runs in the lower rectus sheath; below the arcuate line the absent posterior sheath allows its bleeding to spread freely into the pelvis, producing a large hematoma, especially with anticoagulation.",
-    "whyWrongByChoice": {
-     "A": "The superior epigastric artery supplies the upper rectus sheath, above the arcuate line, not the lower region described.",
-     "B": "The deep circumflex iliac artery runs along the iliac crest and is not the typical source of a lower rectus sheath hematoma.",
-     "C": "The subcostal artery supplies the upper lateral wall, not the infraumbilical rectus sheath.",
-     "E": "The superficial epigastric artery is a small subcutaneous vessel, not a source of a large intramuscular sheath hematoma."
-    }
-   },
-   "difficulty": "hard",
-   "imageRef": null,
-   "tags": [
-    "rectus-sheath-hematoma",
-    "inferior-epigastric",
-    "arcuate-line",
-    "anticoagulation"
-   ]
-  },
-  {
-   "id": "femoral-inguinal-anatomy-015",
-   "topicId": "femoral-inguinal-anatomy",
-   "topicName": "Anatomy of the Femoral and Inguinal Regions",
-   "stem": "While repairing a hernia, a surgeon reinforces the inferior boundary (floor) of the inguinal canal. Which structures form the floor of the inguinal canal?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "External oblique aponeurosis"
-    },
-    {
-     "label": "B",
-     "text": "Transversalis fascia"
-    },
-    {
-     "label": "C",
-     "text": "Internal oblique and transversus abdominis"
-    },
-    {
-     "label": "D",
-     "text": "Conjoint tendon"
-    },
-    {
-     "label": "E",
-     "text": "Inguinal and lacunar ligaments"
-    }
-   ],
-   "correctAnswer": "E",
-   "explanation": {
-    "summary": "The floor of the inguinal canal is formed by the inguinal ligament and, medially, the lacunar ligament.",
-    "whyCorrect": "The floor (inferior wall) of the inguinal canal is formed by the inguinal ligament with a medial contribution from the lacunar ligament.",
-    "whyWrongByChoice": {
-     "A": "The external oblique aponeurosis forms the anterior wall of the canal.",
-     "B": "The transversalis fascia forms the posterior wall of the canal.",
-     "C": "The internal oblique and transversus abdominis form the roof of the canal.",
-     "D": "The conjoint tendon reinforces the posterior wall medially, not the floor."
-    }
-   },
-   "difficulty": "medium",
-   "imageRef": null,
-   "tags": [
-    "inguinal-canal",
-    "floor",
-    "inguinal-ligament",
-    "lacunar-ligament"
-   ]
-  },
-  {
-   "id": "femoral-inguinal-anatomy-016",
-   "topicId": "femoral-inguinal-anatomy",
-   "topicName": "Anatomy of the Femoral and Inguinal Regions",
-   "stem": "A surgeon performs a midline laparotomy for emergency access to the abdomen. The incision is planned to spare the rectus abdominis muscle bellies and their nerve supply. Through which midline structure does the surgeon cut to enter the peritoneal cavity?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Linea alba"
-    },
-    {
-     "label": "B",
-     "text": "Rectus abdominis muscle belly"
-    },
-    {
-     "label": "C",
-     "text": "Arcuate line"
-    },
-    {
-     "label": "D",
-     "text": "Semilunar line"
-    },
-    {
-     "label": "E",
-     "text": "External oblique aponeurosis"
-    }
-   ],
-   "correctAnswer": "A",
-   "explanation": {
-    "summary": "A midline laparotomy passes through the linea alba, the avascular midline raphe between the recti.",
-    "whyCorrect": "The linea alba is the tough, relatively avascular midline seam formed by the interlacing aponeuroses; incising it separates the two rectus muscles without cutting muscle or nerves.",
-    "whyWrongByChoice": {
-     "B": "The point of the midline approach is to avoid cutting the rectus muscle bellies.",
-     "C": "The arcuate line is a transverse landmark of the posterior sheath, not the plane of a midline incision.",
-     "D": "The semilunar (linea semilunaris) line is the lateral curved border of the rectus sheath, off the midline.",
-     "E": "The external oblique aponeurosis is a lateral structure, not incised in a pure midline approach."
-    }
-   },
-   "difficulty": "hard",
-   "imageRef": null,
-   "tags": [
-    "linea-alba",
-    "laparotomy",
-    "midline-incision",
-    "surgical-anatomy"
-   ]
-  },
-  {
-   "id": "femoral-inguinal-anatomy-017",
-   "topicId": "femoral-inguinal-anatomy",
-   "topicName": "Anatomy of the Femoral and Inguinal Regions",
-   "stem": "A 34-year-old woman 3 months postpartum notices a vertical midline abdominal bulge that appears when she raises her head from a supine position. Examination shows a soft ridge but no discrete fascial defect and no risk of incarceration. Attenuation of which structure explains her findings?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Femoral canal"
-    },
-    {
-     "label": "B",
-     "text": "Linea alba"
-    },
-    {
-     "label": "C",
-     "text": "Deep inguinal ring"
-    },
-    {
-     "label": "D",
-     "text": "Inguinal ligament"
-    },
-    {
-     "label": "E",
-     "text": "Hesselbach triangle"
-    }
-   ],
-   "correctAnswer": "B",
-   "explanation": {
-    "summary": "Diastasis recti is caused by widening/thinning of the linea alba, not a true fascial defect.",
-    "whyCorrect": "Stretching and attenuation of the linea alba lets the rectus muscles separate, producing a midline bulge on head-raise; because there is no fascial defect there is no incarceration risk.",
-    "whyWrongByChoice": {
-     "A": "A femoral canal defect produces a thigh hernia below the inguinal ligament, not a midline bulge.",
-     "C": "A deep inguinal ring defect produces an indirect inguinal hernia in the groin.",
-     "D": "The inguinal ligament is a groin structure and would not create a midline bulge.",
-     "E": "A weakness in Hesselbach triangle produces a direct inguinal hernia in the groin."
-    }
-   },
-   "difficulty": "easy",
-   "imageRef": null,
-   "tags": [
-    "diastasis-recti",
-    "linea-alba",
-    "postpartum"
-   ]
-  },
-  {
-   "id": "femoral-inguinal-anatomy-018",
-   "topicId": "femoral-inguinal-anatomy",
-   "topicName": "Anatomy of the Femoral and Inguinal Regions",
-   "stem": "An examiner points to the exit of the inguinal canal, a triangular opening through which the spermatic cord emerges just above the pubic crest. This superficial inguinal ring is a defect in which structure?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Transversalis fascia, lateral to the inferior epigastric vessels"
-    },
-    {
-     "label": "B",
-     "text": "Internal oblique muscle above the pubic crest"
-    },
-    {
-     "label": "C",
-     "text": "External oblique aponeurosis, superomedial to the pubic tubercle"
-    },
-    {
-     "label": "D",
-     "text": "Transversalis fascia at the femoral ring"
-    },
-    {
-     "label": "E",
-     "text": "Conjoint tendon medial to the rectus"
-    }
-   ],
-   "correctAnswer": "C",
-   "explanation": {
-    "summary": "The superficial inguinal ring is an opening in the external oblique aponeurosis just above and medial to the pubic tubercle.",
-    "whyCorrect": "The superficial (external) inguinal ring is a triangular defect in the external oblique aponeurosis lying superomedial to the pubic tubercle, marking the end of the canal.",
-    "whyWrongByChoice": {
-     "A": "An opening in the transversalis fascia lateral to the inferior epigastric vessels is the deep inguinal ring.",
-     "B": "The internal oblique contributes the roof of the canal and does not form the superficial ring.",
-     "D": "The femoral ring is the abdominal opening of the femoral canal, unrelated to the superficial inguinal ring.",
-     "E": "The conjoint tendon reinforces the posterior canal wall medially; it is not the superficial ring."
-    }
-   },
-   "difficulty": "hard",
-   "imageRef": null,
-   "tags": [
-    "superficial-inguinal-ring",
-    "external-oblique",
-    "pubic-tubercle"
-   ]
-  },
-  {
-   "id": "femoral-inguinal-anatomy-019",
-   "topicId": "femoral-inguinal-anatomy",
-   "topicName": "Anatomy of the Femoral and Inguinal Regions",
-   "stem": "An 80-year-old woman presents with a small, firm, irreducible groin lump and signs of bowel obstruction. On exam the lump lies below and lateral to the pubic tubercle, distinguishing it from an inguinal hernia, which typically lies above and medial to the pubic tubercle. This location is characteristic of which hernia?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "A hernia above and medial to the pubic tubercle"
-    },
-    {
-     "label": "B",
-     "text": "A hernia exiting through the superficial inguinal ring"
-    },
-    {
-     "label": "C",
-     "text": "A hernia lateral to the inferior epigastric vessels through the deep ring"
-    },
-    {
-     "label": "D",
-     "text": "A femoral hernia, below and lateral to the pubic tubercle"
-    },
-    {
-     "label": "E",
-     "text": "A hernia through the linea alba above the umbilicus"
-    }
-   ],
-   "correctAnswer": "D",
-   "explanation": {
-    "summary": "Femoral hernias present below and lateral to the pubic tubercle; inguinal hernias present above and medial to it.",
-    "whyCorrect": "A femoral hernia exits the femoral canal below the inguinal ligament, so it lies below and lateral to the pubic tubercle; the narrow, rigid femoral ring makes incarceration and obstruction common, as here.",
-    "whyWrongByChoice": {
-     "A": "Above and medial to the pubic tubercle is the location of an inguinal hernia, not a femoral hernia.",
-     "B": "Exit through the superficial inguinal ring describes an inguinal hernia course, not a femoral hernia.",
-     "C": "Passage lateral to the inferior epigastric vessels through the deep ring describes an indirect inguinal hernia.",
-     "E": "A defect through the linea alba is an epigastric/ventral hernia, not a groin hernia."
-    }
-   },
-   "difficulty": "medium",
-   "imageRef": null,
-   "tags": [
-    "femoral-hernia",
-    "pubic-tubercle",
-    "incarceration",
-    "clinical-differentiation"
-   ]
-  },
-  {
-   "id": "femoral-inguinal-anatomy-020",
-   "topicId": "femoral-inguinal-anatomy",
-   "topicName": "Anatomy of the Femoral and Inguinal Regions",
-   "stem": "During inguinal canal dissection, a surgeon identifies a nerve traveling within the spermatic cord that supplies the cremaster muscle and is present within the inguinal canal in both males and females. Which nerve is this?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Femoral nerve"
-    },
-    {
-     "label": "B",
-     "text": "Obturator nerve"
-    },
-    {
-     "label": "C",
-     "text": "Iliohypogastric nerve"
-    },
-    {
-     "label": "D",
-     "text": "Subcostal nerve"
-    },
-    {
-     "label": "E",
-     "text": "Genital branch of the genitofemoral nerve"
-    }
-   ],
-   "correctAnswer": "E",
-   "explanation": {
-    "summary": "The genital branch of the genitofemoral nerve runs within the inguinal canal in both sexes and innervates the cremaster.",
-    "whyCorrect": "The genital branch of the genitofemoral nerve travels through the inguinal canal (within the cord in males), supplies the cremaster muscle, and is present in both sexes along with the ilioinguinal nerve and lymphatics.",
-    "whyWrongByChoice": {
-     "A": "The femoral nerve lies lateral to the femoral sheath in the thigh and does not run in the inguinal canal.",
-     "B": "The obturator nerve passes through the obturator canal into the medial thigh, not the inguinal canal.",
-     "C": "The iliohypogastric nerve pierces the abdominal wall above the canal and does not traverse its length within it.",
-     "D": "The subcostal nerve (T12) supplies the upper abdominal wall, not the inguinal canal contents."
-    }
-   },
-   "difficulty": "hard",
-   "imageRef": null,
-   "tags": [
-    "inguinal-canal",
-    "genitofemoral-nerve",
-    "cremaster",
-    "canal-contents"
    ]
   }
  ]
