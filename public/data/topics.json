@@ -10,13 +10,23 @@
      "questionCount": 20
     },
     {
-     "id": "gi-tract-anatomy",
-     "name": "Anatomy of the Gastrointestinal Tract",
+     "id": "histology-gi-tract",
+     "name": "Histology of the Gastrointestinal Tract",
+     "questionCount": 20
+    },
+    {
+     "id": "oral-region-anatomy",
+     "name": "Gross Anatomy and Histology of the Oral Region",
      "questionCount": 20
     },
     {
      "id": "gi-blood-supply-innervation",
      "name": "GI Blood Supply and Innervation",
+     "questionCount": 20
+    },
+    {
+     "id": "gi-tract-anatomy",
+     "name": "Anatomy of the Gastrointestinal Tract",
      "questionCount": 20
     },
     {
@@ -28,39 +38,13 @@
      "id": "gi-congenital-disorders",
      "name": "Congenital Disorders of the GI Tract",
      "questionCount": 20
-    },
-    {
-     "id": "femoral-inguinal-anatomy",
-     "name": "Anatomy of the Femoral and Inguinal Regions",
-     "questionCount": 20
     }
    ]
   },
   {
-   "id": "gi-histology",
-   "name": "Histology",
+   "id": "gi-oral-eso-gastric",
+   "name": "Oral, Esophageal & Gastric Disorders",
    "topics": [
-    {
-     "id": "histology-gi-tract",
-     "name": "Histology of the Gastrointestinal Tract",
-     "questionCount": 20
-    },
-    {
-     "id": "histology-accessory-organs",
-     "name": "Histology of the Accessory Digestive Organs",
-     "questionCount": 20
-    }
-   ]
-  },
-  {
-   "id": "gi-oral-esophagus",
-   "name": "Oral Cavity, Salivary Glands & Esophagus",
-   "topics": [
-    {
-     "id": "oral-region-anatomy",
-     "name": "Gross Anatomy and Histology of the Oral Region",
-     "questionCount": 20
-    },
     {
      "id": "oral-dysbiosis",
      "name": "Oral Dysbiosis: Microflora and Clinical Pathologies",
@@ -77,19 +61,13 @@
      "questionCount": 20
     },
     {
-     "id": "upper-gi-neoplasms",
-     "name": "Oral, Salivary Gland, and Esophageal Neoplasms",
-     "questionCount": 20
-    }
-   ]
-  },
-  {
-   "id": "gi-stomach",
-   "name": "Stomach: Ulcers & Neoplasms",
-   "topics": [
-    {
      "id": "peptic-ulcer-gastritis",
      "name": "Peptic Ulcer Disease and Gastritis",
+     "questionCount": 20
+    },
+    {
+     "id": "upper-gi-neoplasms",
+     "name": "Oral, Salivary Gland, and Esophageal Neoplasms",
      "questionCount": 20
     },
     {
@@ -100,14 +78,30 @@
    ]
   },
   {
-   "id": "gi-liver-structure-metabolism",
-   "name": "Liver: Structure, Function & Metabolism",
+   "id": "gi-hepatobiliary-anatomy",
+   "name": "Liver, Biliary & Abdominal Wall Anatomy",
    "topics": [
     {
      "id": "liver-biliary-pancreas-anatomy",
      "name": "Anatomy of the Liver, Biliary System, and Exocrine Pancreas",
      "questionCount": 20
     },
+    {
+     "id": "femoral-inguinal-anatomy",
+     "name": "Anatomy of the Femoral and Inguinal Regions",
+     "questionCount": 20
+    },
+    {
+     "id": "histology-accessory-organs",
+     "name": "Histology of the Accessory Digestive Organs",
+     "questionCount": 20
+    }
+   ]
+  },
+  {
+   "id": "gi-liver-function-disease",
+   "name": "Liver Function & Disease",
+   "topics": [
     {
      "id": "liver-function-regeneration",
      "name": "Liver Function and Regeneration",
@@ -118,17 +112,6 @@
      "name": "Porphyrins and Iron Homeostasis",
      "questionCount": 20
     },
-    {
-     "id": "hepatic-ethanol-metabolism",
-     "name": "Hepatic Ethanol Metabolism",
-     "questionCount": 20
-    }
-   ]
-  },
-  {
-   "id": "gi-liver-disease",
-   "name": "Liver Disease",
-   "topics": [
     {
      "id": "benign-liver-disease",
      "name": "Benign Liver Disease",
@@ -142,6 +125,11 @@
     {
      "id": "alcohol-liver-disease",
      "name": "Alcohol-Associated Liver Disease",
+     "questionCount": 20
+    },
+    {
+     "id": "hepatic-ethanol-metabolism",
+     "name": "Hepatic Ethanol Metabolism",
      "questionCount": 20
     },
     {

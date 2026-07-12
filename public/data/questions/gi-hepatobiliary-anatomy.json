@@ -1,0 +1,2790 @@
+{
+ "categoryId": "gi-hepatobiliary-anatomy",
+ "categoryName": "Liver, Biliary & Abdominal Wall Anatomy",
+ "questions": [
+  {
+   "id": "liver-biliary-pancreas-anatomy-001",
+   "topicId": "liver-biliary-pancreas-anatomy",
+   "topicName": "Anatomy of the Liver, Biliary System, and Exocrine Pancreas",
+   "stem": "During a laparoscopic cholecystectomy, the surgeon carefully dissects within Calot's (hepatobiliary) triangle to obtain the critical view of safety before clipping any structures. Which artery must be identified within this triangle to avoid catastrophic hemorrhage?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Gastroduodenal artery"
+    },
+    {
+     "label": "B",
+     "text": "Cystic artery"
+    },
+    {
+     "label": "C",
+     "text": "Left gastric artery"
+    },
+    {
+     "label": "D",
+     "text": "Superior mesenteric artery"
+    },
+    {
+     "label": "E",
+     "text": "Splenic artery"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "Calot's triangle is the key landmark for locating the cystic artery during cholecystectomy.",
+    "whyCorrect": "The cystic artery, most commonly a branch of the right hepatic artery, courses within Calot's triangle (bounded by the liver edge, common hepatic duct, and cystic duct) and supplies the gallbladder.",
+    "whyWrongByChoice": {
+     "A": "The gastroduodenal artery arises from the common hepatic artery and passes behind the duodenum, not through Calot's triangle.",
+     "C": "The left gastric artery is a celiac trunk branch supplying the stomach and lower esophagus, unrelated to the gallbladder.",
+     "D": "The superior mesenteric artery supplies the midgut and lies retroperitoneally behind the pancreas, far from the gallbladder.",
+     "E": "The splenic artery runs along the superior pancreatic border to the spleen and does not enter Calot's triangle."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "gallbladder",
+    "cystic artery",
+    "Calot triangle",
+    "cholecystectomy"
+   ]
+  },
+  {
+   "id": "liver-biliary-pancreas-anatomy-002",
+   "topicId": "liver-biliary-pancreas-anatomy",
+   "topicName": "Anatomy of the Liver, Biliary System, and Exocrine Pancreas",
+   "stem": "A trauma surgeon encounters brisk bleeding from a deep liver laceration. She places a vascular clamp across the hepatoduodenal ligament (Pringle maneuver) and the bleeding slows dramatically. The three structures compressed within this ligament are best described as which of the following?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Hepatic veins, inferior vena cava, and left gastric artery"
+    },
+    {
+     "label": "B",
+     "text": "Splenic vein, splenic artery, and cystic duct"
+    },
+    {
+     "label": "C",
+     "text": "Proper hepatic artery, portal vein, and common bile duct"
+    },
+    {
+     "label": "D",
+     "text": "Common hepatic artery, superior mesenteric vein, and pancreatic duct"
+    },
+    {
+     "label": "E",
+     "text": "Right hepatic artery, hepatic vein, and cystic artery"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "The hepatoduodenal ligament carries the portal triad, occluded during the Pringle maneuver.",
+    "whyCorrect": "The portal triad within the hepatoduodenal ligament consists of the proper hepatic artery, hepatic portal vein, and common bile duct; compressing it halts hepatic arterial and portal inflow.",
+    "whyWrongByChoice": {
+     "A": "The hepatic veins and IVC drain the liver posteriorly and are not within the hepatoduodenal ligament; the Pringle maneuver does not control hepatic venous bleeding.",
+     "B": "The splenic vessels run with the pancreas, not in the hepatoduodenal ligament.",
+     "D": "The common hepatic artery lies proximal (before giving off the gastroduodenal artery), and the pancreatic duct is in the pancreas, not this ligament.",
+     "E": "The hepatic vein drains to the IVC, not through the portal triad, and the cystic artery is a branch found in Calot's triangle."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "portal triad",
+    "hepatoduodenal ligament",
+    "Pringle maneuver"
+   ]
+  },
+  {
+   "id": "liver-biliary-pancreas-anatomy-003",
+   "topicId": "liver-biliary-pancreas-anatomy",
+   "topicName": "Anatomy of the Liver, Biliary System, and Exocrine Pancreas",
+   "stem": "A CT of a patient with a hypervascular liver lesion shows that segment I retains contrast differently from the rest of the liver and drains directly into a nearby great vessel rather than via the common hepatic venous confluence. Which lobe possesses this distinctive direct venous drainage?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Quadrate lobe"
+    },
+    {
+     "label": "B",
+     "text": "Right anatomical lobe"
+    },
+    {
+     "label": "C",
+     "text": "Left anatomical lobe"
+    },
+    {
+     "label": "D",
+     "text": "Caudate lobe"
+    },
+    {
+     "label": "E",
+     "text": "Functional right lobe"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "The caudate lobe (Couinaud segment I) drains directly into the IVC.",
+    "whyCorrect": "The caudate lobe is the only lobe with direct venous drainage into the inferior vena cava and receives blood from both the right and left hepatic systems, giving it its distinctive perfusion pattern.",
+    "whyWrongByChoice": {
+     "A": "The quadrate lobe (segment IV) drains via the standard hepatic venous system and is functionally part of the left lobe.",
+     "B": "The right anatomical lobe drains through the right and middle hepatic veins into the IVC, not directly.",
+     "C": "The left anatomical lobe drains via the left and middle hepatic veins, not by a direct dedicated channel.",
+     "E": "The functional right lobe drains through the right hepatic vein into the IVC in the usual fashion."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "caudate lobe",
+    "Couinaud",
+    "hepatic venous drainage",
+    "IVC"
+   ]
+  },
+  {
+   "id": "liver-biliary-pancreas-anatomy-004",
+   "topicId": "liver-biliary-pancreas-anatomy",
+   "topicName": "Anatomy of the Liver, Biliary System, and Exocrine Pancreas",
+   "stem": "An anatomy instructor points to a lobe lying to the right of the falciform ligament on the visceral surface of the liver, between the gallbladder fossa and the fissure for the ligamentum teres. She notes that although it appears continuous with the right lobe, its blood supply and biliary drainage belong elsewhere. To which functional lobe does this lobe belong?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "The functional left lobe"
+    },
+    {
+     "label": "B",
+     "text": "The functional right lobe"
+    },
+    {
+     "label": "C",
+     "text": "The caudate lobe territory"
+    },
+    {
+     "label": "D",
+     "text": "It has no functional lobe assignment"
+    },
+    {
+     "label": "E",
+     "text": "The posterior sector of the right lobe"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "The quadrate lobe is morphologically right but functionally left.",
+    "whyCorrect": "The quadrate lobe (segment IV) looks like part of the right lobe but receives its vascular inflow and biliary drainage from the left system, so it is functionally part of the left lobe.",
+    "whyWrongByChoice": {
+     "B": "Though it appears to be part of the right lobe anatomically, its vascular and biliary associations are with the left, not the right, functional lobe.",
+     "C": "The caudate lobe is a separate lobe (segment I) posterior to the porta hepatis with dual supply and direct IVC drainage.",
+     "D": "Every hepatic segment has a functional assignment; the quadrate lobe is segment IV of the left functional lobe.",
+     "E": "The posterior right sector corresponds to segments VI and VII, not the quadrate lobe."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "quadrate lobe",
+    "functional lobes",
+    "liver anatomy"
+   ]
+  },
+  {
+   "id": "liver-biliary-pancreas-anatomy-005",
+   "topicId": "liver-biliary-pancreas-anatomy",
+   "topicName": "Anatomy of the Liver, Biliary System, and Exocrine Pancreas",
+   "stem": "During an autopsy demonstration, a probe is passed along the free edge of the falciform ligament and exits at a fibrous cord running toward the porta hepatis. This cord is the fibrotic remnant of which fetal structure?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ductus venosus"
+    },
+    {
+     "label": "B",
+     "text": "Umbilical vein"
+    },
+    {
+     "label": "C",
+     "text": "Umbilical arteries"
+    },
+    {
+     "label": "D",
+     "text": "Vitelline duct"
+    },
+    {
+     "label": "E",
+     "text": "Urachus"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "The ligamentum teres in the falciform ligament is the obliterated umbilical vein.",
+    "whyCorrect": "The ligamentum teres (round ligament of the liver) runs in the free edge of the falciform ligament and is the fibrous remnant of the left umbilical vein, which carried oxygenated blood to the fetus.",
+    "whyWrongByChoice": {
+     "A": "The ductus venosus becomes the ligamentum venosum, not the ligamentum teres, and lies in a fissure on the visceral surface.",
+     "C": "The obliterated umbilical arteries become the medial umbilical ligaments on the anterior abdominal wall.",
+     "D": "The vitelline (omphalomesenteric) duct remnant can persist as a Meckel diverticulum, unrelated to the liver ligaments.",
+     "E": "The urachus becomes the median umbilical ligament connecting the bladder apex to the umbilicus."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "ligamentum teres",
+    "falciform ligament",
+    "umbilical vein",
+    "embryology"
+   ]
+  },
+  {
+   "id": "liver-biliary-pancreas-anatomy-006",
+   "topicId": "liver-biliary-pancreas-anatomy",
+   "topicName": "Anatomy of the Liver, Biliary System, and Exocrine Pancreas",
+   "stem": "A resident is asked to name the structures that pass through the porta hepatis. Which of the following structures does NOT pass through the porta hepatis?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Common hepatic duct"
+    },
+    {
+     "label": "B",
+     "text": "Proper hepatic artery"
+    },
+    {
+     "label": "C",
+     "text": "Inferior vena cava"
+    },
+    {
+     "label": "D",
+     "text": "Hepatic portal vein"
+    },
+    {
+     "label": "E",
+     "text": "Autonomic nerve fibers"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "The IVC lies in a posterior groove, not within the porta hepatis.",
+    "whyCorrect": "The porta hepatis transmits the proper hepatic artery, portal vein, common hepatic duct, lymphatics, and nerves; the inferior vena cava lies in a separate posterior groove and is not part of the porta hepatis.",
+    "whyWrongByChoice": {
+     "A": "The common hepatic duct exits the liver through the porta hepatis carrying bile.",
+     "B": "The proper hepatic artery enters the liver via the porta hepatis to deliver oxygenated blood.",
+     "D": "The hepatic portal vein enters the liver through the porta hepatis with nutrient-rich blood.",
+     "E": "Autonomic nerve fibers travel through the porta hepatis to innervate the liver."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "porta hepatis",
+    "IVC",
+    "liver hilum"
+   ]
+  },
+  {
+   "id": "liver-biliary-pancreas-anatomy-007",
+   "topicId": "liver-biliary-pancreas-anatomy",
+   "topicName": "Anatomy of the Liver, Biliary System, and Exocrine Pancreas",
+   "stem": "A patient with cholelithiasis passes a small stone that lodges at the point where the cystic duct joins another duct to form the common bile duct. The common bile duct is formed by the union of the cystic duct with which structure?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Right hepatic duct"
+    },
+    {
+     "label": "B",
+     "text": "Main pancreatic duct"
+    },
+    {
+     "label": "C",
+     "text": "Left hepatic duct"
+    },
+    {
+     "label": "D",
+     "text": "Common hepatic duct"
+    },
+    {
+     "label": "E",
+     "text": "Accessory pancreatic duct"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "Common hepatic duct + cystic duct = common bile duct.",
+    "whyCorrect": "The right and left hepatic ducts join to form the common hepatic duct, which then unites with the cystic duct from the gallbladder to form the common bile duct.",
+    "whyWrongByChoice": {
+     "A": "The right hepatic duct joins the left hepatic duct to form the common hepatic duct, an earlier step in the biliary tree.",
+     "B": "The main pancreatic duct joins the common bile duct downstream at the ampulla of Vater, not to form it.",
+     "C": "The left hepatic duct unites with the right to form the common hepatic duct, upstream of the cystic duct junction.",
+     "E": "The accessory pancreatic duct (of Santorini) drains into the duodenum at the minor papilla and is unrelated to CBD formation."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "common bile duct",
+    "cystic duct",
+    "common hepatic duct",
+    "biliary tree"
+   ]
+  },
+  {
+   "id": "liver-biliary-pancreas-anatomy-008",
+   "topicId": "liver-biliary-pancreas-anatomy",
+   "topicName": "Anatomy of the Liver, Biliary System, and Exocrine Pancreas",
+   "stem": "An ERCP is performed to relieve obstruction at the major duodenal papilla. The endoscopist cannulates the point where the common bile duct and main pancreatic duct join before emptying into the duodenum. The muscular ring surrounding this common channel that regulates outflow is called what?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pyloric sphincter"
+    },
+    {
+     "label": "B",
+     "text": "Sphincter of Oddi"
+    },
+    {
+     "label": "C",
+     "text": "Ileocecal valve"
+    },
+    {
+     "label": "D",
+     "text": "Sphincter of the cystic duct (spiral valve of Heister)"
+    },
+    {
+     "label": "E",
+     "text": "Lower esophageal sphincter"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "The sphincter of Oddi surrounds the hepatopancreatic ampulla of Vater.",
+    "whyCorrect": "The sphincter of Oddi is the muscular ring around the hepatopancreatic ampulla of Vater at the major duodenal papilla; it controls the flow of bile and pancreatic secretions into the duodenum.",
+    "whyWrongByChoice": {
+     "A": "The pyloric sphincter controls gastric emptying into the duodenum, not biliopancreatic outflow.",
+     "C": "The ileocecal valve regulates flow from the ileum into the cecum.",
+     "D": "The spiral valve of Heister is a mucosal fold in the cystic duct, not the ampullary sphincter.",
+     "E": "The lower esophageal sphincter prevents gastroesophageal reflux and is far from the ampulla."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "sphincter of Oddi",
+    "ampulla of Vater",
+    "ERCP",
+    "major duodenal papilla"
+   ]
+  },
+  {
+   "id": "liver-biliary-pancreas-anatomy-009",
+   "topicId": "liver-biliary-pancreas-anatomy",
+   "topicName": "Anatomy of the Liver, Biliary System, and Exocrine Pancreas",
+   "stem": "A CT scan of a patient with pancreatic cancer shows tumor extending from the pancreatic head as a hook-shaped projection that wraps behind the superior mesenteric vessels. Which part of the pancreas is described?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Neck"
+    },
+    {
+     "label": "B",
+     "text": "Uncinate process"
+    },
+    {
+     "label": "C",
+     "text": "Tail"
+    },
+    {
+     "label": "D",
+     "text": "Body"
+    },
+    {
+     "label": "E",
+     "text": "Accessory lobe"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "The uncinate process passes posterior to the SMA and SMV.",
+    "whyCorrect": "The uncinate process is the hook-shaped portion of the pancreatic head that projects posterior to the superior mesenteric artery and vein; tumor involvement here is a key determinant of resectability.",
+    "whyWrongByChoice": {
+     "A": "The pancreatic neck lies anterior to the superior mesenteric vessels, overlying the origin of the portal vein.",
+     "C": "The tail extends toward the splenic hilum in the left upper quadrant, far from the SMA.",
+     "D": "The body crosses the midline anterior to the aorta and SMA, not behind the vessels.",
+     "E": "There is no standard 'accessory lobe' of the pancreas; the parts are head, neck, body, tail, and uncinate process."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "uncinate process",
+    "pancreas",
+    "SMA",
+    "SMV"
+   ]
+  },
+  {
+   "id": "liver-biliary-pancreas-anatomy-010",
+   "topicId": "liver-biliary-pancreas-anatomy",
+   "topicName": "Anatomy of the Liver, Biliary System, and Exocrine Pancreas",
+   "stem": "A surgeon planning a distal pancreatectomy needs to ligate the vessel running along the superior border of the pancreas that supplies the body and tail before reaching the spleen. Which artery is this?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Gastroduodenal artery"
+    },
+    {
+     "label": "B",
+     "text": "Superior mesenteric artery"
+    },
+    {
+     "label": "C",
+     "text": "Splenic artery"
+    },
+    {
+     "label": "D",
+     "text": "Left gastric artery"
+    },
+    {
+     "label": "E",
+     "text": "Proper hepatic artery"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "The splenic artery runs along the superior pancreatic border supplying body and tail.",
+    "whyCorrect": "The splenic artery, a branch of the celiac trunk, courses along the superior border of the pancreas giving off pancreatic branches to the body and tail before reaching the spleen.",
+    "whyWrongByChoice": {
+     "A": "The gastroduodenal artery supplies the pancreatic head and duodenum via pancreaticoduodenal branches, not the body and tail.",
+     "B": "The SMA supplies the head/uncinate via the inferior pancreaticoduodenal artery and the midgut, not the body and tail along the superior border.",
+     "D": "The left gastric artery supplies the stomach and distal esophagus, not the pancreas.",
+     "E": "The proper hepatic artery supplies the liver and has no direct pancreatic distribution."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "splenic artery",
+    "pancreas blood supply",
+    "distal pancreatectomy"
+   ]
+  },
+  {
+   "id": "liver-biliary-pancreas-anatomy-011",
+   "topicId": "liver-biliary-pancreas-anatomy",
+   "topicName": "Anatomy of the Liver, Biliary System, and Exocrine Pancreas",
+   "stem": "A patient has portal hypertension. Imaging traces the hepatic portal vein back to its formation behind the neck of the pancreas. The portal vein is classically formed by the confluence of which two veins?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Superior mesenteric vein and splenic vein"
+    },
+    {
+     "label": "B",
+     "text": "Inferior mesenteric vein and hepatic vein"
+    },
+    {
+     "label": "C",
+     "text": "Right and left hepatic veins"
+    },
+    {
+     "label": "D",
+     "text": "Splenic vein and inferior vena cava"
+    },
+    {
+     "label": "E",
+     "text": "Left gastric vein and cystic vein"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "The portal vein forms from the SMV joining the splenic vein posterior to the pancreatic neck.",
+    "whyCorrect": "The hepatic portal vein is formed by the union of the superior mesenteric vein and the splenic vein (the inferior mesenteric vein usually drains into the splenic vein), collecting nutrient-rich blood from the GI tract, spleen, and pancreas.",
+    "whyWrongByChoice": {
+     "B": "The hepatic vein drains the liver into the IVC and is not a tributary forming the portal vein.",
+     "C": "The right and left hepatic veins carry blood out of the liver to the IVC; they do not form the portal vein.",
+     "D": "The IVC is systemic venous return and does not contribute to portal vein formation.",
+     "E": "The left gastric and cystic veins are minor tributaries of the portal system, not the vessels that form the main portal vein."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "portal vein",
+    "splenic vein",
+    "superior mesenteric vein",
+    "portal hypertension"
+   ]
+  },
+  {
+   "id": "liver-biliary-pancreas-anatomy-012",
+   "topicId": "liver-biliary-pancreas-anatomy",
+   "topicName": "Anatomy of the Liver, Biliary System, and Exocrine Pancreas",
+   "stem": "A pathologist traces bile from its site of production to the duodenum. Which sequence correctly orders the path of bile flow?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Bile canaliculi → hepatic ducts → cystic duct → common hepatic duct → ampulla of Vater"
+    },
+    {
+     "label": "B",
+     "text": "Hepatic ducts → bile canaliculi → common hepatic duct → cystic duct → ampulla of Vater"
+    },
+    {
+     "label": "C",
+     "text": "Common bile duct → common hepatic duct → hepatic ducts → bile canaliculi → duodenum"
+    },
+    {
+     "label": "D",
+     "text": "Bile canaliculi → common bile duct → hepatic ducts → cystic duct → ampulla of Vater"
+    },
+    {
+     "label": "E",
+     "text": "Bile canaliculi → right and left hepatic ducts → common hepatic duct → common bile duct → ampulla of Vater"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "Bile flows canaliculi → hepatic ducts → common hepatic duct → common bile duct → ampulla.",
+    "whyCorrect": "Bile is secreted by hepatocytes into canaliculi, which merge into progressively larger ducts forming the right and left hepatic ducts, then the common hepatic duct, which joins the cystic duct to become the common bile duct, emptying at the ampulla of Vater.",
+    "whyWrongByChoice": {
+     "A": "This sequence places the cystic duct before the common hepatic duct and omits the common bile duct, which is out of order.",
+     "B": "Bile canaliculi are the first structures after hepatocytes, so they cannot follow the hepatic ducts.",
+     "C": "This lists the pathway in reverse, from the duodenum back to the canaliculi.",
+     "D": "The common bile duct cannot come immediately after the canaliculi; the hepatic ducts precede it."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "bile flow",
+    "biliary tree",
+    "canaliculi",
+    "sequence"
+   ]
+  },
+  {
+   "id": "liver-biliary-pancreas-anatomy-013",
+   "topicId": "liver-biliary-pancreas-anatomy",
+   "topicName": "Anatomy of the Liver, Biliary System, and Exocrine Pancreas",
+   "stem": "A medical student is asked which two branches of the celiac trunk provide the principal arterial supply to the pancreas. Which pairing is correct?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Left gastric and splenic arteries"
+    },
+    {
+     "label": "B",
+     "text": "Left gastric and common hepatic arteries"
+    },
+    {
+     "label": "C",
+     "text": "Common hepatic and splenic arteries"
+    },
+    {
+     "label": "D",
+     "text": "Splenic and inferior mesenteric arteries"
+    },
+    {
+     "label": "E",
+     "text": "Left gastric and superior mesenteric arteries"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "The common hepatic and splenic arteries are the celiac branches supplying the pancreas.",
+    "whyCorrect": "The common hepatic artery (via the gastroduodenal artery and its superior pancreaticoduodenal branches) and the splenic artery (via pancreatic branches to the body and tail) are the two celiac trunk branches that supply the pancreas.",
+    "whyWrongByChoice": {
+     "A": "The left gastric artery supplies the stomach and esophagus, not the pancreas.",
+     "B": "The left gastric artery does not contribute significantly to pancreatic supply.",
+     "D": "The inferior mesenteric artery is not a branch of the celiac trunk and supplies the hindgut.",
+     "E": "The superior mesenteric artery is not a celiac branch, though it does supply the pancreatic head via the inferior pancreaticoduodenal artery."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "celiac trunk",
+    "pancreas blood supply",
+    "common hepatic artery",
+    "splenic artery"
+   ]
+  },
+  {
+   "id": "liver-biliary-pancreas-anatomy-014",
+   "topicId": "liver-biliary-pancreas-anatomy",
+   "topicName": "Anatomy of the Liver, Biliary System, and Exocrine Pancreas",
+   "stem": "A patient with acute cholecystitis reports pain referred to the right shoulder. This referral occurs because diaphragmatic irritation from the inflamed gallbladder is transmitted by a nerve that enters the spinal cord at C3–C5. Which nerve is responsible?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Vagus nerve"
+    },
+    {
+     "label": "B",
+     "text": "Greater splanchnic nerve"
+    },
+    {
+     "label": "C",
+     "text": "Right sympathetic chain"
+    },
+    {
+     "label": "D",
+     "text": "Intercostal nerves T7–T9"
+    },
+    {
+     "label": "E",
+     "text": "Phrenic nerve"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "Phrenic nerve (C3–C5) mediates referred shoulder pain from diaphragmatic irritation.",
+    "whyCorrect": "The phrenic nerve carries sensory fibers from the diaphragm and overlying peritoneum and enters the cord at C3–C5; these dermatomes correspond to the shoulder, producing referred shoulder pain (Kehr-type referral) with gallbladder/liver irritation of the diaphragm.",
+    "whyWrongByChoice": {
+     "A": "The vagus nerve carries parasympathetic and visceral afferent fibers but does not mediate somatic shoulder-tip referral.",
+     "B": "The greater splanchnic nerve carries foregut visceral afferents to T5–T9, producing epigastric/mid-back referral, not shoulder pain.",
+     "C": "The sympathetic chain conveys visceral afferents to thoracic levels, not to the C3–C5 shoulder dermatomes.",
+     "D": "Intercostal nerves T7–T9 supply the lower thoracic/abdominal wall dermatomes, not the shoulder."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "phrenic nerve",
+    "referred pain",
+    "gallbladder",
+    "diaphragm"
+   ]
+  },
+  {
+   "id": "liver-biliary-pancreas-anatomy-015",
+   "topicId": "liver-biliary-pancreas-anatomy",
+   "topicName": "Anatomy of the Liver, Biliary System, and Exocrine Pancreas",
+   "stem": "A physiologist studies autonomic control of the exocrine pancreas. Which statement accurately describes these effects?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Sympathetic stimulation strongly increases acinar enzyme secretion"
+    },
+    {
+     "label": "B",
+     "text": "Vagal stimulation decreases insulin release"
+    },
+    {
+     "label": "C",
+     "text": "Parasympathetic stimulation inhibits digestive enzyme output"
+    },
+    {
+     "label": "D",
+     "text": "Sympathetic stimulation has no effect on pancreatic secretion"
+    },
+    {
+     "label": "E",
+     "text": "Parasympathetic (vagal) stimulation promotes acinar enzyme secretion"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "Vagal (parasympathetic) input stimulates pancreatic exocrine and insulin secretion.",
+    "whyCorrect": "Parasympathetic vagal acetylcholine (rest-and-digest) stimulates acinar digestive enzyme secretion and insulin release, whereas sympathetic input is largely inhibitory to exocrine secretion.",
+    "whyWrongByChoice": {
+     "A": "Sympathetic (fight-or-flight) stimulation is largely inhibitory to exocrine enzyme secretion, not stimulatory.",
+     "B": "Vagal stimulation increases insulin release; it does not decrease it.",
+     "C": "Parasympathetic stimulation stimulates, not inhibits, digestive enzyme output.",
+     "D": "Sympathetic stimulation does affect the pancreas: it inhibits exocrine secretion and increases glucagon release."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "autonomic innervation",
+    "pancreatic secretion",
+    "vagus",
+    "parasympathetic"
+   ]
+  },
+  {
+   "id": "liver-biliary-pancreas-anatomy-016",
+   "topicId": "liver-biliary-pancreas-anatomy",
+   "topicName": "Anatomy of the Liver, Biliary System, and Exocrine Pancreas",
+   "stem": "A staging laparoscopy is performed for a tumor of the pancreatic tail. The surgeon assesses the first-echelon lymph nodes for this region. Lymph from the body and tail of the pancreas drains initially into which group of nodes?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Pancreaticosplenic nodes"
+    },
+    {
+     "label": "B",
+     "text": "Pyloric nodes"
+    },
+    {
+     "label": "C",
+     "text": "Hepatic nodes"
+    },
+    {
+     "label": "D",
+     "text": "Superior mesenteric nodes only"
+    },
+    {
+     "label": "E",
+     "text": "Left gastric nodes"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "The pancreatic body and tail drain first to pancreaticosplenic nodes.",
+    "whyCorrect": "Lymph from the body and tail of the pancreas drains first into the pancreaticosplenic nodes (along the splenic vessels), then onward to celiac and superior mesenteric nodes.",
+    "whyWrongByChoice": {
+     "B": "Pyloric nodes drain the pyloric region of the stomach and part of the pancreatic head/duodenum, not the tail.",
+     "C": "Hepatic nodes drain the liver, gallbladder, and biliary structures, not the pancreatic tail primarily.",
+     "D": "Superior mesenteric nodes are a downstream/secondary station, not the first-echelon nodes for the tail.",
+     "E": "Left gastric nodes drain the lesser curvature of the stomach, not the pancreatic tail."
+    }
+   },
+   "difficulty": "hard",
+   "imageRef": null,
+   "tags": [
+    "pancreas lymphatics",
+    "pancreaticosplenic nodes",
+    "staging"
+   ]
+  },
+  {
+   "id": "liver-biliary-pancreas-anatomy-017",
+   "topicId": "liver-biliary-pancreas-anatomy",
+   "topicName": "Anatomy of the Liver, Biliary System, and Exocrine Pancreas",
+   "stem": "A surgeon is deciding whether a liver resection follows the true functional (surgical) division of the organ rather than the external anatomical lobes. The functional right and left hemilivers are separated along a plane (Cantlie's line) defined by which structure?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Falciform ligament"
+    },
+    {
+     "label": "B",
+     "text": "Fissure for the ligamentum venosum"
+    },
+    {
+     "label": "C",
+     "text": "Portal vein bifurcation only"
+    },
+    {
+     "label": "D",
+     "text": "Right hepatic vein"
+    },
+    {
+     "label": "E",
+     "text": "Middle hepatic vein"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "The middle hepatic vein marks the plane between functional right and left livers.",
+    "whyCorrect": "The functional right and left lobes are separated by the plane of the middle hepatic vein (Cantlie's line, from the gallbladder fossa to the IVC), reflecting vascular inflow and biliary drainage rather than the external falciform division.",
+    "whyWrongByChoice": {
+     "A": "The falciform ligament divides the anatomical (morphological) right and left lobes, not the functional lobes.",
+     "B": "The fissure for the ligamentum venosum separates the caudate lobe from the left lobe, not the two hemilivers.",
+     "C": "While portal inflow defines segments, the surgical midplane between hemilivers is marked by the middle hepatic vein.",
+     "D": "The right hepatic vein divides the anterior and posterior sectors of the functional right lobe, not right from left."
+    }
+   },
+   "difficulty": "hard",
+   "imageRef": null,
+   "tags": [
+    "functional lobes",
+    "middle hepatic vein",
+    "Cantlie line",
+    "liver resection"
+   ]
+  },
+  {
+   "id": "liver-biliary-pancreas-anatomy-018",
+   "topicId": "liver-biliary-pancreas-anatomy",
+   "topicName": "Anatomy of the Liver, Biliary System, and Exocrine Pancreas",
+   "stem": "A patient presents with epigastric pain boring straight through to the mid-back, characteristic of pancreatic pathology. This mid-back referral pattern occurs because pancreatic visceral afferent fibers enter the dorsal root ganglia at which spinal levels?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "T6–T9"
+    },
+    {
+     "label": "B",
+     "text": "T1–T4"
+    },
+    {
+     "label": "C",
+     "text": "C3–C5"
+    },
+    {
+     "label": "D",
+     "text": "T11–L1"
+    },
+    {
+     "label": "E",
+     "text": "L2–L4"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "Pancreatic afferents enter at T6–T9, referring pain to the mid-back.",
+    "whyCorrect": "Pancreatic visceral afferents travel with the splanchnic nerves to dorsal root ganglia at T6–T9; these segments also receive somatic input from the mid-back, so pancreatic pain is referred there.",
+    "whyWrongByChoice": {
+     "B": "T1–T4 relate to cardiac and upper thoracic referral, not the pancreas.",
+     "C": "C3–C5 corresponds to phrenic-mediated shoulder referral from diaphragmatic irritation, not pancreatic pain.",
+     "D": "T11–L1 correspond to lower abdominal/hindgut and pelvic referral, not the pancreas.",
+     "E": "L2–L4 relate to lower limb and pelvic dermatomes, not pancreatic visceral referral."
+    }
+   },
+   "difficulty": "hard",
+   "imageRef": null,
+   "tags": [
+    "pancreatic pain",
+    "referred pain",
+    "visceral afferents",
+    "T6-T9"
+   ]
+  },
+  {
+   "id": "liver-biliary-pancreas-anatomy-019",
+   "topicId": "liver-biliary-pancreas-anatomy",
+   "topicName": "Anatomy of the Liver, Biliary System, and Exocrine Pancreas",
+   "stem": "A 68-year-old man with a mass in the head of the pancreas causing obstructive jaundice undergoes a pancreaticoduodenectomy (Whipple procedure). Which set of structures is characteristically removed in the classic version of this operation?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Entire pancreas, spleen, and left hemicolon"
+    },
+    {
+     "label": "B",
+     "text": "Whole liver and biliary tree with the gallbladder"
+    },
+    {
+     "label": "C",
+     "text": "Pancreatic tail, spleen, and splenic flexure"
+    },
+    {
+     "label": "D",
+     "text": "Pancreatic head, duodenum, gallbladder, distal common bile duct, and often the distal stomach"
+    },
+    {
+     "label": "E",
+     "text": "Pancreatic body, left kidney, and adrenal gland"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "The Whipple removes the pancreatic head, duodenum, gallbladder, distal CBD, and often distal stomach.",
+    "whyCorrect": "Because the pancreatic head, duodenum, and distal bile duct share blood supply and anatomic proximity, a classic Whipple resects the pancreatic head, duodenum, gallbladder, distal common bile duct, and often the distal stomach, followed by GI and biliary reconstruction.",
+    "whyWrongByChoice": {
+     "A": "Total pancreatectomy with splenectomy and colectomy is not the Whipple; the colon and spleen are not routinely removed.",
+     "B": "The liver is not removed in a Whipple; only the gallbladder and distal bile duct are resected.",
+     "C": "Removing the tail and spleen describes a distal pancreatectomy, used for body/tail lesions.",
+     "E": "The kidney and adrenal gland are retroperitoneal organs not part of a pancreaticoduodenectomy."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "Whipple procedure",
+    "pancreatic head",
+    "surgical anatomy",
+    "obstructive jaundice"
+   ]
+  },
+  {
+   "id": "liver-biliary-pancreas-anatomy-020",
+   "topicId": "liver-biliary-pancreas-anatomy",
+   "topicName": "Anatomy of the Liver, Biliary System, and Exocrine Pancreas",
+   "stem": "During a subtotal gastrectomy, the surgeon dissects along the lesser omentum. Which two ligaments together constitute the lesser omentum, one of which transmits the portal triad?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Gastrosplenic and splenorenal ligaments"
+    },
+    {
+     "label": "B",
+     "text": "Falciform and coronary ligaments"
+    },
+    {
+     "label": "C",
+     "text": "Gastrocolic and phrenicocolic ligaments"
+    },
+    {
+     "label": "D",
+     "text": "Hepatogastric and hepatoduodenal ligaments"
+    },
+    {
+     "label": "E",
+     "text": "Coronary and triangular ligaments"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "The lesser omentum comprises the hepatogastric and hepatoduodenal ligaments.",
+    "whyCorrect": "The lesser omentum is formed by the hepatogastric ligament (liver to lesser curvature of the stomach) and the hepatoduodenal ligament (liver to duodenum), the latter containing the portal triad.",
+    "whyWrongByChoice": {
+     "A": "The gastrosplenic and splenorenal ligaments are part of the greater omentum/peritoneal attachments of the spleen, not the lesser omentum.",
+     "B": "The falciform and coronary ligaments attach the liver to the abdominal wall and diaphragm, not to the stomach/duodenum.",
+     "C": "The gastrocolic ligament is part of the greater omentum and the phrenicocolic ligament supports the splenic flexure.",
+     "E": "The coronary and triangular ligaments are peritoneal reflections around the bare area of the liver, not the lesser omentum."
+    }
+   },
+   "difficulty": "hard",
+   "imageRef": null,
+   "tags": [
+    "lesser omentum",
+    "hepatogastric ligament",
+    "hepatoduodenal ligament",
+    "portal triad"
+   ]
+  },
+  {
+   "id": "femoral-inguinal-anatomy-001",
+   "topicId": "femoral-inguinal-anatomy",
+   "topicName": "Anatomy of the Femoral and Inguinal Regions",
+   "stem": "A 62-year-old man in the ICU needs femoral venous access after peripheral sites are exhausted. The intern palpates the pulsating femoral artery in the femoral triangle just below the inguinal ligament. To cannulate the femoral vein safely, in which direction should the needle be advanced relative to the palpated arterial pulse?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Just medial to the femoral artery"
+    },
+    {
+     "label": "B",
+     "text": "Just lateral to the femoral artery"
+    },
+    {
+     "label": "C",
+     "text": "Directly through the center of the arterial pulse"
+    },
+    {
+     "label": "D",
+     "text": "Lateral to the femoral nerve"
+    },
+    {
+     "label": "E",
+     "text": "Superior to the inguinal ligament"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "Within the femoral triangle the order from lateral to medial is Nerve, Artery, Vein (NAVEL).",
+    "whyCorrect": "The femoral vein lies immediately medial to the femoral artery, so the needle is inserted just medial to the palpated pulse to enter the vein.",
+    "whyWrongByChoice": {
+     "B": "Lateral to the artery lies the femoral nerve, not the vein, risking nerve injury.",
+     "C": "Advancing through the pulse punctures the artery itself and can cause arterial bleeding or pseudoaneurysm.",
+     "D": "The femoral nerve is the most lateral structure; going lateral to it moves away from the vein entirely.",
+     "E": "Access is taken below the inguinal ligament in the femoral triangle; going superior enters the abdomen/pelvis."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "femoral-triangle",
+    "femoral-vein",
+    "vascular-access",
+    "NAVEL"
+   ]
+  },
+  {
+   "id": "femoral-inguinal-anatomy-002",
+   "topicId": "femoral-inguinal-anatomy",
+   "topicName": "Anatomy of the Femoral and Inguinal Regions",
+   "stem": "During an open inguinal hernia repair, the surgeon incises the tough aponeurotic sheet that forms the most superficial (anterior) wall of the inguinal canal to expose the cord. Which structure is being divided?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Transversalis fascia"
+    },
+    {
+     "label": "B",
+     "text": "External oblique aponeurosis"
+    },
+    {
+     "label": "C",
+     "text": "Internal oblique and transversus abdominis"
+    },
+    {
+     "label": "D",
+     "text": "Inguinal and lacunar ligaments"
+    },
+    {
+     "label": "E",
+     "text": "Peritoneum"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "The inguinal canal has four walls; the anterior wall is formed mainly by the external oblique aponeurosis.",
+    "whyCorrect": "The anterior wall of the inguinal canal is derived predominantly from the external oblique aponeurosis, which is the first firm layer incised to enter the canal.",
+    "whyWrongByChoice": {
+     "A": "The transversalis fascia forms the posterior wall of the canal, not the anterior wall.",
+     "C": "The internal oblique and transversus abdominis form the roof of the canal.",
+     "D": "The inguinal and lacunar ligaments form the floor of the canal.",
+     "E": "The peritoneum lies deep to the transversalis fascia and is not a wall of the canal."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "inguinal-canal",
+    "walls",
+    "external-oblique",
+    "surgical-anatomy"
+   ]
+  },
+  {
+   "id": "femoral-inguinal-anatomy-003",
+   "topicId": "femoral-inguinal-anatomy",
+   "topicName": "Anatomy of the Femoral and Inguinal Regions",
+   "stem": "An anatomy student is asked to define the deep inguinal ring, the entrance to the inguinal canal. The deep inguinal ring is an opening in which layer, and where does it lie relative to the inferior epigastric vessels?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "External oblique aponeurosis, medial to the inferior epigastric vessels"
+    },
+    {
+     "label": "B",
+     "text": "Internal oblique, lateral to the femoral vessels"
+    },
+    {
+     "label": "C",
+     "text": "Transversalis fascia, lateral to the inferior epigastric vessels"
+    },
+    {
+     "label": "D",
+     "text": "Peritoneum, lateral to the deep circumflex iliac vessels"
+    },
+    {
+     "label": "E",
+     "text": "External oblique aponeurosis, above the pubic crest"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "The deep inguinal ring is an evagination of transversalis fascia lateral to the inferior epigastric vessels.",
+    "whyCorrect": "The deep (internal) inguinal ring is an opening in the transversalis fascia located just lateral to the inferior epigastric vessels, which is why indirect hernias emerge lateral to those vessels.",
+    "whyWrongByChoice": {
+     "A": "The external oblique aponeurosis contains the superficial ring, not the deep ring, and the deep ring is lateral (not medial) to the inferior epigastric vessels.",
+     "B": "The deep ring lies in transversalis fascia, and its landmark is the inferior epigastric (not femoral) vessels.",
+     "D": "The deep ring is a defect in transversalis fascia, not peritoneum, and its landmark is the inferior epigastric vessels.",
+     "E": "An opening in the external oblique aponeurosis above the pubic crest describes the superficial inguinal ring."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "deep-inguinal-ring",
+    "transversalis-fascia",
+    "inferior-epigastric",
+    "landmarks"
+   ]
+  },
+  {
+   "id": "femoral-inguinal-anatomy-004",
+   "topicId": "femoral-inguinal-anatomy",
+   "topicName": "Anatomy of the Femoral and Inguinal Regions",
+   "stem": "A 5-month-old boy has a reducible groin bulge that extends toward the scrotum. At operation the hernia sac is found to originate at the deep inguinal ring and traverse the inguinal canal. What is the relationship of this hernia to the inferior epigastric vessels?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Medial to the inferior epigastric vessels, through Hesselbach triangle"
+    },
+    {
+     "label": "B",
+     "text": "Below the inguinal ligament, through the femoral canal"
+    },
+    {
+     "label": "C",
+     "text": "Medial to the femoral vein, within the femoral sheath"
+    },
+    {
+     "label": "D",
+     "text": "Lateral to the inferior epigastric vessels, through the deep inguinal ring"
+    },
+    {
+     "label": "E",
+     "text": "Through the linea alba above the umbilicus"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "An indirect inguinal hernia passes through the deep ring, which sits lateral to the inferior epigastric vessels.",
+    "whyCorrect": "Because the deep inguinal ring lies lateral to the inferior epigastric vessels, an indirect hernia (as in this infant with a persistent processus vaginalis) travels lateral to those vessels down the canal toward the scrotum.",
+    "whyWrongByChoice": {
+     "A": "Passage medial to the inferior epigastric vessels through Hesselbach triangle describes a direct inguinal hernia.",
+     "B": "Passage below the inguinal ligament through the femoral canal describes a femoral hernia.",
+     "C": "Being medial to the femoral vein within the femoral sheath describes a femoral hernia, not one through the canal.",
+     "E": "A defect through the linea alba describes a ventral/epigastric hernia, not an inguinal hernia."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "indirect-inguinal-hernia",
+    "deep-ring",
+    "inferior-epigastric",
+    "pediatric"
+   ]
+  },
+  {
+   "id": "femoral-inguinal-anatomy-005",
+   "topicId": "femoral-inguinal-anatomy",
+   "topicName": "Anatomy of the Femoral and Inguinal Regions",
+   "stem": "A surgeon exposes the femoral triangle to explore a groin mass. Which muscle forms the medial border of the femoral triangle?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Inguinal ligament"
+    },
+    {
+     "label": "B",
+     "text": "Sartorius"
+    },
+    {
+     "label": "C",
+     "text": "Femoral vein"
+    },
+    {
+     "label": "D",
+     "text": "Rectus abdominis"
+    },
+    {
+     "label": "E",
+     "text": "Adductor longus"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "The femoral triangle is bounded by the inguinal ligament, sartorius, and adductor longus.",
+    "whyCorrect": "The medial border of the femoral triangle is the medial edge of the adductor longus muscle.",
+    "whyWrongByChoice": {
+     "A": "The inguinal ligament forms the superior (base) border of the triangle.",
+     "B": "The sartorius forms the lateral border of the triangle.",
+     "C": "The femoral vein is a content of the triangle, not a border.",
+     "D": "The rectus abdominis is an anterior abdominal wall muscle and a border of Hesselbach triangle, not the femoral triangle."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "femoral-triangle",
+    "borders",
+    "adductor-longus"
+   ]
+  },
+  {
+   "id": "femoral-inguinal-anatomy-006",
+   "topicId": "femoral-inguinal-anatomy",
+   "topicName": "Anatomy of the Femoral and Inguinal Regions",
+   "stem": "A weightlifter strains while lifting and tears the largest, most superficial of the three flat lateral abdominal wall muscles, whose fibers run inferomedially ('hands in pockets'). Which muscle was injured?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "External oblique"
+    },
+    {
+     "label": "B",
+     "text": "Internal oblique"
+    },
+    {
+     "label": "C",
+     "text": "Transversus abdominis"
+    },
+    {
+     "label": "D",
+     "text": "Rectus abdominis"
+    },
+    {
+     "label": "E",
+     "text": "Transversalis fascia"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "The external oblique is the most superficial flat lateral muscle with inferomedial fibers.",
+    "whyCorrect": "The external oblique is the largest and most superficial of the three lateral abdominal muscles, and its fibers run inferomedially like hands slipping into front pockets.",
+    "whyWrongByChoice": {
+     "B": "The internal oblique lies deep to the external oblique and its fibers run roughly perpendicular (superomedial).",
+     "C": "The transversus abdominis is the deepest lateral muscle with horizontal fibers.",
+     "D": "The rectus abdominis is a paramedian strap muscle, not a flat lateral muscle.",
+     "E": "The transversalis fascia is a fascial layer, not a muscle."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "abdominal-wall",
+    "external-oblique",
+    "muscle-fibers"
+   ]
+  },
+  {
+   "id": "femoral-inguinal-anatomy-007",
+   "topicId": "femoral-inguinal-anatomy",
+   "topicName": "Anatomy of the Femoral and Inguinal Regions",
+   "stem": "A 48-year-old woman presents with a small, tender mass in the upper thigh just below the inguinal ligament and medial to the femoral vein. Imaging shows a loop of bowel protruding through a fascial defect at that location. Through which structure has the bowel herniated?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Deep inguinal ring"
+    },
+    {
+     "label": "B",
+     "text": "Femoral canal"
+    },
+    {
+     "label": "C",
+     "text": "Hesselbach triangle"
+    },
+    {
+     "label": "D",
+     "text": "Superficial inguinal ring"
+    },
+    {
+     "label": "E",
+     "text": "Linea alba"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "A femoral hernia protrudes through the femoral canal, below the inguinal ligament and medial to the femoral vein.",
+    "whyCorrect": "The femoral canal is the medial compartment of the femoral sheath; a hernia there presents below the inguinal ligament and medial to the femoral vein, as described, and is more common in women.",
+    "whyWrongByChoice": {
+     "A": "The deep inguinal ring lies above the inguinal ligament and gives rise to indirect inguinal hernias.",
+     "C": "Hesselbach triangle lies above the inguinal ligament and is the site of direct inguinal hernias.",
+     "D": "The superficial inguinal ring is in the external oblique aponeurosis above the pubic crest, not in the thigh.",
+     "E": "The linea alba is the anterior midline raphe, unrelated to a groin/thigh hernia."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "femoral-hernia",
+    "femoral-canal",
+    "femoral-vein",
+    "females"
+   ]
+  },
+  {
+   "id": "femoral-inguinal-anatomy-008",
+   "topicId": "femoral-inguinal-anatomy",
+   "topicName": "Anatomy of the Femoral and Inguinal Regions",
+   "stem": "A resident is asked to state the borders of the inguinal (Hesselbach) triangle, the site of direct inguinal hernias. Which option correctly lists its three boundaries?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Inguinal ligament, sartorius, and adductor longus"
+    },
+    {
+     "label": "B",
+     "text": "External oblique, internal oblique, and transversalis fascia"
+    },
+    {
+     "label": "C",
+     "text": "Rectus abdominis medially, inferior epigastric vessels laterally, and inguinal ligament inferiorly"
+    },
+    {
+     "label": "D",
+     "text": "Median, medial, and lateral umbilical folds"
+    },
+    {
+     "label": "E",
+     "text": "Pectineal ligament, lacunar ligament, and femoral vein"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "Hesselbach triangle is bounded by rectus abdominis, inferior epigastric vessels, and the inguinal ligament.",
+    "whyCorrect": "The inguinal (Hesselbach) triangle is bordered medially by the rectus abdominis, laterally by the inferior epigastric vessels, and inferiorly by the inguinal ligament; direct hernias push through this weak floor.",
+    "whyWrongByChoice": {
+     "A": "The inguinal ligament, sartorius, and adductor longus are the borders of the femoral triangle.",
+     "B": "These three layers are the flat abdominal wall/fascia, not the borders of Hesselbach triangle.",
+     "D": "The umbilical folds are peritoneal reflections on the internal abdominal wall, not the triangle's borders.",
+     "E": "These structures relate to the femoral canal/ring region, not Hesselbach triangle."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "hesselbach-triangle",
+    "direct-hernia",
+    "borders",
+    "inferior-epigastric"
+   ]
+  },
+  {
+   "id": "femoral-inguinal-anatomy-009",
+   "topicId": "femoral-inguinal-anatomy",
+   "topicName": "Anatomy of the Femoral and Inguinal Regions",
+   "stem": "A 17-year-old sustains a stab wound that lacerates the femoral sheath in the femoral triangle. Which structure is LEAST likely to be injured because it lies outside the femoral sheath?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Femoral artery"
+    },
+    {
+     "label": "B",
+     "text": "Femoral vein"
+    },
+    {
+     "label": "C",
+     "text": "Femoral lymphatics"
+    },
+    {
+     "label": "D",
+     "text": "Femoral nerve"
+    },
+    {
+     "label": "E",
+     "text": "Contents of the femoral canal"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "The femoral sheath encloses the artery, vein, and femoral canal but not the femoral nerve.",
+    "whyCorrect": "The femoral nerve lies just lateral to and outside the femoral sheath, so a laceration confined to the sheath is least likely to injure it.",
+    "whyWrongByChoice": {
+     "A": "The femoral artery occupies the lateral compartment of the femoral sheath and is at risk.",
+     "B": "The femoral vein occupies the intermediate compartment of the sheath and is at risk.",
+     "C": "Lymphatics travel within the medial compartment (femoral canal) inside the sheath.",
+     "E": "The femoral canal is the medial compartment of the sheath and its contents are within the injured structure."
+    }
+   },
+   "difficulty": "hard",
+   "imageRef": null,
+   "tags": [
+    "femoral-sheath",
+    "femoral-nerve",
+    "compartments",
+    "trauma"
+   ]
+  },
+  {
+   "id": "femoral-inguinal-anatomy-010",
+   "topicId": "femoral-inguinal-anatomy",
+   "topicName": "Anatomy of the Femoral and Inguinal Regions",
+   "stem": "During a hernia repair in a 30-year-old woman, the surgeon opens the inguinal canal and identifies the principal structure it transmits in females. What is this structure?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Spermatic cord"
+    },
+    {
+     "label": "B",
+     "text": "Median umbilical ligament"
+    },
+    {
+     "label": "C",
+     "text": "Processus vaginalis"
+    },
+    {
+     "label": "D",
+     "text": "Ovarian artery"
+    },
+    {
+     "label": "E",
+     "text": "Round ligament of the uterus"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "In females the inguinal canal transmits the round ligament of the uterus.",
+    "whyCorrect": "The round ligament of the uterus passes through the inguinal canal to end in the labium majus/mons pubis, the female counterpart to the spermatic cord's course.",
+    "whyWrongByChoice": {
+     "A": "The spermatic cord is the male content of the inguinal canal, not the female.",
+     "B": "The median umbilical ligament (urachal remnant) runs from bladder to umbilicus, not through the inguinal canal.",
+     "C": "A patent processus vaginalis is a developmental hernia sac precursor, not the normal transmitted structure.",
+     "D": "The ovarian artery arises from the aorta and descends to the ovary via the suspensory ligament, not through the inguinal canal."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "inguinal-canal",
+    "round-ligament",
+    "female-anatomy"
+   ]
+  },
+  {
+   "id": "femoral-inguinal-anatomy-011",
+   "topicId": "femoral-inguinal-anatomy",
+   "topicName": "Anatomy of the Femoral and Inguinal Regions",
+   "stem": "A 68-year-old man with chronic cough and heavy lifting develops a groin bulge. At operation the hernia sac protrudes through the posterior wall of the inguinal canal, medial to the inferior epigastric vessels, without traversing the deep ring. What is the diagnosis?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Direct inguinal hernia"
+    },
+    {
+     "label": "B",
+     "text": "Indirect inguinal hernia"
+    },
+    {
+     "label": "C",
+     "text": "Femoral hernia"
+    },
+    {
+     "label": "D",
+     "text": "Diastasis recti"
+    },
+    {
+     "label": "E",
+     "text": "Incisional hernia"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "A hernia bulging medial to the inferior epigastric vessels through Hesselbach triangle is a direct inguinal hernia.",
+    "whyCorrect": "Direct inguinal hernias push directly through the weak posterior wall (Hesselbach triangle) medial to the inferior epigastric vessels and are typically acquired in older men with raised intra-abdominal pressure.",
+    "whyWrongByChoice": {
+     "B": "An indirect hernia passes through the deep ring lateral to the inferior epigastric vessels, which this hernia does not.",
+     "C": "A femoral hernia lies below the inguinal ligament in the femoral canal, not through the posterior canal wall.",
+     "D": "Diastasis recti is a midline linea alba bulge with no true fascial defect.",
+     "E": "An incisional hernia occurs through a prior surgical wound, not described here."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "direct-inguinal-hernia",
+    "hesselbach-triangle",
+    "inferior-epigastric"
+   ]
+  },
+  {
+   "id": "femoral-inguinal-anatomy-012",
+   "topicId": "femoral-inguinal-anatomy",
+   "topicName": "Anatomy of the Femoral and Inguinal Regions",
+   "stem": "On a transverse section of the lower abdominal wall a few centimeters below the umbilicus, the arcuate line is identified. Which statement best describes the rectus sheath at this level?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Only the transversus abdominis aponeurosis remains posterior to the rectus"
+    },
+    {
+     "label": "B",
+     "text": "All three lateral aponeuroses pass anterior to the rectus, leaving no posterior sheath"
+    },
+    {
+     "label": "C",
+     "text": "The rectus abdominis muscle is absent below the arcuate line"
+    },
+    {
+     "label": "D",
+     "text": "The external oblique aponeurosis passes posterior to the rectus"
+    },
+    {
+     "label": "E",
+     "text": "The linea alba terminates at the arcuate line"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "Below the arcuate line all three flat-muscle aponeuroses pass anterior to the rectus, so there is no posterior sheath.",
+    "whyCorrect": "Inferior to the arcuate line the aponeuroses of the external oblique, internal oblique, and transversus abdominis all pass in front of the rectus abdominis, leaving only transversalis fascia posteriorly.",
+    "whyWrongByChoice": {
+     "A": "No aponeurosis remains posterior below the arcuate line; all pass anteriorly.",
+     "C": "The rectus abdominis continues to its pubic insertion and is present below the arcuate line.",
+     "D": "The external oblique aponeurosis is always anterior to the rectus, above and below the line.",
+     "E": "The linea alba extends the full length of the midline from xiphoid to pubic symphysis, not ending at the arcuate line."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "rectus-sheath",
+    "arcuate-line",
+    "aponeuroses"
+   ]
+  },
+  {
+   "id": "femoral-inguinal-anatomy-013",
+   "topicId": "femoral-inguinal-anatomy",
+   "topicName": "Anatomy of the Femoral and Inguinal Regions",
+   "stem": "An examiner asks a student to list, from lateral to medial, the three neurovascular structures found deep to the inguinal ligament within the femoral triangle. What is the correct order?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Vein, artery, nerve"
+    },
+    {
+     "label": "B",
+     "text": "Artery, vein, nerve"
+    },
+    {
+     "label": "C",
+     "text": "Nerve, artery, vein"
+    },
+    {
+     "label": "D",
+     "text": "Vein, nerve, artery"
+    },
+    {
+     "label": "E",
+     "text": "Nerve, vein, artery"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "The mnemonic NAVEL gives lateral-to-medial order: Nerve, Artery, Vein, Empty space, Lymphatics.",
+    "whyCorrect": "From lateral to medial the structures are femoral Nerve, femoral Artery, then femoral Vein (NAVEL), placing the nerve most lateral and the vein most medial.",
+    "whyWrongByChoice": {
+     "A": "This reverses the order; the vein is medial, not lateral.",
+     "B": "The artery is not the most lateral structure; the nerve is.",
+     "D": "The vein is most medial of these three, not most lateral, and the nerve is lateral to the artery.",
+     "E": "The artery lies between the nerve and vein, not most medial."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "femoral-triangle",
+    "NAVEL",
+    "contents",
+    "order"
+   ]
+  },
+  {
+   "id": "femoral-inguinal-anatomy-014",
+   "topicId": "femoral-inguinal-anatomy",
+   "topicName": "Anatomy of the Femoral and Inguinal Regions",
+   "stem": "A 74-year-old woman on warfarin develops sudden lower abdominal pain and a tender palpable mass after a violent coughing fit. CT shows a large hematoma within the rectus sheath below the arcuate line that tracks freely into the pelvis. Rupture of which artery best explains this poorly confined hematoma?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Superior epigastric artery"
+    },
+    {
+     "label": "B",
+     "text": "Deep circumflex iliac artery"
+    },
+    {
+     "label": "C",
+     "text": "Subcostal artery"
+    },
+    {
+     "label": "D",
+     "text": "Inferior epigastric artery"
+    },
+    {
+     "label": "E",
+     "text": "Superficial epigastric artery"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "Below the arcuate line the inferior epigastric artery bleeds into an unconfined space because there is no posterior sheath.",
+    "whyCorrect": "The inferior epigastric artery (from the external iliac) runs in the lower rectus sheath; below the arcuate line the absent posterior sheath allows its bleeding to spread freely into the pelvis, producing a large hematoma, especially with anticoagulation.",
+    "whyWrongByChoice": {
+     "A": "The superior epigastric artery supplies the upper rectus sheath, above the arcuate line, not the lower region described.",
+     "B": "The deep circumflex iliac artery runs along the iliac crest and is not the typical source of a lower rectus sheath hematoma.",
+     "C": "The subcostal artery supplies the upper lateral wall, not the infraumbilical rectus sheath.",
+     "E": "The superficial epigastric artery is a small subcutaneous vessel, not a source of a large intramuscular sheath hematoma."
+    }
+   },
+   "difficulty": "hard",
+   "imageRef": null,
+   "tags": [
+    "rectus-sheath-hematoma",
+    "inferior-epigastric",
+    "arcuate-line",
+    "anticoagulation"
+   ]
+  },
+  {
+   "id": "femoral-inguinal-anatomy-015",
+   "topicId": "femoral-inguinal-anatomy",
+   "topicName": "Anatomy of the Femoral and Inguinal Regions",
+   "stem": "While repairing a hernia, a surgeon reinforces the inferior boundary (floor) of the inguinal canal. Which structures form the floor of the inguinal canal?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "External oblique aponeurosis"
+    },
+    {
+     "label": "B",
+     "text": "Transversalis fascia"
+    },
+    {
+     "label": "C",
+     "text": "Internal oblique and transversus abdominis"
+    },
+    {
+     "label": "D",
+     "text": "Conjoint tendon"
+    },
+    {
+     "label": "E",
+     "text": "Inguinal and lacunar ligaments"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "The floor of the inguinal canal is formed by the inguinal ligament and, medially, the lacunar ligament.",
+    "whyCorrect": "The floor (inferior wall) of the inguinal canal is formed by the inguinal ligament with a medial contribution from the lacunar ligament.",
+    "whyWrongByChoice": {
+     "A": "The external oblique aponeurosis forms the anterior wall of the canal.",
+     "B": "The transversalis fascia forms the posterior wall of the canal.",
+     "C": "The internal oblique and transversus abdominis form the roof of the canal.",
+     "D": "The conjoint tendon reinforces the posterior wall medially, not the floor."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "inguinal-canal",
+    "floor",
+    "inguinal-ligament",
+    "lacunar-ligament"
+   ]
+  },
+  {
+   "id": "femoral-inguinal-anatomy-016",
+   "topicId": "femoral-inguinal-anatomy",
+   "topicName": "Anatomy of the Femoral and Inguinal Regions",
+   "stem": "A surgeon performs a midline laparotomy for emergency access to the abdomen. The incision is planned to spare the rectus abdominis muscle bellies and their nerve supply. Through which midline structure does the surgeon cut to enter the peritoneal cavity?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Linea alba"
+    },
+    {
+     "label": "B",
+     "text": "Rectus abdominis muscle belly"
+    },
+    {
+     "label": "C",
+     "text": "Arcuate line"
+    },
+    {
+     "label": "D",
+     "text": "Semilunar line"
+    },
+    {
+     "label": "E",
+     "text": "External oblique aponeurosis"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "A midline laparotomy passes through the linea alba, the avascular midline raphe between the recti.",
+    "whyCorrect": "The linea alba is the tough, relatively avascular midline seam formed by the interlacing aponeuroses; incising it separates the two rectus muscles without cutting muscle or nerves.",
+    "whyWrongByChoice": {
+     "B": "The point of the midline approach is to avoid cutting the rectus muscle bellies.",
+     "C": "The arcuate line is a transverse landmark of the posterior sheath, not the plane of a midline incision.",
+     "D": "The semilunar (linea semilunaris) line is the lateral curved border of the rectus sheath, off the midline.",
+     "E": "The external oblique aponeurosis is a lateral structure, not incised in a pure midline approach."
+    }
+   },
+   "difficulty": "hard",
+   "imageRef": null,
+   "tags": [
+    "linea-alba",
+    "laparotomy",
+    "midline-incision",
+    "surgical-anatomy"
+   ]
+  },
+  {
+   "id": "femoral-inguinal-anatomy-017",
+   "topicId": "femoral-inguinal-anatomy",
+   "topicName": "Anatomy of the Femoral and Inguinal Regions",
+   "stem": "A 34-year-old woman 3 months postpartum notices a vertical midline abdominal bulge that appears when she raises her head from a supine position. Examination shows a soft ridge but no discrete fascial defect and no risk of incarceration. Attenuation of which structure explains her findings?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Femoral canal"
+    },
+    {
+     "label": "B",
+     "text": "Linea alba"
+    },
+    {
+     "label": "C",
+     "text": "Deep inguinal ring"
+    },
+    {
+     "label": "D",
+     "text": "Inguinal ligament"
+    },
+    {
+     "label": "E",
+     "text": "Hesselbach triangle"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "Diastasis recti is caused by widening/thinning of the linea alba, not a true fascial defect.",
+    "whyCorrect": "Stretching and attenuation of the linea alba lets the rectus muscles separate, producing a midline bulge on head-raise; because there is no fascial defect there is no incarceration risk.",
+    "whyWrongByChoice": {
+     "A": "A femoral canal defect produces a thigh hernia below the inguinal ligament, not a midline bulge.",
+     "C": "A deep inguinal ring defect produces an indirect inguinal hernia in the groin.",
+     "D": "The inguinal ligament is a groin structure and would not create a midline bulge.",
+     "E": "A weakness in Hesselbach triangle produces a direct inguinal hernia in the groin."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "diastasis-recti",
+    "linea-alba",
+    "postpartum"
+   ]
+  },
+  {
+   "id": "femoral-inguinal-anatomy-018",
+   "topicId": "femoral-inguinal-anatomy",
+   "topicName": "Anatomy of the Femoral and Inguinal Regions",
+   "stem": "An examiner points to the exit of the inguinal canal, a triangular opening through which the spermatic cord emerges just above the pubic crest. This superficial inguinal ring is a defect in which structure?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Transversalis fascia, lateral to the inferior epigastric vessels"
+    },
+    {
+     "label": "B",
+     "text": "Internal oblique muscle above the pubic crest"
+    },
+    {
+     "label": "C",
+     "text": "External oblique aponeurosis, superomedial to the pubic tubercle"
+    },
+    {
+     "label": "D",
+     "text": "Transversalis fascia at the femoral ring"
+    },
+    {
+     "label": "E",
+     "text": "Conjoint tendon medial to the rectus"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "The superficial inguinal ring is an opening in the external oblique aponeurosis just above and medial to the pubic tubercle.",
+    "whyCorrect": "The superficial (external) inguinal ring is a triangular defect in the external oblique aponeurosis lying superomedial to the pubic tubercle, marking the end of the canal.",
+    "whyWrongByChoice": {
+     "A": "An opening in the transversalis fascia lateral to the inferior epigastric vessels is the deep inguinal ring.",
+     "B": "The internal oblique contributes the roof of the canal and does not form the superficial ring.",
+     "D": "The femoral ring is the abdominal opening of the femoral canal, unrelated to the superficial inguinal ring.",
+     "E": "The conjoint tendon reinforces the posterior canal wall medially; it is not the superficial ring."
+    }
+   },
+   "difficulty": "hard",
+   "imageRef": null,
+   "tags": [
+    "superficial-inguinal-ring",
+    "external-oblique",
+    "pubic-tubercle"
+   ]
+  },
+  {
+   "id": "femoral-inguinal-anatomy-019",
+   "topicId": "femoral-inguinal-anatomy",
+   "topicName": "Anatomy of the Femoral and Inguinal Regions",
+   "stem": "An 80-year-old woman presents with a small, firm, irreducible groin lump and signs of bowel obstruction. On exam the lump lies below and lateral to the pubic tubercle, distinguishing it from an inguinal hernia, which typically lies above and medial to the pubic tubercle. This location is characteristic of which hernia?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "A hernia above and medial to the pubic tubercle"
+    },
+    {
+     "label": "B",
+     "text": "A hernia exiting through the superficial inguinal ring"
+    },
+    {
+     "label": "C",
+     "text": "A hernia lateral to the inferior epigastric vessels through the deep ring"
+    },
+    {
+     "label": "D",
+     "text": "A femoral hernia, below and lateral to the pubic tubercle"
+    },
+    {
+     "label": "E",
+     "text": "A hernia through the linea alba above the umbilicus"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "Femoral hernias present below and lateral to the pubic tubercle; inguinal hernias present above and medial to it.",
+    "whyCorrect": "A femoral hernia exits the femoral canal below the inguinal ligament, so it lies below and lateral to the pubic tubercle; the narrow, rigid femoral ring makes incarceration and obstruction common, as here.",
+    "whyWrongByChoice": {
+     "A": "Above and medial to the pubic tubercle is the location of an inguinal hernia, not a femoral hernia.",
+     "B": "Exit through the superficial inguinal ring describes an inguinal hernia course, not a femoral hernia.",
+     "C": "Passage lateral to the inferior epigastric vessels through the deep ring describes an indirect inguinal hernia.",
+     "E": "A defect through the linea alba is an epigastric/ventral hernia, not a groin hernia."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "femoral-hernia",
+    "pubic-tubercle",
+    "incarceration",
+    "clinical-differentiation"
+   ]
+  },
+  {
+   "id": "femoral-inguinal-anatomy-020",
+   "topicId": "femoral-inguinal-anatomy",
+   "topicName": "Anatomy of the Femoral and Inguinal Regions",
+   "stem": "During inguinal canal dissection, a surgeon identifies a nerve traveling within the spermatic cord that supplies the cremaster muscle and is present within the inguinal canal in both males and females. Which nerve is this?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Femoral nerve"
+    },
+    {
+     "label": "B",
+     "text": "Obturator nerve"
+    },
+    {
+     "label": "C",
+     "text": "Iliohypogastric nerve"
+    },
+    {
+     "label": "D",
+     "text": "Subcostal nerve"
+    },
+    {
+     "label": "E",
+     "text": "Genital branch of the genitofemoral nerve"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "The genital branch of the genitofemoral nerve runs within the inguinal canal in both sexes and innervates the cremaster.",
+    "whyCorrect": "The genital branch of the genitofemoral nerve travels through the inguinal canal (within the cord in males), supplies the cremaster muscle, and is present in both sexes along with the ilioinguinal nerve and lymphatics.",
+    "whyWrongByChoice": {
+     "A": "The femoral nerve lies lateral to the femoral sheath in the thigh and does not run in the inguinal canal.",
+     "B": "The obturator nerve passes through the obturator canal into the medial thigh, not the inguinal canal.",
+     "C": "The iliohypogastric nerve pierces the abdominal wall above the canal and does not traverse its length within it.",
+     "D": "The subcostal nerve (T12) supplies the upper abdominal wall, not the inguinal canal contents."
+    }
+   },
+   "difficulty": "hard",
+   "imageRef": null,
+   "tags": [
+    "inguinal-canal",
+    "genitofemoral-nerve",
+    "cremaster",
+    "canal-contents"
+   ]
+  },
+  {
+   "id": "histology-accessory-organs-001",
+   "topicId": "histology-accessory-organs",
+   "topicName": "Histology of the Accessory Digestive Organs",
+   "stem": "A hematoxylin and eosin section of the pancreas shows tightly packed pyramidal cells arranged around small central lumens, with intensely eosinophilic (zymogen-rich) apical cytoplasm and basophilic basal cytoplasm. These clusters are separated by loose connective tissue. Which functional unit is being described?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Serous acinus of the exocrine pancreas"
+    },
+    {
+     "label": "B",
+     "text": "Islet of Langerhans"
+    },
+    {
+     "label": "C",
+     "text": "Interlobular excretory duct"
+    },
+    {
+     "label": "D",
+     "text": "Hepatic sinusoid"
+    },
+    {
+     "label": "E",
+     "text": "Gallbladder mucosal fold"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "Pyramidal enzyme-secreting cells around a small lumen with apical zymogen granules and basal basophilia define pancreatic serous acini.",
+    "whyCorrect": "Pancreatic serous acini are the exocrine secretory units; their cells have basophilic basal cytoplasm (rough ER) and eosinophilic apical zymogen granules, arranged around a tiny central lumen.",
+    "whyWrongByChoice": {
+     "B": "Islets are pale-staining rounded clusters of endocrine cells lacking a central duct lumen and zymogen granules.",
+     "C": "Interlobular ducts are lined by columnar epithelium within connective tissue septa, not pyramidal zymogen-laden cells around a small acinar lumen.",
+     "D": "Hepatic sinusoids are blood-filled vascular channels lined by endothelium, not solid glandular acini.",
+     "E": "Gallbladder mucosa forms tall folds lined by simple columnar epithelium, not acinar clusters."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "pancreas",
+    "exocrine",
+    "acinus"
+   ]
+  },
+  {
+   "id": "histology-accessory-organs-002",
+   "topicId": "histology-accessory-organs",
+   "topicName": "Histology of the Accessory Digestive Organs",
+   "stem": "A pancreatic biopsy from a 13-year-old with recent-onset type 1 diabetes shows rounded, pale-staining islands of endocrine cells scattered among the darker exocrine tissue. These islands are reduced in number and size with associated lymphocytic inflammation. Immunostaining shows selective loss of the cell type that normally occupies the core of these islands. Which cell has been destroyed?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Alpha cell secreting glucagon"
+    },
+    {
+     "label": "B",
+     "text": "Beta cell secreting insulin"
+    },
+    {
+     "label": "C",
+     "text": "Delta cell secreting somatostatin"
+    },
+    {
+     "label": "D",
+     "text": "Acinar cell secreting digestive enzymes"
+    },
+    {
+     "label": "E",
+     "text": "Cholangiocyte lining a bile ductule"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "Autoimmune type 1 diabetes selectively destroys insulin-producing beta cells within the Islets of Langerhans.",
+    "whyCorrect": "Beta cells make up the majority (core) of each islet and secrete insulin; their autoimmune destruction, with insulitis, produces type 1 diabetes.",
+    "whyWrongByChoice": {
+     "A": "Alpha cells secrete glucagon and are relatively preserved in type 1 diabetes.",
+     "C": "Delta cells secrete somatostatin and are not the primary target in type 1 diabetes.",
+     "D": "Acinar cells are exocrine and are not selectively destroyed in autoimmune type 1 diabetes.",
+     "E": "Cholangiocytes line biliary ducts and are unrelated to islet endocrine function."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "pancreas",
+    "islet",
+    "beta cell",
+    "diabetes"
+   ]
+  },
+  {
+   "id": "histology-accessory-organs-003",
+   "topicId": "histology-accessory-organs",
+   "topicName": "Histology of the Accessory Digestive Organs",
+   "stem": "A liver section shows a hexagonal region of hepatocyte plates. At each of the six corners lies a grouping of three tubular structures: a large thin-walled vein, a smaller thick-walled artery, and an epithelium-lined duct. What is this grouping called?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Space of Disse"
+    },
+    {
+     "label": "B",
+     "text": "Central vein complex"
+    },
+    {
+     "label": "C",
+     "text": "Portal triad"
+    },
+    {
+     "label": "D",
+     "text": "Hepatic acinus"
+    },
+    {
+     "label": "E",
+     "text": "Bile canaliculus"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "The three structures at the corners of a hepatic lobule (portal venule, hepatic arteriole, bile duct) form the portal triad.",
+    "whyCorrect": "A portal triad contains a branch of the portal vein, a branch of the hepatic artery, and a bile duct, and sits at each corner of the hexagonal lobule.",
+    "whyWrongByChoice": {
+     "A": "The space of Disse is the perisinusoidal cleft between hepatocytes and sinusoidal endothelium, not a corner triad.",
+     "B": "The central vein sits at the center of the lobule, not at its corners, and is a single vessel.",
+     "D": "The hepatic acinus is a diamond-shaped functional unit defined by triads and central veins, not the triad itself.",
+     "E": "Bile canaliculi are microscopic channels between adjacent hepatocytes, not vessels in a triad."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "liver",
+    "portal triad",
+    "lobule"
+   ]
+  },
+  {
+   "id": "histology-accessory-organs-004",
+   "topicId": "histology-accessory-organs",
+   "topicName": "Histology of the Accessory Digestive Organs",
+   "stem": "A micrograph of the liver shows branching, irregular plates of large polyhedral cells with round central nuclei and abundant eosinophilic, mitochondria-rich cytoplasm. These plates are separated by dilated, blood-filled vascular channels. Which cells form these plates?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Kupffer cells"
+    },
+    {
+     "label": "B",
+     "text": "Stellate cells"
+    },
+    {
+     "label": "C",
+     "text": "Cholangiocytes"
+    },
+    {
+     "label": "D",
+     "text": "Hepatocytes"
+    },
+    {
+     "label": "E",
+     "text": "Endothelial cells"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "Large polyhedral eosinophilic cells with round central nuclei forming plates between sinusoids are hepatocytes.",
+    "whyCorrect": "Hepatocytes are large cuboidal-to-polyhedral cells with round central nuclei and eosinophilic, mitochondria-rich cytoplasm; they form the branching plates of the liver parenchyma separated by sinusoids.",
+    "whyWrongByChoice": {
+     "A": "Kupffer cells are sinusoidal macrophages, not the parenchymal plate-forming cells.",
+     "B": "Stellate cells are quiescent lipid-storing cells within the space of Disse, not the bulk parenchyma.",
+     "C": "Cholangiocytes are cuboidal/columnar cells lining bile ducts, not the hepatic plates.",
+     "E": "Endothelial cells line the sinusoids, forming the vessel walls rather than the cell plates."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "liver",
+    "hepatocyte"
+   ]
+  },
+  {
+   "id": "histology-accessory-organs-005",
+   "topicId": "histology-accessory-organs",
+   "topicName": "Histology of the Accessory Digestive Organs",
+   "stem": "A section of the gallbladder wall shows tall, deeply folded mucosal projections lined by a single layer of tall columnar epithelium with basal nuclei, a lamina propria, a muscularis with fibers oriented in many directions, and an outer connective tissue layer. Which epithelium lines the gallbladder mucosa?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Stratified squamous epithelium"
+    },
+    {
+     "label": "B",
+     "text": "Pseudostratified ciliated columnar epithelium"
+    },
+    {
+     "label": "C",
+     "text": "Simple squamous epithelium"
+    },
+    {
+     "label": "D",
+     "text": "Transitional epithelium"
+    },
+    {
+     "label": "E",
+     "text": "Simple columnar epithelium"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "The gallbladder mucosa is lined by simple columnar epithelium overlying highly folded mucosa.",
+    "whyCorrect": "The gallbladder mucosa consists of a single layer of tall columnar cells (simple columnar epithelium) that resorb water to concentrate bile; the mucosa is thrown into prominent folds.",
+    "whyWrongByChoice": {
+     "A": "Stratified squamous epithelium lines the esophagus, not the gallbladder.",
+     "B": "The gallbladder epithelium is simple, not pseudostratified or ciliated.",
+     "C": "Simple squamous epithelium lines sinusoids and the space around vessels, not the absorptive gallbladder mucosa.",
+     "D": "Transitional epithelium lines the urinary tract, not the gallbladder."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "gallbladder",
+    "epithelium"
+   ]
+  },
+  {
+   "id": "histology-accessory-organs-006",
+   "topicId": "histology-accessory-organs",
+   "topicName": "Histology of the Accessory Digestive Organs",
+   "stem": "A three-dimensional diagram of the liver highlights a thin perisinusoidal cleft located between the sinusoidal endothelium and the hepatocyte surface. A quiescent lipid-storing cell resides within this cleft and, upon chronic injury, proliferates and deposits collagen. What is the name of this cleft?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Space of Disse"
+    },
+    {
+     "label": "B",
+     "text": "Bile canaliculus"
+    },
+    {
+     "label": "C",
+     "text": "Central vein lumen"
+    },
+    {
+     "label": "D",
+     "text": "Portal tract"
+    },
+    {
+     "label": "E",
+     "text": "Interlobular duct"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "The perisinusoidal space between hepatocytes and sinusoidal endothelium housing stellate cells is the space of Disse.",
+    "whyCorrect": "The space of Disse lies between the sinusoid and hepatocytes and contains hepatic stellate cells, which are normally quiescent but proliferate and secrete collagen during injury, driving cirrhosis.",
+    "whyWrongByChoice": {
+     "B": "The bile canaliculus is a channel between adjacent hepatocytes carrying bile, not the perisinusoidal space.",
+     "C": "The central vein lumen is a blood-carrying vessel at the lobule center, not a cleft next to sinusoids.",
+     "D": "The portal tract is the connective-tissue region containing the portal triad at lobule corners.",
+     "E": "Interlobular ducts are biliary ducts within connective tissue septa, unrelated to the perisinusoidal cleft."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "liver",
+    "space of Disse",
+    "stellate cell"
+   ]
+  },
+  {
+   "id": "histology-accessory-organs-007",
+   "topicId": "histology-accessory-organs",
+   "topicName": "Histology of the Accessory Digestive Organs",
+   "stem": "A liver biopsy from a patient with hemolytic anemia is stained to reveal star-shaped cells lying within the sinusoidal lumen, containing engulfed erythrocyte fragments and hemosiderin. These cells are part of the mononuclear phagocyte system. Which cells are they?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Hepatic stellate cells"
+    },
+    {
+     "label": "B",
+     "text": "Kupffer cells"
+    },
+    {
+     "label": "C",
+     "text": "Hepatocytes"
+    },
+    {
+     "label": "D",
+     "text": "Sinusoidal endothelial cells"
+    },
+    {
+     "label": "E",
+     "text": "Cholangiocytes"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "Sinusoidal macrophages that phagocytose old red blood cells are Kupffer cells.",
+    "whyCorrect": "Kupffer cells are specialized macrophages residing within the hepatic sinusoids; they break down senescent erythrocytes and perform immune surveillance, accumulating hemosiderin.",
+    "whyWrongByChoice": {
+     "A": "Stellate cells store lipid/vitamin A in the space of Disse and make collagen when activated; they are not phagocytic sinusoidal macrophages.",
+     "C": "Hepatocytes are the metabolic parenchymal cells, not phagocytes within the sinusoid.",
+     "D": "Sinusoidal endothelial cells form the fenestrated vessel lining but are not the erythrocyte-clearing macrophages.",
+     "E": "Cholangiocytes line bile ducts and have no phagocytic role in sinusoids."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "liver",
+    "Kupffer cell",
+    "sinusoid"
+   ]
+  },
+  {
+   "id": "histology-accessory-organs-008",
+   "topicId": "histology-accessory-organs",
+   "topicName": "Histology of the Accessory Digestive Organs",
+   "stem": "In the exocrine pancreas, secretions drain sequentially through a ductal system. The very first duct segment draining an acinus is lined by low cuboidal to squamous epithelium and may extend into the center of the acinus. What is this initial duct segment called?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Interlobular duct"
+    },
+    {
+     "label": "B",
+     "text": "Main pancreatic duct"
+    },
+    {
+     "label": "C",
+     "text": "Intercalated duct"
+    },
+    {
+     "label": "D",
+     "text": "Striated duct"
+    },
+    {
+     "label": "E",
+     "text": "Bile canaliculus"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "The first duct draining a pancreatic acinus, lined by low cuboidal/squamous epithelium, is the intercalated duct.",
+    "whyCorrect": "Intercalated ducts are the short, small-caliber initial ducts lined by simple squamous to low cuboidal epithelium; their centroacinar cells extend into the acinus. Drainage proceeds acinus to intercalated to intralobular to interlobular ducts.",
+    "whyWrongByChoice": {
+     "A": "Interlobular ducts are larger and lie within connective tissue septa between lobules, later in the sequence.",
+     "B": "The main pancreatic duct is the largest terminal collecting duct, not the first segment.",
+     "D": "The pancreas lacks striated ducts; these are characteristic of salivary glands.",
+     "E": "Bile canaliculi are hepatic biliary channels, not part of the pancreatic duct system."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "pancreas",
+    "intercalated duct"
+   ]
+  },
+  {
+   "id": "histology-accessory-organs-009",
+   "topicId": "histology-accessory-organs",
+   "topicName": "Histology of the Accessory Digestive Organs",
+   "stem": "A pathologist compares a parotid gland section with a pancreas section. Both contain serous acini with zymogen granules. The pathologist identifies the pancreas by the presence of one feature and the parotid by another. Which pairing correctly distinguishes them?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "The pancreas has striated ducts; the parotid has Islets of Langerhans"
+    },
+    {
+     "label": "B",
+     "text": "Both organs contain Islets of Langerhans; only the parotid has serous acini"
+    },
+    {
+     "label": "C",
+     "text": "The pancreas has mucous acini; the parotid has zymogen granules"
+    },
+    {
+     "label": "D",
+     "text": "The pancreas has Islets of Langerhans; the parotid has striated ducts"
+    },
+    {
+     "label": "E",
+     "text": "The pancreas lacks acini; the parotid lacks ducts"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "The pancreas uniquely contains Islets of Langerhans, whereas the parotid uniquely contains striated ducts.",
+    "whyCorrect": "Although both have serous zymogen-containing acini, the pancreas contains endocrine Islets of Langerhans but lacks striated ducts, while the parotid contains striated ducts but lacks islets.",
+    "whyWrongByChoice": {
+     "A": "This reverses the features: the parotid has striated ducts and the pancreas has islets.",
+     "B": "Islets are found only in the pancreas, and both organs have serous acini.",
+     "C": "The pancreas is a serous (not mucous) gland, and both have zymogen granules.",
+     "E": "Both organs have both acini and ducts; neither lacks these entirely."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "pancreas",
+    "parotid",
+    "comparison"
+   ]
+  },
+  {
+   "id": "histology-accessory-organs-010",
+   "topicId": "histology-accessory-organs",
+   "topicName": "Histology of the Accessory Digestive Organs",
+   "stem": "A researcher injects a tracer into the portal vein of a rat liver and follows its path microscopically. After passing through the terminal portal venule it enters the parenchyma. Through which structure does the tracer flow immediately before reaching the central vein?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Hepatic artery"
+    },
+    {
+     "label": "B",
+     "text": "Bile canaliculus"
+    },
+    {
+     "label": "C",
+     "text": "Interlobular bile duct"
+    },
+    {
+     "label": "D",
+     "text": "Common hepatic duct"
+    },
+    {
+     "label": "E",
+     "text": "Sinusoid"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "Blood flows portal vein to sinusoids to central vein; the sinusoid is the immediate upstream vessel of the central vein.",
+    "whyCorrect": "After the portal venule, blood percolates through the hepatic sinusoids between hepatocyte plates and then drains into the central vein, en route to the hepatic vein.",
+    "whyWrongByChoice": {
+     "A": "The hepatic artery supplies blood into the sinusoids upstream, not just before the central vein.",
+     "B": "Bile canaliculi carry bile, not blood, and flow in the opposite direction toward the portal triad.",
+     "C": "Interlobular bile ducts carry bile within portal tracts, not blood to the central vein.",
+     "D": "The common hepatic duct is an extrahepatic bile duct, not a blood pathway."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "liver",
+    "sinusoid",
+    "blood flow"
+   ]
+  },
+  {
+   "id": "histology-accessory-organs-011",
+   "topicId": "histology-accessory-organs",
+   "topicName": "Histology of the Accessory Digestive Organs",
+   "stem": "A diagram divides the liver parenchyma into a diamond-shaped functional unit whose corners are formed by two portal triads and two central veins, and which is subdivided into three metabolic zones based on distance from the arterial blood supply. What is this functional unit called?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Hepatic acinus"
+    },
+    {
+     "label": "B",
+     "text": "Classic hepatic lobule"
+    },
+    {
+     "label": "C",
+     "text": "Portal lobule"
+    },
+    {
+     "label": "D",
+     "text": "Space of Disse"
+    },
+    {
+     "label": "E",
+     "text": "Portal triad"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "The diamond-shaped unit with corners at two triads and two central veins, zoned by oxygenation, is the hepatic acinus.",
+    "whyCorrect": "The hepatic acinus of Rappaport is a diamond-shaped region defined by two portal triads and two central veins at its corners, and is divided into zones 1-3 by proximity to the vascular supply.",
+    "whyWrongByChoice": {
+     "B": "The classic hepatic lobule is hexagonal with a central vein at the center and triads at corners, not diamond-shaped.",
+     "C": "The portal lobule is a triangular unit centered on a portal triad, emphasizing bile drainage, not the zonal metabolic acinus.",
+     "D": "The space of Disse is a microscopic perisinusoidal cleft, not a parenchymal functional unit.",
+     "E": "The portal triad is the vascular/biliary grouping at a corner, not the whole functional unit."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "liver",
+    "hepatic acinus",
+    "zones"
+   ]
+  },
+  {
+   "id": "histology-accessory-organs-012",
+   "topicId": "histology-accessory-organs",
+   "topicName": "Histology of the Accessory Digestive Organs",
+   "stem": "A patient with prolonged systemic hypotension suffers ischemic hepatic injury. On biopsy, hepatocyte necrosis is most prominent around the central veins. This region also normally houses the cytochrome P-450 system and is the least oxygenated. Which zone of the hepatic acinus is described?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Zone 1 (periportal)"
+    },
+    {
+     "label": "B",
+     "text": "Zone 2 (intermediate)"
+    },
+    {
+     "label": "C",
+     "text": "Zone 3 (pericentral)"
+    },
+    {
+     "label": "D",
+     "text": "The portal triad"
+    },
+    {
+     "label": "E",
+     "text": "The space of Disse"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "Zone 3 (pericentral) is least oxygenated, most vulnerable to ischemia, and contains cytochrome P-450.",
+    "whyCorrect": "Zone 3 surrounds the central vein, is farthest from the arterial supply and thus least oxygenated, houses the cytochrome P-450 detoxification system, and is the first area injured by ischemia and alcoholic hepatitis.",
+    "whyWrongByChoice": {
+     "A": "Zone 1 (periportal) is closest to the arterial supply and most oxygenated, relatively resistant to ischemia.",
+     "B": "Zone 2 is intermediate and not the primary site of ischemic centrilobular necrosis.",
+     "D": "The portal triad is a vascular/biliary structure, not an oxygenation zone susceptible to centrilobular necrosis.",
+     "E": "The space of Disse is a perisinusoidal cleft, not a metabolic zone."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "liver",
+    "zone 3",
+    "ischemia"
+   ]
+  },
+  {
+   "id": "histology-accessory-organs-013",
+   "topicId": "histology-accessory-organs",
+   "topicName": "Histology of the Accessory Digestive Organs",
+   "stem": "A biopsy from a portal tract shows a small duct lined by a single layer of cuboidal to low columnar epithelial cells. These cells are neither hepatocytes nor endothelium and are responsible for lining the biliary drainage system beyond the tiny channels between hepatocytes. What are these lining cells called?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Hepatocytes"
+    },
+    {
+     "label": "B",
+     "text": "Kupffer cells"
+    },
+    {
+     "label": "C",
+     "text": "Cholangiocytes"
+    },
+    {
+     "label": "D",
+     "text": "Acinar cells"
+    },
+    {
+     "label": "E",
+     "text": "Stellate cells"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "Cuboidal-to-columnar epithelial cells lining bile ducts beyond the canaliculi are cholangiocytes.",
+    "whyCorrect": "Cholangiocytes are the simple cuboidal or columnar epithelial cells that line biliary structures from the bile ductules onward, modifying bile as it flows through the ducts.",
+    "whyWrongByChoice": {
+     "A": "Hepatocytes form the parenchymal plates and secrete bile into canaliculi; they do not line the ducts.",
+     "B": "Kupffer cells are sinusoidal macrophages, not duct-lining epithelium.",
+     "D": "Acinar cells are pancreatic exocrine secretory cells, not biliary lining cells.",
+     "E": "Stellate cells reside in the space of Disse and produce collagen; they do not line ducts."
+    }
+   },
+   "difficulty": "easy",
+   "imageRef": null,
+   "tags": [
+    "biliary",
+    "cholangiocyte"
+   ]
+  },
+  {
+   "id": "histology-accessory-organs-014",
+   "topicId": "histology-accessory-organs",
+   "topicName": "Histology of the Accessory Digestive Organs",
+   "stem": "Electron microscopy of two adjacent hepatocytes reveals a tiny channel formed by grooves in the apposed cell membranes of the two cells, sealed by tight junctions and containing microvilli. Bile is first secreted into this channel. What is this structure?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Sinusoid"
+    },
+    {
+     "label": "B",
+     "text": "Bile canaliculus"
+    },
+    {
+     "label": "C",
+     "text": "Space of Disse"
+    },
+    {
+     "label": "D",
+     "text": "Interlobular bile duct"
+    },
+    {
+     "label": "E",
+     "text": "Central vein"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "The intercellular channel between two hepatocytes into which bile is first secreted is the bile canaliculus.",
+    "whyCorrect": "Bile canaliculi are formed by grooves in the apposed membranes of adjacent hepatocytes, sealed by tight junctions and lined by microvilli; hepatocytes secrete bile directly into them.",
+    "whyWrongByChoice": {
+     "A": "The sinusoid is a blood vessel, not a bile-carrying intercellular channel.",
+     "C": "The space of Disse is the perisinusoidal space for plasma exchange, not the bile channel.",
+     "D": "Interlobular bile ducts are larger ducts lined by cholangiocytes in the portal tract, downstream of canaliculi.",
+     "E": "The central vein carries blood and is not involved in bile secretion."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "liver",
+    "bile canaliculus"
+   ]
+  },
+  {
+   "id": "histology-accessory-organs-015",
+   "topicId": "histology-accessory-organs",
+   "topicName": "Histology of the Accessory Digestive Organs",
+   "stem": "A gallbladder specimen is examined to explain how the organ concentrates bile. The mucosa is thrown into tall folds lined by tall columnar cells with numerous apical microvilli and prominent lateral intercellular spaces containing fluid. Which functional process do these histologic features support?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Secretion of digestive enzymes into the lumen"
+    },
+    {
+     "label": "B",
+     "text": "Production of new bile from cholesterol"
+    },
+    {
+     "label": "C",
+     "text": "Phagocytosis of luminal bacteria"
+    },
+    {
+     "label": "D",
+     "text": "Endocrine hormone secretion into blood"
+    },
+    {
+     "label": "E",
+     "text": "Resorption of water to concentrate bile"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "Microvilli and dilated lateral intercellular spaces reflect active water/electrolyte resorption that concentrates bile.",
+    "whyCorrect": "The gallbladder concentrates bile by resorbing water and electrolytes; the columnar cells' apical microvilli increase surface area and the fluid-filled lateral intercellular spaces reflect the standing-gradient osmotic water transport. This resorption can predispose to gallstones.",
+    "whyWrongByChoice": {
+     "A": "Digestive enzyme secretion is a function of the pancreatic acini, not the gallbladder.",
+     "B": "Bile is produced by hepatocytes, not the gallbladder, which only stores and concentrates it.",
+     "C": "Phagocytosis of bacteria is a macrophage function (e.g., Kupffer cells), not the columnar absorptive epithelium.",
+     "D": "Endocrine hormone secretion is a function of islet cells, not the gallbladder mucosa."
+    }
+   },
+   "difficulty": "medium",
+   "imageRef": null,
+   "tags": [
+    "gallbladder",
+    "concentration",
+    "absorption"
+   ]
+  },
+  {
+   "id": "histology-accessory-organs-016",
+   "topicId": "histology-accessory-organs",
+   "topicName": "Histology of the Accessory Digestive Organs",
+   "stem": "A high-power view of a hepatic sinusoid highlights the flattened, discontinuous cell layer that separates the sinusoidal blood from the perisinusoidal space, possessing fenestrations that allow plasma but not blood cells to pass into contact with hepatocyte microvilli. Which cell forms this layer?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Fenestrated sinusoidal endothelial cell"
+    },
+    {
+     "label": "B",
+     "text": "Kupffer cell"
+    },
+    {
+     "label": "C",
+     "text": "Hepatic stellate cell"
+    },
+    {
+     "label": "D",
+     "text": "Hepatocyte"
+    },
+    {
+     "label": "E",
+     "text": "Cholangiocyte"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "The discontinuous, fenestrated lining of the hepatic sinusoid is formed by sinusoidal endothelial cells.",
+    "whyCorrect": "Sinusoidal endothelial cells are flattened and fenestrated, lacking a continuous basement membrane, which lets plasma pass into the space of Disse to bathe hepatocyte microvilli while retaining blood cells.",
+    "whyWrongByChoice": {
+     "B": "Kupffer cells are macrophages within the sinusoidal lumen, not the continuous fenestrated lining layer.",
+     "C": "Stellate cells lie in the space of Disse behind the endothelium and store lipid; they do not form the sinusoidal lining.",
+     "D": "Hepatocytes form the parenchymal plates adjacent to, not lining, the sinusoid.",
+     "E": "Cholangiocytes line bile ducts, not sinusoids."
+    }
+   },
+   "difficulty": "hard",
+   "imageRef": null,
+   "tags": [
+    "liver",
+    "endothelium",
+    "sinusoid"
+   ]
+  },
+  {
+   "id": "histology-accessory-organs-017",
+   "topicId": "histology-accessory-organs",
+   "topicName": "Histology of the Accessory Digestive Organs",
+   "stem": "A pathologist studies a stain for vitamin A-containing lipid droplets in a normal liver. Positive cells are located in the space of Disse and appear quiescent. In a second specimen from a patient with chronic hepatitis C and cirrhosis, these same cells have transformed into collagen-secreting myofibroblast-like cells. Which cell type is being tracked?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Kupffer cell"
+    },
+    {
+     "label": "B",
+     "text": "Hepatic stellate cell"
+    },
+    {
+     "label": "C",
+     "text": "Sinusoidal endothelial cell"
+    },
+    {
+     "label": "D",
+     "text": "Hepatocyte"
+    },
+    {
+     "label": "E",
+     "text": "Cholangiocyte"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "Quiescent vitamin A/lipid-storing cells in the space of Disse that turn fibrogenic in cirrhosis are hepatic stellate cells.",
+    "whyCorrect": "Hepatic stellate (Ito) cells reside in the space of Disse and normally store lipid and vitamin A; with chronic injury they activate into collagen-producing myofibroblast-like cells, driving fibrosis and cirrhosis.",
+    "whyWrongByChoice": {
+     "A": "Kupffer cells are phagocytic macrophages, not lipid/vitamin A-storing fibrogenic cells.",
+     "C": "Sinusoidal endothelial cells form the fenestrated lining and do not store vitamin A or produce the fibrotic collagen.",
+     "D": "Hepatocytes are metabolic parenchymal cells, not the primary collagen-producing cells in cirrhosis.",
+     "E": "Cholangiocytes line bile ducts and are unrelated to space-of-Disse lipid storage."
+    }
+   },
+   "difficulty": "hard",
+   "imageRef": null,
+   "tags": [
+    "liver",
+    "stellate cell",
+    "cirrhosis"
+   ]
+  },
+  {
+   "id": "histology-accessory-organs-018",
+   "topicId": "histology-accessory-organs",
+   "topicName": "Histology of the Accessory Digestive Organs",
+   "stem": "A hepatic acinus is examined for oxygen-dependent metabolic function. The region closest to the portal triad and arterial supply is the best oxygenated and is the principal site of gluconeogenesis and cholesterol synthesis. Which zone has these properties?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Zone 3 (pericentral)"
+    },
+    {
+     "label": "B",
+     "text": "Zone 2 (intermediate)"
+    },
+    {
+     "label": "C",
+     "text": "Zone 1 (periportal)"
+    },
+    {
+     "label": "D",
+     "text": "The central vein"
+    },
+    {
+     "label": "E",
+     "text": "The bile canaliculus"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "Zone 1 (periportal) is the best-oxygenated region performing gluconeogenesis and cholesterol synthesis.",
+    "whyCorrect": "Zone 1 is nearest the portal triad and arterial supply, making it the most oxygenated zone and the primary site of oxygen-dependent processes such as gluconeogenesis and cholesterol synthesis.",
+    "whyWrongByChoice": {
+     "A": "Zone 3 is least oxygenated and specializes in detoxification (cytochrome P-450), glycolysis, and lipogenesis, not oxygen-dependent gluconeogenesis.",
+     "B": "Zone 2 is intermediate and not the defined site of these functions.",
+     "D": "The central vein is a draining vessel, not a metabolic zone.",
+     "E": "The bile canaliculus is a bile channel, not an oxygenation zone."
+    }
+   },
+   "difficulty": "hard",
+   "imageRef": null,
+   "tags": [
+    "liver",
+    "zone 1",
+    "metabolism"
+   ]
+  },
+  {
+   "id": "histology-accessory-organs-019",
+   "topicId": "histology-accessory-organs",
+   "topicName": "Histology of the Accessory Digestive Organs",
+   "stem": "A section of gallbladder wall is compared with the small intestine. The pathologist notes that the gallbladder wall lacks a specific feature normally present in the gut wall. Which layer or feature is characteristically ABSENT from the gallbladder wall?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Simple columnar epithelium"
+    },
+    {
+     "label": "B",
+     "text": "Lamina propria"
+    },
+    {
+     "label": "C",
+     "text": "A muscularis layer"
+    },
+    {
+     "label": "D",
+     "text": "A distinct muscularis mucosae and submucosa"
+    },
+    {
+     "label": "E",
+     "text": "An outer adventitia or serosa"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "The gallbladder wall lacks a muscularis mucosae and submucosa, unlike the intestinal wall.",
+    "whyCorrect": "The gallbladder wall consists of mucosa (simple columnar epithelium and lamina propria), a muscularis, and an outer adventitia/serosa; it notably lacks a muscularis mucosae and a distinct submucosa found in the gut tube.",
+    "whyWrongByChoice": {
+     "A": "The gallbladder mucosa is lined by simple columnar epithelium, which is present, not absent.",
+     "B": "The gallbladder has a lamina propria beneath its epithelium.",
+     "C": "The gallbladder has a muscularis whose multidirectional fibers aid emptying.",
+     "E": "The gallbladder has an outer adventitia (where attached to liver) or serosa (free surface)."
+    }
+   },
+   "difficulty": "hard",
+   "imageRef": null,
+   "tags": [
+    "gallbladder",
+    "wall layers"
+   ]
+  },
+  {
+   "id": "histology-accessory-organs-020",
+   "topicId": "histology-accessory-organs",
+   "topicName": "Histology of the Accessory Digestive Organs",
+   "stem": "A pale-staining islet in the pancreas is immunostained. The cells at the periphery (rim) of the islet stain positive for a hormone that raises blood glucose, whereas a smaller population stains for a hormone that inhibits secretion of both insulin and glucagon. Which pairing correctly identifies the peripheral (glucose-raising) cell and the inhibitory cell?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Peripheral cell = beta cell (insulin); inhibitory cell = alpha cell (glucagon)"
+    },
+    {
+     "label": "B",
+     "text": "Peripheral cell = acinar cell (enzymes); inhibitory cell = beta cell (insulin)"
+    },
+    {
+     "label": "C",
+     "text": "Peripheral cell = delta cell (glucagon); inhibitory cell = beta cell (insulin)"
+    },
+    {
+     "label": "D",
+     "text": "Peripheral cell = beta cell (somatostatin); inhibitory cell = alpha cell (insulin)"
+    },
+    {
+     "label": "E",
+     "text": "Peripheral cell = alpha cell (glucagon); inhibitory cell = delta cell (somatostatin)"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "Peripheral alpha cells secrete glucose-raising glucagon; delta cells secrete inhibitory somatostatin.",
+    "whyCorrect": "Alpha cells, located mainly at the islet periphery, secrete glucagon, which raises blood glucose; delta cells secrete somatostatin, which inhibits secretion of both insulin and glucagon.",
+    "whyWrongByChoice": {
+     "A": "Beta cells secrete insulin (which lowers glucose) and occupy the islet core, not the glucose-raising peripheral role; alpha cells secrete glucagon, not an inhibitory hormone.",
+     "B": "Acinar cells are exocrine, not islet cells, and insulin does not primarily inhibit both other islet hormones.",
+     "C": "Delta cells secrete somatostatin, not glucagon, and beta cells secrete insulin, not an islet-inhibitory hormone.",
+     "D": "Beta cells secrete insulin (not somatostatin) and alpha cells secrete glucagon (not insulin); the assignments are incorrect."
+    }
+   },
+   "difficulty": "hard",
+   "imageRef": null,
+   "tags": [
+    "pancreas",
+    "islet",
+    "alpha cell",
+    "delta cell"
+   ]
+  }
+ ]
+}

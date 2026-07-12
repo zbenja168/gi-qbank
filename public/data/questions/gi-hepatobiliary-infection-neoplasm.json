@@ -86,7 +86,7 @@
      "E": "Bacteroides is a common anaerobic co-pathogen in polymicrobial pyogenic abscess but is not the single most common isolate and is not the gram-negative rod grown here."
     }
    },
-   "difficulty": "easy",
+   "difficulty": "hard",
    "imageRef": null,
    "tags": [
     "pyogenic",
@@ -197,11 +197,11 @@
     },
     {
      "label": "B",
-     "text": "Metronidazole then paromomycin"
+     "text": "Metronidazole then triclabendazole"
     },
     {
      "label": "C",
-     "text": "Metronidazole then triclabendazole"
+     "text": "Metronidazole then paromomycin"
     },
     {
      "label": "D",
@@ -212,13 +212,13 @@
      "text": "Metronidazole then azithromycin"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Amebic abscess requires a tissue amebicide followed by a luminal amebicide.",
     "whyCorrect": "Metronidazole (tissue amebicide) kills invasive trophozoites, and paromomycin (luminal amebicide) is given afterward to eradicate residual intestinal cysts and prevent relapse or transmission.",
     "whyWrongByChoice": {
      "A": "Ceftriaxone is an antibacterial agent with no activity against E histolytica.",
-     "C": "Triclabendazole treats fascioliasis, not luminal amebic cysts.",
+     "B": "Triclabendazole treats fascioliasis, not luminal amebic cysts.",
      "D": "Praziquantel and albendazole are antihelminthics for flukes and other worms, not amebiasis.",
      "E": "Azithromycin is a macrolide antibiotic without reliable antiamebic activity and does not clear luminal cysts."
     }
@@ -314,7 +314,7 @@
      "D": "Gastric cancer is associated with H pylori and dietary factors, not Clonorchis."
     }
    },
-   "difficulty": "easy",
+   "difficulty": "hard",
    "imageRef": null,
    "tags": [
     "fluke",
@@ -656,30 +656,30 @@
     },
     {
      "label": "B",
-     "text": "Albendazole with careful cyst management"
-    },
-    {
-     "label": "C",
      "text": "Praziquantel monotherapy"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Broad-spectrum antibiotics and percutaneous drainage"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Triclabendazole for two doses"
+    },
+    {
+     "label": "E",
+     "text": "Albendazole with careful cyst management"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Eggshell calcification with daughter cysts in a shepherd indicates a hydatid (Echinococcus) cyst, treated with albendazole and careful cyst management.",
     "whyCorrect": "Echinococcus granulosus hydatid disease presents as a calcified cyst with daughter cysts in sheep-associated exposures; albendazole is the antiparasitic backbone, with cyst management (e.g., PAIR or surgery) to avoid anaphylaxis from spillage.",
     "whyWrongByChoice": {
      "A": "Metronidazole/paromomycin treats amebic abscess, not a calcified hydatid cyst.",
-     "C": "Praziquantel is used for flukes and adjunctively in some echinococcosis, but it is not the primary agent and is inadequate as monotherapy here.",
-     "D": "Antibiotics and simple drainage are for pyogenic abscess; uncontrolled aspiration of a hydatid cyst risks anaphylaxis and dissemination.",
-     "E": "Triclabendazole treats fascioliasis, not echinococcal cysts."
+     "B": "Praziquantel is used for flukes and adjunctively in some echinococcosis, but it is not the primary agent and is inadequate as monotherapy here.",
+     "C": "Antibiotics and simple drainage are for pyogenic abscess; uncontrolled aspiration of a hydatid cyst risks anaphylaxis and dissemination.",
+     "D": "Triclabendazole treats fascioliasis, not echinococcal cysts."
     }
    },
    "difficulty": "hard",
@@ -843,25 +843,25 @@
     },
     {
      "label": "C",
-     "text": "Broad coverage of gram-negative rods, anaerobes, and gram-positive cocci"
+     "text": "Oral metronidazole plus paromomycin"
     },
     {
      "label": "D",
-     "text": "Oral metronidazole plus paromomycin"
+     "text": "Broad coverage of gram-negative rods, anaerobes, and gram-positive cocci"
     },
     {
      "label": "E",
      "text": "Fluconazole for presumed Candida"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Pyogenic abscesses are often polymicrobial, so empiric therapy must be broad.",
     "whyCorrect": "Because pyogenic liver abscesses of biliary/GI origin are frequently polymicrobial, empiric IV therapy must cover gram-negative rods, anaerobes, and gram-positive cocci until cultures guide narrowing.",
     "whyWrongByChoice": {
      "A": "Vancomycin alone misses gram-negative rods and anaerobes central to biliary-source abscesses.",
      "B": "Anaerobe-only coverage omits the gram-negative rods (e.g., E coli) that predominate.",
-     "D": "Metronidazole/paromomycin targets amebiasis, not a polymicrobial bacterial abscess.",
+     "C": "Metronidazole/paromomycin targets amebiasis, not a polymicrobial bacterial abscess.",
      "E": "Fluconazole targets fungi, which are not the cause of a typical biliary-source pyogenic abscess."
     }
    },
