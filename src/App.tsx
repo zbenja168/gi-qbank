@@ -6,10 +6,11 @@ import { HomePage } from './pages/HomePage';
 import { QuizPage } from './pages/QuizPage';
 import { DashboardPage } from './pages/DashboardPage';
 import { ReviewPage } from './pages/ReviewPage';
+import { BrandBadge } from './components/Brand';
 
 type Page = 'home' | 'quiz' | 'dashboard' | 'review';
 
-function App() {
+function AppShell() {
   const [page, setPage] = useState<Page>('home');
   const topicsHook = useTopics();
   const { progress, recordAnswer, recordSession, toggleBookmark, clearAllProgress } = useProgress();
@@ -131,4 +132,11 @@ function App() {
   }
 }
 
-export default App;
+export default function App() {
+  return (
+    <>
+      <BrandBadge />
+      <AppShell />
+    </>
+  );
+}

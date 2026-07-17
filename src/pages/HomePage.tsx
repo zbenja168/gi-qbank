@@ -2,6 +2,7 @@ import { TopicsIndex, Category } from '../types/topic';
 import { CategoryAccordion } from '../components/TopicFilter/CategoryAccordion';
 import { ProgressData, getAnsweredByTopic } from '../types/progress';
 import { getOverallStats } from '../utils/stats';
+import { BrandCard } from '../components/Brand';
 
 interface Props {
   topics: TopicsIndex;
@@ -71,6 +72,8 @@ export function HomePage({
       </header>
 
       <main className="max-w-5xl mx-auto px-4 py-8">
+        <BrandCard />
+
         {/* Stats summary */}
         {stats.total > 0 && (<>
           <div className="grid grid-cols-3 gap-4 mb-8">
