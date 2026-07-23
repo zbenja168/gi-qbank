@@ -7,6 +7,7 @@ import { QuizPage } from './pages/QuizPage';
 import { DashboardPage } from './pages/DashboardPage';
 import { ReviewPage } from './pages/ReviewPage';
 import { BrandBadge } from './components/Brand';
+import { track } from './utils/track';
 
 type Page = 'home' | 'quiz' | 'dashboard' | 'review';
 
@@ -21,6 +22,7 @@ function AppShell() {
   const handleStartQuiz = useCallback(async () => {
     // Pass progress so completed questions are filtered out
     await loadQuestions(topicsHook.categoriesForSelected, topicsHook.selectedTopicIds, progress);
+    track('quiz_start');
     setPage('quiz');
   }, [loadQuestions, topicsHook.categoriesForSelected, topicsHook.selectedTopicIds, progress]);
 
