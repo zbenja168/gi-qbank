@@ -149,6 +149,11 @@
    "name": "Hepatobiliary Infections, Biliary Disease & Neoplasms",
    "topics": [
     {
+     "id": "viral-hepatitis-clinical",
+     "name": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+     "questionCount": 22
+    },
+    {
      "id": "hepatic-abscesses-flukes",
      "name": "Infectious Hepatic Abscesses and Flukes",
      "questionCount": 20
@@ -192,5 +197,5 @@
    ]
   }
  ],
- "totalQuestions": 620
+ "totalQuestions": 642
 }

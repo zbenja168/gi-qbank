@@ -3,6 +3,864 @@
  "categoryName": "Hepatobiliary Infections, Biliary Disease & Neoplasms",
  "questions": [
   {
+   "id": "viral-hepatitis-clinical-001",
+   "topicId": "viral-hepatitis-clinical",
+   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+   "stem": "A 28-year-old woman presents with 3 days of nausea, anorexia, malaise, and vomiting. On examination her sclerae are icteric, her skin is jaundiced, and the right upper quadrant is tender. Which underlying process best explains her scleral icterus and jaundice?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Increased hepatic synthesis of albumin"
+    },
+    {
+     "label": "B",
+     "text": "Impaired hepatocyte metabolism and excretion of bilirubin"
+    },
+    {
+     "label": "C",
+     "text": "Accelerated splenic destruction of red blood cells"
+    },
+    {
+     "label": "D",
+     "text": "Obstruction of the cystic duct by a gallstone"
+    },
+    {
+     "label": "E",
+     "text": "Deposition of iron in the skin and sclerae"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "Jaundice in hepatitis reflects hepatocellular injury impairing bilirubin handling.",
+    "whyCorrect": "Inflamed, injured hepatocytes cannot conjugate and excrete bilirubin normally, so it accumulates in serum and deposits in the skin, sclerae, and mucous membranes as jaundice.",
+    "whyWrongByChoice": {
+     "A": "Albumin synthesis falls (not rises) in liver disease, and low albumin does not cause jaundice.",
+     "C": "Hemolysis raises unconjugated bilirubin but is not the mechanism in viral hepatitis, where the defect is hepatocellular.",
+     "D": "Cystic duct obstruction causes biliary colic/cholecystitis, not the diffuse hepatocellular picture with systemic viral symptoms described here.",
+     "E": "Iron deposition (hemochromatosis) causes bronze skin over years, not acute icterus with a 3-day viral prodrome."
+    }
+   }
+  },
+  {
+   "id": "viral-hepatitis-clinical-002",
+   "topicId": "viral-hepatitis-clinical",
+   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+   "stem": "A patient with acute hepatitis is noted to have dark urine and pale, clay-colored stools. Which finding best explains this combination?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Decreased excretion of conjugated bilirubin into the gut with spillover of conjugated bilirubin into urine"
+    },
+    {
+     "label": "B",
+     "text": "Increased production of unconjugated bilirubin from hemolysis"
+    },
+    {
+     "label": "C",
+     "text": "Loss of urobilinogen reabsorption in the terminal ileum"
+    },
+    {
+     "label": "D",
+     "text": "Elevated serum ammonia from impaired detoxification"
+    },
+    {
+     "label": "E",
+     "text": "Reduced hepatic synthesis of clotting factors"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "Dark urine plus pale stools reflects conjugated bilirubin diverted from gut to urine.",
+    "whyCorrect": "When hepatocellular injury reduces excretion of conjugated bilirubin into the biliary tract, less pigment reaches the gut (pale stools) while water-soluble conjugated bilirubin spills into the blood and is filtered into urine (dark urine, bilirubinuria on dipstick).",
+    "whyWrongByChoice": {
+     "B": "Unconjugated bilirubin is not water soluble and does not appear in urine, so hemolysis does not produce bilirubinuria.",
+     "C": "Urobilinogen handling is not the primary driver of the dark-urine/pale-stool pattern; reduced conjugated bilirubin excretion is.",
+     "D": "Elevated ammonia contributes to encephalopathy, not to urine or stool color.",
+     "E": "Impaired clotting-factor synthesis prolongs the PT/INR but does not change urine or stool color."
+    }
+   }
+  },
+  {
+   "id": "viral-hepatitis-clinical-003",
+   "topicId": "viral-hepatitis-clinical",
+   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+   "stem": "A hepatology attending reminds students that although the panel is called “liver function tests,” several components actually measure hepatocyte injury rather than function. Which of the following is a true test of hepatic synthetic function?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Alanine transaminase (ALT)"
+    },
+    {
+     "label": "B",
+     "text": "Aspartate transaminase (AST)"
+    },
+    {
+     "label": "C",
+     "text": "Alkaline phosphatase (ALP)"
+    },
+    {
+     "label": "D",
+     "text": "Serum albumin"
+    },
+    {
+     "label": "E",
+     "text": "Gamma-glutamyl transpeptidase (GGT)"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "Albumin, PT, and bilirubin reflect function; transaminases and ALP reflect injury.",
+    "whyCorrect": "Albumin is synthesized by hepatocytes, so its level (along with prothrombin time and bilirubin) reflects true liver function. Transaminases and cholestatic enzymes are released from or induced by injured cells and mark injury, not function.",
+    "whyWrongByChoice": {
+     "A": "ALT is released from damaged hepatocytes and is a marker of injury, not synthetic function.",
+     "B": "AST likewise reflects hepatocellular injury and is also found in muscle and other tissues.",
+     "C": "ALP is a cholestatic injury/obstruction marker, not a measure of synthetic function.",
+     "E": "GGT is a cholestatic marker used to confirm the hepatic origin of an elevated ALP, not a function test."
+    }
+   }
+  },
+  {
+   "id": "viral-hepatitis-clinical-004",
+   "topicId": "viral-hepatitis-clinical",
+   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+   "stem": "A patient with severe acute hepatitis develops confusion and asterixis. Laboratory studies show a prolonged prothrombin time and elevated serum ammonia. These abnormalities are best explained by which of the following?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Declining hepatic synthetic and detoxification function"
+    },
+    {
+     "label": "B",
+     "text": "Acute obstruction of the common bile duct"
+    },
+    {
+     "label": "C",
+     "text": "Autoimmune destruction of pancreatic islet cells"
+    },
+    {
+     "label": "D",
+     "text": "Increased renal excretion of clotting factors"
+    },
+    {
+     "label": "E",
+     "text": "Bacterial overgrowth of the small intestine"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "Coagulopathy plus hyperammonemia signals failing hepatic synthetic/detox capacity.",
+    "whyCorrect": "A prolonged PT/INR reflects failed synthesis of clotting factors, and elevated ammonia reflects impaired hepatic detoxification; together they indicate the liver's synthetic and detoxifying functions are failing, as in acute (fulminant) liver failure.",
+    "whyWrongByChoice": {
+     "B": "Biliary obstruction causes cholestasis and jaundice but does not by itself cause hyperammonemia and coagulopathy.",
+     "C": "Islet-cell destruction causes diabetes, unrelated to PT prolongation or ammonia.",
+     "D": "Clotting factors are proteins made by the liver, not lost through the kidney; the defect is decreased synthesis.",
+     "E": "Small-bowel bacterial overgrowth causes malabsorption, not acute coagulopathy with encephalopathy."
+    }
+   }
+  },
+  {
+   "id": "viral-hepatitis-clinical-005",
+   "topicId": "viral-hepatitis-clinical",
+   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+   "stem": "A 24-year-old man develops fever, malaise, anorexia, and jaundice 3 weeks after returning from a backpacking trip through rural regions with poor sanitation, where he drank untreated water. He does not use injection drugs. Which virus is the most likely cause, and what is its expected course?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Hepatitis A virus; acute, self-limited infection without chronicity"
+    },
+    {
+     "label": "B",
+     "text": "Hepatitis B virus; frequently progresses to chronic infection"
+    },
+    {
+     "label": "C",
+     "text": "Hepatitis C virus; up to 85% become chronically infected"
+    },
+    {
+     "label": "D",
+     "text": "Hepatitis D virus; requires concurrent hepatitis B"
+    },
+    {
+     "label": "E",
+     "text": "Cytomegalovirus; latent infection with periodic reactivation"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "Fecal–oral exposure with a short prodrome points to HAV, an acute self-limited illness.",
+    "whyCorrect": "Hepatitis A is acquired by the fecal–oral route (contaminated food/water, poor sanitation), has a 2–6 week incubation, and causes an acute, self-limited infection that does not become chronic.",
+    "whyWrongByChoice": {
+     "B": "HBV is bloodborne/sexual/perinatal, not typically from contaminated water, and this exposure history fits fecal–oral transmission.",
+     "C": "HCV is parenteral and this man denies injection drug use or other bloodborne risk; the travel/water history fits HAV.",
+     "D": "HDV can only infect with HBV present, and nothing here indicates HBV coinfection.",
+     "E": "CMV hepatitis occurs mainly in immunocompromised or perinatal settings, not after ingesting contaminated water in a healthy traveler."
+    }
+   }
+  },
+  {
+   "id": "viral-hepatitis-clinical-006",
+   "topicId": "viral-hepatitis-clinical",
+   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+   "stem": "The risk that acute hepatitis B becomes a chronic infection depends strongly on the age at which infection is acquired. Approximately what proportion of infants infected perinatally progress to chronic HBV infection?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Less than 1%"
+    },
+    {
+     "label": "B",
+     "text": "About 5–10%"
+    },
+    {
+     "label": "C",
+     "text": "About 25%"
+    },
+    {
+     "label": "D",
+     "text": "About 50%"
+    },
+    {
+     "label": "E",
+     "text": "Up to 90%"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "Perinatal HBV becomes chronic in up to ~90% of infants; adult infection rarely does.",
+    "whyCorrect": "Chronicity risk for HBV is inversely related to age at infection: up to ~90% of infants infected perinatally become chronically infected, versus only about 5–10% of adults.",
+    "whyWrongByChoice": {
+     "A": "Less than 1% understates the very high perinatal chronicity risk.",
+     "B": "About 5–10% is the chronicity rate for adult-acquired HBV, not perinatal.",
+     "C": "25% does not match the established perinatal figure of roughly 90%.",
+     "D": "50% still understates perinatal chronicity, which approaches 90%."
+    }
+   }
+  },
+  {
+   "id": "viral-hepatitis-clinical-007",
+   "topicId": "viral-hepatitis-clinical",
+   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+   "stem": "A hepatitis virus is described as an enveloped, positive-sense RNA virus whose RNA-dependent RNA polymerase lacks proofreading activity, producing rapid antigenic variation of its envelope proteins. This feature best explains which clinical consequence?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "A high likelihood of chronic infection due to immune evasion"
+    },
+    {
+     "label": "B",
+     "text": "An exclusively fecal–oral route of transmission"
+    },
+    {
+     "label": "C",
+     "text": "Dependence on a helper virus for replication"
+    },
+    {
+     "label": "D",
+     "text": "Formation of ground-glass hepatocytes on biopsy"
+    },
+    {
+     "label": "E",
+     "text": "Reliably protective immunity after natural infection"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "This describes HCV: an error-prone polymerase drives antigenic variation and chronicity.",
+    "whyCorrect": "The virus is hepatitis C (Flavivirus). Its error-prone polymerase generates constant envelope-protein variation, allowing immune evasion and a high rate (up to ~85%) of progression to chronic infection.",
+    "whyWrongByChoice": {
+     "B": "HCV is bloodborne (parenteral), not fecal–oral; fecal–oral applies to HAV and HEV.",
+     "C": "Requiring a helper virus describes HDV, which needs HBV, not HCV.",
+     "D": "Ground-glass hepatocytes are characteristic of HBV, not HCV.",
+     "E": "HCV antibodies do NOT confer protective immunity; reinfection can occur, unlike after HBV immunity."
+    }
+   }
+  },
+  {
+   "id": "viral-hepatitis-clinical-008",
+   "topicId": "viral-hepatitis-clinical",
+   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+   "stem": "A patient with chronic hepatitis B is found to have a superimposed second hepatitis virus, and his disease progresses unexpectedly rapidly toward liver failure. This second virus can only replicate in the presence of hepatitis B. Which virus is responsible?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Hepatitis A virus"
+    },
+    {
+     "label": "B",
+     "text": "Hepatitis C virus"
+    },
+    {
+     "label": "C",
+     "text": "Hepatitis D virus"
+    },
+    {
+     "label": "D",
+     "text": "Hepatitis E virus"
+    },
+    {
+     "label": "E",
+     "text": "Epstein-Barr virus"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "A defective virus needing HBsAg to replicate, causing severe superinfection, is HDV.",
+    "whyCorrect": "Hepatitis D is a defective, circular RNA virus (Deltavirus) that requires hepatitis B for replication. Superinfection of a chronic HBV carrier increases the risk of severe disease and accelerated progression.",
+    "whyWrongByChoice": {
+     "A": "HAV is an independent, acute, self-limited virus that does not depend on HBV.",
+     "B": "HCV replicates independently and does not require HBV.",
+     "D": "HEV replicates independently and does not require HBV; it is notable for severity in pregnancy.",
+     "E": "EBV causes mononucleosis and can involve the liver but does not require HBV to replicate."
+    }
+   }
+  },
+  {
+   "id": "viral-hepatitis-clinical-009",
+   "topicId": "viral-hepatitis-clinical",
+   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+   "stem": "A liver biopsy from a patient with chronic viral hepatitis shows hepatocytes with a pale, finely granular (“ground-glass”) cytoplasm. This finding results from accumulation of which substance, and it indicates infection with which virus?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Hepatitis B surface antigen (HBsAg) in the endoplasmic reticulum; HBV"
+    },
+    {
+     "label": "B",
+     "text": "Mallory-Denk hyaline; alcohol-associated hepatitis"
+    },
+    {
+     "label": "C",
+     "text": "Owl's-eye intranuclear inclusions; cytomegalovirus"
+    },
+    {
+     "label": "D",
+     "text": "Iron within hepatocytes; hereditary hemochromatosis"
+    },
+    {
+     "label": "E",
+     "text": "Fat vacuoles displacing the nucleus; steatotic liver disease"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "Ground-glass hepatocytes come from HBsAg buildup in the ER and indicate HBV.",
+    "whyCorrect": "Ground-glass hepatocytes have pale, granular cytoplasm caused by accumulation of HBsAg in the endoplasmic reticulum and are characteristic of chronic hepatitis B infection.",
+    "whyWrongByChoice": {
+     "B": "Mallory-Denk bodies are eosinophilic cytoplasmic inclusions of alcoholic (and steatotic) liver injury, not the ground-glass pattern.",
+     "C": "Owl's-eye inclusions are intranuclear and characteristic of CMV, not the cytoplasmic ground-glass change of HBV.",
+     "D": "Iron accumulation is seen in hemochromatosis and is demonstrated with a Prussian blue stain, not as ground-glass cytoplasm.",
+     "E": "Fat vacuoles indicate steatosis, a different morphologic change from ground-glass hepatocytes."
+    }
+   }
+  },
+  {
+   "id": "viral-hepatitis-clinical-010",
+   "topicId": "viral-hepatitis-clinical",
+   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+   "stem": "An immunocompromised transplant recipient develops hepatitis. Liver biopsy shows enlarged cells with large intranuclear “owl's-eye” inclusions. Which organism is most likely responsible?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Hepatitis B virus"
+    },
+    {
+     "label": "B",
+     "text": "Cytomegalovirus"
+    },
+    {
+     "label": "C",
+     "text": "Entamoeba histolytica"
+    },
+    {
+     "label": "D",
+     "text": "Hepatitis A virus"
+    },
+    {
+     "label": "E",
+     "text": "Fasciola hepatica"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "Owl's-eye intranuclear inclusions in an immunocompromised host indicate CMV.",
+    "whyCorrect": "Cytomegalovirus produces characteristic large “owl's-eye” intranuclear inclusions and causes hepatitis as part of systemic infection, especially in immunocompromised patients or perinatal infection.",
+    "whyWrongByChoice": {
+     "A": "HBV produces cytoplasmic ground-glass hepatocytes, not owl's-eye intranuclear inclusions.",
+     "C": "Entamoeba causes a solitary hepatic abscess (anchovy-paste), not owl's-eye inclusions.",
+     "D": "HAV causes acute self-limited hepatitis without distinctive inclusion bodies.",
+     "E": "Fasciola is a liver fluke that infects the biliary tree; it does not produce owl's-eye inclusions."
+    }
+   }
+  },
+  {
+   "id": "viral-hepatitis-clinical-011",
+   "topicId": "viral-hepatitis-clinical",
+   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+   "stem": "A previously healthy person develops fulminant acute liver failure. Because this cause is highly fatal without treatment yet responds to early empiric antiviral therapy, it is considered a “must not miss” diagnosis even though it rarely causes hepatitis. Which pathogen–treatment pair is described?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Herpes simplex virus — acyclovir"
+    },
+    {
+     "label": "B",
+     "text": "Hepatitis A virus — supportive care only"
+    },
+    {
+     "label": "C",
+     "text": "Hepatitis C virus — direct-acting antivirals"
+    },
+    {
+     "label": "D",
+     "text": "Epstein-Barr virus — corticosteroids"
+    },
+    {
+     "label": "E",
+     "text": "Hepatitis E virus — ribavirin"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "HSV hepatitis is rare but often fatal; empiric acyclovir can be lifesaving.",
+    "whyCorrect": "HSV rarely causes hepatitis, but when it does it frequently causes highly fatal fulminant liver failure. It is a high-stakes “must not miss” diagnosis, and early empiric acyclovir—often given before confirmatory PCR—can be lifesaving.",
+    "whyWrongByChoice": {
+     "B": "HAV is self-limited and managed supportively; it is not the fulminant “must not miss” diagnosis requiring empiric antivirals.",
+     "C": "HCV causes chronic disease treated electively with DAAs, not fulminant failure needing emergent empiric therapy.",
+     "D": "EBV hepatitis is usually self-limited; steroids are reserved for airway obstruction, not to prevent fulminant liver failure.",
+     "E": "HEV is usually self-limited (severe mainly in pregnancy); it is not the classic acyclovir-responsive fulminant hepatitis."
+    }
+   }
+  },
+  {
+   "id": "viral-hepatitis-clinical-012",
+   "topicId": "viral-hepatitis-clinical",
+   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+   "stem": "A pregnant woman in her third trimester develops acute hepatitis after traveling to a region with poor sanitation. Which hepatitis virus is most associated with an increased risk of acute liver failure in pregnancy?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Hepatitis A virus"
+    },
+    {
+     "label": "B",
+     "text": "Hepatitis B virus"
+    },
+    {
+     "label": "C",
+     "text": "Hepatitis C virus"
+    },
+    {
+     "label": "D",
+     "text": "Hepatitis E virus"
+    },
+    {
+     "label": "E",
+     "text": "Hepatitis D virus"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "HEV, a fecal–oral virus, carries a high risk of acute liver failure in pregnancy.",
+    "whyCorrect": "Hepatitis E is transmitted fecal–orally and is usually acute and self-limited, but it is specifically associated with a markedly increased risk of acute (fulminant) liver failure in pregnant women.",
+    "whyWrongByChoice": {
+     "A": "HAV is fecal–oral and usually mild; it lacks the specific pregnancy-associated fulminant risk of HEV.",
+     "B": "HBV is bloodborne and does not have the distinctive pregnancy-related fulminant course of HEV.",
+     "C": "HCV is bloodborne and tends to be chronic; it is not the classic pregnancy-associated fulminant hepatitis.",
+     "E": "HDV requires HBV and is not the fecal–oral pregnancy-associated virus; the traveler's exposure fits HEV."
+    }
+   }
+  },
+  {
+   "id": "viral-hepatitis-clinical-013",
+   "topicId": "viral-hepatitis-clinical",
+   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+   "stem": "A patient with suspected acute hepatitis A infection is tested. Which single serologic marker best confirms acute HAV infection?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Anti-HAV IgM"
+    },
+    {
+     "label": "B",
+     "text": "Anti-HAV IgG"
+    },
+    {
+     "label": "C",
+     "text": "HAV RNA in stool"
+    },
+    {
+     "label": "D",
+     "text": "Anti-HBc IgM"
+    },
+    {
+     "label": "E",
+     "text": "Anti-HCV IgG"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "Anti-HAV IgM is the earliest marker and confirms acute HAV infection.",
+    "whyCorrect": "Anti-HAV IgM is the earliest detectable serologic marker and indicates acute HAV infection. Anti-HAV IgG appears later and signifies past infection or vaccination with long-term immunity.",
+    "whyWrongByChoice": {
+     "B": "Anti-HAV IgG indicates past infection or immunity, not acute infection.",
+     "C": "HAV RNA appears early but is not the routine clinical test; antibody testing is the first-line approach.",
+     "D": "Anti-HBc IgM is a marker of acute hepatitis B, not hepatitis A.",
+     "E": "Anti-HCV IgG is a marker of hepatitis C exposure, unrelated to HAV."
+    }
+   }
+  },
+  {
+   "id": "viral-hepatitis-clinical-014",
+   "topicId": "viral-hepatitis-clinical",
+   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+   "stem": "A patient's hepatitis B panel returns during a specific phase of recovery: HBsAg is negative, anti-HBs is negative, and anti-HBc IgM is positive. Which interpretation is correct?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "The “window period”, when anti-HBc IgM may be the only positive marker"
+    },
+    {
+     "label": "B",
+     "text": "Chronic active hepatitis B with high infectivity"
+    },
+    {
+     "label": "C",
+     "text": "Successful vaccination against hepatitis B"
+    },
+    {
+     "label": "D",
+     "text": "Distant resolved infection with lifelong immunity"
+    },
+    {
+     "label": "E",
+     "text": "A false-positive result requiring no further testing"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "HBsAg–, anti-HBs–, anti-HBc IgM+ defines the HBV window period.",
+    "whyCorrect": "During the window period, HBsAg has become undetectable but anti-HBs has not yet appeared; anti-HBc IgM may be the only positive marker, so testing for it is essential to catch infection during this gap.",
+    "whyWrongByChoice": {
+     "B": "Chronic active HBV shows persistent HBsAg (and often HBeAg/HBV DNA), not a negative HBsAg.",
+     "C": "Vaccination produces isolated anti-HBs positivity with negative anti-HBc, the opposite pattern.",
+     "D": "Resolved infection shows anti-HBs positive and anti-HBc IgG positive; here anti-HBs is negative and the core antibody is IgM.",
+     "E": "The pattern is a classic window period, not a spurious result to ignore."
+    }
+   }
+  },
+  {
+   "id": "viral-hepatitis-clinical-015",
+   "topicId": "viral-hepatitis-clinical",
+   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+   "stem": "A hepatitis B panel shows HBsAg positive, anti-HBc IgG positive, and HBeAg positive, with elevated HBV DNA, persisting beyond 6 months. What does the HBeAg finding indicate?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "High levels of viral replication and infectivity"
+    },
+    {
+     "label": "B",
+     "text": "Resolution of infection and developing immunity"
+    },
+    {
+     "label": "C",
+     "text": "A response to hepatitis B vaccination"
+    },
+    {
+     "label": "D",
+     "text": "Coinfection with hepatitis D virus"
+    },
+    {
+     "label": "E",
+     "text": "Acute infection within the past two weeks"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "HBeAg marks high HBV replication and infectivity in active chronic infection.",
+    "whyCorrect": "HBeAg reflects high viral replication and infectivity. Its presence with persistent HBsAg and HBV DNA beyond 6 months indicates active chronic hepatitis B; in inactive chronic disease, HBeAg is absent and anti-HBe is present.",
+    "whyWrongByChoice": {
+     "B": "Resolution/immunity is marked by loss of HBsAg and appearance of anti-HBs, not by HBeAg positivity.",
+     "C": "Vaccination yields isolated anti-HBs; it does not produce HBeAg.",
+     "D": "HDV coinfection is detected with anti-HDV and HDV RNA, not by HBeAg.",
+     "E": "Persistence beyond 6 months indicates chronic, not recent acute, infection."
+    }
+   }
+  },
+  {
+   "id": "viral-hepatitis-clinical-016",
+   "topicId": "viral-hepatitis-clinical",
+   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+   "stem": "A patient's anti-HCV IgG antibody test is positive. Which test is required next to determine whether the patient has an active hepatitis C infection?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "HCV RNA (PCR)"
+    },
+    {
+     "label": "B",
+     "text": "Repeat anti-HCV IgG in 6 months"
+    },
+    {
+     "label": "C",
+     "text": "Anti-HCV IgM"
+    },
+    {
+     "label": "D",
+     "text": "HBsAg"
+    },
+    {
+     "label": "E",
+     "text": "Liver biopsy"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "A positive anti-HCV IgG requires HCV RNA to confirm active infection.",
+    "whyCorrect": "Anti-HCV IgG indicates exposure but does not distinguish active from resolved infection. HCV RNA (PCR) is the earliest and most specific marker of active infection and is used to confirm whether the virus is still present.",
+    "whyWrongByChoice": {
+     "B": "Repeating the antibody adds nothing, because anti-HCV IgG persists after both resolved and treated infection.",
+     "C": "Anti-HCV IgM is not the standard confirmatory test; HCV RNA is used to confirm active infection.",
+     "D": "HBsAg tests for hepatitis B, not for active hepatitis C.",
+     "E": "Biopsy assesses disease severity, not whether active HCV infection is present; RNA testing answers that."
+    }
+   }
+  },
+  {
+   "id": "viral-hepatitis-clinical-017",
+   "topicId": "viral-hepatitis-clinical",
+   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+   "stem": "For which patients is testing for hepatitis D virus specifically recommended?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Patients who are HBsAg-positive"
+    },
+    {
+     "label": "B",
+     "text": "All patients with a positive anti-HAV IgG"
+    },
+    {
+     "label": "C",
+     "text": "Patients with isolated anti-HBs from vaccination"
+    },
+    {
+     "label": "D",
+     "text": "Every patient with elevated transaminases"
+    },
+    {
+     "label": "E",
+     "text": "Patients with a positive Monospot test"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "HDV testing is indicated in HBsAg-positive patients, since HDV requires HBV.",
+    "whyCorrect": "Because HDV can only replicate in the presence of hepatitis B, testing (anti-HDV, then HDV RNA to confirm active infection) is recommended in HBsAg-positive patients, especially those with unexpectedly severe or rapidly progressive disease.",
+    "whyWrongByChoice": {
+     "B": "Anti-HAV IgG reflects hepatitis A immunity and gives no indication for HDV testing.",
+     "C": "Isolated anti-HBs from vaccination means no HBV infection, so HDV—which needs HBV—cannot occur.",
+     "D": "Elevated transaminases alone are nonspecific and are not the criterion; HBsAg positivity is.",
+     "E": "A positive Monospot indicates EBV (heterophile antibodies), unrelated to HDV testing."
+    }
+   }
+  },
+  {
+   "id": "viral-hepatitis-clinical-018",
+   "topicId": "viral-hepatitis-clinical",
+   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+   "stem": "A medical student asks which forms of viral hepatitis can currently be prevented with an effective vaccine in routine use. Which pair is correct?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Hepatitis A and hepatitis B"
+    },
+    {
+     "label": "B",
+     "text": "Hepatitis B and hepatitis C"
+    },
+    {
+     "label": "C",
+     "text": "Hepatitis A and hepatitis C"
+    },
+    {
+     "label": "D",
+     "text": "Hepatitis C and hepatitis D"
+    },
+    {
+     "label": "E",
+     "text": "Hepatitis B and cytomegalovirus"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "Only HAV and HBV have widely used effective vaccines.",
+    "whyCorrect": "Effective, routinely used vaccines exist for hepatitis A and hepatitis B. There is no widely available vaccine for HCV or CMV, and HDV is prevented indirectly through HBV vaccination (no independent HDV vaccine).",
+    "whyWrongByChoice": {
+     "B": "There is no vaccine for hepatitis C, so this pair is incorrect.",
+     "C": "Hepatitis C has no vaccine; only the HAV half of this pair is correct.",
+     "D": "Neither HCV nor an independent HDV vaccine exists.",
+     "E": "There is no CMV vaccine in routine use; HBV is the only correct member here."
+    }
+   }
+  },
+  {
+   "id": "viral-hepatitis-clinical-019",
+   "topicId": "viral-hepatitis-clinical",
+   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+   "stem": "A patient with chronic hepatitis C develops palpable purpura, arthralgias, and glomerulonephritis. Serum contains immunoglobulins that precipitate in the cold. Which extrahepatic manifestation of HCV does this represent?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Mixed cryoglobulinemia with small-vessel vasculitis"
+    },
+    {
+     "label": "B",
+     "text": "Polyarteritis nodosa"
+    },
+    {
+     "label": "C",
+     "text": "Membranous nephropathy"
+    },
+    {
+     "label": "D",
+     "text": "Serum sickness–like syndrome"
+    },
+    {
+     "label": "E",
+     "text": "Porphyria cutanea tarda"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "Cold-precipitating immunoglobulins with vasculitis and GN indicate HCV mixed cryoglobulinemia.",
+    "whyCorrect": "Chronic hepatitis C is classically associated with mixed cryoglobulinemia—cold-precipitating immune complexes causing small-vessel vasculitis (palpable purpura, arthralgias) and membranoproliferative glomerulonephritis.",
+    "whyWrongByChoice": {
+     "B": "Polyarteritis nodosa is the vasculitis classically linked to hepatitis B, not HCV cryoglobulinemia.",
+     "C": "Membranous nephropathy is the HBV-associated glomerular lesion; HCV is linked to membranoproliferative GN with cryoglobulins.",
+     "D": "Serum sickness–like syndrome is a hepatitis B–associated presentation, not the cryoglobulinemic vasculitis of HCV.",
+     "E": "Porphyria cutanea tarda is an HCV-associated skin finding but does not explain cold-precipitating immunoglobulins with vasculitis and glomerulonephritis."
+    }
+   }
+  },
+  {
+   "id": "viral-hepatitis-clinical-020",
+   "topicId": "viral-hepatitis-clinical",
+   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+   "stem": "A patient with chronic hepatitis B develops a small- and medium-vessel vasculitis with abdominal pain, hypertension, and mononeuritis multiplex, along with a membranous glomerular lesion. Which pair of extrahepatic manifestations is most characteristic of hepatitis B?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Polyarteritis nodosa and membranous nephropathy"
+    },
+    {
+     "label": "B",
+     "text": "Mixed cryoglobulinemia and porphyria cutanea tarda"
+    },
+    {
+     "label": "C",
+     "text": "Membranoproliferative glomerulonephritis and lichen planus"
+    },
+    {
+     "label": "D",
+     "text": "Type 2 diabetes mellitus and thyroiditis"
+    },
+    {
+     "label": "E",
+     "text": "Sicca syndrome and dental caries"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "HBV is classically associated with polyarteritis nodosa and membranous nephropathy.",
+    "whyCorrect": "Hepatitis B is characteristically linked to polyarteritis nodosa (a small/medium-vessel vasculitis) and membranous nephropathy, along with serum sickness–like syndrome.",
+    "whyWrongByChoice": {
+     "B": "Mixed cryoglobulinemia and porphyria cutanea tarda are hepatitis C–associated, not HBV.",
+     "C": "Membranoproliferative GN and lichen planus are hepatitis C–associated manifestations.",
+     "D": "Type 2 diabetes and thyroiditis are among hepatitis C–associated conditions, not the classic HBV pair.",
+     "E": "Sicca syndrome and caries relate to Sjögren syndrome, not to hepatitis B."
+    }
+   }
+  },
+  {
+   "id": "viral-hepatitis-clinical-021",
+   "topicId": "viral-hepatitis-clinical",
+   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+   "stem": "A 32-year-old woman presents with fatigue, jaundice, and right upper quadrant discomfort. She denies alcohol and injection drug use. ALT and AST are elevated but viral hepatitis serologies are all negative. Further testing shows elevated serum IgG with positive ANA and anti–smooth muscle antibodies, and liver biopsy shows portal and periportal inflammation with prominent plasma cell infiltrates. What is the most appropriate treatment?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Prednisone and azathioprine"
+    },
+    {
+     "label": "B",
+     "text": "Entecavir"
+    },
+    {
+     "label": "C",
+     "text": "Supportive care only"
+    },
+    {
+     "label": "D",
+     "text": "Direct-acting antiviral therapy"
+    },
+    {
+     "label": "E",
+     "text": "Ribavirin and interferon"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "Negative viral serologies with ANA/ASMA, high IgG, and plasma cells indicate autoimmune hepatitis, treated with immunosuppression.",
+    "whyCorrect": "The picture—negative viral serologies, elevated IgG, positive ANA and ASMA, and plasma cell–rich portal inflammation—is autoimmune hepatitis. First-line therapy is immunosuppression with prednisone plus the steroid-sparing agent azathioprine, which improves long-term survival.",
+    "whyWrongByChoice": {
+     "B": "Entecavir treats chronic hepatitis B, but HBV serologies are negative here.",
+     "C": "Supportive care alone suits self-limited acute viral hepatitis (e.g., HAV), not progressive autoimmune hepatitis, which requires immunosuppression.",
+     "D": "Direct-acting antivirals treat hepatitis C; HCV serologies are negative in this patient.",
+     "E": "Ribavirin plus interferon is an older hepatitis C regimen, not a treatment for autoimmune hepatitis."
+    }
+   }
+  },
+  {
+   "id": "viral-hepatitis-clinical-022",
+   "topicId": "viral-hepatitis-clinical",
+   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+   "stem": "Which set of laboratory and histologic findings best distinguishes autoimmune hepatitis from acute viral hepatitis?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Elevated IgG with positive ANA/ASMA and plasma cell–rich portal inflammation"
+    },
+    {
+     "label": "B",
+     "text": "Positive HBsAg with ground-glass hepatocytes"
+    },
+    {
+     "label": "C",
+     "text": "Positive anti-HAV IgM with spotty hepatocyte necrosis"
+    },
+    {
+     "label": "D",
+     "text": "Positive HCV RNA with lymphocytic portal inflammation"
+    },
+    {
+     "label": "E",
+     "text": "Owl's-eye intranuclear inclusions with systemic viral symptoms"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "Autoimmune hepatitis: high IgG, ANA/ASMA, and plasma cell infiltrates with negative viral markers.",
+    "whyCorrect": "Autoimmune hepatitis is distinguished by elevated serum IgG, positive ANA and anti–smooth muscle antibodies, and biopsy showing portal/periportal inflammation with a plasma cell–predominant infiltrate, in the setting of negative viral serologies.",
+    "whyWrongByChoice": {
+     "B": "Positive HBsAg with ground-glass hepatocytes indicates hepatitis B, not autoimmune hepatitis.",
+     "C": "Anti-HAV IgM indicates acute hepatitis A, a viral cause, not autoimmune disease.",
+     "D": "Positive HCV RNA indicates hepatitis C infection, not autoimmune hepatitis.",
+     "E": "Owl's-eye inclusions indicate CMV infection, a viral cause."
+    }
+   }
+  },
+  {
    "id": "hepatic-abscesses-flukes-001",
    "topicId": "hepatic-abscesses-flukes",
    "topicName": "Infectious Hepatic Abscesses and Flukes",
