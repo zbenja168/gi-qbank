@@ -1,0 +1,21 @@
+{
+ "categories": [
+  {
+   "id": "gi-hepatobiliary-infection-neoplasm",
+   "name": "Hepatobiliary Infections, Biliary Disease & Neoplasms",
+   "topics": [
+    {
+     "id": "viral-hepatitis-clinical",
+     "name": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+     "questionCount": 14
+    },
+    {
+     "id": "hepatic-abscesses-flukes",
+     "name": "Infectious Hepatic Abscesses and Flukes",
+     "questionCount": 7
+    }
+   ]
+  }
+ ],
+ "totalQuestions": 21
+}
