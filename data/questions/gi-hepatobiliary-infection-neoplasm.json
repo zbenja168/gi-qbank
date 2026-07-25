@@ -4555,6 +4555,786 @@
     "management",
     "transplant"
    ]
+  },
+  {
+   "id": "key-gi-parasites-and-amoebas-001",
+   "topicId": "key-gi-parasites-and-amoebas",
+   "topicName": "Key GI Parasites and Amoebas",
+   "stem": "A 34-year-old man who emigrated from Mexico 3 weeks ago has a 2-week history of gradually worsening lower abdominal cramping and bloody, mucus-containing stools. Temperature is 37.6 C. Colonoscopic biopsy shows ulcers that are narrow at the mucosal surface and broad in the submucosa, and trophozoites containing ingested erythrocytes are seen. Which of the following is the most likely causative organism?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Cryptosporidium parvum"
+    },
+    {
+     "label": "B",
+     "text": "Cyclospora cayetanensis"
+    },
+    {
+     "label": "C",
+     "text": "Entamoeba histolytica"
+    },
+    {
+     "label": "D",
+     "text": "Trichuris trichiura"
+    },
+    {
+     "label": "E",
+     "text": "Cystoisospora belli"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "Flask-shaped colonic ulcers (narrow neck, broad submucosal base) with erythrophagocytic trophozoites are pathognomonic for invasive intestinal amebiasis caused by Entamoeba histolytica.",
+    "whyCorrect": "E. histolytica trophozoites penetrate beneath an intact surface epithelium and spread laterally in the submucosa, producing the characteristic flask-shaped ulcer; ingestion of red blood cells (erythrophagocytosis) marks the invasive, pathogenic form. The subacute course with bloody, mucus-laden stools and low-grade fever fits amebic dysentery.",
+    "whyWrongByChoice": {
+     "A": "Cryptosporidium causes watery, non-bloody diarrhea and resides in a brush-border vacuole; it does not form flask-shaped ulcers or ingest erythrocytes.",
+     "B": "Cyclospora is a coccidian causing watery, non-bloody diarrhea without mucosal invasion or flask ulcers.",
+     "D": "Trichuris embeds whip-shaped adult worms in cecal mucosa and is diagnosed by barrel-shaped eggs, not flask-shaped ulcers with trophozoites.",
+     "E": "Cystoisospora causes watery diarrhea in a brush-border/enterocyte niche and shows large acid-fast oocysts, not invasive erythrophagocytic trophozoites."
+    }
+   }
+  },
+  {
+   "id": "key-gi-parasites-and-amoebas-002",
+   "topicId": "key-gi-parasites-and-amoebas",
+   "topicName": "Key GI Parasites and Amoebas",
+   "stem": "A 28-year-old woman has confirmed invasive amebic dysentery. Her physician plans a two-drug regimen. Which of the following is the most appropriate initial agent to eliminate the invasive tissue trophozoites?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Paromomycin"
+    },
+    {
+     "label": "B",
+     "text": "Metronidazole"
+    },
+    {
+     "label": "C",
+     "text": "Iodoquinol"
+    },
+    {
+     "label": "D",
+     "text": "Albendazole"
+    },
+    {
+     "label": "E",
+     "text": "Nitazoxanide"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "Invasive E. histolytica requires a tissue-active agent (metronidazole or tinidazole) first, followed by a luminal agent to clear residual cysts.",
+    "whyCorrect": "Metronidazole is the tissue-active agent that eliminates invasive trophozoites in the colonic wall and extraintestinal sites; it is given before a luminal agent to prevent relapse and ongoing transmission.",
+    "whyWrongByChoice": {
+     "A": "Paromomycin is a luminal agent used after the tissue-active drug to eradicate intraluminal cysts, not to kill invasive trophozoites.",
+     "C": "Iodoquinol is a luminal agent for cyst eradication, not for invasive tissue disease.",
+     "D": "Albendazole treats helminths such as Trichuris and Echinococcus, not amebiasis.",
+     "E": "Nitazoxanide is used for coccidian (Cryptosporidium) diarrhea, not as the tissue-active agent for amebic dysentery."
+    }
+   }
+  },
+  {
+   "id": "key-gi-parasites-and-amoebas-003",
+   "topicId": "key-gi-parasites-and-amoebas",
+   "topicName": "Key GI Parasites and Amoebas",
+   "stem": "During a community outbreak traced to the municipal water supply, an otherwise healthy 40-year-old man develops 7 days of watery, non-bloody diarrhea and cramping. Stool modified acid-fast stain shows small (4-6 micrometer) oocysts that stain uniformly. Which of the following is the most likely organism?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Cyclospora cayetanensis"
+    },
+    {
+     "label": "B",
+     "text": "Cryptosporidium parvum"
+    },
+    {
+     "label": "C",
+     "text": "Entamoeba histolytica"
+    },
+    {
+     "label": "D",
+     "text": "Cystoisospora belli"
+    },
+    {
+     "label": "E",
+     "text": "Trichuris trichiura"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "Small (4-6 micrometer), uniformly acid-fast oocysts with a self-limited waterborne watery diarrhea in an immunocompetent host indicate Cryptosporidium.",
+    "whyCorrect": "Cryptosporidium oocysts are the smallest of the coccidians (4-6 micrometer) and stain uniformly acid-fast; the organism is resistant to chlorination, causing large waterborne outbreaks with self-limited watery diarrhea in immunocompetent hosts.",
+    "whyWrongByChoice": {
+     "A": "Cyclospora oocysts are larger (8-10 micrometer), stain variably, and autofluoresce; they are produce-associated rather than classically waterborne through municipal supplies.",
+     "C": "Entamoeba causes bloody, mucus-laden dysentery with trophozoites/cysts, not small acid-fast oocysts.",
+     "D": "Cystoisospora oocysts are large (20-33 micrometer) and ellipsoidal, not small and round.",
+     "E": "Trichuris is a helminth diagnosed by barrel-shaped eggs, not acid-fast oocysts."
+    }
+   }
+  },
+  {
+   "id": "key-gi-parasites-and-amoebas-004",
+   "topicId": "key-gi-parasites-and-amoebas",
+   "topicName": "Key GI Parasites and Amoebas",
+   "stem": "A 35-year-old man with advanced AIDS and a CD4 count of 60 cells/microliter has weeks of severe, voluminous watery diarrhea with weight loss. Stool acid-fast stain reveals small uniformly staining oocysts. Which of the following is the most important therapeutic intervention?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Nitazoxanide monotherapy"
+    },
+    {
+     "label": "B",
+     "text": "Oral vancomycin"
+    },
+    {
+     "label": "C",
+     "text": "Metronidazole"
+    },
+    {
+     "label": "D",
+     "text": "Mebendazole"
+    },
+    {
+     "label": "E",
+     "text": "Antiretroviral therapy"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "Cryptosporidiosis in advanced AIDS persists until immune reconstitution; restoring CD4 counts with antiretroviral therapy is the critical intervention.",
+    "whyCorrect": "In advanced AIDS, Cryptosporidium causes chronic severe diarrhea that may persist indefinitely without immune reconstitution; antiretroviral therapy to restore CD4 counts is the most important intervention.",
+    "whyWrongByChoice": {
+     "A": "Nitazoxanide can shorten illness in immunocompetent hosts but is unreliable in advanced AIDS without immune recovery.",
+     "B": "Oral vancomycin treats Clostridioides difficile, not cryptosporidiosis.",
+     "C": "Metronidazole targets amebiasis, not Cryptosporidium.",
+     "D": "Mebendazole treats intestinal helminths, not a coccidian protozoan."
+    }
+   }
+  },
+  {
+   "id": "key-gi-parasites-and-amoebas-005",
+   "topicId": "key-gi-parasites-and-amoebas",
+   "topicName": "Key GI Parasites and Amoebas",
+   "stem": "A 30-year-old traveler returning from Peru has 3 weeks of prolonged, relapsing watery diarrhea with nausea, anorexia, and low-grade fever that began after eating fresh salads and raspberries. Stool oocysts stain variably with acid-fast and autofluoresce blue-green under ultraviolet light. Which of the following is the most likely organism?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Cryptosporidium parvum"
+    },
+    {
+     "label": "B",
+     "text": "Cystoisospora belli"
+    },
+    {
+     "label": "C",
+     "text": "Entamoeba histolytica"
+    },
+    {
+     "label": "D",
+     "text": "Trichuris trichiura"
+    },
+    {
+     "label": "E",
+     "text": "Cyclospora cayetanensis"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "Produce-associated, relapsing watery diarrhea with variably acid-fast, UV-autofluorescent oocysts is characteristic of Cyclospora cayetanensis.",
+    "whyCorrect": "Cyclospora is transmitted by contaminated fresh produce (berries, greens, herbs), classically in travelers to Latin America; its 8-10 micrometer oocysts stain variably acid-fast and autofluoresce under UV, and untreated infection causes a relapsing course that waxes and wanes.",
+    "whyWrongByChoice": {
+     "A": "Cryptosporidium oocysts stain uniformly acid-fast and do not autofluoresce; it is classically waterborne.",
+     "B": "Cystoisospora oocysts are large and distinctly (not variably) acid-fast and do not autofluoresce.",
+     "C": "Entamoeba causes bloody dysentery with trophozoites/cysts, not autofluorescent oocysts.",
+     "D": "Trichuris is a helminth diagnosed by barrel-shaped eggs, not oocysts."
+    }
+   }
+  },
+  {
+   "id": "key-gi-parasites-and-amoebas-006",
+   "topicId": "key-gi-parasites-and-amoebas",
+   "topicName": "Key GI Parasites and Amoebas",
+   "stem": "A 45-year-old man with HIV has chronic profuse watery diarrhea and weight loss. Stool shows large (20-33 micrometer) ellipsoidal oocysts that stain distinctly acid-fast, and a complete blood count reveals peripheral eosinophilia. Which of the following is the most likely organism?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Cryptosporidium parvum"
+    },
+    {
+     "label": "B",
+     "text": "Cystoisospora belli"
+    },
+    {
+     "label": "C",
+     "text": "Cyclospora cayetanensis"
+    },
+    {
+     "label": "D",
+     "text": "Entamoeba histolytica"
+    },
+    {
+     "label": "E",
+     "text": "Trichuris trichiura"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "Large ellipsoidal acid-fast oocysts plus peripheral eosinophilia (unusual among coccidians) point to Cystoisospora belli.",
+    "whyCorrect": "Cystoisospora belli oocysts are the largest coccidian oocysts (20-33 micrometer), ellipsoidal and distinctly acid-fast; peripheral eosinophilia is a distinguishing clue unique to this coccidian and is classically seen with chronic watery diarrhea in HIV patients.",
+    "whyWrongByChoice": {
+     "A": "Cryptosporidium oocysts are small (4-6 micrometer) and are not associated with eosinophilia.",
+     "C": "Cyclospora oocysts are intermediate (8-10 micrometer) and autofluoresce; eosinophilia is not its hallmark.",
+     "D": "Entamoeba causes bloody dysentery, not watery diarrhea with acid-fast oocysts.",
+     "E": "Trichuris is a helminth (can cause anemia) diagnosed by eggs, not acid-fast oocysts."
+    }
+   }
+  },
+  {
+   "id": "key-gi-parasites-and-amoebas-007",
+   "topicId": "key-gi-parasites-and-amoebas",
+   "topicName": "Key GI Parasites and Amoebas",
+   "stem": "A 6-year-old boy from a rural area with poor sanitation has months of chronic abdominal pain, intermittent diarrhea, poor growth, and mild anemia. His mother reports tissue protruding from his rectum during straining. Stool examination shows barrel-shaped, bile-stained eggs with clear bipolar plugs. Which of the following is the most likely diagnosis?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Trichuriasis"
+    },
+    {
+     "label": "B",
+     "text": "Cryptosporidiosis"
+    },
+    {
+     "label": "C",
+     "text": "Amebiasis"
+    },
+    {
+     "label": "D",
+     "text": "Cystoisosporiasis"
+    },
+    {
+     "label": "E",
+     "text": "Echinococcosis"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "Chronic heavy whipworm infection in a child produces diarrhea, iron-deficiency anemia, growth delay, and rectal prolapse, diagnosed by barrel-shaped eggs with bipolar plugs.",
+    "whyCorrect": "Trichuris trichiura (whipworm) heavy infection classically causes chronic diarrhea, anemia, growth delay, and rectal prolapse from straining; the barrel-shaped (lemon-shaped) bile-stained eggs with clear bipolar plugs on stool exam are diagnostic.",
+    "whyWrongByChoice": {
+     "B": "Cryptosporidiosis causes acute or chronic watery diarrhea with acid-fast oocysts, not egg-forming worms or rectal prolapse.",
+     "C": "Amebiasis causes bloody, mucus-laden dysentery with trophozoites/cysts, not barrel-shaped eggs.",
+     "D": "Cystoisosporiasis causes watery diarrhea with large acid-fast oocysts, not eggs with bipolar plugs.",
+     "E": "Echinococcosis causes hepatic/pulmonary cysts, not an egg-passing intestinal infection with prolapse."
+    }
+   }
+  },
+  {
+   "id": "key-gi-parasites-and-amoebas-008",
+   "topicId": "key-gi-parasites-and-amoebas",
+   "topicName": "Key GI Parasites and Amoebas",
+   "stem": "A 7-year-old child is diagnosed with a heavy Trichuris trichiura infection causing chronic diarrhea and rectal prolapse. Which of the following is the most appropriate first-line treatment?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Metronidazole"
+    },
+    {
+     "label": "B",
+     "text": "Trimethoprim-sulfamethoxazole"
+    },
+    {
+     "label": "C",
+     "text": "Praziquantel"
+    },
+    {
+     "label": "D",
+     "text": "Albendazole"
+    },
+    {
+     "label": "E",
+     "text": "Nitazoxanide"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "Trichuriasis is treated with a benzimidazole such as albendazole (or mebendazole).",
+    "whyCorrect": "Albendazole is the first-line anthelmintic for Trichuris trichiura, often as a single dose; ivermectin may be added in heavy infections.",
+    "whyWrongByChoice": {
+     "A": "Metronidazole treats amebiasis and other protozoa, not whipworm.",
+     "B": "Trimethoprim-sulfamethoxazole treats the coccidians Cyclospora and Cystoisospora, not a nematode.",
+     "C": "Praziquantel treats flukes and most tapeworms, but not Trichuris and not the treatment of choice here.",
+     "E": "Nitazoxanide is used for Cryptosporidium, not for whipworm."
+    }
+   }
+  },
+  {
+   "id": "key-gi-parasites-and-amoebas-009",
+   "topicId": "key-gi-parasites-and-amoebas",
+   "topicName": "Key GI Parasites and Amoebas",
+   "stem": "A 52-year-old sheep farmer from the Mediterranean region is found on CT to have a single, well-defined, fluid-filled hepatic cyst with rim (eggshell) calcification. He recalls close contact with farm dogs. Which of the following is the most likely organism?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Echinococcus granulosus"
+    },
+    {
+     "label": "B",
+     "text": "Echinococcus multilocularis"
+    },
+    {
+     "label": "C",
+     "text": "Entamoeba histolytica"
+    },
+    {
+     "label": "D",
+     "text": "Trichuris trichiura"
+    },
+    {
+     "label": "E",
+     "text": "Cryptosporidium parvum"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "A single, well-defined, calcified unilocular hepatic hydatid cyst in a sheep-raising region indicates cystic echinococcosis from E. granulosus.",
+    "whyCorrect": "E. granulosus produces a single (unilocular), well-defined, slow-growing hydatid cyst that may calcify; it is most common in sheep-raising regions where dogs are the definitive host, and humans acquire it by ingesting eggs from dog feces.",
+    "whyWrongByChoice": {
+     "B": "E. multilocularis produces an infiltrative, multi-vesicular, tumor-like lesion, not a single well-defined cyst.",
+     "C": "Entamoeba can cause a liver abscess, but that is a pus-filled cavity, not a calcified unilocular hydatid cyst.",
+     "D": "Trichuris is an intestinal nematode and does not form hepatic cysts.",
+     "E": "Cryptosporidium is an intestinal coccidian and does not form hepatic cysts."
+    }
+   }
+  },
+  {
+   "id": "key-gi-parasites-and-amoebas-010",
+   "topicId": "key-gi-parasites-and-amoebas",
+   "topicName": "Key GI Parasites and Amoebas",
+   "stem": "A 50-year-old man has a suspected hepatic hydatid cyst caused by Echinococcus granulosus. His physician warns that uncontrolled percutaneous aspiration could be dangerous. Which of the following is the most concerning immediate risk of this procedure?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Anaphylactic reaction"
+    },
+    {
+     "label": "B",
+     "text": "Portal vein thrombosis"
+    },
+    {
+     "label": "C",
+     "text": "Hepatic encephalopathy"
+    },
+    {
+     "label": "D",
+     "text": "Bile duct stricture"
+    },
+    {
+     "label": "E",
+     "text": "Variceal hemorrhage"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "Spillage of hydatid cyst contents during aspiration can trigger life-threatening anaphylaxis (and peritoneal dissemination).",
+    "whyCorrect": "Cyst fluid is highly antigenic; leakage during unprotected aspiration or rupture can provoke a severe anaphylactic reaction, as well as peritoneal seeding of protoscolices, which is why aspiration requires appropriate precautions.",
+    "whyWrongByChoice": {
+     "B": "Portal vein thrombosis is not the characteristic hazard of hydatid cyst aspiration.",
+     "C": "Hepatic encephalopathy results from liver failure/portosystemic shunting, not cyst spillage.",
+     "D": "Bile duct stricture is not the immediate feared complication of aspiration.",
+     "E": "Variceal hemorrhage relates to portal hypertension, not to spillage of cyst antigen."
+    }
+   }
+  },
+  {
+   "id": "key-gi-parasites-and-amoebas-011",
+   "topicId": "key-gi-parasites-and-amoebas",
+   "topicName": "Key GI Parasites and Amoebas",
+   "stem": "A laboratory is trying to distinguish invasive, pathogenic Entamoeba histolytica from morphologically similar commensal amebae on a stool wet mount. Which of the following microscopic findings most specifically indicates the invasive pathogenic form?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Oocysts that autofluoresce under ultraviolet light"
+    },
+    {
+     "label": "B",
+     "text": "Barrel-shaped eggs with bipolar plugs"
+    },
+    {
+     "label": "C",
+     "text": "Acid-fast oocysts 4-6 micrometer in size"
+    },
+    {
+     "label": "D",
+     "text": "Trophozoites containing ingested erythrocytes"
+    },
+    {
+     "label": "E",
+     "text": "Motile flagellated pear-shaped organisms"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "Erythrophagocytosis (trophozoites with ingested red blood cells) marks invasive E. histolytica.",
+    "whyCorrect": "Trophozoites actively ingesting red blood cells indicate tissue-invasive E. histolytica, distinguishing it from noninvasive organisms; the vegetative motile trophozoite is the invasive form.",
+    "whyWrongByChoice": {
+     "A": "UV autofluorescent oocysts describe Cyclospora, a coccidian, not Entamoeba.",
+     "B": "Barrel-shaped eggs with bipolar plugs describe Trichuris, a helminth.",
+     "C": "Small acid-fast oocysts describe Cryptosporidium, not Entamoeba.",
+     "E": "Flagellated pear-shaped organisms describe Giardia, not the amebic trophozoite."
+    }
+   }
+  },
+  {
+   "id": "key-gi-parasites-and-amoebas-012",
+   "topicId": "key-gi-parasites-and-amoebas",
+   "topicName": "Key GI Parasites and Amoebas",
+   "stem": "A clinician wants to distinguish amebic dysentery from bacterial dysentery caused by Shigella at the bedside. Which of the following features best favors amebic infection?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Gradual onset with low-grade fever"
+    },
+    {
+     "label": "B",
+     "text": "High fever and abrupt onset"
+    },
+    {
+     "label": "C",
+     "text": "Watery, non-bloody diarrhea"
+    },
+    {
+     "label": "D",
+     "text": "Prominent systemic toxicity"
+    },
+    {
+     "label": "E",
+     "text": "Pharyngeal mucosal involvement"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "Amebic dysentery is subacute with low or absent fever, whereas bacterial dysentery is acute with high fever and systemic toxicity.",
+    "whyCorrect": "Amebic dysentery has a gradual, subacute onset over days to weeks with low-grade or absent fever, while still producing bloody, mucus-containing stools; this contrasts with the abrupt, febrile, toxic presentation of bacterial dysentery.",
+    "whyWrongByChoice": {
+     "B": "High fever and abrupt onset favor bacterial dysentery, not amebic.",
+     "C": "Watery, non-bloody diarrhea suggests coccidians; amebic dysentery is bloody and mucoid.",
+     "D": "Prominent systemic toxicity is characteristic of bacterial infection.",
+     "E": "Pharyngeal involvement is unrelated to intestinal amebiasis."
+    }
+   }
+  },
+  {
+   "id": "key-gi-parasites-and-amoebas-013",
+   "topicId": "key-gi-parasites-and-amoebas",
+   "topicName": "Key GI Parasites and Amoebas",
+   "stem": "A 26-year-old man develops watery diarrhea after eating imported raspberries. His physician notes that, unlike Cryptosporidium, the responsible organism cannot spread directly from person to person. Which of the following properties best explains this difference?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "It is immediately infective when shed"
+    },
+    {
+     "label": "B",
+     "text": "It requires environmental sporulation before becoming infective"
+    },
+    {
+     "label": "C",
+     "text": "It invades the colonic mucosa"
+    },
+    {
+     "label": "D",
+     "text": "It forms a brush-border parasitophorous vacuole"
+    },
+    {
+     "label": "E",
+     "text": "It is resistant to standard chlorination"
+    }
+   ],
+   "correctAnswer": "B",
+   "explanation": {
+    "summary": "Cyclospora oocysts must sporulate in the environment (about a week) before becoming infective, preventing person-to-person spread.",
+    "whyCorrect": "Because Cyclospora oocysts are shed unsporulated and require days to weeks of environmental maturation to become infective, direct person-to-person transmission does not occur; spread is via contaminated food or water.",
+    "whyWrongByChoice": {
+     "A": "Immediate infectivity when shed describes Cryptosporidium, which does allow person-to-person spread.",
+     "C": "Cyclospora does not invade the colonic mucosa; that describes Entamoeba.",
+     "D": "The brush-border parasitophorous vacuole describes Cryptosporidium, not Cyclospora.",
+     "E": "Chlorine resistance is a property of Cryptosporidium and does not explain lack of person-to-person spread."
+    }
+   }
+  },
+  {
+   "id": "key-gi-parasites-and-amoebas-014",
+   "topicId": "key-gi-parasites-and-amoebas",
+   "topicName": "Key GI Parasites and Amoebas",
+   "stem": "A microbiology student learns that one intestinal coccidian resides in an unusual location that makes it appear to sit on top of the epithelium while actually being enclosed by host membrane. Which of the following best describes the niche of Cryptosporidium?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Free within the colonic lumen"
+    },
+    {
+     "label": "B",
+     "text": "Deep within the submucosa"
+    },
+    {
+     "label": "C",
+     "text": "Intracellular but extracytoplasmic in a brush-border vacuole"
+    },
+    {
+     "label": "D",
+     "text": "Inside the enterocyte cytoplasm"
+    },
+    {
+     "label": "E",
+     "text": "Within hepatic sinusoidal capillaries"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "Cryptosporidium sits in a parasitophorous vacuole at the brush border, making it intracellular yet extracytoplasmic.",
+    "whyCorrect": "Cryptosporidium sporozoites invade epithelial cells but remain surrounded by a host-cell membrane at the apical brush border, so they are intracellular but extracytoplasmic within a parasitophorous vacuole.",
+    "whyWrongByChoice": {
+     "A": "It is not free in the lumen; it is enclosed by host membrane at the brush border.",
+     "B": "It does not invade deep into the submucosa; that pattern fits invasive amebiasis.",
+     "D": "It is not free within the enterocyte cytoplasm; it stays in a membrane-bound vacuole outside the cytoplasm.",
+     "E": "Hepatic sinusoidal capillaries describe implantation sites for Echinococcus larvae, not Cryptosporidium."
+    }
+   }
+  },
+  {
+   "id": "key-gi-parasites-and-amoebas-015",
+   "topicId": "key-gi-parasites-and-amoebas",
+   "topicName": "Key GI Parasites and Amoebas",
+   "stem": "A public-health worker is counseling a family on preventing whipworm infection in their children. Which of the following best describes how Trichuris trichiura is transmitted?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Penetration of intact skin by larvae"
+    },
+    {
+     "label": "B",
+     "text": "Bite of an infected arthropod vector"
+    },
+    {
+     "label": "C",
+     "text": "Ingestion of undercooked pork containing cysts"
+    },
+    {
+     "label": "D",
+     "text": "Ingestion of embryonated eggs from contaminated soil or food"
+    },
+    {
+     "label": "E",
+     "text": "Inhalation of aerosolized oocysts"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "Trichuris is a soil-transmitted helminth acquired by ingesting embryonated eggs (fecal-oral, similar to Ascaris).",
+    "whyCorrect": "Transmission occurs by ingestion of food, water, or soil contaminated with embryonated eggs; the eggs then hatch in the small intestine before the worms mature and migrate to the colon.",
+    "whyWrongByChoice": {
+     "A": "Skin penetration by larvae describes hookworm and Strongyloides, not Trichuris.",
+     "B": "Arthropod vectors do not transmit whipworm.",
+     "C": "Ingestion of pork cysts describes Taenia solium, not Trichuris.",
+     "E": "Inhalation of oocysts is not a route for this soil-transmitted nematode."
+    }
+   }
+  },
+  {
+   "id": "key-gi-parasites-and-amoebas-016",
+   "topicId": "key-gi-parasites-and-amoebas",
+   "topicName": "Key GI Parasites and Amoebas",
+   "stem": "A physician explains to a patient that, for Echinococcus, humans do not pass the parasite in stool and instead acquire infection a specific way. Which of the following best describes how humans become infected?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Skin penetration by soil-dwelling larvae"
+    },
+    {
+     "label": "B",
+     "text": "Ingestion of undercooked beef containing cysts"
+    },
+    {
+     "label": "C",
+     "text": "Bite of an infected sandfly"
+    },
+    {
+     "label": "D",
+     "text": "Drinking water contaminated with acid-fast oocysts"
+    },
+    {
+     "label": "E",
+     "text": "Ingestion of eggs shed in the feces of infected dogs or foxes"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "Humans are accidental intermediate hosts infected by ingesting Echinococcus eggs from the feces of definitive canid hosts.",
+    "whyCorrect": "Dogs and other canids (and foxes for E. multilocularis) are the definitive hosts; humans become infected by ingesting eggs shed in canid feces through close animal contact or contaminated food, water, or soil, and are dead-end intermediate hosts.",
+    "whyWrongByChoice": {
+     "A": "Skin penetration by larvae describes hookworm/Strongyloides, not Echinococcus.",
+     "B": "Undercooked beef with cysts describes Taenia saginata, not Echinococcus.",
+     "C": "Sandfly bite transmits Leishmania, not Echinococcus.",
+     "D": "Acid-fast oocysts in water describe coccidians such as Cryptosporidium, not Echinococcus eggs."
+    }
+   }
+  },
+  {
+   "id": "key-gi-parasites-and-amoebas-017",
+   "topicId": "key-gi-parasites-and-amoebas",
+   "topicName": "Key GI Parasites and Amoebas",
+   "stem": "A 48-year-old hunter from the upper midwestern United States is found to have a hepatic lesion that grows in an infiltrative, multi-vesicular, tumor-like fashion and destroys surrounding liver tissue, mimicking malignancy on imaging. Which of the following is the most likely organism?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Echinococcus granulosus"
+    },
+    {
+     "label": "B",
+     "text": "Entamoeba histolytica"
+    },
+    {
+     "label": "C",
+     "text": "Echinococcus multilocularis"
+    },
+    {
+     "label": "D",
+     "text": "Cyclospora cayetanensis"
+    },
+    {
+     "label": "E",
+     "text": "Cystoisospora belli"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "An infiltrative, tumor-like, tissue-destroying hepatic lesion (alveolar echinococcosis) is caused by E. multilocularis.",
+    "whyCorrect": "E. multilocularis grows in an invasive, infiltrative pattern resembling a malignancy, progressively destroying liver tissue; it circulates among foxes/coyotes and rodents in Central Europe, Alaska, Canada, and the upper midwestern US, and carries higher mortality if untreated.",
+    "whyWrongByChoice": {
+     "A": "E. granulosus forms a single, well-defined unilocular cyst, not an infiltrative tumor-like lesion.",
+     "B": "Entamoeba can cause a liver abscess but not an infiltrative multi-vesicular tumor-like mass.",
+     "D": "Cyclospora is an intestinal coccidian, not a cause of hepatic mass lesions.",
+     "E": "Cystoisospora is an intestinal coccidian and does not form hepatic lesions."
+    }
+   }
+  },
+  {
+   "id": "key-gi-parasites-and-amoebas-018",
+   "topicId": "key-gi-parasites-and-amoebas",
+   "topicName": "Key GI Parasites and Amoebas",
+   "stem": "A stool sample contains amebic trophozoites and cysts, but the laboratory is uncertain whether the patient harbors a pathogenic species. Which of the following best explains why antigen detection or PCR is preferred over microscopy alone for accurate species identification?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Trophozoites are destroyed during staining"
+    },
+    {
+     "label": "B",
+     "text": "Cysts cannot be seen without acid-fast stain"
+    },
+    {
+     "label": "C",
+     "text": "Microscopy cannot detect erythrophagocytosis"
+    },
+    {
+     "label": "D",
+     "text": "Trophozoites autofluoresce under ultraviolet light"
+    },
+    {
+     "label": "E",
+     "text": "Nonpathogenic E. dispar is morphologically identical"
+    }
+   ],
+   "correctAnswer": "E",
+   "explanation": {
+    "summary": "E. histolytica is morphologically indistinguishable from nonpathogenic E. dispar, so antigen detection or PCR is preferred for species-level diagnosis.",
+    "whyCorrect": "Because the nonpathogenic E. dispar looks identical to E. histolytica under the microscope, antigen detection or PCR is required to confirm the pathogenic species and avoid misdiagnosis.",
+    "whyWrongByChoice": {
+     "A": "Loss of trophozoites during staining is not the reason molecular testing is preferred.",
+     "B": "Amebic cysts are seen on routine stool microscopy and do not require acid-fast staining.",
+     "C": "Erythrophagocytosis can in fact be seen on microscopy; the limitation is species overlap with E. dispar.",
+     "D": "Amebic trophozoites do not autofluoresce; that property belongs to Cyclospora."
+    }
+   }
+  },
+  {
+   "id": "key-gi-parasites-and-amoebas-019",
+   "topicId": "key-gi-parasites-and-amoebas",
+   "topicName": "Key GI Parasites and Amoebas",
+   "stem": "A 39-year-old man with confirmed Cystoisospora belli infection has chronic watery diarrhea. Which of the following is the most appropriate treatment?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Metronidazole"
+    },
+    {
+     "label": "B",
+     "text": "Albendazole"
+    },
+    {
+     "label": "C",
+     "text": "Praziquantel"
+    },
+    {
+     "label": "D",
+     "text": "Trimethoprim-sulfamethoxazole"
+    },
+    {
+     "label": "E",
+     "text": "Paromomycin"
+    }
+   ],
+   "correctAnswer": "D",
+   "explanation": {
+    "summary": "Both Cyclospora and Cystoisospora respond well to trimethoprim-sulfamethoxazole.",
+    "whyCorrect": "Trimethoprim-sulfamethoxazole is highly effective against Cystoisospora belli (and Cyclospora), making it the treatment of choice.",
+    "whyWrongByChoice": {
+     "A": "Metronidazole treats amebiasis and other protozoa but is not the drug for Cystoisospora.",
+     "B": "Albendazole treats helminths such as Trichuris and Echinococcus, not this coccidian.",
+     "C": "Praziquantel treats flukes and tapeworms, not Cystoisospora.",
+     "E": "Paromomycin is a luminal agent for amebic cysts, not the treatment for Cystoisospora."
+    }
+   }
+  },
+  {
+   "id": "key-gi-parasites-and-amoebas-020",
+   "topicId": "key-gi-parasites-and-amoebas",
+   "topicName": "Key GI Parasites and Amoebas",
+   "stem": "A student is asked to summarize the typical stool characteristic shared by the three major coccidian parasites (Cryptosporidium, Cyclospora, and Cystoisospora). Which of the following best describes their characteristic diarrhea?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Small-volume bloody stools with tenesmus"
+    },
+    {
+     "label": "B",
+     "text": "Mucus-laden stools with flask-shaped ulcers"
+    },
+    {
+     "label": "C",
+     "text": "Watery, non-bloody diarrhea"
+    },
+    {
+     "label": "D",
+     "text": "Steatorrhea with visible worm segments"
+    },
+    {
+     "label": "E",
+     "text": "Rice-water stools with severe dehydration"
+    }
+   ],
+   "correctAnswer": "C",
+   "explanation": {
+    "summary": "The coccidians characteristically cause watery, non-bloody diarrhea from disruption of absorptive function rather than tissue invasion.",
+    "whyCorrect": "Cryptosporidium, Cyclospora, and Cystoisospora all cause watery, non-bloody diarrhea because disease results from disruption of normal absorptive function at the brush border/enterocyte rather than deep mucosal invasion.",
+    "whyWrongByChoice": {
+     "A": "Small-volume bloody stools with tenesmus describe invasive dysentery (amebic or bacterial), not coccidians.",
+     "B": "Mucus-laden stools with flask-shaped ulcers describe E. histolytica.",
+     "D": "Steatorrhea with visible worm segments suggests helminthic disease, not coccidians.",
+     "E": "Rice-water stools describe cholera, not coccidian infection."
+    }
+   }
   }
  ]
 }
