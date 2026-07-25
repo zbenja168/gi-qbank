@@ -1,20 +1,27 @@
 import { useState, useEffect, useCallback } from 'react';
 import { TopicsIndex, Category } from '../types/topic';
+import { Tier } from '../utils/questionLoader';
 
-export function useTopics() {
+// Advanced uses a separate index (topics.advanced.json) listing only the bricks
+// that already have advanced questions, so the tier rolls out brick by brick.
+export function useTopics(tier: Tier = 'standard') {
   const [topics, setTopics] = useState<TopicsIndex | null>(null);
   const [selectedTopicIds, setSelectedTopicIds] = useState<Set<string>>(new Set());
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch(`${import.meta.env.BASE_URL}data/topics.json`)
+    setLoading(true);
+    const file = tier === 'advanced' ? 'topics.advanced.json' : 'topics.json';
+    fetch(`${import.meta.env.BASE_URL}data/${file}`)
       .then(r => r.json())
       .then((data: TopicsIndex) => {
         setTopics(data);
         setLoading(false);
       })
       .catch(() => setLoading(false));
-  }, []);
+    // Selections don't carry across tiers — the topic sets differ.
+    setSelectedTopicIds(new Set());
+  }, [tier]);
 
   const toggleTopic = useCallback((topicId: string) => {
     setSelectedTopicIds(prev => {

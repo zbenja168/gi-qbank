@@ -1,7 +1,7 @@
 import { useState, useCallback } from 'react';
 import { Question } from '../types/question';
 import { ProgressData } from '../types/progress';
-import { loadMultipleCategories } from '../utils/questionLoader';
+import { loadMultipleCategories, Tier } from '../utils/questionLoader';
 import { shuffle } from '../utils/shuffle';
 
 export function useQuestions() {
@@ -12,11 +12,12 @@ export function useQuestions() {
   const loadQuestions = useCallback(async (
     categoryIds: string[],
     selectedTopicIds: Set<string>,
-    progress: ProgressData
+    progress: ProgressData,
+    tier: Tier = 'standard',
   ) => {
     setLoading(true);
     try {
-      const categories = await loadMultipleCategories(categoryIds);
+      const categories = await loadMultipleCategories(categoryIds, tier);
       const all = categories.flatMap(c => c.questions);
       const filtered = all.filter(q =>
         selectedTopicIds.has(q.topicId) && !progress.answers[q.id]
@@ -31,10 +32,10 @@ export function useQuestions() {
   }, []);
 
   // Load all questions (for dashboard/review — no filtering)
-  const loadAllQuestions = useCallback(async (categoryIds: string[]) => {
+  const loadAllQuestions = useCallback(async (categoryIds: string[], tier: Tier = 'standard') => {
     setLoading(true);
     try {
-      const categories = await loadMultipleCategories(categoryIds);
+      const categories = await loadMultipleCategories(categoryIds, tier);
       const all = categories.flatMap(c => c.questions);
       setQuestions(all);
     } catch (err) {

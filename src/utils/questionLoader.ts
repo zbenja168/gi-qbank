@@ -1,20 +1,35 @@
 import { CategoryQuestions } from '../types/question';
 
+export type Tier = 'standard' | 'advanced';
+
+// Advanced questions live in a parallel data tree so the standard bank is never
+// touched. Cache is keyed by tier so switching tiers can't cross-contaminate.
 const cache = new Map<string, CategoryQuestions>();
 
-export async function loadCategoryQuestions(categoryId: string): Promise<CategoryQuestions> {
-  if (cache.has(categoryId)) {
-    return cache.get(categoryId)!;
+function dir(tier: Tier): string {
+  return tier === 'advanced' ? 'questions-advanced' : 'questions';
+}
+
+export async function loadCategoryQuestions(
+  categoryId: string,
+  tier: Tier = 'standard',
+): Promise<CategoryQuestions> {
+  const key = `${tier}:${categoryId}`;
+  if (cache.has(key)) {
+    return cache.get(key)!;
   }
-  const resp = await fetch(`${import.meta.env.BASE_URL}data/questions/${categoryId}.json`);
-  if (!resp.ok) throw new Error(`Failed to load questions for ${categoryId}`);
+  const resp = await fetch(`${import.meta.env.BASE_URL}data/${dir(tier)}/${categoryId}.json`);
+  if (!resp.ok) throw new Error(`Failed to load ${tier} questions for ${categoryId}`);
   const data: CategoryQuestions = await resp.json();
-  cache.set(categoryId, data);
+  cache.set(key, data);
   return data;
 }
 
-export async function loadMultipleCategories(categoryIds: string[]): Promise<CategoryQuestions[]> {
-  return Promise.all(categoryIds.map(loadCategoryQuestions));
+export async function loadMultipleCategories(
+  categoryIds: string[],
+  tier: Tier = 'standard',
+): Promise<CategoryQuestions[]> {
+  return Promise.all(categoryIds.map(id => loadCategoryQuestions(id, tier)));
 }
 
 export function clearCache(): void {

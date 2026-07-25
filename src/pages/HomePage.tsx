@@ -3,8 +3,11 @@ import { CategoryAccordion } from '../components/TopicFilter/CategoryAccordion';
 import { ProgressData, getAnsweredByTopic } from '../types/progress';
 import { getOverallStats } from '../utils/stats';
 import { BrandCard } from '../components/Brand';
+import { Tier } from '../utils/questionLoader';
 
 interface Props {
+  tier: Tier;
+  onSetTier: (t: Tier) => void;
   topics: TopicsIndex;
   selectedTopicIds: Set<string>;
   selectedCount: number;
@@ -20,13 +23,23 @@ interface Props {
 }
 
 export function HomePage({
-  topics, selectedTopicIds, selectedCount, progress,
+  tier, onSetTier, topics, selectedTopicIds, selectedCount, progress,
   onToggleTopic, onToggleCategory, onSelectAll, onClearAll,
   onStartQuiz, onGoToDashboard, onGoToReview, onClearProgress,
 }: Props) {
-  const stats = getOverallStats(progress);
-  const completedCount = Object.keys(progress.answers).length;
-  const answeredByTopic = getAnsweredByTopic(progress);
+  // Standard and advanced share topicIds but have distinct question ids
+  // (advanced ids contain "-adv-"), so scope the home-screen counts to the
+  // active tier — otherwise "remaining" and the stats blend the two banks.
+  const isAdvId = (id: string) => id.includes('-adv-');
+  const tierProgress = {
+    ...progress,
+    answers: Object.fromEntries(
+      Object.entries(progress.answers).filter(([id]) => isAdvId(id) === (tier === 'advanced')),
+    ),
+  };
+  const stats = getOverallStats(tierProgress);
+  const completedCount = Object.keys(tierProgress.answers).length;
+  const answeredByTopic = getAnsweredByTopic(tierProgress);
 
   // Compute remaining (unanswered) for selected topics
   const remainingCount = topics.categories.reduce((sum, cat) =>
@@ -73,6 +86,33 @@ export function HomePage({
 
       <main className="max-w-5xl mx-auto px-4 py-8">
         <BrandCard />
+
+        {/* Standard / Advanced tier toggle */}
+        <div className="mb-6">
+          <div className="inline-flex rounded-xl border border-slate-700 bg-slate-800 p-1">
+            <button
+              onClick={() => onSetTier('standard')}
+              className={`px-4 py-2 text-sm font-semibold rounded-lg transition-colors ${
+                tier === 'standard' ? 'bg-teal-600 text-white' : 'text-slate-400 hover:text-slate-200'
+              }`}
+            >
+              Standard
+            </button>
+            <button
+              onClick={() => onSetTier('advanced')}
+              className={`px-4 py-2 text-sm font-semibold rounded-lg transition-colors ${
+                tier === 'advanced' ? 'bg-amber-500 text-slate-900' : 'text-slate-400 hover:text-slate-200'
+              }`}
+            >
+              Advanced
+            </button>
+          </div>
+          <p className="mt-2 text-sm text-slate-400 max-w-2xl">
+            {tier === 'advanced'
+              ? 'Advanced: UWorld-style, multi-step clinical vignettes that make you apply the bricks, not just recall them. Rolling out brick by brick — the topics below are the ones ready so far.'
+              : 'Standard: foundational, recall-level questions to learn each brick.'}
+          </p>
+        </div>
 
         {/* Stats summary */}
         {stats.total > 0 && (<>

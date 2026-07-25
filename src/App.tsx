@@ -8,12 +8,22 @@ import { DashboardPage } from './pages/DashboardPage';
 import { ReviewPage } from './pages/ReviewPage';
 import { BrandBadge } from './components/Brand';
 import { track } from './utils/track';
+import { Tier } from './utils/questionLoader';
 
 type Page = 'home' | 'quiz' | 'dashboard' | 'review';
 
 function AppShell() {
   const [page, setPage] = useState<Page>('home');
-  const topicsHook = useTopics();
+  const [tier, setTierState] = useState<Tier>(
+    () => (localStorage.getItem('gi_qbank_tier') === 'advanced' ? 'advanced' : 'standard'),
+  );
+  const setTier = useCallback((t: Tier) => {
+    try { localStorage.setItem('gi_qbank_tier', t); } catch { /* ignore */ }
+    setTierState(t);
+    setPage('home');
+  }, []);
+
+  const topicsHook = useTopics(tier);
   const { progress, recordAnswer, recordSession, toggleBookmark, clearAllProgress } = useProgress();
   const { questions, loading: questionsLoading, loadQuestions, loadAllQuestions } = useQuestions();
 
@@ -21,24 +31,24 @@ function AppShell() {
 
   const handleStartQuiz = useCallback(async () => {
     // Pass progress so completed questions are filtered out
-    await loadQuestions(topicsHook.categoriesForSelected, topicsHook.selectedTopicIds, progress);
+    await loadQuestions(topicsHook.categoriesForSelected, topicsHook.selectedTopicIds, progress, tier);
     track('quiz_start');
     setPage('quiz');
-  }, [loadQuestions, topicsHook.categoriesForSelected, topicsHook.selectedTopicIds, progress]);
+  }, [loadQuestions, topicsHook.categoriesForSelected, topicsHook.selectedTopicIds, progress, tier]);
 
   const handleGoToDashboard = useCallback(async () => {
     if (allCategoryIds.length > 0) {
-      await loadAllQuestions(allCategoryIds);
+      await loadAllQuestions(allCategoryIds, tier);
     }
     setPage('dashboard');
-  }, [loadAllQuestions, allCategoryIds]);
+  }, [loadAllQuestions, allCategoryIds, tier]);
 
   const handleGoToReview = useCallback(async () => {
     if (allCategoryIds.length > 0) {
-      await loadAllQuestions(allCategoryIds);
+      await loadAllQuestions(allCategoryIds, tier);
     }
     setPage('review');
-  }, [loadAllQuestions, allCategoryIds]);
+  }, [loadAllQuestions, allCategoryIds, tier]);
 
   useEffect(() => {
     const handleHash = () => {
@@ -117,6 +127,8 @@ function AppShell() {
     default:
       return (
         <HomePage
+          tier={tier}
+          onSetTier={setTier}
           topics={topicsHook.topics}
           selectedTopicIds={topicsHook.selectedTopicIds}
           selectedCount={topicsHook.selectedCount}
