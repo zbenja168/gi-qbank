@@ -6,38 +6,38 @@
    "id": "viral-hepatitis-clinical-adv-001",
    "topicId": "viral-hepatitis-clinical",
    "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
-   "stem": "A 34-year-old man with no symptoms is found on a routine screen to have: HBsAg negative, anti-HBs negative, anti-HBc IgG positive, anti-HBc IgM negative, HBV DNA undetectable. He is about to begin rituximab-based chemotherapy for lymphoma. Which of the following is the most appropriate next step?",
+   "stem": "A 24-year-old man is evaluated at his physician's office before starting a job that requires documentation of hepatitis B status. He feels well and takes no medications. Serologic testing shows: HBsAg negative, anti-HBs negative, anti-HBc total positive, anti-HBc IgM negative, and HBV DNA not detected. Which of the following is the most likely explanation for these results?",
    "choices": [
     {
      "label": "A",
-     "text": "Start prophylactic entecavir or tenofovir before beginning rituximab"
+     "text": "Immunity induced by prior hepatitis B vaccination"
     },
     {
      "label": "B",
-     "text": "Administer the hepatitis B vaccine series and proceed with chemotherapy"
+     "text": "Remote resolved hepatitis B virus infection"
     },
     {
      "label": "C",
-     "text": "Reassure him that isolated anti-HBc reflects a false-positive result"
+     "text": "Acute hepatitis B during the window period"
     },
     {
      "label": "D",
-     "text": "Withhold all hepatitis B therapy and monitor liver enzymes monthly"
+     "text": "Active chronic hepatitis B virus infection"
     },
     {
      "label": "E",
-     "text": "Give hepatitis B immune globulin (HBIG) once before chemotherapy"
+     "text": "Passive immunity from recent immune globulin"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
-    "summary": "Isolated anti-HBc before B-cell-depleting therapy signals reactivation risk — give antiviral prophylaxis.",
-    "whyCorrect": "Isolated anti-HBc positivity indicates prior HBV exposure with possible occult infection. Profound immunosuppression (especially rituximab) can trigger HBV reactivation with fulminant hepatitis, so prophylactic entecavir or tenofovir is started before and continued through therapy.",
+    "summary": "Isolated anti-HBc (total) with negative HBsAg, anti-HBs, and DNA usually means remote resolved HBV whose anti-HBs has waned.",
+    "whyCorrect": "Anti-HBc total positivity with a negative HBsAg, negative anti-HBs, negative IgM, and undetectable DNA most often reflects remote resolved infection in which protective anti-HBs has fallen below the detection threshold.",
     "whyWrongByChoice": {
-     "B": "Vaccination is too slow and does not prevent reactivation of already-acquired virus; prophylactic antiviral is required.",
-     "C": "Isolated anti-HBc is not simply a false positive here — with rituximab it carries real reactivation risk that must be covered.",
-     "D": "Watchful monitoring alone is inadequate before rituximab; reactivation can be fulminant, so prophylaxis is indicated.",
-     "E": "HBIG gives only short-lived passive immunity and is not used for reactivation prophylaxis during chemotherapy."
+     "A": "Vaccination produces isolated anti-HBs positivity, not anti-HBc, since vaccine contains only surface antigen.",
+     "C": "The acute window period is defined by a positive anti-HBc IgM, which is negative here.",
+     "D": "Active chronic infection requires persistent HBsAg (and usually detectable DNA), both negative here.",
+     "E": "Immune globulin gives passive anti-HBs, not anti-HBc, and there is no such exposure history."
     }
    }
   },
@@ -45,38 +45,38 @@
    "id": "viral-hepatitis-clinical-adv-002",
    "topicId": "viral-hepatitis-clinical",
    "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
-   "stem": "A 30-year-old pregnant woman is HBsAg positive, HBeAg positive, with an HBV DNA level of 8 log10 IU/mL at 28 weeks. Which combination best reduces the risk of perinatal (mother-to-child) transmission?",
+   "stem": "A 46-year-old woman with a 6-year history of a chronic bloodborne viral infection comes to the clinic with palpable purpura on the legs, arthralgias, and numbness of both feet. Laboratory studies show a low C4, positive rheumatoid factor, and serum proteins that precipitate when the sample is refrigerated. Urinalysis shows dysmorphic red cells and red-cell casts. Which of the following best explains her renal findings?",
    "choices": [
     {
      "label": "A",
-     "text": "Maternal tenofovir in the third trimester plus HBIG and hepatitis B vaccine to the newborn at birth"
+     "text": "Immune complex deposition in glomerular capillaries"
     },
     {
      "label": "B",
-     "text": "Elective cesarean delivery alone"
+     "text": "Antibodies directed against the basement membrane"
     },
     {
      "label": "C",
-     "text": "Newborn hepatitis B vaccine at 2 months of age only"
+     "text": "Foot-process effacement without immune deposits"
     },
     {
      "label": "D",
-     "text": "Maternal interferon therapy started at 28 weeks"
+     "text": "Nodular glomerulosclerosis from chronic hyperglycemia"
     },
     {
      "label": "E",
-     "text": "Newborn HBIG alone, with no vaccination"
+     "text": "Amyloid fibril deposition within the mesangium"
     }
    ],
    "correctAnswer": "A",
    "explanation": {
-    "summary": "High maternal HBV DNA: third-trimester tenofovir plus newborn HBIG + vaccine minimizes vertical transmission.",
-    "whyCorrect": "With high maternal viral load, third-trimester tenofovir lowers HBV DNA, and giving the newborn both HBIG (passive) and the hepatitis B vaccine (active) at birth is the standard combination that most effectively prevents perinatal transmission.",
+    "summary": "Chronic HCV drives mixed cryoglobulinemia → membranoproliferative GN from immune-complex deposition.",
+    "whyCorrect": "The chronic bloodborne virus with cryoglobulins, low C4, purpura, and a nephritic sediment is hepatitis C with mixed cryoglobulinemia, which causes membranoproliferative glomerulonephritis via immune-complex deposition in glomerular capillaries.",
     "whyWrongByChoice": {
-     "B": "Cesarean delivery alone does not reliably prevent HBV transmission and is not the recommended strategy.",
-     "C": "Delaying vaccination to 2 months misses the critical birth-dose window and omits HBIG and maternal antiviral.",
-     "D": "Interferon is contraindicated in pregnancy; tenofovir is the antiviral used to lower maternal viral load.",
-     "E": "HBIG alone provides only passive immunity; active vaccination must be given with it for durable protection."
+     "B": "Anti–basement membrane antibodies cause Goodpasture disease with linear IgG, not cryoglobulinemic GN.",
+     "C": "Isolated foot-process effacement without deposits is minimal change disease, which is not immune-complex mediated.",
+     "D": "Nodular glomerulosclerosis (Kimmelstiel-Wilson) is diabetic nephropathy, not a cryoglobulinemic process.",
+     "E": "Amyloid deposition produces nephrotic-range proteinuria with Congo-red positivity, not this nephritic cryoglobulinemic picture."
     }
    }
   },
@@ -84,38 +84,38 @@
    "id": "viral-hepatitis-clinical-adv-003",
    "topicId": "viral-hepatitis-clinical",
    "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
-   "stem": "A healthcare worker sustains a needle-stick from a source patient who is HBsAg positive. The worker completed the hepatitis B vaccine series years ago and has a documented anti-HBs of 45 mIU/mL. What is the most appropriate post-exposure management for hepatitis B?",
+   "stem": "A 30-year-old woman at 30 weeks of gestation is found on prenatal screening to be HBsAg positive and HBeAg positive, with an HBV DNA level of 2 × 10^8 IU/mL. She feels well and her ALT is normal. Plans are made to give the newborn hepatitis B immune globulin and vaccine at birth. Which of the following is the most appropriate additional step for the mother?",
    "choices": [
     {
      "label": "A",
-     "text": "No hepatitis B post-exposure treatment is needed — she is an immune responder"
+     "text": "Begin maternal tenofovir now"
     },
     {
      "label": "B",
-     "text": "Administer HBIG and repeat the full vaccine series"
+     "text": "Schedule an elective cesarean delivery"
     },
     {
      "label": "C",
-     "text": "Administer HBIG alone without further vaccination"
+     "text": "Give the mother immune globulin now"
     },
     {
      "label": "D",
-     "text": "Begin tenofovir prophylaxis for 4 weeks"
+     "text": "Start maternal entecavir after delivery"
     },
     {
      "label": "E",
-     "text": "Check HBsAg now and start entecavir if positive"
+     "text": "Administer a maternal hepatitis B booster"
     }
    ],
    "correctAnswer": "A",
    "explanation": {
-    "summary": "A documented anti-HBs ≥10 mIU/mL means the worker is an immune vaccine responder — no PEP needed.",
-    "whyCorrect": "A prior anti-HBs level ≥10 mIU/mL defines an immune responder, who is protected against HBV. No HBIG or additional vaccination is required after exposure.",
+    "summary": "High maternal HBV DNA: third-trimester tenofovir lowers viral load and further cuts perinatal transmission beyond newborn HBIG + vaccine.",
+    "whyCorrect": "With a high maternal viral load, third-trimester tenofovir reduces HBV DNA and lowers residual perinatal transmission risk that persists even with newborn immunoprophylaxis.",
     "whyWrongByChoice": {
-     "B": "HBIG plus revaccination is for known non-responders, not for a documented responder.",
-     "C": "HBIG is unnecessary in an immune responder with protective anti-HBs.",
-     "D": "Antiviral prophylaxis is used for HIV, not for HBV post-exposure in an immune responder.",
-     "E": "Empiric antiviral treatment is not indicated; her documented immunity already protects her."
+     "B": "Cesarean delivery does not reliably reduce HBV transmission and is not indicated for viral load alone.",
+     "C": "Maternal immune globulin does not lower her viral load and is not part of transmission prevention here.",
+     "D": "Antiviral must lower the viral load before delivery; starting after delivery misses the transmission window, and entecavir is not preferred in pregnancy.",
+     "E": "A maternal booster does not reduce her circulating viral load or transmission risk."
     }
    }
   },
@@ -123,38 +123,38 @@
    "id": "viral-hepatitis-clinical-adv-004",
    "topicId": "viral-hepatitis-clinical",
    "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
-   "stem": "A 45-year-old man with chronic hepatitis C develops palpable purpura, arthralgias, and a rising creatinine. Serum cryoglobulins are positive, C4 is low, and urinalysis shows hematuria with red-cell casts. Beyond treating the vasculitis, which intervention most directly addresses the underlying driver of his syndrome?",
+   "stem": "A previously healthy 40-year-old man is brought to the emergency department with fever, confusion, and jaundice that have worsened over 4 days. Serum AST is 4,900 U/L, ALT is 5,200 U/L, and INR is 3.4. Hepatitis A, B, and C serologies are negative and the acetaminophen level is undetectable. He is becoming encephalopathic. Which of the following is the most appropriate empiric pharmacotherapy to begin now?",
    "choices": [
     {
      "label": "A",
-     "text": "Direct-acting antiviral therapy to eradicate hepatitis C"
+     "text": "Acyclovir"
     },
     {
      "label": "B",
-     "text": "Lifelong low-dose aspirin"
+     "text": "Ceftriaxone"
     },
     {
      "label": "C",
-     "text": "Hepatitis B vaccination"
+     "text": "Prednisone"
     },
     {
      "label": "D",
-     "text": "Splenectomy"
+     "text": "Entecavir"
     },
     {
      "label": "E",
-     "text": "Interferon monotherapy"
+     "text": "Fluconazole"
     }
    ],
    "correctAnswer": "A",
    "explanation": {
-    "summary": "HCV-driven mixed cryoglobulinemia is best treated by curing the HCV with DAAs.",
-    "whyCorrect": "The cryoglobulinemic vasculitis and membranoproliferative glomerulonephritis are driven by chronic HCV antigen stimulation. Eradicating the virus with direct-acting antivirals removes the antigenic driver and is the definitive treatment, often alongside immunosuppression for severe disease.",
+    "summary": "Fulminant hepatitis of unknown cause: give empiric acyclovir for possible HSV before PCR confirmation.",
+    "whyCorrect": "HSV hepatitis is a rare but rapidly fatal cause of fulminant liver failure that must not be missed. Because it is treatable and lethal if delayed, empiric IV acyclovir is started before HSV PCR results return.",
     "whyWrongByChoice": {
-     "B": "Aspirin does not treat an immune-complex vasculitis or its viral driver.",
-     "C": "HBV vaccination is irrelevant to HCV-driven cryoglobulinemia.",
-     "D": "Splenectomy is not a treatment for cryoglobulinemic vasculitis; clearing HCV is.",
-     "E": "Interferon monotherapy is an obsolete, less effective HCV regimen; DAAs are the standard of care."
+     "B": "Ceftriaxone treats bacterial infection, which is not the treatable lethal cause suggested by fulminant hepatitis of unclear origin.",
+     "C": "Corticosteroids treat autoimmune hepatitis and could worsen an undiagnosed viral infection.",
+     "D": "Entecavir treats chronic hepatitis B, which is serologically excluded here.",
+     "E": "Fluconazole treats candidiasis, not the HSV possibility that empiric therapy must cover."
     }
    }
   },
@@ -162,38 +162,38 @@
    "id": "viral-hepatitis-clinical-adv-005",
    "topicId": "viral-hepatitis-clinical",
    "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
-   "stem": "A patient acquires hepatitis D at the same time as a new hepatitis B infection (coinfection), while another patient acquires hepatitis D on top of established chronic hepatitis B (superinfection). Which statement best contrasts these two scenarios?",
+   "stem": "A 60-year-old man with lymphoma has baseline serologies of HBsAg negative, anti-HBc positive, and anti-HBs positive. He begins rituximab-based chemotherapy without antiviral prophylaxis. Four months later his ALT rises sharply, HBV DNA becomes strongly positive, and HBsAg is now detectable. Which of the following best explains this change?",
    "choices": [
     {
      "label": "A",
-     "text": "Superinfection carries a higher risk of severe disease and progression to chronic HDV than coinfection"
+     "text": "Reactivation of previously controlled HBV infection"
     },
     {
      "label": "B",
-     "text": "Coinfection almost always leads to lifelong chronic HDV, while superinfection resolves spontaneously"
+     "text": "Newly acquired acute hepatitis B infection"
     },
     {
      "label": "C",
-     "text": "Only coinfection can cause fulminant hepatitis"
+     "text": "Chemotherapy-induced direct hepatotoxic injury"
     },
     {
      "label": "D",
-     "text": "Superinfection cannot occur unless the patient is HBsAg negative"
+     "text": "Autoimmune hepatitis triggered by the lymphoma"
     },
     {
      "label": "E",
-     "text": "Coinfection requires the patient to already have chronic hepatitis C"
+     "text": "Progression of underlying hepatocellular carcinoma"
     }
    ],
    "correctAnswer": "A",
    "explanation": {
-    "summary": "HDV superinfection of a chronic HBV carrier is more severe and more often chronic than acute coinfection.",
-    "whyCorrect": "In coinfection, HBV and HDV are acquired together and the illness often resolves as the acute HBV clears. In superinfection, HDV enters a host with established chronic HBV, leading to more severe disease and a high rate of chronic HDV with accelerated progression.",
+    "summary": "B-cell depletion removes immune control of latent HBV → reactivation with HBsAg seroreversion.",
+    "whyCorrect": "Resolved HBV persists as covalently closed circular DNA in hepatocytes. Rituximab depletes B cells and removes immune control, allowing reactivation with reappearance of HBsAg and rising HBV DNA — the reason prophylaxis is given in anti-HBc–positive patients.",
     "whyWrongByChoice": {
-     "B": "It is superinfection (not coinfection) that carries the high chronicity risk; coinfection often resolves.",
-     "C": "Both scenarios can be severe; fulminant hepatitis is not unique to coinfection.",
-     "D": "HDV requires HBsAg to replicate, so superinfection occurs precisely because the host is HBsAg positive.",
-     "E": "HDV depends on hepatitis B, not hepatitis C."
+     "B": "A new acute infection is unlikely given his prior resolved-infection serologies; this is recrudescence of his own virus.",
+     "C": "Direct chemotherapy toxicity would not turn HBsAg and HBV DNA positive.",
+     "D": "Autoimmune hepatitis does not produce a positive HBsAg or rising HBV DNA.",
+     "E": "Hepatocellular carcinoma does not cause HBsAg seroreversion with a viral-load surge."
     }
    }
   },
@@ -201,38 +201,38 @@
    "id": "viral-hepatitis-clinical-adv-006",
    "topicId": "viral-hepatitis-clinical",
    "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
-   "stem": "A previously healthy 40-year-old develops rapidly worsening jaundice, coagulopathy, and encephalopathy over 4 days. Transaminases are markedly elevated (AST 4,200 U/L). Standard viral hepatitis serologies are pending and initial workup is unrevealing. Which action is most appropriate while awaiting results?",
+   "stem": "A 35-year-old man who has been HBsAg positive for 5 years develops abrupt worsening of jaundice and a steep rise in transaminases over 2 weeks. Testing is now positive for anti-HDV and HDV RNA. Compared with his prior stable course, which of the following outcomes is most likely?",
    "choices": [
     {
      "label": "A",
-     "text": "Start empiric intravenous acyclovir"
+     "text": "Accelerated progression toward cirrhosis"
     },
     {
      "label": "B",
-     "text": "Start prednisone and azathioprine"
+     "text": "Spontaneous clearance of surface antigen"
     },
     {
      "label": "C",
-     "text": "Start direct-acting antiviral therapy"
+     "text": "Development of durable protective immunity"
     },
     {
      "label": "D",
-     "text": "Give N-acetylcysteine and observe without antivirals"
+     "text": "Complete resolution within a few weeks"
     },
     {
      "label": "E",
-     "text": "Withhold all therapy until PCR results return"
+     "text": "Conversion to an inactive carrier state"
     }
    ],
    "correctAnswer": "A",
    "explanation": {
-    "summary": "Fulminant hepatitis of unclear cause warrants empiric acyclovir — HSV hepatitis is fatal if untreated and treatment can't wait for PCR.",
-    "whyCorrect": "HSV hepatitis is a rare but highly fatal cause of acute liver failure and is a 'must not miss' diagnosis. Because it is treatable and rapidly lethal, empiric IV acyclovir is started before HSV PCR confirmation in unexplained fulminant hepatitis.",
+    "summary": "HDV superinfection of a chronic HBV carrier accelerates progression to severe disease and cirrhosis.",
+    "whyCorrect": "Hepatitis D superinfection in an established chronic HBV carrier characteristically causes severe hepatitis with a high rate of chronic HDV and accelerated progression to cirrhosis.",
     "whyWrongByChoice": {
-     "B": "Immunosuppression is for autoimmune hepatitis and could worsen an undiagnosed viral infection; it is not the empiric move in fulminant hepatitis of unknown cause.",
-     "C": "DAAs treat chronic hepatitis C, not fulminant hepatitis, and would not address a possible HSV etiology.",
-     "D": "N-acetylcysteine is helpful in acute liver failure but does not cover the treatable, lethal HSV possibility.",
-     "E": "Waiting for PCR risks death; empiric acyclovir is started because HSV hepatitis is rapidly fatal."
+     "B": "Surface antigen clearance signals resolution, the opposite of the aggressive course superinfection produces.",
+     "C": "HDV superinfection does not confer protective immunity; it worsens disease.",
+     "D": "Prompt resolution characterizes some acute coinfections, not superinfection of a chronic carrier.",
+     "E": "Superinfection drives active severe disease rather than an inactive carrier state."
     }
    }
   },
@@ -240,38 +240,38 @@
    "id": "viral-hepatitis-clinical-adv-007",
    "topicId": "viral-hepatitis-clinical",
    "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
-   "stem": "A 26-year-old woman completed a course of direct-acting antivirals for hepatitis C 6 months ago. Today her HCV RNA is undetectable but anti-HCV IgG remains positive. She asks whether she is now immune and can stop worrying about reinfection. Which response is correct?",
+   "stem": "A 24-year-old man comes to the clinic with 5 days of malaise, nausea, and jaundice after returning from travel to a region with poor sanitation, where he drank untreated water. Anti-HAV IgM is positive. His two unvaccinated household contacts feel well. Which of the following is most appropriate to protect the household contacts?",
    "choices": [
     {
      "label": "A",
-     "text": "She is cured, but anti-HCV IgG does not confer immunity — she can be reinfected"
+     "text": "Hepatitis A vaccination"
     },
     {
      "label": "B",
-     "text": "The positive antibody means she still has active infection despite the negative RNA"
+     "text": "Hepatitis B vaccination"
     },
     {
      "label": "C",
-     "text": "The persistent antibody confirms lifelong protective immunity"
+     "text": "Oral acyclovir prophylaxis"
     },
     {
      "label": "D",
-     "text": "She needs a repeat DAA course because the antibody is still positive"
+     "text": "A course of oral ribavirin"
     },
     {
      "label": "E",
-     "text": "A positive antibody with negative RNA indicates a laboratory error"
+     "text": "Reassurance without intervention"
     }
    ],
    "correctAnswer": "A",
    "explanation": {
-    "summary": "After HCV cure, anti-HCV IgG persists but is NOT protective — reinfection remains possible.",
-    "whyCorrect": "Undetectable HCV RNA after DAA therapy indicates cure (sustained virologic response). Anti-HCV IgG persists as a marker of past infection but does not confer protective immunity, so she can be reinfected with future exposures.",
+    "summary": "Post-exposure prophylaxis for household contacts of acute hepatitis A is the hepatitis A vaccine.",
+    "whyCorrect": "For close contacts of a person with acute hepatitis A, post-exposure prophylaxis with the hepatitis A vaccine (with immune globulin in selected patients) prevents secondary fecal-oral spread.",
     "whyWrongByChoice": {
-     "B": "Undetectable RNA indicates cleared virus; the persistent antibody reflects past, not active, infection.",
-     "C": "Unlike anti-HBs, anti-HCV antibodies are not protective; reinfection can occur.",
-     "D": "A persistent antibody after cure is expected and does not indicate a need for re-treatment.",
-     "E": "Antibody-positive/RNA-negative is the normal pattern after cure, not an error."
+     "B": "Hepatitis B vaccine does not protect against the fecal-orally transmitted hepatitis A virus.",
+     "C": "Acyclovir treats herpesviruses and has no role in hepatitis A prophylaxis.",
+     "D": "Ribavirin is not used for hepatitis A, which is self-limited and vaccine-preventable.",
+     "E": "Contacts are at real risk of fecal-oral transmission, so prophylaxis is warranted rather than observation."
     }
    }
   },
@@ -279,163 +279,7 @@
    "id": "viral-hepatitis-clinical-adv-008",
    "topicId": "viral-hepatitis-clinical",
    "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
-   "stem": "A 55-year-old man is HBsAg positive for over a year. HBeAg is negative, anti-HBe is positive, HBV DNA is low, and ALT is normal. Six months later, on the same labs, ALT rises sharply and HBV DNA increases substantially while HBeAg remains negative. Which phase/phenomenon best explains the change?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "A flare of HBeAg-negative chronic hepatitis B due to precore/core-promoter variants"
-    },
-    {
-     "label": "B",
-     "text": "Acute hepatitis A superimposed on his chronic HBV"
-    },
-    {
-     "label": "C",
-     "text": "Seroconversion to a resolved, immune state"
-    },
-    {
-     "label": "D",
-     "text": "Development of protective anti-HBs"
-    },
-    {
-     "label": "E",
-     "text": "Spontaneous clearance of HBsAg"
-    }
-   ],
-   "correctAnswer": "A",
-   "explanation": {
-    "summary": "Rising DNA and ALT with negative HBeAg indicates an HBeAg-negative chronic HBV flare (precore variants).",
-    "whyCorrect": "HBeAg-negative chronic hepatitis B occurs when precore/core-promoter variant virus replicates without producing HBeAg. Fluctuating flares of high HBV DNA and ALT despite a negative HBeAg are characteristic and may warrant antiviral therapy.",
-    "whyWrongByChoice": {
-     "B": "Nothing indicates a new hepatitis A infection; the pattern is intrinsic to his chronic HBV.",
-     "C": "Resolution would show falling DNA and loss of HBsAg, not rising DNA and ALT.",
-     "D": "Anti-HBs has not developed; he remains HBsAg positive with active replication.",
-     "E": "HBsAg persists; there is no clearance — replication is increasing."
-    }
-   }
-  },
-  {
-   "id": "viral-hepatitis-clinical-adv-009",
-   "topicId": "viral-hepatitis-clinical",
-   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
-   "stem": "A 32-year-old woman has fatigue and jaundice. ALT is 900 U/L and AST 780 U/L, while ALP is only mildly elevated at 130 U/L. This pattern most strongly directs the workup toward which category of disease?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Hepatocellular injury (e.g., viral or autoimmune hepatitis)"
-    },
-    {
-     "label": "B",
-     "text": "Cholestatic/obstructive disease (e.g., biliary obstruction)"
-    },
-    {
-     "label": "C",
-     "text": "Isolated hemolysis"
-    },
-    {
-     "label": "D",
-     "text": "Osteoblastic bone disease"
-    },
-    {
-     "label": "E",
-     "text": "Pancreatic exocrine insufficiency"
-    }
-   ],
-   "correctAnswer": "A",
-   "explanation": {
-    "summary": "A transaminase-predominant pattern (very high ALT/AST, near-normal ALP) points to hepatocellular injury.",
-    "whyCorrect": "A markedly elevated ALT/AST with only mild ALP elevation is a hepatocellular pattern, directing workup toward causes of hepatocyte injury such as viral or autoimmune hepatitis, rather than a cholestatic process.",
-    "whyWrongByChoice": {
-     "B": "Cholestatic disease produces a predominant ALP (and GGT) rise with proportionally lower transaminases.",
-     "C": "Hemolysis raises unconjugated bilirubin without this degree of transaminase elevation.",
-     "D": "Bone disease elevates ALP from bone, not transaminases; GGT would be normal.",
-     "E": "Pancreatic insufficiency causes malabsorption, not a hepatocellular transaminase pattern."
-    }
-   }
-  },
-  {
-   "id": "viral-hepatitis-clinical-adv-010",
-   "topicId": "viral-hepatitis-clinical",
-   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
-   "stem": "A 38-year-old woman presents with jaundice, ALT 650 U/L, elevated serum IgG, positive ANA and anti–smooth muscle antibody, and a biopsy with plasma-cell–rich interface hepatitis. She is started on prednisone with azathioprine. Before starting azathioprine, checking which of the following most directly reduces the risk of severe drug toxicity?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Thiopurine methyltransferase (TPMT) activity"
-    },
-    {
-     "label": "B",
-     "text": "Serum ceruloplasmin"
-    },
-    {
-     "label": "C",
-     "text": "Alpha-1 antitrypsin phenotype"
-    },
-    {
-     "label": "D",
-     "text": "Fasting transferrin saturation"
-    },
-    {
-     "label": "E",
-     "text": "Anti-mitochondrial antibody"
-    }
-   ],
-   "correctAnswer": "A",
-   "explanation": {
-    "summary": "Low TPMT activity predicts azathioprine-induced myelosuppression — check it before dosing.",
-    "whyCorrect": "Azathioprine is metabolized by thiopurine methyltransferase. Low or absent TPMT activity leads to accumulation of toxic metabolites and severe myelosuppression, so TPMT is checked before starting azathioprine in autoimmune hepatitis.",
-    "whyWrongByChoice": {
-     "B": "Ceruloplasmin screens for Wilson disease, not azathioprine toxicity.",
-     "C": "Alpha-1 antitrypsin phenotyping evaluates a different liver disease, not thiopurine safety.",
-     "D": "Transferrin saturation screens for hemochromatosis, unrelated to azathioprine metabolism.",
-     "E": "Anti-mitochondrial antibody suggests primary biliary cholangitis, not azathioprine toxicity risk."
-    }
-   }
-  },
-  {
-   "id": "viral-hepatitis-clinical-adv-011",
-   "topicId": "viral-hepatitis-clinical",
-   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
-   "stem": "A traveler returns from a region with poor sanitation and develops acute hepatitis; she is in her third trimester of pregnancy and becomes rapidly encephalopathic with a rising INR. Serologies are pending. Which virus most likely explains both her exposure and her unusually severe course?",
-   "choices": [
-    {
-     "label": "A",
-     "text": "Hepatitis E virus"
-    },
-    {
-     "label": "B",
-     "text": "Hepatitis B virus"
-    },
-    {
-     "label": "C",
-     "text": "Hepatitis C virus"
-    },
-    {
-     "label": "D",
-     "text": "Hepatitis D virus"
-    },
-    {
-     "label": "E",
-     "text": "Epstein-Barr virus"
-    }
-   ],
-   "correctAnswer": "A",
-   "explanation": {
-    "summary": "Fecal-oral acquisition plus fulminant course in pregnancy is classic for hepatitis E.",
-    "whyCorrect": "Hepatitis E is fecal-orally transmitted and is usually self-limited, but it carries a markedly increased risk of fulminant acute liver failure specifically in pregnant women, matching both her exposure and severity.",
-    "whyWrongByChoice": {
-     "B": "HBV is bloodborne, not fecal-oral, and lacks HEV's specific pregnancy-associated fulminant risk.",
-     "C": "HCV is bloodborne and typically indolent/chronic, not fulminant in pregnancy.",
-     "D": "HDV requires HBV and is not the fecal-oral, pregnancy-severe virus.",
-     "E": "EBV hepatitis is usually mild and is transmitted via saliva, not the fecal-oral route."
-    }
-   }
-  },
-  {
-   "id": "viral-hepatitis-clinical-adv-012",
-   "topicId": "viral-hepatitis-clinical",
-   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
-   "stem": "A biopsy from a patient with chronic hepatitis shows hepatocytes with pale, finely granular 'ground-glass' cytoplasm. This finding reflects accumulation of a specific viral product. Detection of which serum marker would you expect to correlate with the substance filling these cells?",
+   "stem": "A 52-year-old man undergoes liver biopsy for chronically elevated transaminases. The biopsy shows hepatocytes with pale, finely granular 'ground-glass' cytoplasm caused by accumulation of a viral product in the endoplasmic reticulum. Elevation of which of the following serum markers would most likely accompany this finding?",
    "choices": [
     {
      "label": "A",
@@ -460,13 +304,169 @@
    ],
    "correctAnswer": "A",
    "explanation": {
-    "summary": "Ground-glass hepatocytes are packed with HBsAg — the serum marker that correlates is HBsAg.",
-    "whyCorrect": "Ground-glass hepatocytes result from HBsAg accumulating in the endoplasmic reticulum. HBsAg is therefore the serum marker that correlates with the substance filling these cells and indicates active HBV infection.",
+    "summary": "Ground-glass hepatocytes are packed with HBsAg; serum HBsAg is the correlating marker.",
+    "whyCorrect": "Ground-glass hepatocytes result from HBsAg accumulating in the endoplasmic reticulum, so detectable serum HBsAg is the marker that correlates with the stored substance.",
     "whyWrongByChoice": {
-     "B": "HBeAg reflects replication/infectivity, not the surface antigen stored in ground-glass cells.",
-     "C": "Anti-HBs indicates immunity/resolution and would not accompany active HBsAg-laden hepatocytes.",
+     "B": "HBeAg reflects replication and infectivity, not the surface antigen filling ground-glass cells.",
+     "C": "Anti-HBs indicates immunity or resolution and would not accompany active HBsAg-laden hepatocytes.",
      "D": "Anti-HCV IgG marks hepatitis C, which does not produce ground-glass change.",
-     "E": "Anti-HAV IgM marks acute hepatitis A, unrelated to ground-glass hepatocytes."
+     "E": "Anti-HAV IgM marks acute hepatitis A, unrelated to this chronic HBV finding."
+    }
+   }
+  },
+  {
+   "id": "viral-hepatitis-clinical-adv-009",
+   "topicId": "viral-hepatitis-clinical",
+   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+   "stem": "A 34-year-old man who received a kidney transplant 6 weeks ago is admitted with fever and elevated transaminases. Liver biopsy shows enlarged cells containing large intranuclear inclusions surrounded by a clear halo. Which of the following is the most appropriate treatment?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Ganciclovir"
+    },
+    {
+     "label": "B",
+     "text": "Acyclovir"
+    },
+    {
+     "label": "C",
+     "text": "Praziquantel"
+    },
+    {
+     "label": "D",
+     "text": "Entecavir"
+    },
+    {
+     "label": "E",
+     "text": "Metronidazole"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "Owl's-eye intranuclear inclusions in a transplant recipient indicate CMV → treat with ganciclovir.",
+    "whyCorrect": "The large 'owl's-eye' intranuclear inclusions in an immunosuppressed transplant recipient indicate cytomegalovirus, which is treated with ganciclovir (or valganciclovir).",
+    "whyWrongByChoice": {
+     "B": "Acyclovir has poor activity against CMV; it treats HSV/VZV, which do not give owl's-eye inclusions in this setting.",
+     "C": "Praziquantel treats trematodes, not a viral inclusion-body hepatitis.",
+     "D": "Entecavir treats hepatitis B, which does not produce owl's-eye intranuclear inclusions.",
+     "E": "Metronidazole treats amebic infection, not CMV."
+    }
+   }
+  },
+  {
+   "id": "viral-hepatitis-clinical-adv-010",
+   "topicId": "viral-hepatitis-clinical",
+   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+   "stem": "A 27-year-old woman at 32 weeks of gestation returns from travel to an area with poor sanitation and develops jaundice, nausea, and markedly elevated transaminases. Serologic testing is positive for anti-HEV IgM. Which of the following complications is she at greatest risk of developing?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Fulminant hepatic failure"
+    },
+    {
+     "label": "B",
+     "text": "Chronic active hepatitis"
+    },
+    {
+     "label": "C",
+     "text": "Hepatocellular carcinoma"
+    },
+    {
+     "label": "D",
+     "text": "Progressive hepatic cirrhosis"
+    },
+    {
+     "label": "E",
+     "text": "Biliary tract carcinoma"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "Hepatitis E carries a markedly increased risk of fulminant hepatic failure specifically in pregnancy.",
+    "whyCorrect": "Hepatitis E is usually acute and self-limited, but in pregnant women it carries a markedly increased risk of fulminant (acute) hepatic failure.",
+    "whyWrongByChoice": {
+     "B": "Chronic hepatitis from HEV occurs mainly in immunocompromised hosts, not in this acute pregnancy setting.",
+     "C": "Hepatocellular carcinoma follows years of chronic HBV/HCV or cirrhosis, not acute HEV.",
+     "D": "Progressive cirrhosis develops over years of chronic injury, not from acute self-limited HEV.",
+     "E": "Biliary carcinoma is linked to chronic biliary fluke infection, not to acute hepatitis E."
+    }
+   }
+  },
+  {
+   "id": "viral-hepatitis-clinical-adv-011",
+   "topicId": "viral-hepatitis-clinical",
+   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+   "stem": "A 29-year-old nurse sustains a needle-stick injury from a patient who is HBsAg positive. She completed the hepatitis B vaccine series several years ago and has a documented anti-HBs titer of 45 mIU/mL. Which of the following is the most appropriate next step for hepatitis B?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "No further intervention is needed"
+    },
+    {
+     "label": "B",
+     "text": "Immune globulin plus revaccination"
+    },
+    {
+     "label": "C",
+     "text": "Immune globulin without vaccination"
+    },
+    {
+     "label": "D",
+     "text": "A repeat three-dose vaccine series"
+    },
+    {
+     "label": "E",
+     "text": "A 4-week course of tenofovir"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "A documented anti-HBs ≥10 mIU/mL means she is an immune vaccine responder — no post-exposure treatment.",
+    "whyCorrect": "A prior anti-HBs titer ≥10 mIU/mL defines an immune responder who is protected, so no immune globulin or additional vaccination is needed after HBV exposure.",
+    "whyWrongByChoice": {
+     "B": "Immune globulin plus revaccination is for documented non-responders, not a proven responder.",
+     "C": "Immune globulin adds nothing when protective anti-HBs is already present.",
+     "D": "A repeat series is unnecessary in someone with a documented protective titer.",
+     "E": "Antiviral prophylaxis is used for HIV exposures, not for HBV in an immune responder."
+    }
+   }
+  },
+  {
+   "id": "viral-hepatitis-clinical-adv-012",
+   "topicId": "viral-hepatitis-clinical",
+   "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+   "stem": "A 32-year-old woman comes to the office with 1 week of fatigue and jaundice. Serum AST is 780 U/L and ALT is 900 U/L, while alkaline phosphatase is 110 U/L (normal) and total bilirubin is 6 mg/dL. She drinks no alcohol and takes no medications. Which of the following is the most appropriate next diagnostic step?",
+   "choices": [
+    {
+     "label": "A",
+     "text": "Hepatitis A, B, and C serologic testing"
+    },
+    {
+     "label": "B",
+     "text": "Endoscopic retrograde cholangiopancreatography"
+    },
+    {
+     "label": "C",
+     "text": "Right upper quadrant abdominal ultrasonography"
+    },
+    {
+     "label": "D",
+     "text": "Serum antimitochondrial antibody measurement"
+    },
+    {
+     "label": "E",
+     "text": "Serum ceruloplasmin and 24-hour urine copper"
+    }
+   ],
+   "correctAnswer": "A",
+   "explanation": {
+    "summary": "A strongly hepatocellular pattern (very high transaminases, normal ALP) points to viral/autoimmune hepatitis workup, not biliary imaging.",
+    "whyCorrect": "The markedly elevated transaminases with a normal alkaline phosphatase indicate a hepatocellular rather than cholestatic process, so viral hepatitis serologies (the most common cause) are the appropriate first workup.",
+    "whyWrongByChoice": {
+     "B": "ERCP evaluates biliary obstruction, which the normal alkaline phosphatase argues against.",
+     "C": "Ultrasound targets a cholestatic/obstructive picture, not this hepatocellular pattern.",
+     "D": "Antimitochondrial antibody screens for primary biliary cholangitis, a cholestatic disease with a high ALP.",
+     "E": "Ceruloplasmin/urine copper screen for Wilson disease, a less likely first consideration than viral hepatitis here."
     }
    }
   },
@@ -474,38 +474,38 @@
    "id": "viral-hepatitis-clinical-adv-013",
    "topicId": "viral-hepatitis-clinical",
    "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
-   "stem": "A 60-year-old about to start a TNF-alpha inhibitor and long-term immunosuppression has the following pre-treatment screen: HBsAg negative, anti-HBc positive, anti-HBs positive, HBV DNA undetectable. What is the best interpretation and plan regarding hepatitis B?",
+   "stem": "A 33-year-old woman comes to the clinic with fatigue and jaundice. Serum ALT is 640 U/L, viral hepatitis serologies are negative, and she drinks no alcohol. Additional studies show elevated serum IgG with positive antinuclear and anti–smooth muscle antibodies, and liver biopsy shows interface hepatitis with a plasma-cell–rich infiltrate. Which of the following is the most appropriate treatment?",
    "choices": [
     {
      "label": "A",
-     "text": "Resolved prior HBV infection — monitor HBV DNA/HBsAg during therapy, with antiviral if reactivation occurs"
+     "text": "Prednisone with azathioprine"
     },
     {
      "label": "B",
-     "text": "Never infected — give the full vaccine series before therapy"
+     "text": "Ledipasvir with sofosbuvir"
     },
     {
      "label": "C",
-     "text": "Active chronic infection — start lifelong tenofovir immediately"
+     "text": "Tenofovir with entecavir"
     },
     {
      "label": "D",
-     "text": "Vaccine-induced immunity only — no monitoring needed"
+     "text": "Ursodiol with cholestyramine"
     },
     {
      "label": "E",
-     "text": "Acute infection — delay therapy for 6 months"
+     "text": "Rifaximin with lactulose"
     }
    ],
    "correctAnswer": "A",
    "explanation": {
-    "summary": "HBsAg-neg, anti-HBc+ and anti-HBs+ is resolved HBV; monitor (or prophylax) during immunosuppression.",
-    "whyCorrect": "This pattern indicates resolved past HBV infection. With moderate-risk immunosuppression, guidelines support monitoring HBV DNA and HBsAg during therapy and treating if reactivation occurs (higher-risk regimens like rituximab warrant upfront prophylaxis).",
+    "summary": "Negative viral serologies with high IgG, ANA/ASMA, and plasma-cell interface hepatitis define autoimmune hepatitis → prednisone + azathioprine.",
+    "whyCorrect": "The picture is autoimmune hepatitis, treated with immunosuppression: prednisone to control inflammation plus azathioprine as a steroid-sparing agent, which improves long-term survival.",
     "whyWrongByChoice": {
-     "B": "Anti-HBc positivity shows prior infection, not a never-infected/vaccine-only state, so this is not a simple vaccination scenario.",
-     "C": "HBsAg is negative and DNA undetectable, so this is resolved—not active chronic—infection.",
-     "D": "Anti-HBc positive means natural infection, not isolated vaccine immunity; monitoring is warranted under immunosuppression.",
-     "E": "There is no evidence of acute infection; the picture is resolved disease."
+     "B": "Ledipasvir-sofosbuvir treats hepatitis C, which is serologically negative here.",
+     "C": "Tenofovir and entecavir treat hepatitis B, also excluded by negative serologies.",
+     "D": "Ursodiol/cholestyramine target cholestatic disease (e.g., PBC), not autoimmune hepatitis.",
+     "E": "Rifaximin/lactulose treat hepatic encephalopathy, not the underlying autoimmune inflammation."
     }
    }
   },
@@ -513,38 +513,38 @@
    "id": "viral-hepatitis-clinical-adv-014",
    "topicId": "viral-hepatitis-clinical",
    "topicName": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
-   "stem": "An asymptomatic 50-year-old is incidentally found to have isolated anti-HBc positivity: HBsAg negative, anti-HBs negative, anti-HBc IgG positive, anti-HBc IgM negative. He is otherwise healthy and not immunosuppressed. Which is the most likely explanation?",
+   "stem": "A 26-year-old woman completed a 12-week course of direct-acting antiviral therapy for hepatitis C 6 months ago. Today her HCV RNA is undetectable but her anti-HCV IgG remains positive. She asks what this means for her future. Which of the following statements is most accurate?",
    "choices": [
     {
      "label": "A",
-     "text": "Resolved HBV infection with waned anti-HBs (or low-level occult infection)"
+     "text": "She is cured but can be reinfected later"
     },
     {
      "label": "B",
-     "text": "Successful hepatitis B vaccination"
+     "text": "She has active infection despite treatment"
     },
     {
      "label": "C",
-     "text": "Acute hepatitis B in the eclipse phase"
+     "text": "She now has lifelong protective immunity"
     },
     {
      "label": "D",
-     "text": "Active chronic hepatitis B with high infectivity"
+     "text": "She requires an additional treatment course"
     },
     {
      "label": "E",
-     "text": "Coinfection with hepatitis D"
+     "text": "She has developed a chronic HCV infection"
     }
    ],
    "correctAnswer": "A",
    "explanation": {
-    "summary": "Isolated anti-HBc most often reflects remote resolved HBV whose anti-HBs has waned (or occult infection).",
-    "whyCorrect": "Isolated anti-HBc (IgG) in a healthy person usually indicates remote resolved infection in which protective anti-HBs has fallen below detection; occasionally it reflects occult HBV. It is distinct from the acute window period, which shows anti-HBc IgM.",
+    "summary": "Undetectable HCV RNA after DAAs = cure; anti-HCV IgG persists but is not protective, so reinfection is possible.",
+    "whyCorrect": "An undetectable HCV RNA after therapy indicates cure (sustained virologic response). Anti-HCV IgG persists as a marker of past infection but does not confer immunity, so reinfection can occur with new exposures.",
     "whyWrongByChoice": {
-     "B": "Vaccination produces isolated anti-HBs, not anti-HBc.",
-     "C": "The acute window period is defined by anti-HBc IgM, which is negative here.",
-     "D": "Active chronic infection requires persistent HBsAg, which is negative.",
-     "E": "HDV requires HBsAg positivity; he is HBsAg negative."
+     "B": "Undetectable RNA indicates cleared virus; the persistent antibody reflects past, not active, infection.",
+     "C": "Unlike anti-HBs, anti-HCV antibodies are not protective.",
+     "D": "A persistent antibody after cure is expected and does not indicate a need to re-treat.",
+     "E": "Chronic infection would show detectable HCV RNA, which is absent here."
     }
    }
   },
@@ -552,38 +552,38 @@
    "id": "hepatic-abscesses-flukes-adv-001",
    "topicId": "hepatic-abscesses-flukes",
    "topicName": "Infectious Hepatic Abscesses and Flukes",
-   "stem": "A 42-year-old man returns from Mexico with 3 weeks of fever and right upper quadrant pain. CT shows a single well-defined right-lobe hepatic cyst; serum Entamoeba histolytica serology is positive. After starting metronidazole and improving, which additional therapy is most important to prevent relapse?",
+   "stem": "A 42-year-old man comes to the emergency department with 3 weeks of fevers and right upper quadrant pain after returning from rural Mexico. CT shows a single well-defined cyst in the right hepatic lobe, and serum Entamoeba histolytica serology is positive. He is started on metronidazole and improves. Which of the following should be added to prevent relapse?",
    "choices": [
     {
      "label": "A",
-     "text": "A luminal agent such as paromomycin to eradicate intestinal colonization"
+     "text": "Paromomycin"
     },
     {
      "label": "B",
-     "text": "Long-term suppressive fluconazole"
+     "text": "Praziquantel"
     },
     {
      "label": "C",
-     "text": "Percutaneous drain left in place for 6 weeks"
+     "text": "Fluconazole"
     },
     {
      "label": "D",
-     "text": "Praziquantel for biliary flukes"
+     "text": "Ceftriaxone"
     },
     {
      "label": "E",
-     "text": "Lifelong trimethoprim-sulfamethoxazole prophylaxis"
+     "text": "Albendazole"
     }
    ],
    "correctAnswer": "A",
    "explanation": {
-    "summary": "Amebic liver abscess: metronidazole for tissue infection THEN a luminal agent to clear intestinal cysts and prevent relapse.",
-    "whyCorrect": "Metronidazole kills invasive trophozoites in the liver but does not eradicate the intestinal luminal cysts that can cause relapse and transmission. A luminal agent (paromomycin) is added after metronidazole to clear intestinal colonization.",
+    "summary": "After metronidazole clears invasive amebae, a luminal agent (paromomycin) eradicates intestinal cysts and prevents relapse.",
+    "whyCorrect": "Metronidazole kills invasive trophozoites in the liver but not the intestinal luminal cysts that cause relapse. A luminal agent such as paromomycin is added to eradicate colonization.",
     "whyWrongByChoice": {
-     "B": "Fluconazole treats fungal abscesses (Candida), not amebic infection.",
-     "C": "Amebic abscesses usually respond to drugs alone; routine prolonged drainage is not the key relapse-prevention step.",
-     "D": "Praziquantel treats flukes, not Entamoeba.",
-     "E": "TMP-SMX prophylaxis is not the treatment for amebic colonization; a luminal amebicide is."
+     "B": "Praziquantel treats trematodes, not Entamoeba.",
+     "C": "Fluconazole treats Candida abscesses, not amebiasis.",
+     "D": "Ceftriaxone covers bacteria, not the intestinal amebic cysts driving relapse.",
+     "E": "Albendazole treats echinococcal and some nematode disease, not amebic colonization."
     }
    }
   },
@@ -591,38 +591,38 @@
    "id": "hepatic-abscesses-flukes-adv-002",
    "topicId": "hepatic-abscesses-flukes",
    "topicName": "Infectious Hepatic Abscesses and Flukes",
-   "stem": "A 58-year-old man with recent ascending cholangitis develops fever and multiple small hepatic abscesses on imaging. Blood cultures grow a gram-negative rod. Beyond antibiotics, which management step is most critical?",
+   "stem": "A 58-year-old man with recent ascending cholangitis develops fever and several small hepatic abscesses on imaging. Blood cultures grow a gram-negative rod. He is started on broad-spectrum antibiotics. Which of the following is the most important additional intervention?",
    "choices": [
     {
      "label": "A",
-     "text": "Drainage and relief of the biliary obstruction (source control)"
+     "text": "Biliary decompression and drainage"
     },
     {
      "label": "B",
-     "text": "Empiric metronidazole plus paromomycin for amebiasis"
+     "text": "Empiric antiparasitic pharmacotherapy"
     },
     {
      "label": "C",
-     "text": "Praziquantel for presumed liver flukes"
+     "text": "Serologic testing for amebiasis"
     },
     {
      "label": "D",
-     "text": "Serology for Entamoeba histolytica before any intervention"
+     "text": "Prolonged antifungal suppression"
     },
     {
      "label": "E",
-     "text": "Immediate liver transplantation evaluation"
+     "text": "Urgent liver transplant evaluation"
     }
    ],
    "correctAnswer": "A",
    "explanation": {
-    "summary": "Pyogenic abscesses from ascending cholangitis require source control — drain the abscess and relieve biliary obstruction.",
-    "whyCorrect": "Pyogenic hepatic abscesses (often E. coli or Klebsiella) arising from ascending biliary disease need antibiotics plus source control: drainage of the abscess and relief of the underlying biliary obstruction, without which infection persists.",
+    "summary": "Pyogenic abscess from ascending cholangitis needs source control: drainage and relief of the biliary obstruction.",
+    "whyCorrect": "Pyogenic hepatic abscesses arising from ascending biliary disease require antibiotics plus source control — drainage and relief of the underlying biliary obstruction — without which infection persists.",
     "whyWrongByChoice": {
-     "B": "The biliary source and gram-negative bacteremia indicate a pyogenic, not amebic, process.",
-     "C": "Flukes are not the cause here; the history points to ascending biliary infection.",
-     "D": "Serology for Entamoeba would delay needed source control in a clearly pyogenic, biliary-source abscess.",
-     "E": "Transplant is not indicated; the problem is a drainable infection with a treatable biliary source."
+     "B": "The biliary source and gram-negative bacteremia indicate a pyogenic, not parasitic, process.",
+     "C": "Amebic serology would delay needed source control in a clearly pyogenic biliary-source abscess.",
+     "D": "Antifungal therapy targets Candida microabscesses, not this bacterial biliary infection.",
+     "E": "Transplantation is not indicated for a drainable infection with a treatable biliary source."
     }
    }
   },
@@ -630,7 +630,7 @@
    "id": "hepatic-abscesses-flukes-adv-003",
    "topicId": "hepatic-abscesses-flukes",
    "topicName": "Infectious Hepatic Abscesses and Flukes",
-   "stem": "A 47-year-old immigrant from Southeast Asia has chronic right upper quadrant discomfort and eosinophilia; he frequently eats raw freshwater fish. Imaging shows biliary ductal dilation and thickening. Long-standing infection with the responsible organism most strongly predisposes to which malignancy?",
+   "stem": "A 47-year-old man who emigrated from Southeast Asia comes to the clinic with chronic right upper quadrant discomfort and peripheral eosinophilia. He frequently eats raw freshwater fish. Imaging shows intrahepatic biliary dilation and ductal wall thickening. Long-standing infection with the responsible organism most increases the risk of which of the following?",
    "choices": [
     {
      "label": "A",
@@ -642,11 +642,11 @@
     },
     {
      "label": "C",
-     "text": "Gallbladder adenocarcinoma from cholesterol stones"
+     "text": "Gallbladder carcinoma"
     },
     {
      "label": "D",
-     "text": "Pancreatic adenocarcinoma"
+     "text": "Pancreatic carcinoma"
     },
     {
      "label": "E",
@@ -655,13 +655,13 @@
    ],
    "correctAnswer": "A",
    "explanation": {
-    "summary": "Clonorchis/Opisthorchis (raw freshwater fish) chronically inflames bile ducts, raising cholangiocarcinoma risk.",
-    "whyCorrect": "Clonorchis sinensis (and Opisthorchis) are acquired from raw freshwater fish and inhabit the biliary tree, causing chronic ductal inflammation that predisposes to cholangiocarcinoma.",
+    "summary": "Clonorchis (raw freshwater fish) chronically inflames bile ducts, raising cholangiocarcinoma risk.",
+    "whyCorrect": "The exposure and biliary findings indicate Clonorchis sinensis, which inhabits the biliary tree and causes chronic ductal inflammation predisposing to cholangiocarcinoma.",
     "whyWrongByChoice": {
-     "B": "Hepatocellular carcinoma is linked to chronic HBV/HCV and cirrhosis, not biliary fluke infection.",
-     "C": "These flukes drive bile-duct (cholangio) malignancy, not cholesterol-stone gallbladder cancer.",
-     "D": "Pancreatic adenocarcinoma is not the malignancy associated with liver flukes.",
-     "E": "Colorectal cancer is unrelated to biliary fluke infection."
+     "B": "Hepatocellular carcinoma follows chronic viral hepatitis and cirrhosis, not biliary fluke infection.",
+     "C": "Gallbladder carcinoma is linked to chronic cholelithiasis, not to this ductal fluke.",
+     "D": "Pancreatic carcinoma is not the malignancy associated with liver flukes.",
+     "E": "Colorectal carcinoma is unrelated to biliary fluke infection."
     }
    }
   },
@@ -669,38 +669,38 @@
    "id": "hepatic-abscesses-flukes-adv-004",
    "topicId": "hepatic-abscesses-flukes",
    "topicName": "Infectious Hepatic Abscesses and Flukes",
-   "stem": "Two patients have liver fluke infections. One acquired the parasite by eating wild watercress; the other by eating raw freshwater fish. Which pairing of exposure to organism is correct?",
+   "stem": "A 40-year-old woman comes to the clinic with right upper quadrant pain, intermittent fever, and marked peripheral eosinophilia. She lives on a farm and regularly eats wild watercress from a nearby stream. Imaging shows tracks within the liver extending toward the biliary tree. Which of the following organisms is the most likely cause?",
    "choices": [
     {
      "label": "A",
-     "text": "Watercress → Fasciola hepatica; raw freshwater fish → Clonorchis sinensis"
+     "text": "Fasciola hepatica"
     },
     {
      "label": "B",
-     "text": "Watercress → Clonorchis sinensis; raw freshwater fish → Fasciola hepatica"
+     "text": "Clonorchis sinensis"
     },
     {
      "label": "C",
-     "text": "Both are caused by Entamoeba histolytica"
+     "text": "Schistosoma mansoni"
     },
     {
      "label": "D",
-     "text": "Watercress → Echinococcus; raw freshwater fish → Candida"
+     "text": "Entamoeba histolytica"
     },
     {
      "label": "E",
-     "text": "Both are caused by Schistosoma mansoni"
+     "text": "Echinococcus granulosus"
     }
    ],
    "correctAnswer": "A",
    "explanation": {
-    "summary": "Fasciola comes from aquatic plants (watercress); Clonorchis from raw freshwater fish.",
-    "whyCorrect": "Fasciola hepatica is acquired from aquatic vegetation such as watercress, while Clonorchis sinensis is acquired from raw or undercooked freshwater fish. Both migrate to the biliary tract.",
+    "summary": "Watercress ingestion with eosinophilia and hepatic migratory tracks indicates Fasciola hepatica.",
+    "whyCorrect": "Fasciola hepatica is acquired from aquatic vegetation such as watercress; larvae migrate through the liver parenchyma toward the biliary tree, producing eosinophilia and migratory tracks.",
     "whyWrongByChoice": {
-     "B": "The exposures are reversed: watercress is Fasciola, fish is Clonorchis.",
-     "C": "Entamoeba causes amebic abscess and is not a fluke acquired from these foods.",
-     "D": "Echinococcus is acquired from dog tapeworm eggs and Candida is a fungus, not these food-borne flukes.",
-     "E": "Schistosoma is acquired via freshwater skin penetration, not from watercress or fish ingestion."
+     "B": "Clonorchis is acquired from raw freshwater fish, not watercress.",
+     "C": "Schistosoma mansoni is acquired by freshwater skin penetration and causes periportal fibrosis, not watercress-borne biliary disease.",
+     "D": "Entamoeba causes a solitary abscess from fecal-oral spread, not migratory tracks with eosinophilia.",
+     "E": "Echinococcus is acquired from dog tapeworm eggs and forms hydatid cysts, not migratory tracks."
     }
    }
   },
@@ -708,7 +708,7 @@
    "id": "hepatic-abscesses-flukes-adv-005",
    "topicId": "hepatic-abscesses-flukes",
    "topicName": "Infectious Hepatic Abscesses and Flukes",
-   "stem": "A 35-year-old woman with poorly controlled leukemia on chemotherapy develops persistent fevers despite broad-spectrum antibiotics. Imaging shows multiple tiny hepatic and splenic microabscesses. Which organism is the most likely cause?",
+   "stem": "A 35-year-old woman receiving induction chemotherapy for acute leukemia has persistent fevers despite broad-spectrum antibiotics. As her neutrophil count recovers, imaging shows multiple tiny abscesses scattered through the liver and spleen. Which of the following is the most likely causative organism?",
    "choices": [
     {
      "label": "A",
@@ -724,7 +724,7 @@
     },
     {
      "label": "D",
-     "text": "Klebsiella pneumoniae from ascending cholangitis"
+     "text": "Klebsiella pneumoniae"
     },
     {
      "label": "E",
@@ -733,12 +733,12 @@
    ],
    "correctAnswer": "A",
    "explanation": {
-    "summary": "Multiple hepatosplenic microabscesses in a neutropenic patient with antibiotic-refractory fever suggest hepatosplenic candidiasis.",
-    "whyCorrect": "Candida causes multiple small hepatic (and splenic) microabscesses, classically in immunocompromised/neutropenic patients whose fevers persist despite antibacterial therapy — a picture of hepatosplenic candidiasis.",
+    "summary": "Multiple hepatosplenic microabscesses in a recovering neutropenic patient with antibiotic-refractory fever indicate hepatosplenic candidiasis.",
+    "whyCorrect": "Candida causes multiple small hepatic and splenic microabscesses, classically becoming apparent as neutrophils recover in a patient whose fevers persisted despite antibacterial therapy.",
     "whyWrongByChoice": {
-     "B": "Entamoeba produces a solitary right-lobe abscess in a traveler, not scattered microabscesses in a neutropenic host.",
-     "C": "Clonorchis infects the biliary tree and is tied to raw fish, not microabscesses in neutropenia.",
-     "D": "Klebsiella pyogenic abscesses are usually few and larger and arise from biliary disease, not antibiotic-refractory microabscesses.",
+     "B": "Entamoeba produces a solitary right-lobe abscess in a traveler, not scattered microabscesses in neutropenia.",
+     "C": "Clonorchis infects the biliary tree from raw fish and does not cause hepatosplenic microabscesses.",
+     "D": "Klebsiella pyogenic abscesses are usually few and larger and arise from biliary or portal sources.",
      "E": "Fasciola is a biliary fluke from watercress, not a cause of hepatosplenic microabscesses."
     }
    }
@@ -747,7 +747,7 @@
    "id": "hepatic-abscesses-flukes-adv-006",
    "topicId": "hepatic-abscesses-flukes",
    "topicName": "Infectious Hepatic Abscesses and Flukes",
-   "stem": "A patient is diagnosed with biliary infection by Clonorchis sinensis. Which antiparasitic agent is the most appropriate first-line treatment?",
+   "stem": "A 50-year-old man is diagnosed with biliary infection by Clonorchis sinensis after presenting with cholangitis and eosinophilia. Which of the following is the most appropriate first-line pharmacotherapy?",
    "choices": [
     {
      "label": "A",
@@ -763,22 +763,22 @@
     },
     {
      "label": "D",
-     "text": "Vancomycin"
+     "text": "Triclabendazole"
     },
     {
      "label": "E",
-     "text": "Albendazole for a hydatid cyst"
+     "text": "Ivermectin"
     }
    ],
    "correctAnswer": "A",
    "explanation": {
-    "summary": "Praziquantel is first-line for Clonorchis (and most liver flukes except Fasciola).",
-    "whyCorrect": "Praziquantel is the treatment of choice for Clonorchis sinensis and most trematode infections. (Fasciola hepatica is the notable exception, treated with triclabendazole.)",
+    "summary": "Praziquantel is first-line for Clonorchis and most liver flukes (Fasciola being the exception).",
+    "whyCorrect": "Praziquantel is the treatment of choice for Clonorchis sinensis and most trematode infections.",
     "whyWrongByChoice": {
      "B": "Metronidazole treats amebic abscess, not fluke infection.",
-     "C": "Fluconazole treats Candida, not flukes.",
-     "D": "Vancomycin is an antibacterial and has no antiparasitic activity here.",
-     "E": "Albendazole is used for echinococcal (hydatid) disease, not Clonorchis."
+     "C": "Fluconazole treats Candida, not trematodes.",
+     "D": "Triclabendazole is reserved for Fasciola hepatica, which resists praziquantel; it is not first-line for Clonorchis.",
+     "E": "Ivermectin treats certain nematodes, not liver flukes."
     }
    }
   },
@@ -786,38 +786,38 @@
    "id": "hepatic-abscesses-flukes-adv-007",
    "topicId": "hepatic-abscesses-flukes",
    "topicName": "Infectious Hepatic Abscesses and Flukes",
-   "stem": "A returning traveler has a solitary right-lobe hepatic lesion. If aspirated, amebic abscess classically yields fluid described as which of the following, and this finding helps distinguish it from a pyogenic abscess?",
+   "stem": "A 45-year-old traveler is found to have a solitary right-lobe hepatic lesion with positive amebic serology. If the lesion were aspirated, which of the following findings would best distinguish it from a pyogenic abscess?",
    "choices": [
     {
      "label": "A",
-     "text": "Odorless 'anchovy-paste' brown material, usually sterile on routine bacterial culture"
+     "text": "Sterile odorless brown fluid"
     },
     {
      "label": "B",
-     "text": "Foul-smelling purulent fluid that grows enteric bacteria"
+     "text": "Foul purulent culturable pus"
     },
     {
      "label": "C",
-     "text": "Clear serous fluid with malignant cells"
+     "text": "Clear fluid with malignant cells"
     },
     {
      "label": "D",
-     "text": "Bile-stained fluid teeming with fluke eggs"
+     "text": "Bile-stained fluid with ova"
     },
     {
      "label": "E",
-     "text": "Caseous material with acid-fast bacilli"
+     "text": "Caseous acid-fast material"
     }
    ],
    "correctAnswer": "A",
    "explanation": {
-    "summary": "Amebic aspirate is odorless 'anchovy-paste' and sterile on routine culture, unlike pyogenic pus.",
-    "whyCorrect": "Amebic liver abscess classically yields sterile, odorless reddish-brown 'anchovy-paste' material (necrotic hepatocytes), whereas a pyogenic abscess yields foul purulent fluid that grows bacteria.",
+    "summary": "Amebic aspirate is sterile, odorless 'anchovy-paste' material, unlike the culturable pus of a pyogenic abscess.",
+    "whyCorrect": "Amebic liver abscess classically yields sterile, odorless reddish-brown 'anchovy-paste' fluid (necrotic hepatocytes), distinguishing it from the foul, culturable pus of a pyogenic abscess.",
     "whyWrongByChoice": {
-     "B": "Foul purulent bacteria-growing fluid describes a pyogenic abscess, the entity being distinguished from.",
+     "B": "Foul culturable pus describes the pyogenic abscess being distinguished from.",
      "C": "Clear fluid with malignant cells suggests a cystic neoplasm, not an amebic abscess.",
-     "D": "Fluke eggs relate to biliary trematode disease, not the amebic aspirate.",
-     "E": "Caseous acid-fast material suggests tuberculosis, not amebiasis."
+     "D": "Bile-stained fluid with ova points to biliary fluke disease, not amebiasis.",
+     "E": "Caseous acid-fast material indicates tuberculosis, not amebiasis."
     }
    }
   }
