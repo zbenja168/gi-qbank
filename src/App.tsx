@@ -72,7 +72,10 @@ function AppShell() {
     );
   }
 
-  if (!topicsHook.topics) {
+  // In advanced tier the board is legitimately empty when the user isn't Pro
+  // (entitlement locked/error) — let HomePage render the upgrade screen instead
+  // of a hard error. Only treat null topics as an error for the standard tier.
+  if (!topicsHook.topics && tier === 'standard') {
     return (
       <div className="min-h-screen flex items-center justify-center bg-slate-900">
         <p className="text-red-400">Failed to load topics. Check that data/topics.json exists.</p>
@@ -109,7 +112,7 @@ function AppShell() {
         <DashboardPage
           progress={progress}
           questions={questions}
-          totalQuestions={topicsHook.topics.totalQuestions}
+          totalQuestions={topicsHook.topics?.totalQuestions ?? 0}
           onBack={() => { setPage('home'); window.location.hash = ''; }}
           onClearProgress={clearAllProgress}
         />
@@ -129,6 +132,8 @@ function AppShell() {
         <HomePage
           tier={tier}
           onSetTier={setTier}
+          entitlement={topicsHook.entitlement}
+          entitlementReason={topicsHook.entitlementReason}
           topics={topicsHook.topics}
           selectedTopicIds={topicsHook.selectedTopicIds}
           selectedCount={topicsHook.selectedCount}

@@ -4,11 +4,14 @@ import { ProgressData, getAnsweredByTopic } from '../types/progress';
 import { getOverallStats } from '../utils/stats';
 import { BrandCard } from '../components/Brand';
 import { Tier } from '../utils/questionLoader';
+import { EntitlementStatus } from '../utils/entitlement';
 
 interface Props {
   tier: Tier;
   onSetTier: (t: Tier) => void;
-  topics: TopicsIndex;
+  entitlement: EntitlementStatus | null;
+  entitlementReason?: string;
+  topics: TopicsIndex | null;
   selectedTopicIds: Set<string>;
   selectedCount: number;
   progress: ProgressData;
@@ -23,10 +26,11 @@ interface Props {
 }
 
 export function HomePage({
-  tier, onSetTier, topics, selectedTopicIds, selectedCount, progress,
+  tier, onSetTier, entitlement, entitlementReason, topics, selectedTopicIds, selectedCount, progress,
   onToggleTopic, onToggleCategory, onSelectAll, onClearAll,
   onStartQuiz, onGoToDashboard, onGoToReview, onClearProgress,
 }: Props) {
+  const locked = tier === 'advanced' && entitlement !== null && entitlement !== 'ok';
   // Standard and advanced share topicIds but have distinct question ids
   // (advanced ids contain "-adv-"), so scope the home-screen counts to the
   // active tier — otherwise "remaining" and the stats blend the two banks.
@@ -42,7 +46,7 @@ export function HomePage({
   const answeredByTopic = getAnsweredByTopic(tierProgress);
 
   // Compute remaining (unanswered) for selected topics
-  const remainingCount = topics.categories.reduce((sum, cat) =>
+  const remainingCount = (topics?.categories ?? []).reduce((sum, cat) =>
     sum + cat.topics.reduce((s, t) => {
       if (!selectedTopicIds.has(t.id)) return s;
       const answered = answeredByTopic[t.id] || 0;
@@ -114,8 +118,33 @@ export function HomePage({
           </p>
         </div>
 
+        {/* Pro-gated: advanced is locked unless the user is Active Transport Pro */}
+        {locked && (
+          <div className="bg-slate-800 border border-amber-500/40 rounded-2xl p-8 text-center">
+            <div className="text-4xl mb-3">🔒</div>
+            <h2 className="text-xl font-bold text-slate-100 mb-2">Advanced is an Active Transport Pro feature</h2>
+            <p className="text-slate-400 max-w-lg mx-auto mb-6">
+              {entitlementReason === 'not_signed_in'
+                ? 'Open this QBank from the Active Transport hub while signed in to your Pro account to unlock UWorld-style advanced questions.'
+                : entitlement === 'error'
+                  ? "Couldn't reach Active Transport to check your membership. Check your connection and try again."
+                  : 'Upgrade to Active Transport Pro to unlock UWorld-style, multi-step advanced questions across every brick — plus AI questions from your own notes.'}
+            </p>
+            <div className="flex items-center justify-center gap-3 flex-wrap">
+              <a href="https://activetransport.app/pricing" target="_blank" rel="noopener"
+                 className="px-5 py-2.5 rounded-lg bg-amber-500 text-slate-900 font-semibold hover:bg-amber-400 transition-colors">
+                Upgrade to Pro →
+              </a>
+              <button onClick={() => onSetTier('standard')}
+                 className="px-5 py-2.5 rounded-lg border border-slate-600 text-slate-300 hover:bg-slate-700 transition-colors">
+                Back to Standard
+              </button>
+            </div>
+          </div>
+        )}
+
         {/* Stats summary */}
-        {stats.total > 0 && (<>
+        {!locked && stats.total > 0 && (<>
           <div className="grid grid-cols-3 gap-4 mb-8">
             <div className="bg-slate-800 rounded-xl border border-slate-700 p-4 text-center">
               <div className="text-2xl font-bold text-slate-200">{stats.total}</div>
@@ -126,7 +155,7 @@ export function HomePage({
               <div className="text-sm text-slate-400">Correct</div>
             </div>
             <div className="bg-slate-800 rounded-xl border border-slate-700 p-4 text-center">
-              <div className="text-2xl font-bold text-slate-200">{topics.totalQuestions - stats.total}</div>
+              <div className="text-2xl font-bold text-slate-200">{(topics?.totalQuestions ?? 0) - stats.total}</div>
               <div className="text-sm text-slate-400">Remaining</div>
             </div>
           </div>
@@ -144,6 +173,8 @@ export function HomePage({
           </div>
         </>)}
 
+        {/* Topic selection + quiz start — only when unlocked and topics loaded */}
+        {!locked && topics && (<>
         {/* Filter controls */}
         <div className="flex items-center justify-between mb-4">
           <h2 className="text-lg font-semibold text-slate-200">Select Topics</h2>
@@ -182,6 +213,7 @@ export function HomePage({
                 : 'Select topics to begin'}
           </button>
         </div>
+        </>)}
       </main>
     </div>
   );

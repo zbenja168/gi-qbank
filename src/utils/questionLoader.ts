@@ -1,4 +1,5 @@
 import { CategoryQuestions } from '../types/question';
+import { advancedCategory } from './entitlement';
 
 export type Tier = 'standard' | 'advanced';
 
@@ -14,6 +15,11 @@ export async function loadCategoryQuestions(
   categoryId: string,
   tier: Tier = 'standard',
 ): Promise<CategoryQuestions> {
+  // Advanced comes from the Pro-gated entitlement payload (already fetched when
+  // the tier was activated), not from a file in this public repo.
+  if (tier === 'advanced') {
+    return advancedCategory(categoryId);
+  }
   const key = `${tier}:${categoryId}`;
   if (cache.has(key)) {
     return cache.get(key)!;
