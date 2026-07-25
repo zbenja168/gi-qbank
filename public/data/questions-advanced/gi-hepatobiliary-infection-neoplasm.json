@@ -10,11 +10,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Immunity induced by prior hepatitis B vaccination"
+     "text": "Remote resolved hepatitis B virus infection"
     },
     {
      "label": "B",
-     "text": "Remote resolved hepatitis B virus infection"
+     "text": "Immunity induced by prior hepatitis B vaccination"
     },
     {
      "label": "C",
@@ -29,12 +29,12 @@
      "text": "Passive immunity from recent immune globulin"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Isolated anti-HBc (total) with negative HBsAg, anti-HBs, and DNA usually means remote resolved HBV whose anti-HBs has waned.",
     "whyCorrect": "Anti-HBc total positivity with a negative HBsAg, negative anti-HBs, negative IgM, and undetectable DNA most often reflects remote resolved infection in which protective anti-HBs has fallen below the detection threshold.",
     "whyWrongByChoice": {
-     "A": "Vaccination produces isolated anti-HBs positivity, not anti-HBc, since vaccine contains only surface antigen.",
+     "B": "Vaccination produces isolated anti-HBs positivity, not anti-HBc, since vaccine contains only surface antigen.",
      "C": "The acute window period is defined by a positive anti-HBc IgM, which is negative here.",
      "D": "Active chronic infection requires persistent HBsAg (and usually detectable DNA), both negative here.",
      "E": "Immune globulin gives passive anti-HBs, not anti-HBc, and there is no such exposure history."
@@ -49,33 +49,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Immune complex deposition in glomerular capillaries"
-    },
-    {
-     "label": "B",
      "text": "Antibodies directed against the basement membrane"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Foot-process effacement without immune deposits"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Nodular glomerulosclerosis from chronic hyperglycemia"
+    },
+    {
+     "label": "D",
+     "text": "Immune complex deposition in glomerular capillaries"
     },
     {
      "label": "E",
      "text": "Amyloid fibril deposition within the mesangium"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Chronic HCV drives mixed cryoglobulinemia → membranoproliferative GN from immune-complex deposition.",
     "whyCorrect": "The chronic bloodborne virus with cryoglobulins, low C4, purpura, and a nephritic sediment is hepatitis C with mixed cryoglobulinemia, which causes membranoproliferative glomerulonephritis via immune-complex deposition in glomerular capillaries.",
     "whyWrongByChoice": {
-     "B": "Anti–basement membrane antibodies cause Goodpasture disease with linear IgG, not cryoglobulinemic GN.",
-     "C": "Isolated foot-process effacement without deposits is minimal change disease, which is not immune-complex mediated.",
-     "D": "Nodular glomerulosclerosis (Kimmelstiel-Wilson) is diabetic nephropathy, not a cryoglobulinemic process.",
+     "A": "Anti–basement membrane antibodies cause Goodpasture disease with linear IgG, not cryoglobulinemic GN.",
+     "B": "Isolated foot-process effacement without deposits is minimal change disease, which is not immune-complex mediated.",
+     "C": "Nodular glomerulosclerosis (Kimmelstiel-Wilson) is diabetic nephropathy, not a cryoglobulinemic process.",
      "E": "Amyloid deposition produces nephrotic-range proteinuria with Congo-red positivity, not this nephritic cryoglobulinemic picture."
     }
    }
@@ -88,34 +88,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Begin maternal tenofovir now"
-    },
-    {
-     "label": "B",
      "text": "Schedule an elective cesarean delivery"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Give the mother immune globulin now"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Start maternal entecavir after delivery"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Administer a maternal hepatitis B booster"
+    },
+    {
+     "label": "E",
+     "text": "Begin maternal tenofovir now"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "High maternal HBV DNA: third-trimester tenofovir lowers viral load and further cuts perinatal transmission beyond newborn HBIG + vaccine.",
     "whyCorrect": "With a high maternal viral load, third-trimester tenofovir reduces HBV DNA and lowers residual perinatal transmission risk that persists even with newborn immunoprophylaxis.",
     "whyWrongByChoice": {
-     "B": "Cesarean delivery does not reliably reduce HBV transmission and is not indicated for viral load alone.",
-     "C": "Maternal immune globulin does not lower her viral load and is not part of transmission prevention here.",
-     "D": "Antiviral must lower the viral load before delivery; starting after delivery misses the transmission window, and entecavir is not preferred in pregnancy.",
-     "E": "A maternal booster does not reduce her circulating viral load or transmission risk."
+     "A": "Cesarean delivery does not reliably reduce HBV transmission and is not indicated for viral load alone.",
+     "B": "Maternal immune globulin does not lower her viral load and is not part of transmission prevention here.",
+     "C": "Antiviral must lower the viral load before delivery; starting after delivery misses the transmission window, and entecavir is not preferred in pregnancy.",
+     "D": "A maternal booster does not reduce her circulating viral load or transmission risk."
     }
    }
   },
@@ -127,11 +127,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Acyclovir"
+     "text": "Ceftriaxone"
     },
     {
      "label": "B",
-     "text": "Ceftriaxone"
+     "text": "Acyclovir"
     },
     {
      "label": "C",
@@ -146,12 +146,12 @@
      "text": "Fluconazole"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Fulminant hepatitis of unknown cause: give empiric acyclovir for possible HSV before PCR confirmation.",
     "whyCorrect": "HSV hepatitis is a rare but rapidly fatal cause of fulminant liver failure that must not be missed. Because it is treatable and lethal if delayed, empiric IV acyclovir is started before HSV PCR results return.",
     "whyWrongByChoice": {
-     "B": "Ceftriaxone treats bacterial infection, which is not the treatable lethal cause suggested by fulminant hepatitis of unclear origin.",
+     "A": "Ceftriaxone treats bacterial infection, which is not the treatable lethal cause suggested by fulminant hepatitis of unclear origin.",
      "C": "Corticosteroids treat autoimmune hepatitis and could worsen an undiagnosed viral infection.",
      "D": "Entecavir treats chronic hepatitis B, which is serologically excluded here.",
      "E": "Fluconazole treats candidiasis, not the HSV possibility that empiric therapy must cover."
@@ -166,33 +166,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Reactivation of previously controlled HBV infection"
-    },
-    {
-     "label": "B",
      "text": "Newly acquired acute hepatitis B infection"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Chemotherapy-induced direct hepatotoxic injury"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Autoimmune hepatitis triggered by the lymphoma"
+    },
+    {
+     "label": "D",
+     "text": "Reactivation of previously controlled HBV infection"
     },
     {
      "label": "E",
      "text": "Progression of underlying hepatocellular carcinoma"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "B-cell depletion removes immune control of latent HBV → reactivation with HBsAg seroreversion.",
     "whyCorrect": "Resolved HBV persists as covalently closed circular DNA in hepatocytes. Rituximab depletes B cells and removes immune control, allowing reactivation with reappearance of HBsAg and rising HBV DNA — the reason prophylaxis is given in anti-HBc–positive patients.",
     "whyWrongByChoice": {
-     "B": "A new acute infection is unlikely given his prior resolved-infection serologies; this is recrudescence of his own virus.",
-     "C": "Direct chemotherapy toxicity would not turn HBsAg and HBV DNA positive.",
-     "D": "Autoimmune hepatitis does not produce a positive HBsAg or rising HBV DNA.",
+     "A": "A new acute infection is unlikely given his prior resolved-infection serologies; this is recrudescence of his own virus.",
+     "B": "Direct chemotherapy toxicity would not turn HBsAg and HBV DNA positive.",
+     "C": "Autoimmune hepatitis does not produce a positive HBsAg or rising HBV DNA.",
      "E": "Hepatocellular carcinoma does not cause HBsAg seroreversion with a viral-load surge."
     }
    }
@@ -205,15 +205,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "Accelerated progression toward cirrhosis"
-    },
-    {
-     "label": "B",
      "text": "Spontaneous clearance of surface antigen"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Development of durable protective immunity"
+    },
+    {
+     "label": "C",
+     "text": "Accelerated progression toward cirrhosis"
     },
     {
      "label": "D",
@@ -224,13 +224,13 @@
      "text": "Conversion to an inactive carrier state"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "HDV superinfection of a chronic HBV carrier accelerates progression to severe disease and cirrhosis.",
     "whyCorrect": "Hepatitis D superinfection in an established chronic HBV carrier characteristically causes severe hepatitis with a high rate of chronic HDV and accelerated progression to cirrhosis.",
     "whyWrongByChoice": {
-     "B": "Surface antigen clearance signals resolution, the opposite of the aggressive course superinfection produces.",
-     "C": "HDV superinfection does not confer protective immunity; it worsens disease.",
+     "A": "Surface antigen clearance signals resolution, the opposite of the aggressive course superinfection produces.",
+     "B": "HDV superinfection does not confer protective immunity; it worsens disease.",
      "D": "Prompt resolution characterizes some acute coinfections, not superinfection of a chronic carrier.",
      "E": "Superinfection drives active severe disease rather than an inactive carrier state."
     }
@@ -322,11 +322,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Ganciclovir"
+     "text": "Acyclovir"
     },
     {
      "label": "B",
-     "text": "Acyclovir"
+     "text": "Ganciclovir"
     },
     {
      "label": "C",
@@ -341,12 +341,12 @@
      "text": "Metronidazole"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Owl's-eye intranuclear inclusions in a transplant recipient indicate CMV → treat with ganciclovir.",
     "whyCorrect": "The large 'owl's-eye' intranuclear inclusions in an immunosuppressed transplant recipient indicate cytomegalovirus, which is treated with ganciclovir (or valganciclovir).",
     "whyWrongByChoice": {
-     "B": "Acyclovir has poor activity against CMV; it treats HSV/VZV, which do not give owl's-eye inclusions in this setting.",
+     "A": "Acyclovir has poor activity against CMV; it treats HSV/VZV, which do not give owl's-eye inclusions in this setting.",
      "C": "Praziquantel treats trematodes, not a viral inclusion-body hepatitis.",
      "D": "Entecavir treats hepatitis B, which does not produce owl's-eye intranuclear inclusions.",
      "E": "Metronidazole treats amebic infection, not CMV."
@@ -361,15 +361,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "Fulminant hepatic failure"
-    },
-    {
-     "label": "B",
      "text": "Chronic active hepatitis"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Hepatocellular carcinoma"
+    },
+    {
+     "label": "C",
+     "text": "Fulminant hepatic failure"
     },
     {
      "label": "D",
@@ -380,13 +380,13 @@
      "text": "Biliary tract carcinoma"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Hepatitis E carries a markedly increased risk of fulminant hepatic failure specifically in pregnancy.",
     "whyCorrect": "Hepatitis E is usually acute and self-limited, but in pregnant women it carries a markedly increased risk of fulminant (acute) hepatic failure.",
     "whyWrongByChoice": {
-     "B": "Chronic hepatitis from HEV occurs mainly in immunocompromised hosts, not in this acute pregnancy setting.",
-     "C": "Hepatocellular carcinoma follows years of chronic HBV/HCV or cirrhosis, not acute HEV.",
+     "A": "Chronic hepatitis from HEV occurs mainly in immunocompromised hosts, not in this acute pregnancy setting.",
+     "B": "Hepatocellular carcinoma follows years of chronic HBV/HCV or cirrhosis, not acute HEV.",
      "D": "Progressive cirrhosis develops over years of chronic injury, not from acute self-limited HEV.",
      "E": "Biliary carcinoma is linked to chronic biliary fluke infection, not to acute hepatitis E."
     }
@@ -400,11 +400,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "No further intervention is needed"
+     "text": "Immune globulin plus revaccination"
     },
     {
      "label": "B",
-     "text": "Immune globulin plus revaccination"
+     "text": "No further intervention is needed"
     },
     {
      "label": "C",
@@ -419,12 +419,12 @@
      "text": "A 4-week course of tenofovir"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "A documented anti-HBs ≥10 mIU/mL means she is an immune vaccine responder — no post-exposure treatment.",
     "whyCorrect": "A prior anti-HBs titer ≥10 mIU/mL defines an immune responder who is protected, so no immune globulin or additional vaccination is needed after HBV exposure.",
     "whyWrongByChoice": {
-     "B": "Immune globulin plus revaccination is for documented non-responders, not a proven responder.",
+     "A": "Immune globulin plus revaccination is for documented non-responders, not a proven responder.",
      "C": "Immune globulin adds nothing when protective anti-HBs is already present.",
      "D": "A repeat series is unnecessary in someone with a documented protective titer.",
      "E": "Antiviral prophylaxis is used for HIV exposures, not for HBV in an immune responder."
@@ -439,33 +439,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Hepatitis A, B, and C serologic testing"
-    },
-    {
-     "label": "B",
      "text": "Endoscopic retrograde cholangiopancreatography"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Right upper quadrant abdominal ultrasonography"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Serum antimitochondrial antibody measurement"
+    },
+    {
+     "label": "D",
+     "text": "Hepatitis A, B, and C serologic testing"
     },
     {
      "label": "E",
      "text": "Serum ceruloplasmin and 24-hour urine copper"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "A strongly hepatocellular pattern (very high transaminases, normal ALP) points to viral/autoimmune hepatitis workup, not biliary imaging.",
     "whyCorrect": "The markedly elevated transaminases with a normal alkaline phosphatase indicate a hepatocellular rather than cholestatic process, so viral hepatitis serologies (the most common cause) are the appropriate first workup.",
     "whyWrongByChoice": {
-     "B": "ERCP evaluates biliary obstruction, which the normal alkaline phosphatase argues against.",
-     "C": "Ultrasound targets a cholestatic/obstructive picture, not this hepatocellular pattern.",
-     "D": "Antimitochondrial antibody screens for primary biliary cholangitis, a cholestatic disease with a high ALP.",
+     "A": "ERCP evaluates biliary obstruction, which the normal alkaline phosphatase argues against.",
+     "B": "Ultrasound targets a cholestatic/obstructive picture, not this hepatocellular pattern.",
+     "C": "Antimitochondrial antibody screens for primary biliary cholangitis, a cholestatic disease with a high ALP.",
      "E": "Ceruloplasmin/urine copper screen for Wilson disease, a less likely first consideration than viral hepatitis here."
     }
    }
@@ -478,15 +478,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "Prednisone with azathioprine"
-    },
-    {
-     "label": "B",
      "text": "Ledipasvir with sofosbuvir"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Tenofovir with entecavir"
+    },
+    {
+     "label": "C",
+     "text": "Prednisone with azathioprine"
     },
     {
      "label": "D",
@@ -497,13 +497,13 @@
      "text": "Rifaximin with lactulose"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Negative viral serologies with high IgG, ANA/ASMA, and plasma-cell interface hepatitis define autoimmune hepatitis → prednisone + azathioprine.",
     "whyCorrect": "The picture is autoimmune hepatitis, treated with immunosuppression: prednisone to control inflammation plus azathioprine as a steroid-sparing agent, which improves long-term survival.",
     "whyWrongByChoice": {
-     "B": "Ledipasvir-sofosbuvir treats hepatitis C, which is serologically negative here.",
-     "C": "Tenofovir and entecavir treat hepatitis B, also excluded by negative serologies.",
+     "A": "Ledipasvir-sofosbuvir treats hepatitis C, which is serologically negative here.",
+     "B": "Tenofovir and entecavir treat hepatitis B, also excluded by negative serologies.",
      "D": "Ursodiol/cholestyramine target cholestatic disease (e.g., PBC), not autoimmune hepatitis.",
      "E": "Rifaximin/lactulose treat hepatic encephalopathy, not the underlying autoimmune inflammation."
     }
@@ -517,34 +517,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "She is cured but can be reinfected later"
-    },
-    {
-     "label": "B",
      "text": "She has active infection despite treatment"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "She now has lifelong protective immunity"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "She requires an additional treatment course"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "She has developed a chronic HCV infection"
+    },
+    {
+     "label": "E",
+     "text": "She is cured but can be reinfected later"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Undetectable HCV RNA after DAAs = cure; anti-HCV IgG persists but is not protective, so reinfection is possible.",
     "whyCorrect": "An undetectable HCV RNA after therapy indicates cure (sustained virologic response). Anti-HCV IgG persists as a marker of past infection but does not confer immunity, so reinfection can occur with new exposures.",
     "whyWrongByChoice": {
-     "B": "Undetectable RNA indicates cleared virus; the persistent antibody reflects past, not active, infection.",
-     "C": "Unlike anti-HBs, anti-HCV antibodies are not protective.",
-     "D": "A persistent antibody after cure is expected and does not indicate a need to re-treat.",
-     "E": "Chronic infection would show detectable HCV RNA, which is absent here."
+     "A": "Undetectable RNA indicates cleared virus; the persistent antibody reflects past, not active, infection.",
+     "B": "Unlike anti-HBs, anti-HCV antibodies are not protective.",
+     "C": "A persistent antibody after cure is expected and does not indicate a need to re-treat.",
+     "D": "Chronic infection would show detectable HCV RNA, which is absent here."
     }
    }
   },
@@ -556,11 +556,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Paromomycin"
+     "text": "Praziquantel"
     },
     {
      "label": "B",
-     "text": "Praziquantel"
+     "text": "Paromomycin"
     },
     {
      "label": "C",
@@ -575,12 +575,12 @@
      "text": "Albendazole"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "After metronidazole clears invasive amebae, a luminal agent (paromomycin) eradicates intestinal cysts and prevents relapse.",
     "whyCorrect": "Metronidazole kills invasive trophozoites in the liver but not the intestinal luminal cysts that cause relapse. A luminal agent such as paromomycin is added to eradicate colonization.",
     "whyWrongByChoice": {
-     "B": "Praziquantel treats trematodes, not Entamoeba.",
+     "A": "Praziquantel treats trematodes, not Entamoeba.",
      "C": "Fluconazole treats Candida abscesses, not amebiasis.",
      "D": "Ceftriaxone covers bacteria, not the intestinal amebic cysts driving relapse.",
      "E": "Albendazole treats echinococcal and some nematode disease, not amebic colonization."
@@ -634,11 +634,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Cholangiocarcinoma"
+     "text": "Hepatocellular carcinoma"
     },
     {
      "label": "B",
-     "text": "Hepatocellular carcinoma"
+     "text": "Cholangiocarcinoma"
     },
     {
      "label": "C",
@@ -653,12 +653,12 @@
      "text": "Colorectal carcinoma"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Clonorchis (raw freshwater fish) chronically inflames bile ducts, raising cholangiocarcinoma risk.",
     "whyCorrect": "The exposure and biliary findings indicate Clonorchis sinensis, which inhabits the biliary tree and causes chronic ductal inflammation predisposing to cholangiocarcinoma.",
     "whyWrongByChoice": {
-     "B": "Hepatocellular carcinoma follows chronic viral hepatitis and cirrhosis, not biliary fluke infection.",
+     "A": "Hepatocellular carcinoma follows chronic viral hepatitis and cirrhosis, not biliary fluke infection.",
      "C": "Gallbladder carcinoma is linked to chronic cholelithiasis, not to this ductal fluke.",
      "D": "Pancreatic carcinoma is not the malignancy associated with liver flukes.",
      "E": "Colorectal carcinoma is unrelated to biliary fluke infection."
@@ -673,15 +673,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "Fasciola hepatica"
-    },
-    {
-     "label": "B",
      "text": "Clonorchis sinensis"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Schistosoma mansoni"
+    },
+    {
+     "label": "C",
+     "text": "Fasciola hepatica"
     },
     {
      "label": "D",
@@ -692,13 +692,13 @@
      "text": "Echinococcus granulosus"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Watercress ingestion with eosinophilia and hepatic migratory tracks indicates Fasciola hepatica.",
     "whyCorrect": "Fasciola hepatica is acquired from aquatic vegetation such as watercress; larvae migrate through the liver parenchyma toward the biliary tree, producing eosinophilia and migratory tracks.",
     "whyWrongByChoice": {
-     "B": "Clonorchis is acquired from raw freshwater fish, not watercress.",
-     "C": "Schistosoma mansoni is acquired by freshwater skin penetration and causes periportal fibrosis, not watercress-borne biliary disease.",
+     "A": "Clonorchis is acquired from raw freshwater fish, not watercress.",
+     "B": "Schistosoma mansoni is acquired by freshwater skin penetration and causes periportal fibrosis, not watercress-borne biliary disease.",
      "D": "Entamoeba causes a solitary abscess from fecal-oral spread, not migratory tracks with eosinophilia.",
      "E": "Echinococcus is acquired from dog tapeworm eggs and forms hydatid cysts, not migratory tracks."
     }
@@ -712,33 +712,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Candida species"
-    },
-    {
-     "label": "B",
      "text": "Entamoeba histolytica"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Clonorchis sinensis"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Klebsiella pneumoniae"
+    },
+    {
+     "label": "D",
+     "text": "Candida species"
     },
     {
      "label": "E",
      "text": "Fasciola hepatica"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Multiple hepatosplenic microabscesses in a recovering neutropenic patient with antibiotic-refractory fever indicate hepatosplenic candidiasis.",
     "whyCorrect": "Candida causes multiple small hepatic and splenic microabscesses, classically becoming apparent as neutrophils recover in a patient whose fevers persisted despite antibacterial therapy.",
     "whyWrongByChoice": {
-     "B": "Entamoeba produces a solitary right-lobe abscess in a traveler, not scattered microabscesses in neutropenia.",
-     "C": "Clonorchis infects the biliary tree from raw fish and does not cause hepatosplenic microabscesses.",
-     "D": "Klebsiella pyogenic abscesses are usually few and larger and arise from biliary or portal sources.",
+     "A": "Entamoeba produces a solitary right-lobe abscess in a traveler, not scattered microabscesses in neutropenia.",
+     "B": "Clonorchis infects the biliary tree from raw fish and does not cause hepatosplenic microabscesses.",
+     "C": "Klebsiella pyogenic abscesses are usually few and larger and arise from biliary or portal sources.",
      "E": "Fasciola is a biliary fluke from watercress, not a cause of hepatosplenic microabscesses."
     }
    }
@@ -790,34 +790,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Sterile odorless brown fluid"
-    },
-    {
-     "label": "B",
      "text": "Foul purulent culturable pus"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Clear fluid with malignant cells"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Bile-stained fluid with ova"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Caseous acid-fast material"
+    },
+    {
+     "label": "E",
+     "text": "Sterile odorless brown fluid"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Amebic aspirate is sterile, odorless 'anchovy-paste' material, unlike the culturable pus of a pyogenic abscess.",
     "whyCorrect": "Amebic liver abscess classically yields sterile, odorless reddish-brown 'anchovy-paste' fluid (necrotic hepatocytes), distinguishing it from the foul, culturable pus of a pyogenic abscess.",
     "whyWrongByChoice": {
-     "B": "Foul culturable pus describes the pyogenic abscess being distinguished from.",
-     "C": "Clear fluid with malignant cells suggests a cystic neoplasm, not an amebic abscess.",
-     "D": "Bile-stained fluid with ova points to biliary fluke disease, not amebiasis.",
-     "E": "Caseous acid-fast material indicates tuberculosis, not amebiasis."
+     "A": "Foul culturable pus describes the pyogenic abscess being distinguished from.",
+     "B": "Clear fluid with malignant cells suggests a cystic neoplasm, not an amebic abscess.",
+     "C": "Bile-stained fluid with ova points to biliary fluke disease, not amebiasis.",
+     "D": "Caseous acid-fast material indicates tuberculosis, not amebiasis."
     }
    }
   }
