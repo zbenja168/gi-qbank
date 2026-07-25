@@ -38,6 +38,46 @@
      "id": "gi-congenital-disorders",
      "name": "Congenital Disorders of the GI Tract",
      "questionCount": 20
+    },
+    {
+     "id": "digestive-motility",
+     "name": "Digestive Motility",
+     "questionCount": 20
+    },
+    {
+     "id": "neural-control-of-the-gi-system-enteric-nervous-system",
+     "name": "Neural Control of the GI System (Enteric Nervous System)",
+     "questionCount": 20
+    },
+    {
+     "id": "gi-hormones-the-intestinal-phase-of-digestion",
+     "name": "GI Hormones & the Intestinal Phase of Digestion",
+     "questionCount": 20
+    },
+    {
+     "id": "luminal-fat-digestion-and-absorption",
+     "name": "Luminal Fat Digestion and Absorption",
+     "questionCount": 20
+    },
+    {
+     "id": "intestinal-nutrient-transporter-mechanisms",
+     "name": "Intestinal Nutrient Transporter Mechanisms",
+     "questionCount": 20
+    },
+    {
+     "id": "normal-gi-flora",
+     "name": "Normal GI Flora",
+     "questionCount": 20
+    },
+    {
+     "id": "gi-mucosal-immunity-and-immune-failures",
+     "name": "GI Mucosal Immunity and Immune Failures",
+     "questionCount": 20
+    },
+    {
+     "id": "antibiotic-spectrum-for-gi-infections",
+     "name": "Antibiotic Spectrum for GI Infections",
+     "questionCount": 20
     }
    ]
   },
@@ -73,6 +113,41 @@
     {
      "id": "gastric-neoplasms",
      "name": "Gastric Neoplasms",
+     "questionCount": 20
+    },
+    {
+     "id": "gastric-secretion-and-the-parietal-cell",
+     "name": "Gastric Secretion and the Parietal Cell",
+     "questionCount": 20
+    },
+    {
+     "id": "gastrointestinal-motility-disorders",
+     "name": "Gastrointestinal Motility Disorders",
+     "questionCount": 20
+    },
+    {
+     "id": "laxatives-and-antidiarrheals",
+     "name": "Laxatives and Antidiarrheals",
+     "questionCount": 20
+    },
+    {
+     "id": "bacterial-infectious-diarrhea",
+     "name": "Bacterial Infectious Diarrhea",
+     "questionCount": 20
+    },
+    {
+     "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes",
+     "name": "Infectious Diarrhea: Invasive Bacterial and Viral Causes",
+     "questionCount": 20
+    },
+    {
+     "id": "inflammatory-bowel-disease",
+     "name": "Inflammatory Bowel Disease",
+     "questionCount": 20
+    },
+    {
+     "id": "pharmacologic-agents-for-inflammatory-bowel-disease",
+     "name": "Pharmacologic Agents for Inflammatory Bowel Disease",
      "questionCount": 20
     }
    ]
@@ -172,6 +247,11 @@
      "id": "hepatobiliary-neoplasms",
      "name": "Hepatic and Biliary Neoplasms",
      "questionCount": 20
+    },
+    {
+     "id": "key-gi-parasites-and-amoebas",
+     "name": "Key GI Parasites and Amoebas",
+     "questionCount": 20
     }
    ]
   },
@@ -193,9 +273,19 @@
      "id": "pancreatic-carcinoma",
      "name": "Pancreatic Carcinoma",
      "questionCount": 20
+    },
+    {
+     "id": "exocrine-functions-of-the-gi-system",
+     "name": "Exocrine Functions of the GI System",
+     "questionCount": 20
+    },
+    {
+     "id": "traumatic-and-mechanical-gi-injuries",
+     "name": "Traumatic and Mechanical GI Injuries",
+     "questionCount": 20
     }
    ]
   }
  ],
- "totalQuestions": 642
+ "totalQuestions": 1002
 }
