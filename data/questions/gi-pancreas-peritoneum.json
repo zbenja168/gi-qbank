@@ -2762,26 +2762,26 @@
     },
     {
      "label": "C",
-     "text": "Villi"
-    },
-    {
-     "label": "D",
      "text": "Crypts of Lieberkühn"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Brush border enzymes"
+    },
+    {
+     "label": "E",
+     "text": "Villi"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Villi are the finger-like projections, each with a capillary network and central lacteal, that add roughly a 10-fold amplification of small intestinal surface area.",
     "whyCorrect": "The brick states that villi project from the plicae and add another ~10-fold amplification, and that each villus core contains a capillary network and a central lacteal that drains absorbed lipids into the lymphatics.",
     "whyWrongByChoice": {
      "A": "Plicae circulares are permanent circular folds (most prominent in the jejunum) that add only about a 3-fold increase, not the finger-like projections described.",
      "B": "Microvilli form the brush border on the apical enterocyte surface and add ~20-fold amplification; they are not visible finger-like mucosal projections with lacteals.",
-     "D": "Crypts of Lieberkühn house progenitor cells for epithelial renewal, not the absorptive projections described.",
-     "E": "Brush border enzymes are membrane proteins that complete terminal digestion; they are not a structural surface-amplifying projection."
+     "C": "Crypts of Lieberkühn house progenitor cells for epithelial renewal, not the absorptive projections described.",
+     "D": "Brush border enzymes are membrane proteins that complete terminal digestion; they are not a structural surface-amplifying projection."
     }
    }
   },
@@ -2797,11 +2797,11 @@
     },
     {
      "label": "B",
-     "text": "Proelastase and procolipase"
+     "text": "Amylase and lipase"
     },
     {
      "label": "C",
-     "text": "Amylase and lipase"
+     "text": "Proelastase and procolipase"
     },
     {
      "label": "D",
@@ -2812,13 +2812,13 @@
      "text": "Prophospholipase A2 and proelastase"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Pancreatic amylase and lipase are secreted in active form and do not require luminal activation, unlike the proteases secreted as zymogens.",
     "whyCorrect": "The brick explicitly states that pancreatic lipase and amylase are secreted in active form and do not require luminal activation, whereas proteases are secreted as inactive zymogens.",
     "whyWrongByChoice": {
      "A": "Trypsinogen and chymotrypsinogen are inactive zymogens requiring activation in the duodenum.",
-     "B": "Proelastase and procolipase are inactive precursors activated by trypsin in the lumen.",
+     "C": "Proelastase and procolipase are inactive precursors activated by trypsin in the lumen.",
      "D": "Procarboxypeptidases A and B are zymogens requiring trypsin-mediated activation.",
      "E": "Prophospholipase A2 and proelastase are both inactive precursors, not active enzymes."
     }
@@ -2832,31 +2832,31 @@
    "choices": [
     {
      "label": "A",
-     "text": "HMG-CoA reductase"
-    },
-    {
-     "label": "B",
      "text": "Cholesterol 7α-hydroxylase"
     },
     {
+     "label": "B",
+     "text": "Hepatic HMG-CoA reductase"
+    },
+    {
      "label": "C",
-     "text": "Carbonic anhydrase"
+     "text": "Ductal carbonic anhydrase"
     },
     {
      "label": "D",
-     "text": "Enteropeptidase"
+     "text": "Duodenal enteropeptidase"
     },
     {
      "label": "E",
-     "text": "Pancreatic lipase"
+     "text": "Pancreatic triglyceride lipase"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Cholesterol 7α-hydroxylase (CYP7A1) is the rate-limiting enzyme of de novo bile acid synthesis from cholesterol in hepatocytes.",
     "whyCorrect": "The brick states that primary bile acids are synthesized de novo in hepatocytes from cholesterol via a multi-step pathway in which the rate-limiting enzyme is cholesterol 7α-hydroxylase (CYP7A1).",
     "whyWrongByChoice": {
-     "A": "HMG-CoA reductase is the rate-limiting enzyme of cholesterol synthesis, not of bile acid synthesis from cholesterol.",
+     "B": "HMG-CoA reductase is the rate-limiting enzyme of cholesterol synthesis, not of bile acid synthesis from cholesterol.",
      "C": "Carbonic anhydrase generates bicarbonate in pancreatic duct cells and has no role in bile acid synthesis.",
      "D": "Enteropeptidase activates trypsinogen in the duodenum and is unrelated to bile acid synthesis.",
      "E": "Pancreatic lipase hydrolyzes dietary triglycerides and does not synthesize bile acids."
@@ -2879,25 +2879,25 @@
     },
     {
      "label": "C",
-     "text": "Enteropeptidase"
+     "text": "Carboxypeptidase A"
     },
     {
      "label": "D",
-     "text": "Carboxypeptidase A"
+     "text": "Enteropeptidase"
     },
     {
      "label": "E",
      "text": "Amylase"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Enteropeptidase (enterokinase), a duodenal brush border enzyme, cleaves trypsinogen to generate active trypsin and initiate the cascade.",
     "whyCorrect": "The brick states the cascade is initiated by enteropeptidase (historically enterokinase), a brush border enzyme of duodenal enterocytes that cleaves a hexapeptide from trypsinogen to generate active trypsin.",
     "whyWrongByChoice": {
      "A": "Chymotrypsin is itself a downstream product of trypsin activation and does not initiate the cascade.",
      "B": "Colipase is a lipase cofactor, not an activator of trypsinogen.",
-     "D": "Carboxypeptidase A is a zymogen product of the cascade, not its initiator.",
+     "C": "Carboxypeptidase A is a zymogen product of the cascade, not its initiator.",
      "E": "Amylase digests starch and plays no role in zymogen activation."
     }
    }
@@ -2961,14 +2961,14 @@
     },
     {
      "label": "D",
-     "text": "cAMP-activated chloride channel"
+     "text": "Ligand-gated sodium channel"
     },
     {
      "label": "E",
-     "text": "Ligand-gated sodium channel"
+     "text": "cAMP-gated chloride channel"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "CFTR on the apical membrane of pancreatic duct cells is a cAMP-activated chloride channel central to bicarbonate secretion.",
     "whyCorrect": "The brick identifies the key transporter as the cystic fibrosis transmembrane conductance regulator (CFTR), a cAMP-activated chloride channel located on the apical membrane of duct cells.",
@@ -2976,7 +2976,7 @@
      "A": "A sodium-glucose cotransporter (SGLT) mediates intestinal glucose uptake, not ductal chloride secretion.",
      "B": "ATP-gated potassium channels regulate insulin release in beta cells, not ductal bicarbonate output.",
      "C": "Voltage-gated calcium channels mediate depolarization-triggered signaling, not CFTR function.",
-     "E": "CFTR is regulated by cAMP, not by direct ligand gating of a sodium channel."
+     "D": "CFTR is regulated by cAMP, not by direct ligand gating of a sodium channel."
     }
    }
   },
@@ -2992,30 +2992,30 @@
     },
     {
      "label": "B",
-     "text": "Bicarbonate-rich fluid from duct cells"
-    },
-    {
-     "label": "C",
      "text": "Hydrochloric acid from parietal cells"
     },
     {
+     "label": "C",
+     "text": "Protective mucus from goblet cells"
+    },
+    {
      "label": "D",
-     "text": "Mucus from goblet cells"
+     "text": "Intrinsic factor from parietal cells"
     },
     {
      "label": "E",
-     "text": "Intrinsic factor from parietal cells"
+     "text": "Bicarbonate fluid from duct cells"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Secretin, released from duodenal S cells in response to luminal acid, primarily stimulates duct cells to secrete bicarbonate-rich fluid.",
     "whyCorrect": "The brick states secretin is released from S cells in response to luminal acid and primarily stimulates duct cells to secrete bicarbonate-rich fluid.",
     "whyWrongByChoice": {
      "A": "Enzyme secretion from acinar cells is primarily driven by CCK, not secretin.",
-     "C": "Secretin does not stimulate parietal cell acid secretion; it opposes gastric acidity by promoting neutralization.",
-     "D": "Goblet cell mucus secretion is not the primary secretin-driven response described.",
-     "E": "Intrinsic factor secretion is unrelated to secretin signaling."
+     "B": "Secretin does not stimulate parietal cell acid secretion; it opposes gastric acidity by promoting neutralization.",
+     "C": "Goblet cell mucus secretion is not the primary secretin-driven response described.",
+     "D": "Intrinsic factor secretion is unrelated to secretin signaling."
     }
    }
   },
@@ -3027,34 +3027,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Bicarbonate secretion by duct cells"
+     "text": "Enzyme secretion by acinar cells"
     },
     {
      "label": "B",
-     "text": "Acid secretion by parietal cells"
+     "text": "Bicarbonate secretion by duct cells"
     },
     {
      "label": "C",
-     "text": "Mucus secretion by goblet cells"
+     "text": "Acid secretion by parietal cells"
     },
     {
      "label": "D",
-     "text": "Intrinsic factor secretion"
+     "text": "Mucus secretion by goblet cells"
     },
     {
      "label": "E",
-     "text": "Enzyme secretion by acinar cells"
+     "text": "Intrinsic factor secretion"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "CCK, released from duodenal I cells in response to luminal fats and proteins, primarily stimulates acinar cells to secrete digestive enzymes.",
     "whyCorrect": "The brick states CCK is released from I cells in response to luminal fats and proteins and primarily stimulates acinar cells to secrete digestive enzymes.",
     "whyWrongByChoice": {
-     "A": "Bicarbonate secretion by duct cells is primarily driven by secretin, not CCK.",
-     "B": "Parietal cell acid secretion is not the primary CCK-driven pancreatic response.",
-     "C": "Goblet cell mucus secretion is not the described CCK effect.",
-     "D": "Intrinsic factor secretion is unrelated to CCK signaling."
+     "B": "Bicarbonate secretion by duct cells is primarily driven by secretin, not CCK.",
+     "C": "Parietal cell acid secretion is not the primary CCK-driven pancreatic response.",
+     "D": "Goblet cell mucus secretion is not the described CCK effect.",
+     "E": "Intrinsic factor secretion is unrelated to CCK signaling."
     }
    }
   },
@@ -3074,25 +3074,25 @@
     },
     {
      "label": "C",
-     "text": "Lithocholic acid and cholic acid"
+     "text": "Cholic acid and chenodeoxycholic acid"
     },
     {
      "label": "D",
-     "text": "Cholic acid and chenodeoxycholic acid"
+     "text": "Lithocholic acid and cholic acid"
     },
     {
      "label": "E",
      "text": "Deoxycholic acid and chenodeoxycholic acid"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Cholic acid and chenodeoxycholic acid are the primary bile acids synthesized de novo in hepatocytes.",
     "whyCorrect": "The brick states the primary bile acids are cholic acid and chenodeoxycholic acid, synthesized de novo in hepatocytes from cholesterol.",
     "whyWrongByChoice": {
      "A": "Deoxycholic and lithocholic acid are secondary bile acids produced by colonic bacteria, not primary.",
      "B": "Ursodeoxycholic acid is not one of the two primary bile acids described.",
-     "C": "Lithocholic acid is a secondary bile acid, so this pair is incorrect.",
+     "D": "Lithocholic acid is a secondary bile acid, so this pair is incorrect.",
      "E": "Deoxycholic acid is a secondary bile acid, so this pair is incorrect."
     }
    }
@@ -3109,29 +3109,29 @@
     },
     {
      "label": "B",
-     "text": "Deoxycholic and lithocholic acid"
-    },
-    {
-     "label": "C",
      "text": "Glycocholic and taurocholic acid"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Ursodeoxycholic and cholic acid"
+    },
+    {
+     "label": "D",
+     "text": "Deoxycholic and lithocholic acid"
     },
     {
      "label": "E",
      "text": "Cholic and deoxycholic acid"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Deoxycholic acid and lithocholic acid are the secondary bile acids formed by colonic bacterial modification of primary bile acids.",
     "whyCorrect": "The brick states that colonic bacteria deconjugate and dehydroxylate primary bile acids to produce the secondary bile acids deoxycholic acid and lithocholic acid.",
     "whyWrongByChoice": {
      "A": "Cholic and chenodeoxycholic acid are the primary bile acids, not secondary.",
-     "C": "Glycocholic and taurocholic acid are conjugated forms of primary bile acids, not bacterial secondary products.",
-     "D": "This pair includes cholic acid (a primary bile acid), so it is incorrect.",
+     "B": "Glycocholic and taurocholic acid are conjugated forms of primary bile acids, not bacterial secondary products.",
+     "C": "This pair includes cholic acid (a primary bile acid), so it is incorrect.",
      "E": "Cholic acid is a primary bile acid, so this pair is incorrect."
     }
    }
@@ -3144,34 +3144,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Amphipathic structure"
-    },
-    {
-     "label": "B",
      "text": "Purely hydrophobic structure"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Net positive charge"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Steroid backbone alone"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "High molecular weight"
+    },
+    {
+     "label": "E",
+     "text": "Amphipathic structure"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "The amphipathic structure of bile salts (one hydrophilic face and one hydrophobic face) lets them act as biological detergents that emulsify fat.",
     "whyCorrect": "The brick states bile salts solve the fat-solubility problem through their amphipathic molecular structure, acting as biological detergents that emulsify fat and enable efficient lipolysis.",
     "whyWrongByChoice": {
-     "B": "A purely hydrophobic molecule could not orient at oil-water interfaces or disperse into the aqueous phase.",
-     "C": "Emulsification depends on amphipathicity, not a net positive charge; bile salts carry a charged side chain but the key is the dual-faced structure.",
-     "D": "The steroid backbone alone does not confer detergent activity without the asymmetric hydrophilic/hydrophobic faces.",
-     "E": "Molecular size is not the property responsible for emulsification."
+     "A": "A purely hydrophobic molecule could not orient at oil-water interfaces or disperse into the aqueous phase.",
+     "B": "Emulsification depends on amphipathicity, not a net positive charge; bile salts carry a charged side chain but the key is the dual-faced structure.",
+     "C": "The steroid backbone alone does not confer detergent activity without the asymmetric hydrophilic/hydrophobic faces.",
+     "D": "Molecular size is not the property responsible for emulsification."
     }
    }
   },
@@ -3191,26 +3191,26 @@
     },
     {
      "label": "C",
-     "text": "Promotes their synthesis from cholesterol"
+     "text": "Keeps them ionized in the gut lumen"
     },
     {
      "label": "D",
-     "text": "Directly activates pancreatic colipase"
+     "text": "Promotes their synthesis from cholesterol"
     },
     {
      "label": "E",
-     "text": "Keeps them ionized within the intestinal lumen"
+     "text": "Directly activates pancreatic colipase"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Conjugation lowers the pKa so bile salts stay ionized (membrane-impermeant) across intestinal pH, preventing premature passive reabsorption.",
     "whyCorrect": "The brick states conjugation lowers the pKa, ensuring bile salts remain ionized and membrane-impermeant across the intestinal pH range, preventing passive reabsorption in the proximal intestine.",
     "whyWrongByChoice": {
      "A": "Conjugation reduces, rather than enhances, passive proximal absorption by keeping bile salts ionized.",
      "B": "Secondary bile acids are formed by colonic bacteria, not by hepatic conjugation.",
-     "C": "Conjugation occurs after synthesis and does not drive synthesis from cholesterol.",
-     "D": "Conjugation does not directly activate colipase, which is activated from procolipase by trypsin."
+     "D": "Conjugation occurs after synthesis and does not drive synthesis from cholesterol.",
+     "E": "Conjugation does not directly activate colipase, which is activated from procolipase by trypsin."
     }
    }
   },
@@ -3261,33 +3261,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Celiac disease"
-    },
-    {
-     "label": "B",
      "text": "Crohn's disease"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Cystic fibrosis"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Zollinger-Ellison syndrome"
+    },
+    {
+     "label": "D",
+     "text": "Celiac disease"
     },
     {
      "label": "E",
      "text": "Acute pancreatitis"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Immune-mediated enterocyte destruction producing villous atrophy with crypt hyperplasia is the prototype of celiac disease.",
     "whyCorrect": "The brick names celiac disease as the prototype of immune-mediated enterocyte destruction producing villous atrophy with compensatory crypt hyperplasia and reduced absorptive surface area.",
     "whyWrongByChoice": {
-     "B": "Crohn's disease impairs absorption through transmural inflammation and ulceration, not the classic villous atrophy with crypt hyperplasia described.",
-     "C": "Cystic fibrosis causes pancreatic exocrine insufficiency via ductal obstruction, not immune villous atrophy.",
-     "D": "Zollinger-Ellison syndrome produces refractory ulcers and acid-mediated steatorrhea, not villous atrophy from immune destruction.",
+     "A": "Crohn's disease impairs absorption through transmural inflammation and ulceration, not the classic villous atrophy with crypt hyperplasia described.",
+     "B": "Cystic fibrosis causes pancreatic exocrine insufficiency via ductal obstruction, not immune villous atrophy.",
+     "C": "Zollinger-Ellison syndrome produces refractory ulcers and acid-mediated steatorrhea, not villous atrophy from immune destruction.",
      "E": "Acute pancreatitis is intrapancreatic autodigestion and does not cause the described duodenal histology."
     }
    }
@@ -3300,11 +3300,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Acute pancreatitis"
+     "text": "Acute cholecystitis"
     },
     {
      "label": "B",
-     "text": "Acute cholecystitis"
+     "text": "Acute pancreatitis"
     },
     {
      "label": "C",
@@ -3319,12 +3319,12 @@
      "text": "Cystic fibrosis"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Severe epigastric pain radiating to the back with elevated serum lipase is the classic presentation of acute pancreatitis.",
     "whyCorrect": "The brick describes the clinical presentation of acute pancreatitis as severe epigastric pain radiating to the back with elevated serum lipase and amylase reflecting damaged acinar cells.",
     "whyWrongByChoice": {
-     "B": "Acute cholecystitis causes right-upper-quadrant pain and does not characteristically elevate lipase.",
+     "A": "Acute cholecystitis causes right-upper-quadrant pain and does not characteristically elevate lipase.",
      "C": "Celiac disease presents with malabsorption, not acute epigastric pain with elevated lipase.",
      "D": "Peptic ulcer disease causes epigastric pain but not the marked lipase elevation described.",
      "E": "Cystic fibrosis causes chronic exocrine insufficiency, not this acute pain-and-lipase presentation."
@@ -3343,30 +3343,30 @@
     },
     {
      "label": "B",
-     "text": "Gastrin"
+     "text": "Lipase"
     },
     {
      "label": "C",
-     "text": "Alkaline phosphatase"
+     "text": "Gastrin"
     },
     {
      "label": "D",
-     "text": "Trypsin inhibitor"
+     "text": "Alkaline phosphatase"
     },
     {
      "label": "E",
-     "text": "Lipase"
+     "text": "Trypsin inhibitor"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Serum lipase is more specific than amylase for acute pancreatitis.",
     "whyCorrect": "The brick states that serum lipase and amylase are elevated as damaged acinar cells release their contents, and that lipase is more specific.",
     "whyWrongByChoice": {
      "A": "Amylase rises in pancreatitis but is less specific than lipase and can be elevated by other conditions.",
-     "B": "Gastrin is a diagnostic marker for gastrinoma/Zollinger-Ellison syndrome, not pancreatitis.",
-     "C": "Alkaline phosphatase reflects biliary or bone processes, not pancreatic acinar injury specifically.",
-     "D": "Trypsin inhibitor (SPINK1) is an intracellular safeguard, not a serum diagnostic marker."
+     "C": "Gastrin is a diagnostic marker for gastrinoma/Zollinger-Ellison syndrome, not pancreatitis.",
+     "D": "Alkaline phosphatase reflects biliary or bone processes, not pancreatic acinar injury specifically.",
+     "E": "Trypsin inhibitor (SPINK1) is an intracellular safeguard, not a serum diagnostic marker."
     }
    }
   },
@@ -3378,33 +3378,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Helicobacter pylori infection"
+     "text": "Ampullary gallstone impaction"
     },
     {
      "label": "B",
-     "text": "Terminal ileal resection"
+     "text": "Helicobacter pylori infection"
     },
     {
      "label": "C",
-     "text": "Lactase deficiency"
+     "text": "Prior terminal ileal resection"
     },
     {
      "label": "D",
-     "text": "Gallstone impaction at the ampulla of Vater"
+     "text": "Intestinal lactase deficiency"
     },
     {
      "label": "E",
-     "text": "Portal hypertension"
+     "text": "Cirrhotic portal hypertension"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Gallstone impaction at the ampulla of Vater obstructs duct outflow and is one of the two most common triggers of acute pancreatitis.",
     "whyCorrect": "The brick lists gallstone impaction at the ampulla of Vater (obstructing duct outflow) as one of the two most common triggers of acute pancreatitis.",
     "whyWrongByChoice": {
-     "A": "H. pylori causes peptic ulcer disease and gastritis, not pancreatic duct obstruction.",
-     "B": "Terminal ileal resection disrupts bile salt recycling and causes steatorrhea, not duct-obstruction pancreatitis.",
-     "C": "Lactase deficiency causes osmotic diarrhea, unrelated to pancreatic duct obstruction.",
+     "B": "H. pylori causes peptic ulcer disease and gastritis, not pancreatic duct obstruction.",
+     "C": "Terminal ileal resection disrupts bile salt recycling and causes steatorrhea, not duct-obstruction pancreatitis.",
+     "D": "Lactase deficiency causes osmotic diarrhea, unrelated to pancreatic duct obstruction.",
      "E": "Portal hypertension is a vascular complication of liver disease, not a cause of duct-obstruction pancreatitis."
     }
    }
@@ -3417,7 +3417,7 @@
    "choices": [
     {
      "label": "A",
-     "text": "Excess bicarbonate secretion by duct cells"
+     "text": "Excessive ductal bicarbonate secretion"
     },
     {
      "label": "B",
@@ -3425,26 +3425,26 @@
     },
     {
      "label": "C",
-     "text": "Elevated gastric acid production"
+     "text": "Reduced ductal bicarbonate secretion"
     },
     {
      "label": "D",
-     "text": "Ileal villous atrophy"
+     "text": "Elevated gastric acid production"
     },
     {
      "label": "E",
-     "text": "Impaired bicarbonate secretion by duct cells"
+     "text": "Ileal mucosal villous atrophy"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Loss of CFTR function impairs pancreatic duct bicarbonate secretion, leading to inspissated secretions and ductal obstruction.",
     "whyCorrect": "The brick states that loss-of-function CFTR mutations, as in cystic fibrosis, impair bicarbonate secretion, leading to inspissated secretions, ductal obstruction, and progressive exocrine insufficiency.",
     "whyWrongByChoice": {
      "A": "CFTR loss decreases, not increases, bicarbonate secretion.",
      "B": "CF impairs enzyme delivery through ductal obstruction; it does not directly increase acinar enzyme activation.",
-     "C": "Gastric acid production is a parietal cell function unrelated to pancreatic ductal CFTR.",
-     "D": "Villous atrophy is a feature of celiac disease, not the direct consequence of ductal CFTR loss."
+     "D": "Gastric acid production is a parietal cell function unrelated to pancreatic ductal CFTR.",
+     "E": "Villous atrophy is a feature of celiac disease, not the direct consequence of ductal CFTR loss."
     }
    }
   },
@@ -3464,25 +3464,25 @@
     },
     {
      "label": "C",
-     "text": "A trypsin inhibitor"
+     "text": "A brush border disaccharidase"
     },
     {
      "label": "D",
-     "text": "A brush border disaccharidase"
+     "text": "A trypsin inhibitor"
     },
     {
      "label": "E",
      "text": "A cholesterol synthesis enzyme"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "SPINK1 is a trypsin inhibitor that provides an additional safeguard against premature intrapancreatic trypsin activation.",
     "whyCorrect": "The brick states that within the pancreatic environment a trypsin inhibitor (SPINK1) provides an additional safeguard against accidental activation.",
     "whyWrongByChoice": {
      "A": "Bicarbonate transport is a duct cell function (e.g., SLC26A6), not the role of SPINK1.",
      "B": "The bile salt export pump (BSEP) is a hepatocyte canalicular transporter, unrelated to SPINK1.",
-     "D": "Brush border disaccharidases (lactase, sucrase-isomaltase) are enterocyte enzymes, not SPINK1.",
+     "C": "Brush border disaccharidases (lactase, sucrase-isomaltase) are enterocyte enzymes, not SPINK1.",
      "E": "SPINK1 is a protease inhibitor, not a cholesterol synthesis enzyme."
     }
    }
@@ -3503,25 +3503,25 @@
     },
     {
      "label": "C",
-     "text": "CFTR"
+     "text": "NTCP"
     },
     {
      "label": "D",
-     "text": "NTCP"
+     "text": "CFTR"
     },
     {
      "label": "E",
      "text": "OSTα/β"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Hepatocytes take up portal bile salts primarily via the Na+-taurocholate cotransporting polypeptide (NTCP).",
     "whyCorrect": "The brick states hepatocytes extract bile salts from portal blood with ~95% first-pass efficiency via the Na+-taurocholate cotransporting polypeptide (NTCP).",
     "whyWrongByChoice": {
      "A": "ASBT is the apical transporter that reabsorbs bile salts in the terminal ileum, not the hepatic uptake transporter.",
      "B": "BSEP exports conjugated bile salts from hepatocytes into bile canaliculi; it does not mediate uptake.",
-     "C": "CFTR is a pancreatic/epithelial chloride channel, not a hepatic bile salt uptake transporter.",
+     "D": "CFTR is a pancreatic/epithelial chloride channel, not a hepatic bile salt uptake transporter.",
      "E": "OSTα/β exports bile salts across the basolateral membrane of ileal enterocytes into portal blood, not hepatic uptake."
     }
    }
@@ -3542,25 +3542,25 @@
     },
     {
      "label": "C",
-     "text": "Spleen"
+     "text": "Left kidney"
     },
     {
      "label": "D",
-     "text": "Left kidney"
+     "text": "Spleen"
     },
     {
      "label": "E",
      "text": "Stomach"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Left lower rib fractures with referred left shoulder (Kehr) pain classically indicate splenic rupture.",
     "whyCorrect": "The spleen has fragile parenchyma and a thin capsule, making it highly prone to rupture with left lower rib fractures. Subdiaphragmatic blood irritates the diaphragm, producing the referred left shoulder pain known as Kehr sign.",
     "whyWrongByChoice": {
      "A": "Liver injury occupies the right upper quadrant, is associated with right lower rib fractures, and refers pain to the right shoulder.",
      "B": "The pancreas is retroperitoneal, produces midepigastric pain, and is not linked to left rib fractures or shoulder pain.",
-     "D": "Renal injury is retroperitoneal and presents with flank pain or hematuria, not referred shoulder pain.",
+     "C": "Renal injury is retroperitoneal and presents with flank pain or hematuria, not referred shoulder pain.",
      "E": "Isolated gastric blunt injury is uncommon and is not associated with left rib fractures or the Kehr sign."
     }
    }
@@ -3581,26 +3581,26 @@
     },
     {
      "label": "C",
-     "text": "Hepatic flexure"
+     "text": "Ligament of Treitz"
     },
     {
      "label": "D",
-     "text": "Splenic flexure"
+     "text": "Hepatic flexure"
     },
     {
      "label": "E",
-     "text": "Ligament of Treitz"
+     "text": "Splenic flexure"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "The small bowel is most vulnerable to shearing at fixed points such as the ligament of Treitz.",
     "whyCorrect": "The small bowel is otherwise mobile, so deceleration shearing forces concentrate at fixed anchor points; the ligament of Treitz (duodenojejunal junction) is the classic vulnerable site emphasized in the brick.",
     "whyWrongByChoice": {
      "A": "The ileocecal region is not the fixed shearing point highlighted for small bowel deceleration injury.",
      "B": "The gastroesophageal junction is an esophagogastric landmark, not a small bowel shearing site.",
-     "C": "The hepatic flexure is part of the colon, not the small bowel.",
-     "D": "The splenic flexure is a colonic segment and not the small bowel anchor point described."
+     "D": "The hepatic flexure is part of the colon, not the small bowel.",
+     "E": "The splenic flexure is a colonic segment and not the small bowel anchor point described."
     }
    }
   },
@@ -3616,29 +3616,29 @@
     },
     {
      "label": "B",
-     "text": "Liquefactive necrosis"
-    },
-    {
-     "label": "C",
      "text": "Caseous necrosis"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Fibrinoid necrosis"
     },
     {
+     "label": "D",
+     "text": "Liquefactive necrosis"
+    },
+    {
      "label": "E",
-     "text": "Fat necrosis"
+     "text": "Fat (enzymatic) necrosis"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Alkali (lye) ingestion causes liquefactive necrosis with deep, full-thickness penetration.",
     "whyCorrect": "Alkalis such as lye produce liquefactive necrosis, which penetrates deeply and can lead to full-thickness esophageal or gastric perforation, as described in the brick.",
     "whyWrongByChoice": {
      "A": "Coagulative necrosis is caused by acid ingestion, which forms a superficial protective eschar.",
-     "C": "Caseous necrosis is characteristic of granulomatous infections such as tuberculosis.",
-     "D": "Fibrinoid necrosis occurs in vascular walls in immune-mediated injury, not caustic ingestion.",
+     "B": "Caseous necrosis is characteristic of granulomatous infections such as tuberculosis.",
+     "C": "Fibrinoid necrosis occurs in vascular walls in immune-mediated injury, not caustic ingestion.",
      "E": "Fat necrosis is seen with pancreatic enzyme release or trauma to adipose tissue."
     }
    }
@@ -3655,11 +3655,11 @@
     },
     {
      "label": "B",
-     "text": "Coagulative necrosis"
+     "text": "Granulation tissue"
     },
     {
      "label": "C",
-     "text": "Granulation tissue"
+     "text": "Coagulative necrosis"
     },
     {
      "label": "D",
@@ -3670,13 +3670,13 @@
      "text": "Fibrinoid necrosis"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Acid ingestion produces coagulative necrosis, forming a protective eschar that limits penetration depth.",
     "whyCorrect": "Acids cause coagulative necrosis, generating a protective eschar that somewhat limits the depth of penetration, though severe injury can still occur.",
     "whyWrongByChoice": {
      "A": "Liquefactive necrosis is caused by alkalis and penetrates deeply rather than limiting depth.",
-     "C": "Granulation tissue is part of later wound healing, not the acute limiting eschar.",
+     "B": "Granulation tissue is part of later wound healing, not the acute limiting eschar.",
      "D": "Caseating granulomas occur in infections such as tuberculosis, not caustic injury.",
      "E": "Fibrinoid necrosis affects vessel walls in immune-mediated disease."
     }
@@ -3690,34 +3690,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Hemoperitoneum"
+     "text": "Massive hemoperitoneum"
     },
     {
      "label": "B",
-     "text": "Splenic laceration"
+     "text": "Splenic capsular laceration"
     },
     {
      "label": "C",
-     "text": "Retroperitoneal hematoma"
+     "text": "Hollow viscus perforation"
     },
     {
      "label": "D",
-     "text": "Paralytic ileus"
+     "text": "Retroperitoneal hematoma"
     },
     {
      "label": "E",
-     "text": "Hollow viscus perforation"
+     "text": "Reflex paralytic ileus"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Free air beneath the diaphragm (pneumoperitoneum) indicates perforation of a hollow viscus.",
     "whyCorrect": "Pneumoperitoneum results from perforation of a hollow viscus; free air rises by buoyancy to beneath the diaphragm, appearing as a crescent of lucency on upright chest radiography.",
     "whyWrongByChoice": {
      "A": "Hemoperitoneum is intraperitoneal fluid (blood), not free air.",
      "B": "Splenic laceration causes solid-organ bleeding and hemoperitoneum, not free air.",
-     "C": "Retroperitoneal hematoma is suggested by loss of the psoas shadow, not subdiaphragmatic air.",
-     "D": "Paralytic ileus produces dilated bowel gas patterns, not free intraperitoneal air."
+     "D": "Retroperitoneal hematoma is suggested by loss of the psoas shadow, not subdiaphragmatic air.",
+     "E": "Paralytic ileus produces dilated bowel gas patterns, not free intraperitoneal air."
     }
    }
   },
@@ -3741,7 +3741,7 @@
     },
     {
      "label": "D",
-     "text": "Contrast-enhanced abdominal CT"
+     "text": "IV-contrast abdominal CT"
     },
     {
      "label": "E",
@@ -3768,34 +3768,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "FAST ultrasound"
-    },
-    {
-     "label": "B",
      "text": "Contrast-enhanced CT"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Upright chest radiograph"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Magnetic resonance imaging"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Barium contrast study"
+    },
+    {
+     "label": "E",
+     "text": "FAST ultrasound"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "FAST ultrasound is the preferred rapid assessment in hemodynamically unstable trauma patients.",
     "whyCorrect": "FAST is a rapid bedside protocol performed in under 5 minutes without patient transport; it detects free fluid (blood) and a positive result in an unstable patient warrants immediate surgical exploration.",
     "whyWrongByChoice": {
-     "B": "Contrast-enhanced CT requires a hemodynamically stable patient and transport out of the resuscitation area.",
-     "C": "Upright chest radiography is a screening tool with limited sensitivity for intra-abdominal injury.",
-     "D": "MRI is too slow and impractical for an unstable trauma patient.",
-     "E": "Barium contrast studies are contraindicated when perforation is suspected."
+     "A": "Contrast-enhanced CT requires a hemodynamically stable patient and transport out of the resuscitation area.",
+     "B": "Upright chest radiography is a screening tool with limited sensitivity for intra-abdominal injury.",
+     "C": "MRI is too slow and impractical for an unstable trauma patient.",
+     "D": "Barium contrast studies are contraindicated when perforation is suspected."
     }
    }
   },
@@ -3807,11 +3807,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Hepatorenal recess"
+     "text": "Left subphrenic space"
     },
     {
      "label": "B",
-     "text": "Left subphrenic space"
+     "text": "Hepatorenal recess"
     },
     {
      "label": "C",
@@ -3826,12 +3826,12 @@
      "text": "Right paracolic gutter"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "The hepatorenal recess (Morison pouch) is the FAST target for perihepatic/liver bleeding.",
     "whyCorrect": "The hepatorenal recess (Morison pouch) is the dependent space where liver bleeding collects and is a primary FAST examination target.",
     "whyWrongByChoice": {
-     "B": "The left subphrenic/peri-splenic space is the target for splenic, not perihepatic, bleeding.",
+     "A": "The left subphrenic/peri-splenic space is the target for splenic, not perihepatic, bleeding.",
      "C": "The lesser sac is not a primary FAST window for perihepatic blood.",
      "D": "The rectovesical pouch is a pelvic dependent space, not the perihepatic target.",
      "E": "The right paracolic gutter is a secondary tracking pathway, not the key perihepatic space."
@@ -3885,11 +3885,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Colon"
+     "text": "Stomach"
     },
     {
      "label": "B",
-     "text": "Stomach"
+     "text": "Colon"
     },
     {
      "label": "C",
@@ -3904,12 +3904,12 @@
      "text": "Ileum"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Colonic injuries carry the highest bacterial load and greatest contamination risk.",
     "whyCorrect": "The brick specifies that colonic injuries carry a higher bacterial load, producing the most severe peritoneal contamination when perforated.",
     "whyWrongByChoice": {
-     "B": "The stomach is acidic and relatively low in bacterial content.",
+     "A": "The stomach is acidic and relatively low in bacterial content.",
      "C": "The duodenum has a low bacterial burden compared with the colon.",
      "D": "The jejunum carries a moderate but lower load than the colon.",
      "E": "The ileum has increasing flora but still far less than the colon."
@@ -3967,29 +3967,29 @@
     },
     {
      "label": "B",
-     "text": "Establish enteral feeding access"
+     "text": "Control hemorrhage and contamination"
     },
     {
      "label": "C",
-     "text": "Complete abdominal wall reconstruction"
+     "text": "Establish enteral feeding access"
     },
     {
      "label": "D",
-     "text": "Control hemorrhage and contamination"
+     "text": "Complete abdominal wall reconstruction"
     },
     {
      "label": "E",
      "text": "Resect all devitalized mesentery"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Damage control surgery focuses first on hemorrhage and contamination control.",
     "whyCorrect": "Damage control surgery is an abbreviated initial operation focused on controlling hemorrhage and contamination, followed by temporary closure, ICU resuscitation, and planned definitive repair.",
     "whyWrongByChoice": {
      "A": "Definitive anastomosis is deferred to a planned second operation after stabilization.",
-     "B": "Establishing feeding access is not the priority of the initial damage control operation.",
-     "C": "Abdominal wall reconstruction is a later, definitive step, not the initial goal.",
+     "C": "Establishing feeding access is not the priority of the initial damage control operation.",
+     "D": "Abdominal wall reconstruction is a later, definitive step, not the initial goal.",
      "E": "Extensive mesenteric resection is not the focus of the abbreviated initial surgery."
     }
    }
@@ -4002,34 +4002,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Gram-positive cocci exclusively"
+     "text": "Gram-negatives and anaerobes"
     },
     {
      "label": "B",
-     "text": "Fungal species exclusively"
+     "text": "Gram-positive cocci exclusively"
     },
     {
      "label": "C",
-     "text": "Atypical intracellular bacteria"
+     "text": "Fungal species exclusively"
     },
     {
      "label": "D",
-     "text": "Viral and protozoal pathogens"
+     "text": "Atypical intracellular bacteria"
     },
     {
      "label": "E",
-     "text": "Gram-negatives and anaerobes"
+     "text": "Viral and protozoal pathogens"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Suspected GI perforation requires broad-spectrum coverage of gram-negative and anaerobic organisms.",
     "whyCorrect": "Broad-spectrum antibiotics covering gram-negative and anaerobic organisms should be administered early when GI perforation or contamination is suspected, reducing infectious morbidity.",
     "whyWrongByChoice": {
-     "A": "Gram-positive-only coverage misses the predominant enteric gram-negative flora.",
-     "B": "Fungal-only coverage is inadequate for enteric bacterial contamination.",
-     "C": "Atypical intracellular bacteria are not the organisms of concern in bowel perforation.",
-     "D": "Viral and protozoal pathogens are not the target of empiric perforation coverage."
+     "B": "Gram-positive-only coverage misses the predominant enteric gram-negative flora.",
+     "C": "Fungal-only coverage is inadequate for enteric bacterial contamination.",
+     "D": "Atypical intracellular bacteria are not the organisms of concern in bowel perforation.",
+     "E": "Viral and protozoal pathogens are not the target of empiric perforation coverage."
     }
    }
   },
@@ -4041,33 +4041,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Surgical site infection"
+     "text": "Anastomotic leak"
     },
     {
      "label": "B",
-     "text": "Paralytic ileus"
+     "text": "Surgical site infection"
     },
     {
      "label": "C",
-     "text": "Venous thromboembolism"
+     "text": "Paralytic ileus"
     },
     {
      "label": "D",
-     "text": "Anastomotic leak"
+     "text": "Venous thromboembolism"
     },
     {
      "label": "E",
      "text": "Incisional hernia"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Fever, tachycardia, and abdominal pain on postoperative days 3-7 suggest an anastomotic leak.",
     "whyCorrect": "Anastomotic leak, the breakdown of the surgically joined bowel junction, typically presents on postoperative days 3-7 with fever, tachycardia, and abdominal pain, and is confirmed by CT with oral contrast.",
     "whyWrongByChoice": {
-     "A": "Surgical site infection presents at the wound rather than as diffuse peritoneal signs.",
-     "B": "Paralytic ileus causes distension and lack of bowel function without fever or peritonitis.",
-     "C": "Venous thromboembolism presents with leg swelling or respiratory symptoms, not peritoneal signs.",
+     "B": "Surgical site infection presents at the wound rather than as diffuse peritoneal signs.",
+     "C": "Paralytic ileus causes distension and lack of bowel function without fever or peritonitis.",
+     "D": "Venous thromboembolism presents with leg swelling or respiratory symptoms, not peritoneal signs.",
      "E": "Incisional hernia is a late complication and does not cause acute fever."
     }
    }
@@ -4080,7 +4080,7 @@
    "choices": [
     {
      "label": "A",
-     "text": "Fever, leukocytosis, and lactate"
+     "text": "Fever, leukocytosis, hyperlactatemia"
     },
     {
      "label": "B",
@@ -4088,26 +4088,26 @@
     },
     {
      "label": "C",
-     "text": "Hypothermia, acidosis, coagulopathy"
-    },
-    {
-     "label": "D",
      "text": "Hyperkalemia, uremia, acidosis"
     },
     {
+     "label": "D",
+     "text": "Hypoxemia, hypercapnia, edema"
+    },
+    {
      "label": "E",
-     "text": "Hypoxia, hypercapnia, edema"
+     "text": "Hypothermia, acidosis, coagulopathy"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Damage control surgery avoids the lethal triad of hypothermia, acidosis, and coagulopathy.",
     "whyCorrect": "The lethal triad of hypothermia, acidosis, and coagulopathy develops during prolonged surgery in critically ill patients; damage control surgery shortens the operation to prevent it.",
     "whyWrongByChoice": {
-     "A": "Fever, leukocytosis, and lactate are systemic inflammatory signs, not the surgical lethal triad.",
+     "A": "Fever, leukocytosis, and hyperlactatemia are systemic inflammatory signs, not the surgical lethal triad.",
      "B": "Hypertension, bradycardia, and apnea describe the Cushing reflex of raised intracranial pressure.",
-     "D": "Hyperkalemia, uremia, and acidosis describe renal failure, not the trauma lethal triad.",
-     "E": "Hypoxia, hypercapnia, and edema are respiratory findings, not the lethal triad."
+     "C": "Hyperkalemia, uremia, and acidosis describe renal failure, not the trauma lethal triad.",
+     "D": "Hypoxemia, hypercapnia, and edema are respiratory findings, not the lethal triad."
     }
    }
   },
@@ -4127,26 +4127,26 @@
     },
     {
      "label": "C",
-     "text": "Radiation enteritis"
-    },
-    {
-     "label": "D",
      "text": "Crohn disease"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Diverticulitis"
+    },
+    {
+     "label": "E",
+     "text": "Radiation enteritis"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Radiation therapy causes radiation enteritis with progressive mucosal damage, fibrosis, and stricture.",
     "whyCorrect": "Radiation targeting abdominal or pelvic malignancy causes radiation enteritis, characterized by progressive mucosal damage, fibrosis, and eventual stricture or perforation.",
     "whyWrongByChoice": {
      "A": "Ischemic colitis results from vascular compromise, not radiation exposure.",
      "B": "Caustic esophagitis follows ingestion of acids or alkalis, not radiation.",
-     "D": "Crohn disease is an idiopathic transmural inflammatory bowel disease, unrelated to radiation history.",
-     "E": "Diverticulitis is inflammation of colonic diverticula, not radiation-induced fibrosis."
+     "C": "Crohn disease is an idiopathic transmural inflammatory bowel disease, unrelated to radiation history.",
+     "D": "Diverticulitis is inflammation of colonic diverticula, not radiation-induced fibrosis."
     }
    }
   },
@@ -4158,32 +4158,32 @@
    "choices": [
     {
      "label": "A",
-     "text": "Hollow viscus perforation"
+     "text": "Retroperitoneal bleeding"
     },
     {
      "label": "B",
-     "text": "Retroperitoneal hemorrhage"
+     "text": "Hollow viscus perforation"
     },
     {
      "label": "C",
-     "text": "Splenic rupture"
+     "text": "Splenic capsular rupture"
     },
     {
      "label": "D",
-     "text": "Paralytic ileus"
+     "text": "Reflex paralytic ileus"
     },
     {
      "label": "E",
-     "text": "Pneumoperitoneum"
+     "text": "Massive pneumoperitoneum"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Loss of the psoas shadow on plain film suggests retroperitoneal hemorrhage.",
     "whyCorrect": "Loss of the psoas shadow indicates retroperitoneal hemorrhage, a plain-film sign the brick lists as suggestive of GI/retroperitoneal injury.",
     "whyWrongByChoice": {
-     "A": "Hollow viscus perforation is indicated by free intraperitoneal air, not loss of the psoas shadow.",
-     "C": "Splenic rupture produces hemoperitoneum and the Kehr sign, not a psoas shadow change.",
+     "B": "Hollow viscus perforation is indicated by free intraperitoneal air, not loss of the psoas shadow.",
+     "C": "Splenic capsular rupture produces hemoperitoneum and the Kehr sign, not loss of the psoas shadow.",
      "D": "Paralytic ileus produces abnormal bowel gas patterns rather than psoas shadow loss.",
      "E": "Pneumoperitoneum appears as free air under the diaphragm, not as loss of the psoas shadow."
     }
@@ -4205,25 +4205,25 @@
     },
     {
      "label": "C",
-     "text": "Small bowel"
+     "text": "Spleen"
     },
     {
      "label": "D",
-     "text": "Spleen"
+     "text": "Small bowel"
     },
     {
      "label": "E",
      "text": "Bladder"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "In blunt abdominal trauma, the spleen (and liver) are the most common sources of significant hemorrhage.",
     "whyCorrect": "The brick states that in blunt abdominal trauma the spleen and liver are the most common sources of significant hemorrhage; the spleen's thin capsule and fragile parenchyma make it especially prone to rupture.",
     "whyWrongByChoice": {
      "A": "The kidney is retroperitoneal and less commonly a source of major intraperitoneal hemorrhage.",
      "B": "The pancreas is retroperitoneal and rarely causes large-volume hemoperitoneum.",
-     "C": "Small bowel injury more often causes perforation and contamination than major bleeding.",
+     "D": "Small bowel injury more often causes perforation and contamination than major bleeding.",
      "E": "The bladder is a pelvic organ and not a common source of hemoperitoneum."
     }
    }
@@ -4236,33 +4236,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Cavitation and energy transfer"
-    },
-    {
-     "label": "B",
      "text": "Chemical necrosis of tissue"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Delayed bacterial colonization"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Thermal coagulation of vessels"
+    },
+    {
+     "label": "D",
+     "text": "Cavitation and energy transfer"
     },
     {
      "label": "E",
      "text": "Reflex vasoconstriction of bowel"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Gunshot wounds carry a higher injury burden due to cavitation and energy transfer.",
     "whyCorrect": "The brick notes that gunshot wounds carry a higher injury burden than stab wounds because of cavitation effects and energy transfer along the projectile path.",
     "whyWrongByChoice": {
-     "B": "Chemical necrosis is a mechanism of caustic ingestion, not ballistic injury.",
-     "C": "Delayed bacterial colonization does not explain the acute severity difference.",
-     "D": "Thermal coagulation is not the primary mechanism of gunshot tissue injury.",
+     "A": "Chemical necrosis is a mechanism of caustic ingestion, not ballistic injury.",
+     "B": "Delayed bacterial colonization does not explain the acute severity difference.",
+     "C": "Thermal coagulation is not the primary mechanism of gunshot tissue injury.",
      "E": "Reflex vasoconstriction does not account for the greater tissue destruction of gunshot wounds."
     }
    }
@@ -4275,15 +4275,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "Supine abdominal film"
+     "text": "Left lateral decubitus film"
     },
     {
      "label": "B",
-     "text": "Upright chest film"
+     "text": "Supine abdominal film"
     },
     {
      "label": "C",
-     "text": "Left lateral decubitus film"
+     "text": "Upright chest film"
     },
     {
      "label": "D",
@@ -4294,13 +4294,13 @@
      "text": "Right lateral decubitus film"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "A left lateral decubitus film detects free air in patients who cannot stand.",
     "whyCorrect": "In patients who cannot stand, a left lateral decubitus abdominal film reveals free air between the liver and the right lateral abdominal wall.",
     "whyWrongByChoice": {
-     "A": "On a supine film, free air layers anteriorly and is difficult to detect.",
-     "B": "An upright chest film requires the patient to stand, which this patient cannot do.",
+     "B": "On a supine film, free air layers anteriorly and is difficult to detect.",
+     "C": "An upright chest film requires the patient to stand, which this patient cannot do.",
      "D": "A prone film is not a standard view for detecting free intraperitoneal air.",
      "E": "On a right lateral decubitus film, air rises over the liver and is obscured rather than highlighted."
     }

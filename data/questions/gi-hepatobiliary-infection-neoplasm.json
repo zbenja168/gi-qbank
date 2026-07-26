@@ -14,11 +14,11 @@
     },
     {
      "label": "B",
-     "text": "Impaired hepatocyte metabolism and excretion of bilirubin"
+     "text": "Accelerated splenic destruction of red blood cells"
     },
     {
      "label": "C",
-     "text": "Accelerated splenic destruction of red blood cells"
+     "text": "Impaired hepatocyte handling of bilirubin"
     },
     {
      "label": "D",
@@ -29,13 +29,13 @@
      "text": "Deposition of iron in the skin and sclerae"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Jaundice in hepatitis reflects hepatocellular injury impairing bilirubin handling.",
     "whyCorrect": "Inflamed, injured hepatocytes cannot conjugate and excrete bilirubin normally, so it accumulates in serum and deposits in the skin, sclerae, and mucous membranes as jaundice.",
     "whyWrongByChoice": {
      "A": "Albumin synthesis falls (not rises) in liver disease, and low albumin does not cause jaundice.",
-     "C": "Hemolysis raises unconjugated bilirubin but is not the mechanism in viral hepatitis, where the defect is hepatocellular.",
+     "B": "Hemolysis raises unconjugated bilirubin but is not the mechanism in viral hepatitis, where the defect is hepatocellular.",
      "D": "Cystic duct obstruction causes biliary colic/cholecystitis, not the diffuse hepatocellular picture with systemic viral symptoms described here.",
      "E": "Iron deposition (hemochromatosis) causes bronze skin over years, not acute icterus with a 3-day viral prodrome."
     }
@@ -49,7 +49,7 @@
    "choices": [
     {
      "label": "A",
-     "text": "Decreased excretion of conjugated bilirubin into the gut with spillover of conjugated bilirubin into urine"
+     "text": "Decreased gut excretion of conjugated bilirubin, spilling into urine"
     },
     {
      "label": "B",
@@ -57,15 +57,15 @@
     },
     {
      "label": "C",
-     "text": "Loss of urobilinogen reabsorption in the terminal ileum"
+     "text": "Impaired urobilinogen reabsorption in the terminal ileum"
     },
     {
      "label": "D",
-     "text": "Elevated serum ammonia from impaired detoxification"
+     "text": "Elevated serum ammonia from impaired hepatic detoxification"
     },
     {
      "label": "E",
-     "text": "Reduced hepatic synthesis of clotting factors"
+     "text": "Reduced hepatic synthesis of the vitamin K–dependent clotting factors"
     }
    ],
    "correctAnswer": "A",
@@ -96,25 +96,25 @@
     },
     {
      "label": "C",
-     "text": "Alkaline phosphatase (ALP)"
+     "text": "Serum albumin"
     },
     {
      "label": "D",
-     "text": "Serum albumin"
+     "text": "Alkaline phosphatase (ALP)"
     },
     {
      "label": "E",
      "text": "Gamma-glutamyl transpeptidase (GGT)"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Albumin, PT, and bilirubin reflect function; transaminases and ALP reflect injury.",
     "whyCorrect": "Albumin is synthesized by hepatocytes, so its level (along with prothrombin time and bilirubin) reflects true liver function. Transaminases and cholestatic enzymes are released from or induced by injured cells and mark injury, not function.",
     "whyWrongByChoice": {
      "A": "ALT is released from damaged hepatocytes and is a marker of injury, not synthetic function.",
      "B": "AST likewise reflects hepatocellular injury and is also found in muscle and other tissues.",
-     "C": "ALP is a cholestatic injury/obstruction marker, not a measure of synthetic function.",
+     "D": "ALP is a cholestatic injury/obstruction marker, not a measure of synthetic function.",
      "E": "GGT is a cholestatic marker used to confirm the hepatic origin of an elevated ALP, not a function test."
     }
    }
@@ -127,11 +127,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Declining hepatic synthetic and detoxification function"
+     "text": "Acute obstruction of the common bile duct"
     },
     {
      "label": "B",
-     "text": "Acute obstruction of the common bile duct"
+     "text": "Declining hepatic synthesis and detoxification"
     },
     {
      "label": "C",
@@ -146,12 +146,12 @@
      "text": "Bacterial overgrowth of the small intestine"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Coagulopathy plus hyperammonemia signals failing hepatic synthetic/detox capacity.",
     "whyCorrect": "A prolonged PT/INR reflects failed synthesis of clotting factors, and elevated ammonia reflects impaired hepatic detoxification; together they indicate the liver's synthetic and detoxifying functions are failing, as in acute (fulminant) liver failure.",
     "whyWrongByChoice": {
-     "B": "Biliary obstruction causes cholestasis and jaundice but does not by itself cause hyperammonemia and coagulopathy.",
+     "A": "Biliary obstruction causes cholestasis and jaundice but does not by itself cause hyperammonemia and coagulopathy.",
      "C": "Islet-cell destruction causes diabetes, unrelated to PT prolongation or ammonia.",
      "D": "Clotting factors are proteins made by the liver, not lost through the kidney; the defect is decreased synthesis.",
      "E": "Small-bowel bacterial overgrowth causes malabsorption, not acute coagulopathy with encephalopathy."
@@ -166,32 +166,32 @@
    "choices": [
     {
      "label": "A",
-     "text": "Hepatitis A virus; acute, self-limited infection without chronicity"
-    },
-    {
-     "label": "B",
      "text": "Hepatitis B virus; frequently progresses to chronic infection"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Hepatitis C virus; up to 85% become chronically infected"
     },
     {
+     "label": "C",
+     "text": "Hepatitis A virus; acute, self-limited, no chronicity"
+    },
+    {
      "label": "D",
-     "text": "Hepatitis D virus; requires concurrent hepatitis B"
+     "text": "Hepatitis D virus; requires concurrent hepatitis B infection"
     },
     {
      "label": "E",
      "text": "Cytomegalovirus; latent infection with periodic reactivation"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Fecal–oral exposure with a short prodrome points to HAV, an acute self-limited illness.",
     "whyCorrect": "Hepatitis A is acquired by the fecal–oral route (contaminated food/water, poor sanitation), has a 2–6 week incubation, and causes an acute, self-limited infection that does not become chronic.",
     "whyWrongByChoice": {
-     "B": "HBV is bloodborne/sexual/perinatal, not typically from contaminated water, and this exposure history fits fecal–oral transmission.",
-     "C": "HCV is parenteral and this man denies injection drug use or other bloodborne risk; the travel/water history fits HAV.",
+     "A": "HBV is bloodborne/sexual/perinatal, not typically from contaminated water, and this exposure history fits fecal–oral transmission.",
+     "B": "HCV is parenteral and this man denies injection drug use or other bloodborne risk; the travel/water history fits HAV.",
      "D": "HDV can only infect with HBV present, and nothing here indicates HBV coinfection.",
      "E": "CMV hepatitis occurs mainly in immunocompromised or perinatal settings, not after ingesting contaminated water in a healthy traveler."
     }
@@ -217,14 +217,14 @@
     },
     {
      "label": "D",
-     "text": "About 50%"
+     "text": "Up to 90%"
     },
     {
      "label": "E",
-     "text": "Up to 90%"
+     "text": "About 50%"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Perinatal HBV becomes chronic in up to ~90% of infants; adult infection rarely does.",
     "whyCorrect": "Chronicity risk for HBV is inversely related to age at infection: up to ~90% of infants infected perinatally become chronically infected, versus only about 5–10% of adults.",
@@ -232,7 +232,7 @@
      "A": "Less than 1% understates the very high perinatal chronicity risk.",
      "B": "About 5–10% is the chronicity rate for adult-acquired HBV, not perinatal.",
      "C": "25% does not match the established perinatal figure of roughly 90%.",
-     "D": "50% still understates perinatal chronicity, which approaches 90%."
+     "E": "50% still understates perinatal chronicity, which approaches 90%."
     }
    }
   },
@@ -244,33 +244,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "A high likelihood of chronic infection due to immune evasion"
-    },
-    {
-     "label": "B",
      "text": "An exclusively fecal–oral route of transmission"
     },
     {
+     "label": "B",
+     "text": "Dependence on a coinfecting helper virus for replication"
+    },
+    {
      "label": "C",
-     "text": "Dependence on a helper virus for replication"
+     "text": "Formation of ground-glass hepatocytes on biopsy"
     },
     {
      "label": "D",
-     "text": "Formation of ground-glass hepatocytes on biopsy"
+     "text": "High rate of chronic infection from immune evasion"
     },
     {
      "label": "E",
      "text": "Reliably protective immunity after natural infection"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "This describes HCV: an error-prone polymerase drives antigenic variation and chronicity.",
     "whyCorrect": "The virus is hepatitis C (Flavivirus). Its error-prone polymerase generates constant envelope-protein variation, allowing immune evasion and a high rate (up to ~85%) of progression to chronic infection.",
     "whyWrongByChoice": {
-     "B": "HCV is bloodborne (parenteral), not fecal–oral; fecal–oral applies to HAV and HEV.",
-     "C": "Requiring a helper virus describes HDV, which needs HBV, not HCV.",
-     "D": "Ground-glass hepatocytes are characteristic of HBV, not HCV.",
+     "A": "HCV is bloodborne (parenteral), not fecal–oral; fecal–oral applies to HAV and HEV.",
+     "B": "Requiring a helper virus describes HDV, which needs HBV, not HCV.",
+     "C": "Ground-glass hepatocytes are characteristic of HBV, not HCV.",
      "E": "HCV antibodies do NOT confer protective immunity; reinfection can occur, unlike after HBV immunity."
     }
    }
@@ -291,25 +291,25 @@
     },
     {
      "label": "C",
-     "text": "Hepatitis D virus"
+     "text": "Hepatitis E virus"
     },
     {
      "label": "D",
-     "text": "Hepatitis E virus"
+     "text": "Hepatitis D virus"
     },
     {
      "label": "E",
      "text": "Epstein-Barr virus"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "A defective virus needing HBsAg to replicate, causing severe superinfection, is HDV.",
     "whyCorrect": "Hepatitis D is a defective, circular RNA virus (Deltavirus) that requires hepatitis B for replication. Superinfection of a chronic HBV carrier increases the risk of severe disease and accelerated progression.",
     "whyWrongByChoice": {
      "A": "HAV is an independent, acute, self-limited virus that does not depend on HBV.",
      "B": "HCV replicates independently and does not require HBV.",
-     "D": "HEV replicates independently and does not require HBV; it is notable for severity in pregnancy.",
+     "C": "HEV replicates independently and does not require HBV; it is notable for severity in pregnancy.",
      "E": "EBV causes mononucleosis and can involve the liver but does not require HBV to replicate."
     }
    }
@@ -322,7 +322,7 @@
    "choices": [
     {
      "label": "A",
-     "text": "Hepatitis B surface antigen (HBsAg) in the endoplasmic reticulum; HBV"
+     "text": "Hepatitis B surface antigen (HBsAg) in the ER; HBV"
     },
     {
      "label": "B",
@@ -365,30 +365,30 @@
     },
     {
      "label": "B",
-     "text": "Cytomegalovirus"
-    },
-    {
-     "label": "C",
      "text": "Entamoeba histolytica"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Hepatitis A virus"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Fasciola hepatica"
+    },
+    {
+     "label": "E",
+     "text": "Cytomegalovirus"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Owl's-eye intranuclear inclusions in an immunocompromised host indicate CMV.",
     "whyCorrect": "Cytomegalovirus produces characteristic large “owl's-eye” intranuclear inclusions and causes hepatitis as part of systemic infection, especially in immunocompromised patients or perinatal infection.",
     "whyWrongByChoice": {
      "A": "HBV produces cytoplasmic ground-glass hepatocytes, not owl's-eye intranuclear inclusions.",
-     "C": "Entamoeba causes a solitary hepatic abscess (anchovy-paste), not owl's-eye inclusions.",
-     "D": "HAV causes acute self-limited hepatitis without distinctive inclusion bodies.",
-     "E": "Fasciola is a liver fluke that infects the biliary tree; it does not produce owl's-eye inclusions."
+     "B": "Entamoeba causes a solitary hepatic abscess (anchovy-paste), not owl's-eye inclusions.",
+     "C": "HAV causes acute self-limited hepatitis without distinctive inclusion bodies.",
+     "D": "Fasciola is a liver fluke that infects the biliary tree; it does not produce owl's-eye inclusions."
     }
    }
   },
@@ -400,11 +400,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Herpes simplex virus — acyclovir"
+     "text": "Hepatitis A virus — supportive care only"
     },
     {
      "label": "B",
-     "text": "Hepatitis A virus — supportive care only"
+     "text": "Herpes simplex virus — acyclovir"
     },
     {
      "label": "C",
@@ -419,12 +419,12 @@
      "text": "Hepatitis E virus — ribavirin"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "HSV hepatitis is rare but often fatal; empiric acyclovir can be lifesaving.",
     "whyCorrect": "HSV rarely causes hepatitis, but when it does it frequently causes highly fatal fulminant liver failure. It is a high-stakes “must not miss” diagnosis, and early empiric acyclovir—often given before confirmatory PCR—can be lifesaving.",
     "whyWrongByChoice": {
-     "B": "HAV is self-limited and managed supportively; it is not the fulminant “must not miss” diagnosis requiring empiric antivirals.",
+     "A": "HAV is self-limited and managed supportively; it is not the fulminant “must not miss” diagnosis requiring empiric antivirals.",
      "C": "HCV causes chronic disease treated electively with DAAs, not fulminant failure needing emergent empiric therapy.",
      "D": "EBV hepatitis is usually self-limited; steroids are reserved for airway obstruction, not to prevent fulminant liver failure.",
      "E": "HEV is usually self-limited (severe mainly in pregnancy); it is not the classic acyclovir-responsive fulminant hepatitis."
@@ -447,25 +447,25 @@
     },
     {
      "label": "C",
-     "text": "Hepatitis C virus"
+     "text": "Hepatitis E virus"
     },
     {
      "label": "D",
-     "text": "Hepatitis E virus"
+     "text": "Hepatitis C virus"
     },
     {
      "label": "E",
      "text": "Hepatitis D virus"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "HEV, a fecal–oral virus, carries a high risk of acute liver failure in pregnancy.",
     "whyCorrect": "Hepatitis E is transmitted fecal–orally and is usually acute and self-limited, but it is specifically associated with a markedly increased risk of acute (fulminant) liver failure in pregnant women.",
     "whyWrongByChoice": {
      "A": "HAV is fecal–oral and usually mild; it lacks the specific pregnancy-associated fulminant risk of HEV.",
      "B": "HBV is bloodborne and does not have the distinctive pregnancy-related fulminant course of HEV.",
-     "C": "HCV is bloodborne and tends to be chronic; it is not the classic pregnancy-associated fulminant hepatitis.",
+     "D": "HCV is bloodborne and tends to be chronic; it is not the classic pregnancy-associated fulminant hepatitis.",
      "E": "HDV requires HBV and is not the fecal–oral pregnancy-associated virus; the traveler's exposure fits HEV."
     }
    }
@@ -478,34 +478,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Anti-HAV IgM"
-    },
-    {
-     "label": "B",
      "text": "Anti-HAV IgG"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "HAV RNA in stool"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Anti-HBc IgM"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Anti-HCV IgG"
+    },
+    {
+     "label": "E",
+     "text": "Anti-HAV IgM"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Anti-HAV IgM is the earliest marker and confirms acute HAV infection.",
     "whyCorrect": "Anti-HAV IgM is the earliest detectable serologic marker and indicates acute HAV infection. Anti-HAV IgG appears later and signifies past infection or vaccination with long-term immunity.",
     "whyWrongByChoice": {
-     "B": "Anti-HAV IgG indicates past infection or immunity, not acute infection.",
-     "C": "HAV RNA appears early but is not the routine clinical test; antibody testing is the first-line approach.",
-     "D": "Anti-HBc IgM is a marker of acute hepatitis B, not hepatitis A.",
-     "E": "Anti-HCV IgG is a marker of hepatitis C exposure, unrelated to HAV."
+     "A": "Anti-HAV IgG indicates past infection or immunity, not acute infection.",
+     "B": "HAV RNA appears early but is not the routine clinical test; antibody testing is the first-line approach.",
+     "C": "Anti-HBc IgM is a marker of acute hepatitis B, not hepatitis A.",
+     "D": "Anti-HCV IgG is a marker of hepatitis C exposure, unrelated to HAV."
     }
    }
   },
@@ -517,15 +517,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "The “window period”, when anti-HBc IgM may be the only positive marker"
-    },
-    {
-     "label": "B",
      "text": "Chronic active hepatitis B with high infectivity"
     },
     {
+     "label": "B",
+     "text": "The \"window period,\" with anti-HBc IgM as the only marker"
+    },
+    {
      "label": "C",
-     "text": "Successful vaccination against hepatitis B"
+     "text": "Successful prior vaccination against hepatitis B"
     },
     {
      "label": "D",
@@ -533,15 +533,15 @@
     },
     {
      "label": "E",
-     "text": "A false-positive result requiring no further testing"
+     "text": "A false-positive result that requires no additional testing"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "HBsAg–, anti-HBs–, anti-HBc IgM+ defines the HBV window period.",
     "whyCorrect": "During the window period, HBsAg has become undetectable but anti-HBs has not yet appeared; anti-HBc IgM may be the only positive marker, so testing for it is essential to catch infection during this gap.",
     "whyWrongByChoice": {
-     "B": "Chronic active HBV shows persistent HBsAg (and often HBeAg/HBV DNA), not a negative HBsAg.",
+     "A": "Chronic active HBV shows persistent HBsAg (and often HBeAg/HBV DNA), not a negative HBsAg.",
      "C": "Vaccination produces isolated anti-HBs positivity with negative anti-HBc, the opposite pattern.",
      "D": "Resolved infection shows anti-HBs positive and anti-HBc IgG positive; here anti-HBs is negative and the core antibody is IgM.",
      "E": "The pattern is a classic window period, not a spurious result to ignore."
@@ -556,34 +556,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "High levels of viral replication and infectivity"
-    },
-    {
-     "label": "B",
      "text": "Resolution of infection and developing immunity"
     },
     {
+     "label": "B",
+     "text": "A protective response to hepatitis B vaccination"
+    },
+    {
      "label": "C",
-     "text": "A response to hepatitis B vaccination"
+     "text": "Recent coinfection with hepatitis D virus"
     },
     {
      "label": "D",
-     "text": "Coinfection with hepatitis D virus"
+     "text": "Acute infection within the past two weeks"
     },
     {
      "label": "E",
-     "text": "Acute infection within the past two weeks"
+     "text": "High-level viral replication and infectivity"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "HBeAg marks high HBV replication and infectivity in active chronic infection.",
     "whyCorrect": "HBeAg reflects high viral replication and infectivity. Its presence with persistent HBsAg and HBV DNA beyond 6 months indicates active chronic hepatitis B; in inactive chronic disease, HBeAg is absent and anti-HBe is present.",
     "whyWrongByChoice": {
-     "B": "Resolution/immunity is marked by loss of HBsAg and appearance of anti-HBs, not by HBeAg positivity.",
-     "C": "Vaccination yields isolated anti-HBs; it does not produce HBeAg.",
-     "D": "HDV coinfection is detected with anti-HDV and HDV RNA, not by HBeAg.",
-     "E": "Persistence beyond 6 months indicates chronic, not recent acute, infection."
+     "A": "Resolution/immunity is marked by loss of HBsAg and appearance of anti-HBs, not by HBeAg positivity.",
+     "B": "Vaccination yields isolated anti-HBs; it does not produce HBeAg.",
+     "C": "HDV coinfection is detected with anti-HDV and HDV RNA, not by HBeAg.",
+     "D": "Persistence beyond 6 months indicates chronic, not recent acute, infection."
     }
    }
   },
@@ -634,11 +634,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Patients who are HBsAg-positive"
+     "text": "All patients with a positive anti-HAV IgG"
     },
     {
      "label": "B",
-     "text": "All patients with a positive anti-HAV IgG"
+     "text": "Patients who are HBsAg-positive"
     },
     {
      "label": "C",
@@ -653,12 +653,12 @@
      "text": "Patients with a positive Monospot test"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "HDV testing is indicated in HBsAg-positive patients, since HDV requires HBV.",
     "whyCorrect": "Because HDV can only replicate in the presence of hepatitis B, testing (anti-HDV, then HDV RNA to confirm active infection) is recommended in HBsAg-positive patients, especially those with unexpectedly severe or rapidly progressive disease.",
     "whyWrongByChoice": {
-     "B": "Anti-HAV IgG reflects hepatitis A immunity and gives no indication for HDV testing.",
+     "A": "Anti-HAV IgG reflects hepatitis A immunity and gives no indication for HDV testing.",
      "C": "Isolated anti-HBs from vaccination means no HBV infection, so HDV—which needs HBV—cannot occur.",
      "D": "Elevated transaminases alone are nonspecific and are not the criterion; HBsAg positivity is.",
      "E": "A positive Monospot indicates EBV (heterophile antibodies), unrelated to HDV testing."
@@ -673,33 +673,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Hepatitis A and hepatitis B"
-    },
-    {
-     "label": "B",
      "text": "Hepatitis B and hepatitis C"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Hepatitis A and hepatitis C"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Hepatitis C and hepatitis D"
+    },
+    {
+     "label": "D",
+     "text": "Hepatitis A and hepatitis B"
     },
     {
      "label": "E",
      "text": "Hepatitis B and cytomegalovirus"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Only HAV and HBV have widely used effective vaccines.",
     "whyCorrect": "Effective, routinely used vaccines exist for hepatitis A and hepatitis B. There is no widely available vaccine for HCV or CMV, and HDV is prevented indirectly through HBV vaccination (no independent HDV vaccine).",
     "whyWrongByChoice": {
-     "B": "There is no vaccine for hepatitis C, so this pair is incorrect.",
-     "C": "Hepatitis C has no vaccine; only the HAV half of this pair is correct.",
-     "D": "Neither HCV nor an independent HDV vaccine exists.",
+     "A": "There is no vaccine for hepatitis C, so this pair is incorrect.",
+     "B": "Hepatitis C has no vaccine; only the HAV half of this pair is correct.",
+     "C": "Neither HCV nor an independent HDV vaccine exists.",
      "E": "There is no CMV vaccine in routine use; HBV is the only correct member here."
     }
    }
@@ -712,11 +712,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Mixed cryoglobulinemia with small-vessel vasculitis"
+     "text": "Polyarteritis nodosa"
     },
     {
      "label": "B",
-     "text": "Polyarteritis nodosa"
+     "text": "Mixed cryoglobulinemia"
     },
     {
      "label": "C",
@@ -731,12 +731,12 @@
      "text": "Porphyria cutanea tarda"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Cold-precipitating immunoglobulins with vasculitis and GN indicate HCV mixed cryoglobulinemia.",
     "whyCorrect": "Chronic hepatitis C is classically associated with mixed cryoglobulinemia—cold-precipitating immune complexes causing small-vessel vasculitis (palpable purpura, arthralgias) and membranoproliferative glomerulonephritis.",
     "whyWrongByChoice": {
-     "B": "Polyarteritis nodosa is the vasculitis classically linked to hepatitis B, not HCV cryoglobulinemia.",
+     "A": "Polyarteritis nodosa is the vasculitis classically linked to hepatitis B, not HCV cryoglobulinemia.",
      "C": "Membranous nephropathy is the HBV-associated glomerular lesion; HCV is linked to membranoproliferative GN with cryoglobulins.",
      "D": "Serum sickness–like syndrome is a hepatitis B–associated presentation, not the cryoglobulinemic vasculitis of HCV.",
      "E": "Porphyria cutanea tarda is an HCV-associated skin finding but does not explain cold-precipitating immunoglobulins with vasculitis and glomerulonephritis."
@@ -790,34 +790,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Prednisone and azathioprine"
-    },
-    {
-     "label": "B",
      "text": "Entecavir"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Supportive care only"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Direct-acting antiviral therapy"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Ribavirin and interferon"
+    },
+    {
+     "label": "E",
+     "text": "Prednisone and azathioprine"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Negative viral serologies with ANA/ASMA, high IgG, and plasma cells indicate autoimmune hepatitis, treated with immunosuppression.",
     "whyCorrect": "The picture—negative viral serologies, elevated IgG, positive ANA and ASMA, and plasma cell–rich portal inflammation—is autoimmune hepatitis. First-line therapy is immunosuppression with prednisone plus the steroid-sparing agent azathioprine, which improves long-term survival.",
     "whyWrongByChoice": {
-     "B": "Entecavir treats chronic hepatitis B, but HBV serologies are negative here.",
-     "C": "Supportive care alone suits self-limited acute viral hepatitis (e.g., HAV), not progressive autoimmune hepatitis, which requires immunosuppression.",
-     "D": "Direct-acting antivirals treat hepatitis C; HCV serologies are negative in this patient.",
-     "E": "Ribavirin plus interferon is an older hepatitis C regimen, not a treatment for autoimmune hepatitis."
+     "A": "Entecavir treats chronic hepatitis B, but HBV serologies are negative here.",
+     "B": "Supportive care alone suits self-limited acute viral hepatitis (e.g., HAV), not progressive autoimmune hepatitis, which requires immunosuppression.",
+     "C": "Direct-acting antivirals treat hepatitis C; HCV serologies are negative in this patient.",
+     "D": "Ribavirin plus interferon is an older hepatitis C regimen, not a treatment for autoimmune hepatitis."
     }
    }
   },
@@ -829,11 +829,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Elevated IgG with positive ANA/ASMA and plasma cell–rich portal inflammation"
+     "text": "Elevated IgG, positive ANA/ASMA, plasma-cell–rich inflammation"
     },
     {
      "label": "B",
-     "text": "Positive HBsAg with ground-glass hepatocytes"
+     "text": "Positive HBsAg with ground-glass hepatocytes on biopsy"
     },
     {
      "label": "C",
@@ -845,7 +845,7 @@
     },
     {
      "label": "E",
-     "text": "Owl's-eye intranuclear inclusions with systemic viral symptoms"
+     "text": "Owl's-eye intranuclear inclusions with a systemic viral prodrome"
     }
    ],
    "correctAnswer": "A",
@@ -914,11 +914,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Escherichia coli"
+     "text": "Staphylococcus aureus"
     },
     {
      "label": "B",
-     "text": "Staphylococcus aureus"
+     "text": "Escherichia coli"
     },
     {
      "label": "C",
@@ -933,12 +933,12 @@
      "text": "Bacteroides fragilis"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Pyogenic liver abscess from ascending cholangitis is most commonly caused by E coli in the US.",
     "whyCorrect": "Ascending cholangitis due to E coli is the most common cause of pyogenic (bacterial) liver abscess in the United States, consistent with multiple lesions and gram-negative bacteremia.",
     "whyWrongByChoice": {
-     "B": "S aureus abscesses arise from hematogenous seeding (e.g., endocarditis) but are not the most common US cause and are gram-positive cocci, not the gram-negative rod described.",
+     "A": "S aureus abscesses arise from hematogenous seeding (e.g., endocarditis) but are not the most common US cause and are gram-positive cocci, not the gram-negative rod described.",
      "C": "E histolytica is the most common cause outside the US and yields solitary lesions, not multiple septated collections from cholangitis.",
      "D": "Candida causes fungal abscesses in immunocompromised hosts, not the leading cause after cholangitis.",
      "E": "Bacteroides is a common anaerobic co-pathogen in polymicrobial pyogenic abscess but is not the single most common isolate and is not the gram-negative rod grown here."
@@ -1013,25 +1013,25 @@
     },
     {
      "label": "C",
-     "text": "CT-guided percutaneous drainage"
+     "text": "Echinocandin antifungal therapy"
     },
     {
      "label": "D",
-     "text": "Echinocandin antifungal therapy"
+     "text": "CT-guided percutaneous drainage"
     },
     {
      "label": "E",
      "text": "Observation with repeat imaging in 3 months"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Pyogenic liver abscess is managed with broad-spectrum antibiotics plus percutaneous drainage.",
     "whyCorrect": "Multiloculated bacterial (pyogenic) abscesses typically require CT-guided percutaneous drainage in addition to antibiotics, and drained fluid is cultured to guide targeted therapy.",
     "whyWrongByChoice": {
      "A": "Metronidazole/paromomycin treats amebic abscess, not a pyogenic abscess in a diabetic with multiloculated bacterial collections.",
      "B": "Triclabendazole treats fascioliasis, not a bacterial abscess.",
-     "D": "An echinocandin treats fungal (Candida) abscess in immunocompromised patients, not this bacterial abscess.",
+     "C": "An echinocandin treats fungal (Candida) abscess in immunocompromised patients, not this bacterial abscess.",
      "E": "Watchful observation is inappropriate for a symptomatic multiloculated pyogenic abscess that needs drainage."
     }
    },
@@ -1059,25 +1059,25 @@
     },
     {
      "label": "C",
-     "text": "Metronidazole then paromomycin"
+     "text": "Praziquantel then albendazole"
     },
     {
      "label": "D",
-     "text": "Praziquantel then albendazole"
+     "text": "Metronidazole then paromomycin"
     },
     {
      "label": "E",
      "text": "Metronidazole then azithromycin"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Amebic abscess requires a tissue amebicide followed by a luminal amebicide.",
     "whyCorrect": "Metronidazole (tissue amebicide) kills invasive trophozoites, and paromomycin (luminal amebicide) is given afterward to eradicate residual intestinal cysts and prevent relapse or transmission.",
     "whyWrongByChoice": {
      "A": "Ceftriaxone is an antibacterial agent with no activity against E histolytica.",
      "B": "Triclabendazole treats fascioliasis, not luminal amebic cysts.",
-     "D": "Praziquantel and albendazole are antihelminthics for flukes and other worms, not amebiasis.",
+     "C": "Praziquantel and albendazole are antihelminthics for flukes and other worms, not amebiasis.",
      "E": "Azithromycin is a macrolide antibiotic without reliable antiamebic activity and does not clear luminal cysts."
     }
    },
@@ -1104,25 +1104,25 @@
     },
     {
      "label": "C",
-     "text": "Entamoeba histolytica"
+     "text": "Fasciola hepatica"
     },
     {
      "label": "D",
-     "text": "Fasciola hepatica"
+     "text": "Entamoeba histolytica"
     },
     {
      "label": "E",
      "text": "Echinococcus granulosus"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Fascioliasis is acquired by eating cyst-bearing aquatic plants such as watercress and causes eosinophilia with hepatic migration.",
     "whyCorrect": "Fasciola hepatica is transmitted by ingesting metacercariae on aquatic plants (watercress); larvae penetrate the intestine and migrate through the liver, producing eosinophilia and hepatic tracks.",
     "whyWrongByChoice": {
      "A": "Clonorchis is acquired from raw freshwater fish, not aquatic plants.",
      "B": "Opisthorchis is also acquired from raw/undercooked fish, not watercress.",
-     "C": "E histolytica causes a solitary abscess from portal spread, not plant-borne larval migration with eosinophilia.",
+     "D": "E histolytica causes a solitary abscess from portal spread, not plant-borne larval migration with eosinophilia.",
      "E": "Echinococcus causes a hydatid cyst acquired from dog tapeworm eggs, not from watercress, and typically without prominent migratory eosinophilic hepatitis."
     }
    },
@@ -1142,34 +1142,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Hepatocellular carcinoma"
+     "text": "Cholangiocarcinoma"
     },
     {
      "label": "B",
-     "text": "Gallbladder adenocarcinoma"
+     "text": "Hepatocellular carcinoma"
     },
     {
      "label": "C",
-     "text": "Pancreatic adenocarcinoma"
+     "text": "Gallbladder adenocarcinoma"
     },
     {
      "label": "D",
-     "text": "Gastric adenocarcinoma"
+     "text": "Pancreatic adenocarcinoma"
     },
     {
      "label": "E",
-     "text": "Cholangiocarcinoma"
+     "text": "Gastric adenocarcinoma"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Clonorchis sinensis infection is a risk factor for cholangiocarcinoma.",
     "whyCorrect": "Chronic infection with the liver fluke Clonorchis sinensis (from raw freshwater fish) causes chronic biliary inflammation and is an established risk factor for cholangiocarcinoma, a bile duct malignancy.",
     "whyWrongByChoice": {
-     "A": "Hepatocellular carcinoma is linked to hepatitis B/C and cirrhosis, not liver fluke biliary infection.",
-     "B": "Gallbladder carcinoma is associated with gallstones and porcelain gallbladder, not Clonorchis.",
-     "C": "Pancreatic cancer is not the malignancy classically linked to liver flukes.",
-     "D": "Gastric cancer is associated with H pylori and dietary factors, not Clonorchis."
+     "B": "Hepatocellular carcinoma is linked to hepatitis B/C and cirrhosis, not liver fluke biliary infection.",
+     "C": "Gallbladder carcinoma is associated with gallstones and porcelain gallbladder, not Clonorchis.",
+     "D": "Pancreatic cancer is not the malignancy classically linked to liver flukes.",
+     "E": "Gastric cancer is associated with H pylori and dietary factors, not Clonorchis."
     }
    },
    "difficulty": "hard",
@@ -1196,26 +1196,26 @@
     },
     {
      "label": "C",
-     "text": "Parasite proteolytic digestion of hepatocytes and blood"
-    },
-    {
-     "label": "D",
      "text": "Cholesterol-rich bile leaking into the abscess"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Layered calcification of the abscess wall"
+    },
+    {
+     "label": "E",
+     "text": "Parasitic proteolysis of hepatocytes and blood"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Anchovy paste aspirate is characteristic of amebic abscess and reflects proteolytic tissue digestion.",
     "whyCorrect": "The reddish-brown anchovy paste material is produced by Entamoeba histolytica trophozoite proteases digesting hepatocytes and blood, liquefying the necrotic core.",
     "whyWrongByChoice": {
      "A": "Gas production reflects gas-forming bacteria, not the anchovy paste appearance.",
      "B": "Fungal abscesses form microabscesses and are not described as anchovy paste.",
-     "D": "Bile leakage does not produce the classic reddish-brown proteolytic aspirate.",
-     "E": "Wall calcification is a feature of chronic/hydatid disease, not the liquefied amebic aspirate."
+     "C": "Bile leakage does not produce the classic reddish-brown proteolytic aspirate.",
+     "D": "Wall calcification is a feature of chronic/hydatid disease, not the liquefied amebic aspirate."
     }
    },
    "difficulty": "medium",
@@ -1250,7 +1250,7 @@
     },
     {
      "label": "E",
-     "text": "Right lobe, because it contains about two thirds of liver mass"
+     "text": "Right lobe, because it contains two thirds of liver mass"
     }
    ],
    "correctAnswer": "E",
@@ -1284,11 +1284,11 @@
     },
     {
      "label": "B",
-     "text": "E histolytica antigen (or serologic) test"
+     "text": "Blood culture"
     },
     {
      "label": "C",
-     "text": "Blood culture"
+     "text": "E histolytica antigen (or serologic) test"
     },
     {
      "label": "D",
@@ -1299,13 +1299,13 @@
      "text": "Peripheral blood smear"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "E histolytica antigen/serologic testing is more accurate than stool microscopy for amebic abscess.",
     "whyCorrect": "An E histolytica antigen test (with supportive serology) has higher sensitivity and specificity than routine ova and parasite microscopy, which cannot reliably distinguish E histolytica from nonpathogenic species.",
     "whyWrongByChoice": {
      "A": "Routine stool O&P is nonspecific and often negative in extraintestinal amebic abscess.",
-     "C": "Blood cultures are useful for pyogenic abscess but do not detect E histolytica.",
+     "B": "Blood cultures are useful for pyogenic abscess but do not detect E histolytica.",
      "D": "Alkaline phosphatase is a nonspecific marker of hepatic abscess, not a confirmatory test for the organism.",
      "E": "Peripheral smear does not identify E histolytica; the parasite is not a blood-stage organism detected this way."
     }
@@ -1326,15 +1326,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "Metronidazole does not reliably clear residual intestinal cysts"
+     "text": "Metronidazole cannot penetrate liver abscess tissue"
     },
     {
      "label": "B",
-     "text": "Metronidazole cannot penetrate liver tissue"
+     "text": "Paromomycin provides better analgesia for RUQ pain"
     },
     {
      "label": "C",
-     "text": "Paromomycin provides better analgesia for RUQ pain"
+     "text": "Metronidazole does not reliably clear intestinal cysts"
     },
     {
      "label": "D",
@@ -1345,13 +1345,13 @@
      "text": "Metronidazole is ineffective against invasive trophozoites"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "A luminal amebicide is needed because metronidazole does not eradicate intestinal cysts.",
     "whyCorrect": "Metronidazole kills tissue-invading trophozoites but does not reliably clear luminal cysts, so paromomycin is added to eliminate residual intestinal cysts and prevent relapse and transmission.",
     "whyWrongByChoice": {
-     "B": "Metronidazole penetrates liver tissue well; that is precisely why it treats the abscess.",
-     "C": "Paromomycin is not an analgesic and is not added for pain control.",
+     "A": "Metronidazole penetrates liver tissue well; that is precisely why it treats the abscess.",
+     "B": "Paromomycin is not an analgesic and is not added for pain control.",
      "D": "Paromomycin acts within the intestinal lumen and does not chemically drain the abscess.",
      "E": "Metronidazole is effective against invasive trophozoites; its limitation is luminal cyst clearance."
     }
@@ -1422,30 +1422,30 @@
     },
     {
      "label": "B",
-     "text": "Miracidium in water"
+     "text": "Metacercaria on aquatic plants"
     },
     {
      "label": "C",
-     "text": "Adult worm in the bile duct"
+     "text": "Miracidium in water"
     },
     {
      "label": "D",
-     "text": "Cercaria emerging from the snail"
+     "text": "Adult worm in the bile duct"
     },
     {
      "label": "E",
-     "text": "Metacercaria on aquatic plants"
+     "text": "Cercaria emerging from the snail"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Humans are infected by ingesting metacercariae encysted on aquatic plants.",
     "whyCorrect": "The metacercaria is the infectious stage; it encysts on aquatic plants (or in fish for other flukes) and, once ingested, excysts in the small intestine and migrates to the liver.",
     "whyWrongByChoice": {
      "A": "Eggs are shed in feces to continue the cycle in water and are not infectious to humans by ingestion.",
-     "B": "Miracidia infect the snail intermediate host, not humans.",
-     "C": "Adult worms reside in the biliary tree of an already-infected host and are not the transmissible stage.",
-     "D": "Cercariae are released from snails and encyst as metacercariae; the cercaria itself is not the human-infective form for Fasciola."
+     "C": "Miracidia infect the snail intermediate host, not humans.",
+     "D": "Adult worms reside in the biliary tree of an already-infected host and are not the transmissible stage.",
+     "E": "Cercariae are released from snails and encyst as metacercariae; the cercaria itself is not the human-infective form for Fasciola."
     }
    },
    "difficulty": "medium",
@@ -1472,25 +1472,25 @@
     },
     {
      "label": "C",
-     "text": "Praziquantel"
+     "text": "Paromomycin"
     },
     {
      "label": "D",
-     "text": "Paromomycin"
+     "text": "Praziquantel"
     },
     {
      "label": "E",
      "text": "An echinocandin"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Praziquantel is the preferred treatment for clonorchiasis and opisthorchiasis.",
     "whyCorrect": "Praziquantel is preferred for clonorchiasis and opisthorchiasis; it causes rapid calcium influx and parasite immobilization.",
     "whyWrongByChoice": {
      "A": "Triclabendazole is the drug of choice for fascioliasis, not clonorchiasis.",
      "B": "Metronidazole treats amebiasis, not fluke infection.",
-     "D": "Paromomycin is a luminal amebicide, not an antihelminthic for flukes.",
+     "C": "Paromomycin is a luminal amebicide, not an antihelminthic for flukes.",
      "E": "Echinocandins treat fungal abscesses, not fluke infections."
     }
    },
@@ -1510,34 +1510,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Metronidazole followed by paromomycin"
+     "text": "Albendazole with careful cyst management"
     },
     {
      "label": "B",
-     "text": "Praziquantel monotherapy"
+     "text": "Metronidazole followed by paromomycin"
     },
     {
      "label": "C",
-     "text": "Broad-spectrum antibiotics and percutaneous drainage"
+     "text": "Praziquantel monotherapy"
     },
     {
      "label": "D",
-     "text": "Triclabendazole for two doses"
+     "text": "Broad-spectrum antibiotics and percutaneous drainage"
     },
     {
      "label": "E",
-     "text": "Albendazole with careful cyst management"
+     "text": "Triclabendazole for two doses"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Eggshell calcification with daughter cysts in a shepherd indicates a hydatid (Echinococcus) cyst, treated with albendazole and careful cyst management.",
     "whyCorrect": "Echinococcus granulosus hydatid disease presents as a calcified cyst with daughter cysts in sheep-associated exposures; albendazole is the antiparasitic backbone, with cyst management (e.g., PAIR or surgery) to avoid anaphylaxis from spillage.",
     "whyWrongByChoice": {
-     "A": "Metronidazole/paromomycin treats amebic abscess, not a calcified hydatid cyst.",
-     "B": "Praziquantel is used for flukes and adjunctively in some echinococcosis, but it is not the primary agent and is inadequate as monotherapy here.",
-     "C": "Antibiotics and simple drainage are for pyogenic abscess; uncontrolled aspiration of a hydatid cyst risks anaphylaxis and dissemination.",
-     "D": "Triclabendazole treats fascioliasis, not echinococcal cysts."
+     "B": "Metronidazole/paromomycin treats amebic abscess, not a calcified hydatid cyst.",
+     "C": "Praziquantel is used for flukes and adjunctively in some echinococcosis, but it is not the primary agent and is inadequate as monotherapy here.",
+     "D": "Antibiotics and simple drainage are for pyogenic abscess; uncontrolled aspiration of a hydatid cyst risks anaphylaxis and dissemination.",
+     "E": "Triclabendazole treats fascioliasis, not echinococcal cysts."
     }
    },
    "difficulty": "hard",
@@ -1556,34 +1556,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Amebic abscesses are usually solitary; pyogenic abscesses are often multiple"
-    },
-    {
-     "label": "B",
      "text": "Amebic abscesses are usually multiloculated; pyogenic abscesses are solitary"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Amebic abscesses almost always require surgical drainage; pyogenic rarely do"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Amebic abscesses preferentially involve the left lobe; pyogenic the right"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Amebic abscesses grow gram-negative rods on culture; pyogenic are sterile"
+    },
+    {
+     "label": "E",
+     "text": "Amebic abscesses are usually solitary; pyogenic abscesses are often multiple"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Amebic abscesses are typically solitary, whereas pyogenic abscesses are often multiple.",
     "whyCorrect": "A key distinguishing feature is that amebic abscesses are usually single/solitary while pyogenic abscesses are frequently multiple and multiloculated.",
     "whyWrongByChoice": {
-     "B": "This reverses the pattern; amebic abscesses are solitary and pyogenic are often multiloculated.",
-     "C": "Most amebic abscesses respond to metronidazole without drainage, while pyogenic abscesses commonly require drainage.",
-     "D": "Amebic abscesses favor the right lobe due to portal streaming, not the left.",
-     "E": "Amebic aspirate is typically sterile of bacteria (anchovy paste); pyogenic abscesses yield bacterial cultures."
+     "A": "This reverses the pattern; amebic abscesses are solitary and pyogenic are often multiloculated.",
+     "B": "Most amebic abscesses respond to metronidazole without drainage, while pyogenic abscesses commonly require drainage.",
+     "C": "Amebic abscesses favor the right lobe due to portal streaming, not the left.",
+     "D": "Amebic aspirate is typically sterile of bacteria (anchovy paste); pyogenic abscesses yield bacterial cultures."
     }
    },
    "difficulty": "medium",
@@ -1647,33 +1647,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Drug-induced hemolytic anemia"
+     "text": "Drug-induced immune hemolytic anemia"
     },
     {
      "label": "B",
-     "text": "Biliary obstruction from dead worms"
-    },
-    {
-     "label": "C",
      "text": "Acute pancreatitis from the drug"
     },
     {
+     "label": "C",
+     "text": "Biliary obstruction from dead worms"
+    },
+    {
      "label": "D",
-     "text": "Anaphylaxis from cyst rupture"
+     "text": "Anaphylaxis from hydatid cyst rupture"
     },
     {
      "label": "E",
-     "text": "Serotonin syndrome"
+     "text": "Serotonin syndrome from drug interaction"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Triclabendazole can precipitate biliary obstruction 7 to 10 days after treatment as dead flukes lodge in the ducts.",
     "whyCorrect": "After triclabendazole kills the flukes, dead worms and debris can obstruct the biliary tree roughly 7 to 10 days later, causing RUQ pain and jaundice.",
     "whyWrongByChoice": {
-     "A": "Hemolytic anemia is not the characteristic delayed complication of triclabendazole in fascioliasis.",
-     "C": "Pancreatitis is not the classically described post-triclabendazole event in this timeframe.",
-     "D": "Anaphylaxis from cyst rupture relates to hydatid disease, not triclabendazole therapy for Fasciola.",
+     "A": "Immune hemolytic anemia is not the characteristic delayed complication of triclabendazole in fascioliasis.",
+     "B": "Pancreatitis is not the classically described post-triclabendazole event in this timeframe.",
+     "D": "Anaphylaxis from hydatid cyst rupture relates to echinococcal disease, not triclabendazole therapy for Fasciola.",
      "E": "Serotonin syndrome is unrelated to antihelminthic therapy for liver flukes."
     }
    },
@@ -1693,33 +1693,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Vancomycin alone for gram-positive cocci"
+     "text": "Gram-negatives, anaerobes, and gram-positive cocci"
     },
     {
      "label": "B",
-     "text": "An agent active only against anaerobes"
+     "text": "Vancomycin monotherapy for gram-positive cocci"
     },
     {
      "label": "C",
-     "text": "Oral metronidazole plus paromomycin"
+     "text": "An agent active only against intestinal anaerobes"
     },
     {
      "label": "D",
-     "text": "Broad coverage of gram-negative rods, anaerobes, and gram-positive cocci"
+     "text": "Oral metronidazole plus luminal paromomycin"
     },
     {
      "label": "E",
-     "text": "Fluconazole for presumed Candida"
+     "text": "Fluconazole for presumed hepatic Candida"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Pyogenic abscesses are often polymicrobial, so empiric therapy must be broad.",
     "whyCorrect": "Because pyogenic liver abscesses of biliary/GI origin are frequently polymicrobial, empiric IV therapy must cover gram-negative rods, anaerobes, and gram-positive cocci until cultures guide narrowing.",
     "whyWrongByChoice": {
-     "A": "Vancomycin alone misses gram-negative rods and anaerobes central to biliary-source abscesses.",
-     "B": "Anaerobe-only coverage omits the gram-negative rods (e.g., E coli) that predominate.",
-     "C": "Metronidazole/paromomycin targets amebiasis, not a polymicrobial bacterial abscess.",
+     "B": "Vancomycin monotherapy misses gram-negative rods and anaerobes central to biliary-source abscesses.",
+     "C": "Anaerobe-only coverage omits the gram-negative rods (e.g., E coli) that predominate.",
+     "D": "Metronidazole plus paromomycin targets amebiasis, not a polymicrobial bacterial abscess.",
      "E": "Fluconazole targets fungi, which are not the cause of a typical biliary-source pyogenic abscess."
     }
    },
@@ -1751,14 +1751,14 @@
     },
     {
      "label": "D",
-     "text": "Up to 30 years"
+     "text": "Up to 60 years"
     },
     {
      "label": "E",
-     "text": "Up to 60 years"
+     "text": "Up to 30 years"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Liver flukes can remain dormant in the intrahepatic bile ducts for up to about 30 years.",
     "whyCorrect": "Liver flukes can persist and remain dormant in the intrahepatic bile ducts for up to roughly 30 years, explaining late presentations decades after exposure.",
@@ -1766,7 +1766,7 @@
      "A": "Six months greatly underestimates fluke persistence in the biliary tree.",
      "B": "Two years underestimates the up-to-30-year dormancy period.",
      "C": "Ten years is still short of the documented persistence of up to about 30 years.",
-     "E": "Sixty years exceeds the commonly cited up-to-30-year duration."
+     "D": "Sixty years exceeds the commonly cited up-to-30-year duration."
     }
    },
    "difficulty": "hard",
@@ -4572,26 +4572,26 @@
     },
     {
      "label": "C",
-     "text": "Entamoeba histolytica"
-    },
-    {
-     "label": "D",
      "text": "Trichuris trichiura"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Cystoisospora belli"
+    },
+    {
+     "label": "E",
+     "text": "Entamoeba histolytica"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Flask-shaped colonic ulcers (narrow neck, broad submucosal base) with erythrophagocytic trophozoites are pathognomonic for invasive intestinal amebiasis caused by Entamoeba histolytica.",
     "whyCorrect": "E. histolytica trophozoites penetrate beneath an intact surface epithelium and spread laterally in the submucosa, producing the characteristic flask-shaped ulcer; ingestion of red blood cells (erythrophagocytosis) marks the invasive, pathogenic form. The subacute course with bloody, mucus-laden stools and low-grade fever fits amebic dysentery.",
     "whyWrongByChoice": {
      "A": "Cryptosporidium causes watery, non-bloody diarrhea and resides in a brush-border vacuole; it does not form flask-shaped ulcers or ingest erythrocytes.",
      "B": "Cyclospora is a coccidian causing watery, non-bloody diarrhea without mucosal invasion or flask ulcers.",
-     "D": "Trichuris embeds whip-shaped adult worms in cecal mucosa and is diagnosed by barrel-shaped eggs, not flask-shaped ulcers with trophozoites.",
-     "E": "Cystoisospora causes watery diarrhea in a brush-border/enterocyte niche and shows large acid-fast oocysts, not invasive erythrophagocytic trophozoites."
+     "C": "Trichuris embeds whip-shaped adult worms in cecal mucosa and is diagnosed by barrel-shaped eggs, not flask-shaped ulcers with trophozoites.",
+     "D": "Cystoisospora causes watery diarrhea in a brush-border/enterocyte niche and shows large acid-fast oocysts, not invasive erythrophagocytic trophozoites."
     }
    }
   },
@@ -4607,11 +4607,11 @@
     },
     {
      "label": "B",
-     "text": "Metronidazole"
+     "text": "Iodoquinol"
     },
     {
      "label": "C",
-     "text": "Iodoquinol"
+     "text": "Metronidazole"
     },
     {
      "label": "D",
@@ -4622,13 +4622,13 @@
      "text": "Nitazoxanide"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Invasive E. histolytica requires a tissue-active agent (metronidazole or tinidazole) first, followed by a luminal agent to clear residual cysts.",
     "whyCorrect": "Metronidazole is the tissue-active agent that eliminates invasive trophozoites in the colonic wall and extraintestinal sites; it is given before a luminal agent to prevent relapse and ongoing transmission.",
     "whyWrongByChoice": {
      "A": "Paromomycin is a luminal agent used after the tissue-active drug to eradicate intraluminal cysts, not to kill invasive trophozoites.",
-     "C": "Iodoquinol is a luminal agent for cyst eradication, not for invasive tissue disease.",
+     "B": "Iodoquinol is a luminal agent for cyst eradication, not for invasive tissue disease.",
      "D": "Albendazole treats helminths such as Trichuris and Echinococcus, not amebiasis.",
      "E": "Nitazoxanide is used for coccidian (Cryptosporidium) diarrhea, not as the tissue-active agent for amebic dysentery."
     }
@@ -4642,11 +4642,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Cyclospora cayetanensis"
+     "text": "Cryptosporidium parvum"
     },
     {
      "label": "B",
-     "text": "Cryptosporidium parvum"
+     "text": "Cyclospora cayetanensis"
     },
     {
      "label": "C",
@@ -4661,12 +4661,12 @@
      "text": "Trichuris trichiura"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Small (4-6 micrometer), uniformly acid-fast oocysts with a self-limited waterborne watery diarrhea in an immunocompetent host indicate Cryptosporidium.",
     "whyCorrect": "Cryptosporidium oocysts are the smallest of the coccidians (4-6 micrometer) and stain uniformly acid-fast; the organism is resistant to chlorination, causing large waterborne outbreaks with self-limited watery diarrhea in immunocompetent hosts.",
     "whyWrongByChoice": {
-     "A": "Cyclospora oocysts are larger (8-10 micrometer), stain variably, and autofluoresce; they are produce-associated rather than classically waterborne through municipal supplies.",
+     "B": "Cyclospora oocysts are larger (8-10 micrometer), stain variably, and autofluoresce; they are produce-associated rather than classically waterborne through municipal supplies.",
      "C": "Entamoeba causes bloody, mucus-laden dysentery with trophozoites/cysts, not small acid-fast oocysts.",
      "D": "Cystoisospora oocysts are large (20-33 micrometer) and ellipsoidal, not small and round.",
      "E": "Trichuris is a helminth diagnosed by barrel-shaped eggs, not acid-fast oocysts."
@@ -4693,14 +4693,14 @@
     },
     {
      "label": "D",
-     "text": "Mebendazole"
+     "text": "Antiretroviral therapy"
     },
     {
      "label": "E",
-     "text": "Antiretroviral therapy"
+     "text": "Mebendazole"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Cryptosporidiosis in advanced AIDS persists until immune reconstitution; restoring CD4 counts with antiretroviral therapy is the critical intervention.",
     "whyCorrect": "In advanced AIDS, Cryptosporidium causes chronic severe diarrhea that may persist indefinitely without immune reconstitution; antiretroviral therapy to restore CD4 counts is the most important intervention.",
@@ -4708,7 +4708,7 @@
      "A": "Nitazoxanide can shorten illness in immunocompetent hosts but is unreliable in advanced AIDS without immune recovery.",
      "B": "Oral vancomycin treats Clostridioides difficile, not cryptosporidiosis.",
      "C": "Metronidazole targets amebiasis, not Cryptosporidium.",
-     "D": "Mebendazole treats intestinal helminths, not a coccidian protozoan."
+     "E": "Mebendazole treats intestinal helminths, not a coccidian protozoan."
     }
    }
   },
@@ -4728,26 +4728,26 @@
     },
     {
      "label": "C",
-     "text": "Entamoeba histolytica"
+     "text": "Cyclospora cayetanensis"
     },
     {
      "label": "D",
-     "text": "Trichuris trichiura"
+     "text": "Entamoeba histolytica"
     },
     {
      "label": "E",
-     "text": "Cyclospora cayetanensis"
+     "text": "Trichuris trichiura"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Produce-associated, relapsing watery diarrhea with variably acid-fast, UV-autofluorescent oocysts is characteristic of Cyclospora cayetanensis.",
     "whyCorrect": "Cyclospora is transmitted by contaminated fresh produce (berries, greens, herbs), classically in travelers to Latin America; its 8-10 micrometer oocysts stain variably acid-fast and autofluoresce under UV, and untreated infection causes a relapsing course that waxes and wanes.",
     "whyWrongByChoice": {
      "A": "Cryptosporidium oocysts stain uniformly acid-fast and do not autofluoresce; it is classically waterborne.",
      "B": "Cystoisospora oocysts are large and distinctly (not variably) acid-fast and do not autofluoresce.",
-     "C": "Entamoeba causes bloody dysentery with trophozoites/cysts, not autofluorescent oocysts.",
-     "D": "Trichuris is a helminth diagnosed by barrel-shaped eggs, not oocysts."
+     "D": "Entamoeba causes bloody dysentery with trophozoites/cysts, not autofluorescent oocysts.",
+     "E": "Trichuris is a helminth diagnosed by barrel-shaped eggs, not oocysts."
     }
    }
   },
@@ -4759,11 +4759,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Cryptosporidium parvum"
+     "text": "Cystoisospora belli"
     },
     {
      "label": "B",
-     "text": "Cystoisospora belli"
+     "text": "Cryptosporidium parvum"
     },
     {
      "label": "C",
@@ -4778,12 +4778,12 @@
      "text": "Trichuris trichiura"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Large ellipsoidal acid-fast oocysts plus peripheral eosinophilia (unusual among coccidians) point to Cystoisospora belli.",
     "whyCorrect": "Cystoisospora belli oocysts are the largest coccidian oocysts (20-33 micrometer), ellipsoidal and distinctly acid-fast; peripheral eosinophilia is a distinguishing clue unique to this coccidian and is classically seen with chronic watery diarrhea in HIV patients.",
     "whyWrongByChoice": {
-     "A": "Cryptosporidium oocysts are small (4-6 micrometer) and are not associated with eosinophilia.",
+     "B": "Cryptosporidium oocysts are small (4-6 micrometer) and are not associated with eosinophilia.",
      "C": "Cyclospora oocysts are intermediate (8-10 micrometer) and autofluoresce; eosinophilia is not its hallmark.",
      "D": "Entamoeba causes bloody dysentery, not watery diarrhea with acid-fast oocysts.",
      "E": "Trichuris is a helminth (can cause anemia) diagnosed by eggs, not acid-fast oocysts."
@@ -4798,15 +4798,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "Trichuriasis"
-    },
-    {
-     "label": "B",
      "text": "Cryptosporidiosis"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Amebiasis"
+    },
+    {
+     "label": "C",
+     "text": "Trichuriasis"
     },
     {
      "label": "D",
@@ -4817,13 +4817,13 @@
      "text": "Echinococcosis"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Chronic heavy whipworm infection in a child produces diarrhea, iron-deficiency anemia, growth delay, and rectal prolapse, diagnosed by barrel-shaped eggs with bipolar plugs.",
     "whyCorrect": "Trichuris trichiura (whipworm) heavy infection classically causes chronic diarrhea, anemia, growth delay, and rectal prolapse from straining; the barrel-shaped (lemon-shaped) bile-stained eggs with clear bipolar plugs on stool exam are diagnostic.",
     "whyWrongByChoice": {
-     "B": "Cryptosporidiosis causes acute or chronic watery diarrhea with acid-fast oocysts, not egg-forming worms or rectal prolapse.",
-     "C": "Amebiasis causes bloody, mucus-laden dysentery with trophozoites/cysts, not barrel-shaped eggs.",
+     "A": "Cryptosporidiosis causes acute or chronic watery diarrhea with acid-fast oocysts, not egg-forming worms or rectal prolapse.",
+     "B": "Amebiasis causes bloody, mucus-laden dysentery with trophozoites/cysts, not barrel-shaped eggs.",
      "D": "Cystoisosporiasis causes watery diarrhea with large acid-fast oocysts, not eggs with bipolar plugs.",
      "E": "Echinococcosis causes hepatic/pulmonary cysts, not an egg-passing intestinal infection with prolapse."
     }
@@ -4845,25 +4845,25 @@
     },
     {
      "label": "C",
-     "text": "Praziquantel"
+     "text": "Albendazole"
     },
     {
      "label": "D",
-     "text": "Albendazole"
+     "text": "Praziquantel"
     },
     {
      "label": "E",
      "text": "Nitazoxanide"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Trichuriasis is treated with a benzimidazole such as albendazole (or mebendazole).",
     "whyCorrect": "Albendazole is the first-line anthelmintic for Trichuris trichiura, often as a single dose; ivermectin may be added in heavy infections.",
     "whyWrongByChoice": {
      "A": "Metronidazole treats amebiasis and other protozoa, not whipworm.",
      "B": "Trimethoprim-sulfamethoxazole treats the coccidians Cyclospora and Cystoisospora, not a nematode.",
-     "C": "Praziquantel treats flukes and most tapeworms, but not Trichuris and not the treatment of choice here.",
+     "D": "Praziquantel treats flukes and most tapeworms, but not Trichuris and not the treatment of choice here.",
      "E": "Nitazoxanide is used for Cryptosporidium, not for whipworm."
     }
    }
@@ -4876,33 +4876,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Echinococcus granulosus"
-    },
-    {
-     "label": "B",
      "text": "Echinococcus multilocularis"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Entamoeba histolytica"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Trichuris trichiura"
+    },
+    {
+     "label": "D",
+     "text": "Echinococcus granulosus"
     },
     {
      "label": "E",
      "text": "Cryptosporidium parvum"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "A single, well-defined, calcified unilocular hepatic hydatid cyst in a sheep-raising region indicates cystic echinococcosis from E. granulosus.",
     "whyCorrect": "E. granulosus produces a single (unilocular), well-defined, slow-growing hydatid cyst that may calcify; it is most common in sheep-raising regions where dogs are the definitive host, and humans acquire it by ingesting eggs from dog feces.",
     "whyWrongByChoice": {
-     "B": "E. multilocularis produces an infiltrative, multi-vesicular, tumor-like lesion, not a single well-defined cyst.",
-     "C": "Entamoeba can cause a liver abscess, but that is a pus-filled cavity, not a calcified unilocular hydatid cyst.",
-     "D": "Trichuris is an intestinal nematode and does not form hepatic cysts.",
+     "A": "E. multilocularis produces an infiltrative, multi-vesicular, tumor-like lesion, not a single well-defined cyst.",
+     "B": "Entamoeba can cause a liver abscess, but that is a pus-filled cavity, not a calcified unilocular hydatid cyst.",
+     "C": "Trichuris is an intestinal nematode and does not form hepatic cysts.",
      "E": "Cryptosporidium is an intestinal coccidian and does not form hepatic cysts."
     }
    }
@@ -4915,11 +4915,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Anaphylactic reaction"
+     "text": "Portal vein thrombosis"
     },
     {
      "label": "B",
-     "text": "Portal vein thrombosis"
+     "text": "Anaphylactic reaction"
     },
     {
      "label": "C",
@@ -4934,12 +4934,12 @@
      "text": "Variceal hemorrhage"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Spillage of hydatid cyst contents during aspiration can trigger life-threatening anaphylaxis (and peritoneal dissemination).",
     "whyCorrect": "Cyst fluid is highly antigenic; leakage during unprotected aspiration or rupture can provoke a severe anaphylactic reaction, as well as peritoneal seeding of protoscolices, which is why aspiration requires appropriate precautions.",
     "whyWrongByChoice": {
-     "B": "Portal vein thrombosis is not the characteristic hazard of hydatid cyst aspiration.",
+     "A": "Portal vein thrombosis is not the characteristic hazard of hydatid cyst aspiration.",
      "C": "Hepatic encephalopathy results from liver failure/portosystemic shunting, not cyst spillage.",
      "D": "Bile duct stricture is not the immediate feared complication of aspiration.",
      "E": "Variceal hemorrhage relates to portal hypertension, not to spillage of cyst antigen."
@@ -4958,29 +4958,29 @@
     },
     {
      "label": "B",
-     "text": "Barrel-shaped eggs with bipolar plugs"
+     "text": "Trophozoites containing ingested erythrocytes"
     },
     {
      "label": "C",
-     "text": "Acid-fast oocysts 4-6 micrometer in size"
+     "text": "Barrel-shaped eggs with bipolar plugs"
     },
     {
      "label": "D",
-     "text": "Trophozoites containing ingested erythrocytes"
+     "text": "Acid-fast oocysts 4-6 micrometer in size"
     },
     {
      "label": "E",
      "text": "Motile flagellated pear-shaped organisms"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Erythrophagocytosis (trophozoites with ingested red blood cells) marks invasive E. histolytica.",
     "whyCorrect": "Trophozoites actively ingesting red blood cells indicate tissue-invasive E. histolytica, distinguishing it from noninvasive organisms; the vegetative motile trophozoite is the invasive form.",
     "whyWrongByChoice": {
      "A": "UV autofluorescent oocysts describe Cyclospora, a coccidian, not Entamoeba.",
-     "B": "Barrel-shaped eggs with bipolar plugs describe Trichuris, a helminth.",
-     "C": "Small acid-fast oocysts describe Cryptosporidium, not Entamoeba.",
+     "C": "Barrel-shaped eggs with bipolar plugs describe Trichuris, a helminth.",
+     "D": "Small acid-fast oocysts describe Cryptosporidium, not Entamoeba.",
      "E": "Flagellated pear-shaped organisms describe Giardia, not the amebic trophozoite."
     }
    }
@@ -4993,34 +4993,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Gradual onset with low-grade fever"
+     "text": "Abrupt onset, high fever"
     },
     {
      "label": "B",
-     "text": "High fever and abrupt onset"
-    },
-    {
-     "label": "C",
      "text": "Watery, non-bloody diarrhea"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Prominent systemic toxicity"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Pharyngeal mucosal involvement"
+    },
+    {
+     "label": "E",
+     "text": "Gradual onset, low-grade fever"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Amebic dysentery is subacute with low or absent fever, whereas bacterial dysentery is acute with high fever and systemic toxicity.",
     "whyCorrect": "Amebic dysentery has a gradual, subacute onset over days to weeks with low-grade or absent fever, while still producing bloody, mucus-containing stools; this contrasts with the abrupt, febrile, toxic presentation of bacterial dysentery.",
     "whyWrongByChoice": {
-     "B": "High fever and abrupt onset favor bacterial dysentery, not amebic.",
-     "C": "Watery, non-bloody diarrhea suggests coccidians; amebic dysentery is bloody and mucoid.",
-     "D": "Prominent systemic toxicity is characteristic of bacterial infection.",
-     "E": "Pharyngeal involvement is unrelated to intestinal amebiasis."
+     "A": "High fever and abrupt onset favor bacterial dysentery, not amebic.",
+     "B": "Watery, non-bloody diarrhea suggests coccidians; amebic dysentery is bloody and mucoid.",
+     "C": "Prominent systemic toxicity is characteristic of bacterial infection.",
+     "D": "Pharyngeal involvement is unrelated to intestinal amebiasis."
     }
    }
   },
@@ -5032,33 +5032,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "It is immediately infective when shed"
+     "text": "It is fully infective the moment it is shed"
     },
     {
      "label": "B",
-     "text": "It requires environmental sporulation before becoming infective"
+     "text": "It actively invades the colonic mucosa"
     },
     {
      "label": "C",
-     "text": "It invades the colonic mucosa"
-    },
-    {
-     "label": "D",
      "text": "It forms a brush-border parasitophorous vacuole"
     },
     {
+     "label": "D",
+     "text": "It requires environmental sporulation to infect"
+    },
+    {
      "label": "E",
-     "text": "It is resistant to standard chlorination"
+     "text": "It is resistant to standard water chlorination"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Cyclospora oocysts must sporulate in the environment (about a week) before becoming infective, preventing person-to-person spread.",
     "whyCorrect": "Because Cyclospora oocysts are shed unsporulated and require days to weeks of environmental maturation to become infective, direct person-to-person transmission does not occur; spread is via contaminated food or water.",
     "whyWrongByChoice": {
      "A": "Immediate infectivity when shed describes Cryptosporidium, which does allow person-to-person spread.",
-     "C": "Cyclospora does not invade the colonic mucosa; that describes Entamoeba.",
-     "D": "The brush-border parasitophorous vacuole describes Cryptosporidium, not Cyclospora.",
+     "B": "Cyclospora does not invade the colonic mucosa; that describes Entamoeba.",
+     "C": "The brush-border parasitophorous vacuole describes Cryptosporidium, not Cyclospora.",
      "E": "Chlorine resistance is a property of Cryptosporidium and does not explain lack of person-to-person spread."
     }
    }
@@ -5071,34 +5071,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Free within the colonic lumen"
+     "text": "Free-floating within the open colonic lumen"
     },
     {
      "label": "B",
-     "text": "Deep within the submucosa"
+     "text": "Deep within the intestinal submucosal layer"
     },
     {
      "label": "C",
-     "text": "Intracellular but extracytoplasmic in a brush-border vacuole"
+     "text": "Inside the cytoplasm of the enterocyte cell"
     },
     {
      "label": "D",
-     "text": "Inside the enterocyte cytoplasm"
+     "text": "Within the hepatic sinusoidal capillaries of the liver"
     },
     {
      "label": "E",
-     "text": "Within hepatic sinusoidal capillaries"
+     "text": "Intracellular but extracytoplasmic at the brush border"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Cryptosporidium sits in a parasitophorous vacuole at the brush border, making it intracellular yet extracytoplasmic.",
     "whyCorrect": "Cryptosporidium sporozoites invade epithelial cells but remain surrounded by a host-cell membrane at the apical brush border, so they are intracellular but extracytoplasmic within a parasitophorous vacuole.",
     "whyWrongByChoice": {
      "A": "It is not free in the lumen; it is enclosed by host membrane at the brush border.",
      "B": "It does not invade deep into the submucosa; that pattern fits invasive amebiasis.",
-     "D": "It is not free within the enterocyte cytoplasm; it stays in a membrane-bound vacuole outside the cytoplasm.",
-     "E": "Hepatic sinusoidal capillaries describe implantation sites for Echinococcus larvae, not Cryptosporidium."
+     "C": "It is not free within the enterocyte cytoplasm; it stays in a membrane-bound vacuole outside the cytoplasm.",
+     "D": "Hepatic sinusoidal capillaries describe implantation sites for Echinococcus larvae, not Cryptosporidium."
     }
    }
   },
@@ -5110,33 +5110,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Penetration of intact skin by larvae"
+     "text": "Ingestion of embryonated eggs from soil or food"
     },
     {
      "label": "B",
-     "text": "Bite of an infected arthropod vector"
+     "text": "Penetration of intact skin by filariform larvae"
     },
     {
      "label": "C",
-     "text": "Ingestion of undercooked pork containing cysts"
+     "text": "Transmission by an infected arthropod vector"
     },
     {
      "label": "D",
-     "text": "Ingestion of embryonated eggs from contaminated soil or food"
+     "text": "Ingestion of undercooked pork containing cysts"
     },
     {
      "label": "E",
-     "text": "Inhalation of aerosolized oocysts"
+     "text": "Inhalation of aerosolized infective oocysts"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Trichuris is a soil-transmitted helminth acquired by ingesting embryonated eggs (fecal-oral, similar to Ascaris).",
     "whyCorrect": "Transmission occurs by ingestion of food, water, or soil contaminated with embryonated eggs; the eggs then hatch in the small intestine before the worms mature and migrate to the colon.",
     "whyWrongByChoice": {
-     "A": "Skin penetration by larvae describes hookworm and Strongyloides, not Trichuris.",
-     "B": "Arthropod vectors do not transmit whipworm.",
-     "C": "Ingestion of pork cysts describes Taenia solium, not Trichuris.",
+     "B": "Skin penetration by larvae describes hookworm and Strongyloides, not Trichuris.",
+     "C": "Arthropod vectors do not transmit whipworm.",
+     "D": "Ingestion of pork cysts describes Taenia solium, not Trichuris.",
      "E": "Inhalation of oocysts is not a route for this soil-transmitted nematode."
     }
    }
@@ -5157,18 +5157,18 @@
     },
     {
      "label": "C",
-     "text": "Bite of an infected sandfly"
+     "text": "Transmission by an infected sandfly bite"
     },
     {
      "label": "D",
-     "text": "Drinking water contaminated with acid-fast oocysts"
+     "text": "Ingestion of eggs shed in dog or fox feces"
     },
     {
      "label": "E",
-     "text": "Ingestion of eggs shed in the feces of infected dogs or foxes"
+     "text": "Drinking water contaminated with acid-fast oocysts"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Humans are accidental intermediate hosts infected by ingesting Echinococcus eggs from the feces of definitive canid hosts.",
     "whyCorrect": "Dogs and other canids (and foxes for E. multilocularis) are the definitive hosts; humans become infected by ingesting eggs shed in canid feces through close animal contact or contaminated food, water, or soil, and are dead-end intermediate hosts.",
@@ -5176,7 +5176,7 @@
      "A": "Skin penetration by larvae describes hookworm/Strongyloides, not Echinococcus.",
      "B": "Undercooked beef with cysts describes Taenia saginata, not Echinococcus.",
      "C": "Sandfly bite transmits Leishmania, not Echinococcus.",
-     "D": "Acid-fast oocysts in water describe coccidians such as Cryptosporidium, not Echinococcus eggs."
+     "E": "Acid-fast oocysts in water describe coccidians such as Cryptosporidium, not Echinococcus eggs."
     }
    }
   },
@@ -5196,26 +5196,26 @@
     },
     {
      "label": "C",
-     "text": "Echinococcus multilocularis"
-    },
-    {
-     "label": "D",
      "text": "Cyclospora cayetanensis"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Cystoisospora belli"
+    },
+    {
+     "label": "E",
+     "text": "Echinococcus multilocularis"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "An infiltrative, tumor-like, tissue-destroying hepatic lesion (alveolar echinococcosis) is caused by E. multilocularis.",
     "whyCorrect": "E. multilocularis grows in an invasive, infiltrative pattern resembling a malignancy, progressively destroying liver tissue; it circulates among foxes/coyotes and rodents in Central Europe, Alaska, Canada, and the upper midwestern US, and carries higher mortality if untreated.",
     "whyWrongByChoice": {
      "A": "E. granulosus forms a single, well-defined unilocular cyst, not an infiltrative tumor-like lesion.",
      "B": "Entamoeba can cause a liver abscess but not an infiltrative multi-vesicular tumor-like mass.",
-     "D": "Cyclospora is an intestinal coccidian, not a cause of hepatic mass lesions.",
-     "E": "Cystoisospora is an intestinal coccidian and does not form hepatic lesions."
+     "C": "Cyclospora is an intestinal coccidian, not a cause of hepatic mass lesions.",
+     "D": "Cystoisospora is an intestinal coccidian and does not form hepatic lesions."
     }
    }
   },
@@ -5227,34 +5227,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Trophozoites are destroyed during staining"
+     "text": "Motile trophozoites are destroyed during staining"
     },
     {
      "label": "B",
-     "text": "Cysts cannot be seen without acid-fast stain"
+     "text": "Nonpathogenic E. dispar is morphologically identical"
     },
     {
      "label": "C",
-     "text": "Microscopy cannot detect erythrophagocytosis"
+     "text": "Cysts cannot be seen without acid-fast stain"
     },
     {
      "label": "D",
-     "text": "Trophozoites autofluoresce under ultraviolet light"
+     "text": "Microscopy cannot detect erythrophagocytosis"
     },
     {
      "label": "E",
-     "text": "Nonpathogenic E. dispar is morphologically identical"
+     "text": "Trophozoites autofluoresce blue under ultraviolet light"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "E. histolytica is morphologically indistinguishable from nonpathogenic E. dispar, so antigen detection or PCR is preferred for species-level diagnosis.",
     "whyCorrect": "Because the nonpathogenic E. dispar looks identical to E. histolytica under the microscope, antigen detection or PCR is required to confirm the pathogenic species and avoid misdiagnosis.",
     "whyWrongByChoice": {
      "A": "Loss of trophozoites during staining is not the reason molecular testing is preferred.",
-     "B": "Amebic cysts are seen on routine stool microscopy and do not require acid-fast staining.",
-     "C": "Erythrophagocytosis can in fact be seen on microscopy; the limitation is species overlap with E. dispar.",
-     "D": "Amebic trophozoites do not autofluoresce; that property belongs to Cyclospora."
+     "C": "Amebic cysts are seen on routine stool microscopy and do not require acid-fast staining.",
+     "D": "Erythrophagocytosis can in fact be seen on microscopy; the limitation is species overlap with E. dispar.",
+     "E": "Amebic trophozoites do not autofluoresce; that property belongs to Cyclospora."
     }
    }
   },
@@ -5270,29 +5270,29 @@
     },
     {
      "label": "B",
-     "text": "Albendazole"
+     "text": "Co-trimoxazole"
     },
     {
      "label": "C",
-     "text": "Praziquantel"
+     "text": "Albendazole"
     },
     {
      "label": "D",
-     "text": "Trimethoprim-sulfamethoxazole"
+     "text": "Praziquantel"
     },
     {
      "label": "E",
      "text": "Paromomycin"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Both Cyclospora and Cystoisospora respond well to trimethoprim-sulfamethoxazole.",
     "whyCorrect": "Trimethoprim-sulfamethoxazole is highly effective against Cystoisospora belli (and Cyclospora), making it the treatment of choice.",
     "whyWrongByChoice": {
      "A": "Metronidazole treats amebiasis and other protozoa but is not the drug for Cystoisospora.",
-     "B": "Albendazole treats helminths such as Trichuris and Echinococcus, not this coccidian.",
-     "C": "Praziquantel treats flukes and tapeworms, not Cystoisospora.",
+     "C": "Albendazole treats helminths such as Trichuris and Echinococcus, not this coccidian.",
+     "D": "Praziquantel treats flukes and tapeworms, not Cystoisospora.",
      "E": "Paromomycin is a luminal agent for amebic cysts, not the treatment for Cystoisospora."
     }
    }
@@ -5305,15 +5305,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "Small-volume bloody stools with tenesmus"
+     "text": "Watery, non-bloody diarrhea"
     },
     {
      "label": "B",
-     "text": "Mucus-laden stools with flask-shaped ulcers"
+     "text": "Small-volume bloody stools with tenesmus"
     },
     {
      "label": "C",
-     "text": "Watery, non-bloody diarrhea"
+     "text": "Mucus-laden stools with flask-shaped ulcers"
     },
     {
      "label": "D",
@@ -5324,13 +5324,13 @@
      "text": "Rice-water stools with severe dehydration"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "The coccidians characteristically cause watery, non-bloody diarrhea from disruption of absorptive function rather than tissue invasion.",
     "whyCorrect": "Cryptosporidium, Cyclospora, and Cystoisospora all cause watery, non-bloody diarrhea because disease results from disruption of normal absorptive function at the brush border/enterocyte rather than deep mucosal invasion.",
     "whyWrongByChoice": {
-     "A": "Small-volume bloody stools with tenesmus describe invasive dysentery (amebic or bacterial), not coccidians.",
-     "B": "Mucus-laden stools with flask-shaped ulcers describe E. histolytica.",
+     "B": "Small-volume bloody stools with tenesmus describe invasive dysentery (amebic or bacterial), not coccidians.",
+     "C": "Mucus-laden stools with flask-shaped ulcers describe E. histolytica.",
      "D": "Steatorrhea with visible worm segments suggests helminthic disease, not coccidians.",
      "E": "Rice-water stools describe cholera, not coccidian infection."
     }

@@ -6521,34 +6521,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Propelling a bolus toward the rectum"
+     "text": "Maintaining a closed barrier between regions"
     },
     {
      "label": "B",
-     "text": "Mixing chyme with digestive enzymes"
+     "text": "Propelling a bolus aborally toward the rectum"
     },
     {
      "label": "C",
-     "text": "Generating rhythmic segmentation waves"
+     "text": "Mixing chyme with digestive secretions"
     },
     {
      "label": "D",
-     "text": "Accelerating emptying of the stomach"
+     "text": "Generating rhythmic segmentation waves"
     },
     {
      "label": "E",
-     "text": "Maintaining a closed barrier between compartments"
+     "text": "Accelerating gastric emptying of chyme"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Tonic contractions are sustained (minutes to hours) contractions that maintain steady tension, ideally suited to sphincters that must remain closed to regulate compartmental flow.",
     "whyCorrect": "The brick states tonic contractions persist without significant relaxation and are concentrated at sphincters to maintain a baseline closed state, providing barrier maintenance between GI compartments.",
     "whyWrongByChoice": {
-     "A": "Propulsion of content aborally is a role of phasic contractions (peristalsis), not sustained tonic tone.",
-     "B": "Mixing chyme with enzymes is achieved by phasic segmentation, not by sustained tonic contraction.",
-     "C": "Segmentation waves are rhythmic phasic contractions driven by discrete electrical events, the opposite of sustained tonic tone.",
-     "D": "Accelerating gastric emptying requires phasic antral contractions; tonic sphincter tone actually restrains flow."
+     "B": "Propelling a bolus aborally is a role of phasic contractions (peristalsis), not sustained tonic tone.",
+     "C": "Mixing chyme with secretions is achieved by phasic segmentation, not by sustained tonic contraction.",
+     "D": "Segmentation waves are rhythmic phasic contractions driven by discrete electrical events, the opposite of sustained tonic tone.",
+     "E": "Accelerating gastric emptying requires phasic antral contractions; tonic sphincter tone actually restrains flow."
     }
    }
   },
@@ -6599,34 +6599,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Acetylcholine and substance P"
+     "text": "Acetylcholine and the tachykinin substance P"
     },
     {
      "label": "B",
-     "text": "Nitric oxide and vasoactive intestinal peptide"
+     "text": "Norepinephrine and sympathetic neuropeptide Y"
     },
     {
      "label": "C",
-     "text": "Norepinephrine and neuropeptide Y"
+     "text": "Serotonin and mast-cell-derived histamine"
     },
     {
      "label": "D",
-     "text": "Serotonin and histamine"
+     "text": "Dopamine and hypothalamic somatostatin"
     },
     {
      "label": "E",
-     "text": "Dopamine and somatostatin"
+     "text": "Nitric oxide and vasoactive intestinal peptide"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Swallow-induced LES relaxation is mediated by vagal inhibitory (NANC) neurons that release nitric oxide (NO) and vasoactive intestinal peptide (VIP).",
     "whyCorrect": "The brick states the LES relaxes in response to swallowing via vagal inhibitory neurons that release nitric oxide and vasoactive intestinal peptide, allowing food into the stomach.",
     "whyWrongByChoice": {
-     "A": "Acetylcholine and substance P are excitatory transmitters that contract, rather than relax, GI smooth muscle.",
-     "C": "Norepinephrine hyperpolarizes muscle but is a sympathetic transmitter, not the vagal mediator of swallow-induced LES relaxation described here.",
-     "D": "Serotonin enhances motility broadly and histamine is not the mediator of LES relaxation.",
-     "E": "Dopamine and somatostatin are not the neurotransmitters responsible for swallow-triggered LES relaxation."
+     "A": "Acetylcholine and the tachykinin substance P are excitatory transmitters that contract, rather than relax, GI smooth muscle.",
+     "B": "Norepinephrine hyperpolarizes muscle but is a sympathetic transmitter (with neuropeptide Y), not the vagal mediator of swallow-induced LES relaxation described here.",
+     "C": "Serotonin enhances motility broadly and mast-cell histamine is not the mediator of LES relaxation.",
+     "D": "Dopamine and somatostatin are not the neurotransmitters responsible for swallow-triggered LES relaxation."
     }
    }
   },
@@ -6638,11 +6638,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Loss of myenteric neurons that release NO and VIP"
+     "text": "Excessively frequent transient LES relaxations"
     },
     {
      "label": "B",
-     "text": "Excessively frequent transient LES relaxations"
+     "text": "Loss of myenteric neurons that release NO and VIP"
     },
     {
      "label": "C",
@@ -6657,12 +6657,12 @@
      "text": "Hypertrophy of the pyloric sphincter muscle"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Achalasia results from loss of inhibitory NANC myenteric neurons that normally release NO and VIP, so the LES cannot relax during swallowing.",
     "whyCorrect": "The brick attributes achalasia to loss of inhibitory NANC neurons in the myenteric plexus that release NO and VIP; without this signal the LES fails to relax, producing dysphagia to solids and liquids, elevated resting pressure, and 'bird's beak' tapering.",
     "whyWrongByChoice": {
-     "B": "Frequent transient LES relaxations underlie GERD, which causes reflux, not failure of relaxation with dysphagia.",
+     "A": "Frequent transient LES relaxations underlie GERD, which causes reflux, not failure of relaxation with dysphagia.",
      "C": "Parietal cell destruction causes achlorhydria/pernicious anemia, not impaired LES relaxation.",
      "D": "A peptic stricture from reflux causes mechanical narrowing but not the incomplete relaxation/elevated pressure pattern of loss of inhibitory neurons.",
      "E": "Pyloric hypertrophy affects gastric outlet, not lower esophageal sphincter relaxation."
@@ -6681,7 +6681,7 @@
     },
     {
      "label": "B",
-     "text": "Abnormally frequent transient LES relaxations"
+     "text": "Inappropriate transient LES relaxations"
     },
     {
      "label": "C",
@@ -6716,34 +6716,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Enterochromaffin cells"
+     "text": "Mucosal enterochromaffin cells"
     },
     {
      "label": "B",
-     "text": "Interstitial cells of Cajal"
+     "text": "Acid-secreting parietal cells"
     },
     {
      "label": "C",
-     "text": "Gastric parietal cells"
+     "text": "Mucus-secreting goblet cells"
     },
     {
      "label": "D",
-     "text": "Intestinal goblet cells"
+     "text": "Somatic alpha motor neurons"
     },
     {
      "label": "E",
-     "text": "Alpha motor neurons"
+     "text": "Interstitial cells of Cajal"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Interstitial cells of Cajal (ICCs) are the pacemaker cells that generate slow waves (the basic electrical rhythm) setting the tempo of GI phasic contractions.",
     "whyCorrect": "The brick identifies ICCs, located in the myenteric plexus and smooth muscle layers, as the pacemaker cells generating slow waves that set the tempo of phasic contractions throughout the gut.",
     "whyWrongByChoice": {
-     "A": "Enterochromaffin cells secrete serotonin; they do not generate the pacemaker slow waves.",
-     "C": "Parietal cells secrete gastric acid and have no pacemaker role.",
-     "D": "Goblet cells secrete mucus and are unrelated to electrical rhythm generation.",
-     "E": "Alpha motor neurons drive skeletal muscle at the neuromuscular junction, not GI smooth-muscle pacemaking."
+     "A": "Mucosal enterochromaffin cells secrete serotonin; they do not generate the pacemaker slow waves.",
+     "B": "Acid-secreting parietal cells produce gastric acid and have no pacemaker role.",
+     "C": "Mucus-secreting goblet cells are unrelated to electrical rhythm generation.",
+     "D": "Somatic alpha motor neurons drive skeletal muscle at the neuromuscular junction, not GI smooth-muscle pacemaking."
     }
    }
   },
@@ -6767,14 +6767,14 @@
     },
     {
      "label": "D",
-     "text": "Superimposed action potentials"
+     "text": "Relaxation of nearby sphincters"
     },
     {
      "label": "E",
-     "text": "Relaxation of nearby sphincters"
+     "text": "Superimposed action potentials"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Slow waves set the ceiling frequency and gate firing, but strong contractions require action potentials (spikes) superimposed on the slow-wave plateau.",
     "whyCorrect": "The brick states slow waves alone may produce only weak contractions and that strong phasic contractions require superimposed action potentials, which the slow wave gates.",
@@ -6782,7 +6782,7 @@
      "A": "Gap junctions are needed for coordinated spread; losing them would impair, not strengthen, contraction.",
      "B": "Sympathetic input hyperpolarizes and decreases contraction, moving the slow wave away from threshold.",
      "C": "Chloride flux participates in generating slow waves themselves, not in driving the additional spikes needed for strong contraction.",
-     "E": "Sphincter relaxation is a separate event and does not generate contractile force in the corpus."
+     "D": "Sphincter relaxation is a separate event and does not generate contractile force in the corpus."
     }
    }
   },
@@ -6794,33 +6794,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "3 slow waves per minute"
-    },
-    {
-     "label": "B",
      "text": "12 slow waves per minute"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "8 slow waves per minute"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "20 slow waves per minute"
+    },
+    {
+     "label": "D",
+     "text": "3 slow waves per minute"
     },
     {
      "label": "E",
      "text": "1 slow wave per minute"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "In the stomach, ICCs generate approximately 3 slow waves per minute, setting the pace for gastric peristalsis.",
     "whyCorrect": "The brick states ICCs in the stomach generate approximately 3 slow waves per minute, versus about 12/min in the duodenum and 8/min in the ileum.",
     "whyWrongByChoice": {
-     "B": "About 12/min is the duodenal slow-wave frequency, not gastric.",
-     "C": "About 8/min is the ileal slow-wave frequency, not gastric.",
-     "D": "20/min exceeds any normal GI slow-wave rate described in the brick.",
+     "A": "About 12/min is the duodenal slow-wave frequency, not gastric.",
+     "B": "About 8/min is the ileal slow-wave frequency, not gastric.",
+     "C": "20/min exceeds any normal GI slow-wave rate described in the brick.",
      "E": "1/min is below the stated gastric rate of about 3/min."
     }
    }
@@ -6833,15 +6833,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "Segmentation"
+     "text": "The peristaltic reflex"
     },
     {
      "label": "B",
-     "text": "Haustration"
+     "text": "Segmentation"
     },
     {
      "label": "C",
-     "text": "The peristaltic reflex"
+     "text": "Haustration"
     },
     {
      "label": "D",
@@ -6852,13 +6852,13 @@
      "text": "The migrating motor complex"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "The peristaltic reflex (law of the intestine) uses ascending excitation oral to the bolus and descending inhibition anal to it to propel content aborally.",
     "whyCorrect": "The brick describes exactly this pattern—ascending excitatory contraction oral to the bolus and descending inhibitory relaxation anal to it—as the peristaltic reflex, also called the law of the intestine.",
     "whyWrongByChoice": {
-     "A": "Segmentation is non-propagating localized mixing without directional coordination.",
-     "B": "Haustration is the non-propagating colonic mixing pattern, not the directional propulsive reflex.",
+     "B": "Segmentation is non-propagating localized mixing without directional coordination.",
+     "C": "Haustration is the non-propagating colonic mixing pattern, not the directional propulsive reflex.",
      "D": "Mass movements are infrequent high-amplitude propagating colonic contractions, not the local distension reflex described.",
      "E": "The migrating motor complex is the interdigestive fasting housekeeping program, not the bolus-triggered reflex."
     }
@@ -6915,30 +6915,30 @@
     },
     {
      "label": "B",
-     "text": "Peristaltic waves"
+     "text": "Haustral contractions"
     },
     {
      "label": "C",
-     "text": "The migrating motor complex"
+     "text": "Peristaltic waves"
     },
     {
      "label": "D",
-     "text": "Segmentation of the ileum"
+     "text": "The migrating motor complex"
     },
     {
      "label": "E",
-     "text": "Haustral contractions"
+     "text": "Segmentation of the ileum"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Haustral contractions are the colon's non-propagating mixing contractions within the haustra, facilitating water absorption.",
     "whyCorrect": "The brick describes haustral contractions as localized, non-propagating contractions within the sacculations that mix and expose colonic contents to the mucosa for water absorption, with no net directionality.",
     "whyWrongByChoice": {
      "A": "Mass movements are the infrequent high-amplitude propagating (propulsive) colonic contractions, the opposite of haustral mixing.",
-     "B": "Peristaltic waves are directional propulsive contractions, not the non-propagating haustral pattern.",
-     "C": "The migrating motor complex is an interdigestive fasting program of the stomach and small intestine.",
-     "D": "The described pattern is colonic haustration, not ileal segmentation."
+     "C": "Peristaltic waves are directional propulsive contractions, not the non-propagating haustral pattern.",
+     "D": "The migrating motor complex is an interdigestive fasting program of the stomach and small intestine.",
+     "E": "The described pattern is colonic haustration, not ileal segmentation."
     }
    }
   },
@@ -6958,25 +6958,25 @@
     },
     {
      "label": "C",
-     "text": "Segmentation contractions"
+     "text": "Mass movements"
     },
     {
      "label": "D",
-     "text": "Mass movements"
+     "text": "Segmentation contractions"
     },
     {
      "label": "E",
      "text": "Phase I quiescence"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Mass movements are infrequent, high-amplitude propagating contractions that serve the propulsive role in the colon.",
     "whyCorrect": "The brick defines mass movements as infrequent, high-amplitude propagating contractions that serve the propulsive role in the colon and are distinct from haustral contractions.",
     "whyWrongByChoice": {
      "A": "Haustral contractions are non-propagating and mix rather than propel.",
      "B": "Tonic contractions maintain sustained tension (e.g., sphincters), not propulsion.",
-     "C": "Segmentation mixes content without net forward movement.",
+     "D": "Segmentation mixes content without net forward movement.",
      "E": "Phase I quiescence is a phase of the MMC with minimal activity, not colonic propulsion."
     }
    }
@@ -6993,19 +6993,19 @@
     },
     {
      "label": "B",
-     "text": "Stimulating the descending inhibitory pathway"
+     "text": "Stimulating the descending inhibitory motor pathway"
     },
     {
      "label": "C",
-     "text": "Suppressing acetylcholine release from myenteric neurons"
+     "text": "Suppressing acetylcholine release from neurons"
     },
     {
      "label": "D",
-     "text": "Enhancing colonic mass movements"
+     "text": "Enhancing propulsive colonic mass movements"
     },
     {
      "label": "E",
-     "text": "Blocking intestinal water reabsorption"
+     "text": "Blocking water reabsorption in the colon"
     }
    ],
    "correctAnswer": "C",
@@ -7016,7 +7016,7 @@
      "A": "Opioids suppress, not increase, acetylcholine release from these neurons.",
      "B": "Stimulating descending inhibition is not the described mechanism; opioids blunt the ascending excitatory limb.",
      "D": "Opioids reduce propulsive motility; they do not enhance mass movements.",
-     "E": "Slowed transit increases water reabsorption; opioids do not block water reabsorption."
+     "E": "Slowed transit increases water reabsorption; opioids do not block colonic water reabsorption."
     }
    }
   },
@@ -7028,33 +7028,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Peripherally acting mu-opioid antagonist"
-    },
-    {
-     "label": "B",
      "text": "Prokinetic dopamine D2 antagonist"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Motilin receptor agonist agent"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Non-absorbable luminal antibiotic"
+    },
+    {
+     "label": "D",
+     "text": "Peripheral mu-opioid antagonist"
     },
     {
      "label": "E",
      "text": "Serotonin 5-HT4 receptor agonist"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Methylnaltrexone is a peripherally acting mu-opioid receptor antagonist (PAMORA) that reverses GI opioid effects without reversing central analgesia.",
     "whyCorrect": "The brick states that because the relevant receptors are peripheral (ENS), PAMORAs such as methylnaltrexone reverse GI opioid effects without reversing analgesia.",
     "whyWrongByChoice": {
-     "B": "A D2 antagonist (metoclopramide) is a prokinetic for gastroparesis, not the agent that spares analgesia in opioid constipation.",
-     "C": "A motilin agonist (erythromycin) stimulates gastric emptying but is not the described opioid-reversal agent.",
-     "D": "A non-absorbable antibiotic (rifaximin) treats bacterial overgrowth, not opioid constipation.",
+     "A": "A D2 antagonist (metoclopramide) is a prokinetic for gastroparesis, not the agent that spares analgesia in opioid constipation.",
+     "B": "A motilin agonist (erythromycin) stimulates gastric emptying but is not the described opioid-reversal agent.",
+     "C": "A non-absorbable antibiotic (rifaximin) treats bacterial overgrowth, not opioid constipation.",
      "E": "A 5-HT4 agonist is a prokinetic but not the peripheral opioid antagonist described."
     }
    }
@@ -7075,25 +7075,25 @@
     },
     {
      "label": "C",
-     "text": "Loss of interstitial cells of Cajal in the antrum"
+     "text": "Autoimmune destruction of parietal cells"
     },
     {
      "label": "D",
-     "text": "Autoimmune destruction of parietal cells"
+     "text": "Loss of interstitial cells of Cajal"
     },
     {
      "label": "E",
      "text": "Increased gastric slow-wave frequency"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Diabetic gastroparesis results from chronic hyperglycemia damaging ICCs in the gastric antrum, disrupting slow-wave generation and delaying emptying without obstruction.",
     "whyCorrect": "The brick states chronic hyperglycemia damages ICCs in the gastric antrum, disrupting slow wave generation and producing delayed gastric emptying without mechanical obstruction.",
     "whyWrongByChoice": {
      "A": "Pyloric hypertrophy causes mechanical outlet obstruction, which is explicitly absent here.",
      "B": "Gastroparesis reflects impaired pacemaking, not excess motilin; motilin agonists are in fact used to treat it.",
-     "D": "Parietal cell loss affects acid secretion, not gastric pacemaker-driven emptying.",
+     "C": "Parietal cell loss affects acid secretion, not gastric pacemaker-driven emptying.",
      "E": "ICC loss reduces or disorganizes slow-wave activity; it does not increase slow-wave frequency."
     }
    }
@@ -7110,11 +7110,11 @@
     },
     {
      "label": "B",
-     "text": "Dopamine D2 receptor antagonism"
+     "text": "Peripheral mu-opioid antagonism"
     },
     {
      "label": "C",
-     "text": "Peripheral mu-opioid antagonism"
+     "text": "Dopamine D2 receptor antagonism"
     },
     {
      "label": "D",
@@ -7125,13 +7125,13 @@
      "text": "Chloride channel activation"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Metoclopramide, a D2 receptor antagonist with prokinetic action, is the first-line pharmacologic management for diabetic gastroparesis.",
     "whyCorrect": "The brick names metoclopramide, a D2 receptor antagonist with prokinetic action that accelerates gastric emptying, as first-line pharmacologic management of diabetic gastroparesis.",
     "whyWrongByChoice": {
      "A": "Motilin receptor agonism describes erythromycin, an alternative agent, not the first-line D2 antagonist.",
-     "C": "Peripheral mu-opioid antagonism describes methylnaltrexone for opioid constipation.",
+     "B": "Peripheral mu-opioid antagonism describes methylnaltrexone for opioid constipation.",
      "D": "Muscarinic blockade would reduce, not enhance, GI motility.",
      "E": "Chloride channel activation is not the mechanism of the first-line prokinetic described."
     }
@@ -7145,34 +7145,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "The gastrocolic reflex"
+     "text": "The migrating motor complex"
     },
     {
      "label": "B",
-     "text": "The peristaltic reflex"
+     "text": "The gastrocolic reflex response"
     },
     {
      "label": "C",
-     "text": "Postprandial segmentation"
+     "text": "The local peristaltic reflex"
     },
     {
      "label": "D",
-     "text": "Haustral shuttling"
+     "text": "Postprandial segmentation"
     },
     {
      "label": "E",
-     "text": "The migrating motor complex"
+     "text": "Colonic haustral shuttling"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "The migrating motor complex (MMC) is the interdigestive 'housekeeper' that sweeps the stomach and small intestine during fasting, preventing bacterial overgrowth.",
     "whyCorrect": "The brick describes the MMC as a cyclical interdigestive pattern that sweeps the lumen clean between meals, serving as the gut's housekeeper and preventing bacterial overgrowth.",
     "whyWrongByChoice": {
-     "A": "The gastrocolic reflex links gastric filling to colonic activity and is not the fasting housekeeping sweep.",
-     "B": "The peristaltic reflex is a local distension-triggered propulsive response, not the cyclical fasting program.",
-     "C": "Segmentation predominates postprandially for absorption, whereas the MMC operates during fasting.",
-     "D": "Haustral shuttling is a colonic mixing pattern, not the interdigestive sweep of the stomach and small intestine."
+     "B": "The gastrocolic reflex links gastric filling to colonic activity and is not the fasting housekeeping sweep.",
+     "C": "The peristaltic reflex is a local distension-triggered propulsive response, not the cyclical fasting program.",
+     "D": "Segmentation predominates postprandially for absorption, whereas the MMC operates during fasting.",
+     "E": "Haustral shuttling is a colonic mixing pattern, not the interdigestive sweep of the stomach and small intestine."
     }
    }
   },
@@ -7184,15 +7184,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "Phase I quiescence"
+     "text": "Phase III activity front"
     },
     {
      "label": "B",
-     "text": "Phase II irregular activity"
+     "text": "Phase I quiescence"
     },
     {
      "label": "C",
-     "text": "Phase III activity front"
+     "text": "Phase II irregular activity"
     },
     {
      "label": "D",
@@ -7203,13 +7203,13 @@
      "text": "The postprandial phase"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Phase III (the activity front) is the defining feature of the MMC: intense, regular contractions at maximum slow-wave frequency that propagate aborally.",
     "whyCorrect": "The brick states Phase III consists of intense, regular contractions at maximum slow wave frequency propagating aborally, lasting 5–10 minutes, and is the defining and most clinically significant feature of the MMC.",
     "whyWrongByChoice": {
-     "A": "Phase I is quiescence with minimal or no contractile activity.",
-     "B": "Phase II shows intermittent, irregular contractions, not the intense regular activity front.",
+     "B": "Phase I is quiescence with minimal or no contractile activity.",
+     "C": "Phase II shows intermittent, irregular contractions, not the intense regular activity front.",
      "D": "Phase IV is a brief transition back to Phase I.",
      "E": "The postprandial phase is the fed pattern of segmentation and peristalsis, not an MMC phase."
     }
@@ -7223,11 +7223,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Mo cells of the duodenum and jejunum"
+     "text": "Parietal cells of the gastric body"
     },
     {
      "label": "B",
-     "text": "Parietal cells of the gastric body"
+     "text": "Mo cells of the duodenum and jejunum"
     },
     {
      "label": "C",
@@ -7242,12 +7242,12 @@
      "text": "Beta cells of the pancreatic islets"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Motilin, which triggers MMC Phase III, is secreted by Mo cells (enteroendocrine cells) in the duodenum and jejunum.",
     "whyCorrect": "The brick states motilin is secreted by Mo cells in the duodenum and jejunum, released cyclically during fasting with peak secretion coinciding with the onset of Phase III.",
     "whyWrongByChoice": {
-     "B": "Parietal cells secrete gastric acid and intrinsic factor, not motilin.",
+     "A": "Parietal cells secrete gastric acid and intrinsic factor, not motilin.",
      "C": "Chief cells secrete pepsinogen, not motilin.",
      "D": "Enterochromaffin-like cells secrete histamine to stimulate acid, not motilin.",
      "E": "Pancreatic beta cells secrete insulin, not the MMC-triggering hormone."
@@ -7270,25 +7270,25 @@
     },
     {
      "label": "C",
-     "text": "Muscarinic M3 receptor"
+     "text": "Motilin receptor"
     },
     {
      "label": "D",
-     "text": "Motilin receptor"
+     "text": "Muscarinic M3 receptor"
     },
     {
      "label": "E",
      "text": "Serotonin 5-HT4 receptor"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Erythromycin, a macrolide antibiotic, is a motilin receptor agonist used as a prokinetic to stimulate gastric emptying.",
     "whyCorrect": "The brick states erythromycin, a macrolide antibiotic, is a well-known motilin receptor agonist used clinically as a prokinetic agent in gastroparesis.",
     "whyWrongByChoice": {
      "A": "D2 receptor action describes metoclopramide (an antagonist), not the macrolide agonist.",
      "B": "Mu-opioid receptor activity relates to opioids and PAMORAs, not erythromycin's prokinetic effect.",
-     "C": "Erythromycin's prokinetic effect is via motilin receptors, not direct muscarinic agonism.",
+     "D": "Erythromycin's prokinetic effect is via motilin receptors, not direct muscarinic agonism.",
      "E": "5-HT4 agonism describes other prokinetics; erythromycin acts at the motilin receptor."
     }
    }
@@ -7379,7 +7379,7 @@
    "choices": [
     {
      "label": "A",
-     "text": "Absent inhibitory motor neurons preventing segmental relaxation"
+     "text": "Absent inhibitory neurons preventing relaxation"
     },
     {
      "label": "B",
@@ -7391,7 +7391,7 @@
     },
     {
      "label": "D",
-     "text": "Overproduction of serotonin by EC cells"
+     "text": "Overproduction of serotonin by enteric EC cells"
     },
     {
      "label": "E",
@@ -7405,7 +7405,7 @@
     "whyWrongByChoice": {
      "B": "The segment lacks neurons entirely; there is no excess parasympathetic drive causing spasm.",
      "C": "Hypertrophy of the circular muscle describes pyloric stenosis, not Hirschsprung disease.",
-     "D": "Serotonin overproduction by EC cells characterizes carcinoid syndrome, not aganglionosis.",
+     "D": "Serotonin overproduction by enteric EC cells characterizes carcinoid syndrome, not aganglionosis.",
      "E": "The problem is failure of the aganglionic segment to relax, not a failure to contract."
     }
    }
@@ -7426,26 +7426,26 @@
     },
     {
      "label": "C",
-     "text": "Fusion of the dorsal and ventral pancreatic buds"
+     "text": "Neural crest cell migration to the distal colon"
     },
     {
      "label": "D",
-     "text": "Regression of the vitelline duct"
+     "text": "Fusion of the dorsal and ventral pancreatic buds"
     },
     {
      "label": "E",
-     "text": "Neural crest cell migration to the distal colon"
+     "text": "Regression of the vitelline duct"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Hirschsprung disease is caused by failure of neural crest cell migration, leaving the distal colon without ganglia.",
     "whyCorrect": "Enteric ganglia derive from neural crest cells that migrate craniocaudally; arrest of this migration leaves the distal (rectosigmoid) colon aganglionic.",
     "whyWrongByChoice": {
      "A": "Failed duodenal recanalization causes duodenal atresia.",
      "B": "Abnormal midgut rotation produces malrotation and predisposes to volvulus.",
-     "C": "Abnormal pancreatic bud fusion produces annular pancreas or pancreas divisum.",
-     "D": "Persistence of the vitelline duct produces a Meckel diverticulum."
+     "D": "Abnormal pancreatic bud fusion produces annular pancreas or pancreas divisum.",
+     "E": "Persistence of the vitelline duct produces a Meckel diverticulum."
     }
    }
   },
@@ -7457,33 +7457,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Motor neuron then interneuron then intrinsic sensory neuron"
+     "text": "Intrinsic sensory neuron then interneuron then motor neuron"
     },
     {
      "label": "B",
-     "text": "Intrinsic sensory neuron then motor neuron then interneuron"
+     "text": "Motor neuron then interneuron then intrinsic sensory neuron"
     },
     {
      "label": "C",
-     "text": "Interneuron then intrinsic sensory neuron then motor neuron"
+     "text": "Intrinsic sensory neuron then motor neuron then interneuron"
     },
     {
      "label": "D",
-     "text": "Intrinsic sensory neuron then interneuron then motor neuron"
+     "text": "Interneuron then intrinsic sensory neuron then motor neuron"
     },
     {
      "label": "E",
      "text": "Preganglionic neuron then spinal cord then motor neuron"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "The ENS short-loop reflex flows from intrinsic sensory neurons (IPANs) to interneurons to motor neurons.",
     "whyCorrect": "IPANs detect the stimulus, interneurons integrate and distribute the signal, and motor neurons drive the effector response, all within the gut wall.",
     "whyWrongByChoice": {
-     "A": "This reverses the arc; sensory neurons detect the stimulus first, not last.",
-     "B": "Interneurons integrate signals before motor output; motor neurons do not precede interneurons.",
-     "C": "Interneurons cannot begin the arc; sensory detection must come first.",
+     "B": "This reverses the arc; sensory neurons detect the stimulus first, not last.",
+     "C": "Interneurons integrate signals before motor output; motor neurons do not precede interneurons.",
+     "D": "Interneurons cannot begin the arc; sensory detection must come first.",
      "E": "A pathway routed through the spinal cord is a long-loop reflex, not the short-loop ENS reflex."
     }
    }
@@ -7504,25 +7504,25 @@
     },
     {
      "label": "C",
-     "text": "Acetylcholine"
+     "text": "Nitric oxide"
     },
     {
      "label": "D",
-     "text": "Nitric oxide"
+     "text": "Acetylcholine"
     },
     {
      "label": "E",
      "text": "Somatostatin"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "IPANs release acetylcholine (along with substance P) onto interneurons and motor neurons.",
     "whyCorrect": "The brick identifies acetylcholine as the most notable neurotransmitter released by activated IPANs.",
     "whyWrongByChoice": {
      "A": "Norepinephrine is released by sympathetic postganglionic fibers, not intrinsic sensory neurons.",
      "B": "VIP is used by descending interneurons and inhibitory motor neurons.",
-     "D": "Nitric oxide is released by inhibitory motor neurons to cause relaxation.",
+     "C": "Nitric oxide is released by inhibitory motor neurons to cause relaxation.",
      "E": "Somatostatin is not the primary transmitter of IPANs."
     }
    }
@@ -7543,26 +7543,26 @@
     },
     {
      "label": "C",
-     "text": "Cholecystokinin"
+     "text": "Serotonin"
     },
     {
      "label": "D",
-     "text": "Secretin"
+     "text": "Cholecystokinin"
     },
     {
      "label": "E",
-     "text": "Serotonin"
+     "text": "Secretin"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Enterochromaffin (EC) cells, the most abundant EEC subtype, release serotonin (5-HT) that acts on IPANs.",
     "whyCorrect": "EC cells detect mechanical and chemical stimuli and release 5-HT basolaterally onto IPANs to initiate peristaltic and secretomotor reflexes.",
     "whyWrongByChoice": {
      "A": "Gastrin is released by antral G cells, not EC cells.",
      "B": "Histamine is released by enterochromaffin-like (ECL) cells to amplify acid secretion.",
-     "C": "CCK is released by duodenal I cells and acts mainly on pancreas, gallbladder, and vagal afferents.",
-     "D": "Secretin is released by duodenal S cells in response to acid."
+     "D": "CCK is released by duodenal I cells and acts mainly on pancreas, gallbladder, and vagal afferents.",
+     "E": "Secretin is released by duodenal S cells in response to acid."
     }
    }
   },
@@ -7574,11 +7574,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Acetylcholine and substance P"
+     "text": "Nitric oxide and VIP"
     },
     {
      "label": "B",
-     "text": "Nitric oxide and vasoactive intestinal peptide"
+     "text": "Acetylcholine and substance P"
     },
     {
      "label": "C",
@@ -7593,12 +7593,12 @@
      "text": "Gastrin and cholecystokinin"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Inhibitory motor neurons release nitric oxide, VIP (and ATP) to relax smooth muscle ahead of the bolus.",
     "whyCorrect": "These transmitters produce receptive relaxation aboral to the bolus, complementing ascending excitation during the peristaltic reflex.",
     "whyWrongByChoice": {
-     "A": "Acetylcholine and substance P are released by excitatory motor neurons to cause contraction.",
+     "B": "Acetylcholine and substance P are released by excitatory motor neurons to cause contraction.",
      "C": "Norepinephrine and epinephrine are catecholamines of the sympathetic system, not enteric motor transmitters.",
      "D": "Serotonin and histamine are not the relaxation transmitters of enteric motor neurons.",
      "E": "Gastrin and CCK are gut hormones, not enteric motor neuron transmitters."
@@ -7617,11 +7617,11 @@
     },
     {
      "label": "B",
-     "text": "Ascending excitation and descending inhibition"
+     "text": "Bilateral excitation without inhibition"
     },
     {
      "label": "C",
-     "text": "Bilateral excitation without inhibition"
+     "text": "Ascending excitation and descending inhibition"
     },
     {
      "label": "D",
@@ -7632,13 +7632,13 @@
      "text": "Descending excitation and ascending inhibition"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "The peristaltic reflex is built on ascending excitation (contraction behind the bolus) and descending inhibition (relaxation ahead of it).",
     "whyCorrect": "Ascending interneurons drive excitatory motor neurons orally, and descending interneurons activate inhibitory motor neurons aborally, propelling contents forward.",
     "whyWrongByChoice": {
      "A": "This reverses the pattern; contraction occurs orally and relaxation aborally.",
-     "C": "Without descending inhibition the gut ahead of the bolus could not relax to receive it.",
+     "B": "Without descending inhibition the gut ahead of the bolus could not relax to receive it.",
      "D": "Without ascending excitation there would be no propulsive contraction.",
      "E": "This reverses the correct direction of excitation and inhibition."
     }
@@ -7664,14 +7664,14 @@
     },
     {
      "label": "D",
-     "text": "Decreased motility with sphincter contraction"
+     "text": "Increased secretion with unchanged motility"
     },
     {
      "label": "E",
-     "text": "Increased secretion with unchanged motility"
+     "text": "Decreased motility with sphincter contraction"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Sympathetic activation is net inhibitory: it decreases motility, reduces secretion, and contracts sphincters.",
     "whyCorrect": "Norepinephrine suppresses excitatory ENS output, slowing propulsion and closing sphincters as blood is redirected away from the gut.",
@@ -7679,7 +7679,7 @@
      "A": "Increased motility and secretion is the parasympathetic (rest-and-digest) effect.",
      "B": "Sympathetic activity contracts, not relaxes, sphincters.",
      "C": "Sympathetic activity does reduce secretion but contracts sphincters rather than relaxing them.",
-     "E": "Sympathetic activity reduces secretion but also reduces motility rather than leaving it unchanged."
+     "D": "Sympathetic activity reduces secretion but also reduces motility rather than leaving it unchanged."
     }
    }
   },
@@ -7691,19 +7691,19 @@
    "choices": [
     {
      "label": "A",
-     "text": "Dorsal root ganglia"
+     "text": "Dorsal root sensory ganglia"
     },
     {
      "label": "B",
-     "text": "Myenteric plexus ganglia"
+     "text": "Myenteric (Auerbach) plexus ganglia"
     },
     {
      "label": "C",
-     "text": "Submucosal plexus ganglia"
+     "text": "Submucosal (Meissner) plexus ganglia"
     },
     {
      "label": "D",
-     "text": "Prevertebral (celiac and mesenteric) ganglia"
+     "text": "Prevertebral (collateral) ganglia"
     },
     {
      "label": "E",
@@ -7742,11 +7742,11 @@
     },
     {
      "label": "D",
-     "text": "Nicotinic receptor"
+     "text": "Nicotinic cholinergic receptor"
     },
     {
      "label": "E",
-     "text": "Histamine H2 receptor"
+     "text": "Histaminergic H2 receptor"
     }
    ],
    "correctAnswer": "A",
@@ -7756,8 +7756,8 @@
     "whyWrongByChoice": {
      "B": "Beta-2 receptors are not the receptor mediating the sympathetic braking of the ENS described here.",
      "C": "M3 muscarinic receptors mediate excitatory cholinergic effects, not sympathetic inhibition.",
-     "D": "Nicotinic receptors mediate fast excitatory transmission at ganglia, including parasympathetic input.",
-     "E": "H2 receptors mediate histamine-driven gastric acid secretion, unrelated to adrenergic braking."
+     "D": "Nicotinic cholinergic receptors mediate fast excitatory transmission at ganglia, including parasympathetic input.",
+     "E": "Histaminergic H2 receptors mediate gastric acid secretion, unrelated to adrenergic braking."
     }
    }
   },
@@ -7769,34 +7769,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Pelvic splanchnic nerves (S2-S4)"
+     "text": "Vagus nerve (CN X)"
     },
     {
      "label": "B",
-     "text": "Vagus nerve"
-    },
-    {
-     "label": "C",
      "text": "Greater splanchnic nerve"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Superior mesenteric ganglion"
     },
     {
+     "label": "D",
+     "text": "Phrenic nerve (C3-C5)"
+    },
+    {
      "label": "E",
-     "text": "Phrenic nerve"
+     "text": "Pelvic splanchnic nerves"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "The distal colon, rectum, and internal anal sphincter receive parasympathetic input from the pelvic splanchnic nerves (S2-S4).",
     "whyCorrect": "Vagal supply reaches only to the proximal colon; the hindgut-derived distal structures are supplied by sacral parasympathetic (pelvic splanchnic) fibers.",
     "whyWrongByChoice": {
-     "B": "The vagus supplies the esophagus, stomach, small intestine, and proximal colon only.",
-     "C": "The greater splanchnic nerve carries sympathetic, not parasympathetic, fibers.",
-     "D": "The superior mesenteric ganglion is a sympathetic prevertebral ganglion.",
-     "E": "The phrenic nerve innervates the diaphragm, not the distal colon."
+     "A": "The vagus supplies the esophagus, stomach, small intestine, and proximal colon only.",
+     "B": "The greater splanchnic nerve carries sympathetic, not parasympathetic, fibers.",
+     "C": "The superior mesenteric ganglion is a sympathetic prevertebral ganglion.",
+     "D": "The phrenic nerve innervates the diaphragm, not the distal colon."
     }
    }
   },
@@ -7808,7 +7808,7 @@
    "choices": [
     {
      "label": "A",
-     "text": "Reduced motility and sphincter contraction"
+     "text": "Reduced motility with tonic sphincter contraction"
     },
     {
      "label": "B",
@@ -7816,25 +7816,25 @@
     },
     {
      "label": "C",
-     "text": "Increased motility, secretion, and sphincter relaxation"
+     "text": "Sphincter contraction with increased mucus secretion"
     },
     {
      "label": "D",
-     "text": "Sphincter contraction with increased secretion"
+     "text": "Increased motility, secretion, sphincter relaxation"
     },
     {
      "label": "E",
      "text": "Reduced motility with sphincter relaxation"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Parasympathetic activation is broadly excitatory: increased motility, increased secretion, and sphincter relaxation.",
     "whyCorrect": "Vagal input amplifies intrinsic ENS circuits, enhancing propulsion and secretion while relaxing sphincters to allow passage of contents.",
     "whyWrongByChoice": {
-     "A": "Reduced motility and sphincter contraction is the sympathetic effect.",
+     "A": "Reduced motility with tonic sphincter contraction describes the sympathetic effect.",
      "B": "Parasympathetic activity increases, not reduces, secretion.",
-     "D": "Parasympathetic activity relaxes rather than contracts sphincters.",
+     "C": "Parasympathetic activity relaxes rather than contracts sphincters.",
      "E": "Parasympathetic activity increases rather than reduces motility."
     }
    }
@@ -7851,11 +7851,11 @@
     },
     {
      "label": "B",
-     "text": "Increased mucus with reduced acid"
+     "text": "Reduced acid secretion and motility"
     },
     {
      "label": "C",
-     "text": "Reduced acid secretion and motility"
+     "text": "Increased mucus with reduced acid"
     },
     {
      "label": "D",
@@ -7866,13 +7866,13 @@
      "text": "Increased gastrin with reduced acid"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Vagotomy reduces gastric acid secretion and motility by removing parasympathetic excitatory input.",
     "whyCorrect": "The vagus drives parietal cell acid output and gastric motility; cutting it lowers both, which is why it was used to treat ulcers.",
     "whyWrongByChoice": {
      "A": "Vagotomy decreases, not increases, acid and motility.",
-     "B": "Reduced acid is expected, but vagotomy does not primarily increase mucus secretion.",
+     "C": "Reduced acid is expected, but vagotomy does not primarily increase mucus secretion.",
      "D": "Acid is reduced and motility decreased, not unchanged and increased.",
      "E": "Vagal stimulation normally raises gastrin; vagotomy would reduce vagal-driven gastrin release."
     }
@@ -7894,26 +7894,26 @@
     },
     {
      "label": "C",
-     "text": "Vagus nerve activating enteric neurons and parietal cells"
-    },
-    {
-     "label": "D",
      "text": "Gastrin alone acting without neural input"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Cholecystokinin released from the duodenum"
+    },
+    {
+     "label": "E",
+     "text": "Vagus activating enteric neurons and parietal cells"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "The cephalic phase is neural and vagally mediated: the vagus activates ENS neurons and parietal cells to secrete acid.",
     "whyCorrect": "Sensory stimuli activate the dorsal motor nucleus of the vagus, which drives ENS neurons, parietal cells, and G cells before food arrives.",
     "whyWrongByChoice": {
      "A": "Sympathetic input inhibits, rather than initiates, gastric secretion.",
      "B": "Secretin acts during the intestinal phase and inhibits gastric acid.",
-     "D": "Gastrin contributes, but the cephalic phase requires vagal neural input, not gastrin alone.",
-     "E": "CCK is an intestinal-phase hormone, not the initiator of the cephalic phase."
+     "C": "Gastrin contributes, but the cephalic phase requires vagal neural input, not gastrin alone.",
+     "D": "CCK is an intestinal-phase hormone, not the initiator of the cephalic phase."
     }
    }
   },
@@ -7964,11 +7964,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Gastrin-releasing peptide"
+     "text": "Vasoactive intestinal peptide"
     },
     {
      "label": "B",
-     "text": "Vasoactive intestinal peptide"
+     "text": "Gastrin-releasing peptide"
     },
     {
      "label": "C",
@@ -7983,12 +7983,12 @@
      "text": "Substance P"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "ENS neurons release gastrin-releasing peptide (GRP) onto antral G cells to stimulate gastrin secretion.",
     "whyCorrect": "The vagal activation to ENS GRP to gastrin loop is a potent neuro-hormonal stimulus for acid secretion during the cephalic phase.",
     "whyWrongByChoice": {
-     "B": "VIP is an inhibitory transmitter that relaxes smooth muscle, not a stimulus for gastrin.",
+     "A": "VIP is an inhibitory transmitter that relaxes smooth muscle, not a stimulus for gastrin.",
      "C": "Somatostatin inhibits gastrin release rather than stimulating it.",
      "D": "Secretin is released by duodenal S cells and inhibits gastric acid.",
      "E": "Substance P is an excitatory motor transmitter, not the G-cell stimulating peptide."
@@ -8011,25 +8011,25 @@
     },
     {
      "label": "C",
-     "text": "Absorb the bulk of dietary nutrients"
+     "text": "Detect luminal nutrients and release hormones"
     },
     {
      "label": "D",
-     "text": "Detect luminal nutrients and release hormones"
+     "text": "Absorb the bulk of dietary nutrients"
     },
     {
      "label": "E",
      "text": "Provide structural support to intestinal villi"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Enteroendocrine cells act as luminal sensory transducers, detecting nutrients and releasing hormones.",
     "whyCorrect": "Apical chemosensory GPCRs let EECs sense chyme composition and translate it into neural and hormonal signals coordinating digestion.",
     "whyWrongByChoice": {
      "A": "Smooth muscle contraction is driven by excitatory motor neurons, not EECs.",
      "B": "Slow-wave pacemaker activity is generated by interstitial cells of Cajal.",
-     "C": "Bulk nutrient absorption is performed by enterocytes.",
+     "D": "Bulk nutrient absorption is performed by enterocytes.",
      "E": "Structural support is not the function of enteroendocrine cells."
     }
    }
@@ -8054,14 +8054,14 @@
     },
     {
      "label": "D",
-     "text": "Serotonin and cholecystokinin"
+     "text": "Acetylcholine and substance P"
     },
     {
      "label": "E",
-     "text": "Acetylcholine and substance P"
+     "text": "Serotonin and cholecystokinin"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Excitatory motor neurons release acetylcholine and substance P onto smooth muscle to cause contraction.",
     "whyCorrect": "These are the classic excitatory transmitters that increase the contractile state of gut smooth muscle.",
@@ -8069,7 +8069,7 @@
      "A": "Nitric oxide and ATP are released by inhibitory motor neurons to cause relaxation.",
      "B": "VIP and nitric oxide mediate relaxation, not contraction.",
      "C": "Norepinephrine and neuropeptide Y are sympathetic transmitters, not enteric excitatory motor transmitters.",
-     "D": "Serotonin and CCK are signaling mediators, not the transmitters of excitatory motor neurons."
+     "E": "Serotonin and CCK are signaling mediators, not the transmitters of excitatory motor neurons."
     }
    }
   },
@@ -8120,11 +8120,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "S cells"
+     "text": "I cells"
     },
     {
      "label": "B",
-     "text": "I cells"
+     "text": "S cells"
     },
     {
      "label": "C",
@@ -8139,12 +8139,12 @@
      "text": "G cells"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "S cells release secretin when luminal pH drops below ~4.5, a graded response to duodenal acidification.",
     "whyCorrect": "The brick states secretin is released from S cells of the duodenum and proximal jejunum when luminal pH falls below about 4.5, with acid as the dominant stimulus.",
     "whyWrongByChoice": {
-     "B": "I cells respond to fatty acids and peptides and release CCK, not secretin.",
+     "A": "I cells respond to fatty acids and peptides and release CCK, not secretin.",
      "C": "K cells respond to glucose and fat and release GIP.",
      "D": "L cells respond to glucose and fat in the ileum/colon and release GLP-1 and PYY.",
      "E": "G cells release gastrin and are not triggered by luminal acidification in this manner."
@@ -8171,14 +8171,14 @@
     },
     {
      "label": "D",
-     "text": "Release of insulin from beta cells"
+     "text": "Contraction of the gallbladder"
     },
     {
      "label": "E",
-     "text": "Contraction of the gallbladder"
+     "text": "Release of insulin from beta cells"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "CCK stimulates pancreatic enzyme secretion AND causes gallbladder contraction to expel bile.",
     "whyCorrect": "The brick describes CCK acting on gallbladder smooth muscle to cause contraction and bile expulsion into the common bile duct, complementing its pancreatic enzyme action.",
@@ -8186,7 +8186,7 @@
      "A": "CCK increases pyloric sphincter tone and relaxes the sphincter of Oddi; it does not relax the pyloric sphincter.",
      "B": "CCK does not stimulate gastric acid; secretin actually inhibits acid output.",
      "C": "CCK slows gastric emptying rather than accelerating it.",
-     "D": "Insulin potentiation is the action of GIP/GLP-1, not CCK."
+     "E": "Insulin potentiation is the action of GIP/GLP-1, not CCK."
     }
    }
   },
@@ -8202,30 +8202,30 @@
     },
     {
      "label": "B",
-     "text": "Pancreatic acinar cells"
+     "text": "Pancreatic ductal cells"
     },
     {
      "label": "C",
-     "text": "Duodenal I cells"
+     "text": "Pancreatic acinar cells"
     },
     {
      "label": "D",
-     "text": "Gallbladder epithelial cells"
+     "text": "Duodenal I cells"
     },
     {
      "label": "E",
-     "text": "Pancreatic ductal cells"
+     "text": "Gallbladder epithelial cells"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Secretin acts on pancreatic ductal cells to secrete bicarbonate-rich alkaline fluid.",
     "whyCorrect": "The brick states secretin binds receptors on pancreatic ductal cells, raising cAMP and driving CFTR-dependent bicarbonate secretion that neutralizes the duodenum.",
     "whyWrongByChoice": {
      "A": "Parietal cells secrete acid; secretin inhibits them rather than stimulating bicarbonate output.",
-     "B": "Acinar cells secrete digestive enzymes under CCK, not the bicarbonate fluid.",
-     "C": "I cells secrete CCK; they do not produce pancreatic bicarbonate fluid.",
-     "D": "Gallbladder epithelium concentrates and stores bile, not pancreatic bicarbonate."
+     "C": "Acinar cells secrete digestive enzymes under CCK, not the bicarbonate fluid.",
+     "D": "I cells secrete CCK; they do not produce pancreatic bicarbonate fluid.",
+     "E": "Gallbladder epithelium concentrates and stores bile, not pancreatic bicarbonate."
     }
    }
   },
@@ -8280,19 +8280,19 @@
     },
     {
      "label": "B",
-     "text": "Gastric acid stimulation"
+     "text": "Gastric acid secretion stimulation"
     },
     {
      "label": "C",
-     "text": "Gallbladder contraction"
+     "text": "Gallbladder smooth-muscle contraction"
     },
     {
      "label": "D",
-     "text": "Pancreatic enzyme secretion"
+     "text": "Pancreatic digestive enzyme secretion"
     },
     {
      "label": "E",
-     "text": "Bicarbonate secretion"
+     "text": "Pancreatic bicarbonate secretion"
     }
    ],
    "correctAnswer": "A",
@@ -8300,10 +8300,10 @@
     "summary": "L-cell hormones (GLP-1, PYY) regulate satiety and gut motility.",
     "whyCorrect": "The brick's table lists L cells in the ileum and colon secreting GLP-1 and PYY with satiety and motility regulation as their key function.",
     "whyWrongByChoice": {
-     "B": "Gastric acid stimulation is the function of gastrin from G cells.",
-     "C": "Gallbladder contraction is driven by CCK from I cells.",
-     "D": "Pancreatic enzyme secretion is stimulated by CCK, not L-cell hormones.",
-     "E": "Bicarbonate secretion is the function of secretin from S cells."
+     "B": "Gastric acid secretion is stimulated by gastrin from G cells.",
+     "C": "Gallbladder smooth-muscle contraction is driven by CCK from I cells.",
+     "D": "Pancreatic digestive enzyme secretion is stimulated by CCK, not L-cell hormones.",
+     "E": "Pancreatic bicarbonate secretion is the function of secretin from S cells."
     }
    }
   },
@@ -8327,14 +8327,14 @@
     },
     {
      "label": "D",
-     "text": "G cells"
+     "text": "L cells"
     },
     {
      "label": "E",
-     "text": "L cells"
+     "text": "G cells"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "G cells, predominantly in the antrum, secrete gastrin, which stimulates gastric acid.",
     "whyCorrect": "The brick's table identifies G cells in the antrum secreting gastrin, whose key function is gastric acid stimulation with a minor intestinal role.",
@@ -8342,7 +8342,7 @@
      "A": "S cells secrete secretin and reside in the duodenum/proximal jejunum.",
      "B": "K cells secrete GIP and drive insulin release.",
      "C": "I cells secrete CCK for enzyme secretion and gallbladder contraction.",
-     "E": "L cells secrete GLP-1/PYY for satiety and motility."
+     "D": "L cells secrete GLP-1/PYY for satiety and motility."
     }
    }
   },
@@ -8362,26 +8362,26 @@
     },
     {
      "label": "C",
-     "text": "Enterogastric reflex"
-    },
-    {
-     "label": "D",
      "text": "Migrating motor complex"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Receptive relaxation"
+    },
+    {
+     "label": "E",
+     "text": "Enterogastric reflex"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "The enterogastric reflex is the immediate neural brake slowing gastric emptying.",
     "whyCorrect": "The brick describes the enterogastric reflex: duodenal receptors detect distension, low pH, hyperosmolarity, or nutrients and signal the ENS to slow antral peristalsis and raise pyloric tone within seconds.",
     "whyWrongByChoice": {
      "A": "The gastrocolic reflex increases colonic motility after gastric filling, not a duodenal brake on emptying.",
      "B": "The gastroileal reflex promotes ileal emptying into the colon.",
-     "D": "The migrating motor complex sweeps the gut between meals, not a postprandial duodenal brake.",
-     "E": "Receptive relaxation is fundic accommodation during swallowing, not duodenal feedback."
+     "C": "The migrating motor complex sweeps the gut between meals, not a postprandial duodenal brake.",
+     "D": "Receptive relaxation is fundic accommodation during swallowing, not duodenal feedback."
     }
    }
   },
@@ -8405,14 +8405,14 @@
     },
     {
      "label": "D",
-     "text": "Fat"
+     "text": "Water"
     },
     {
      "label": "E",
-     "text": "Water"
+     "text": "Fat"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Fat is the most potent inhibitor of gastric emptying.",
     "whyCorrect": "The brick states fat is the most potent inhibitor of gastric emptying, with even small amounts triggering significant slowing, because fat requires the most digestive preparation.",
@@ -8420,7 +8420,7 @@
      "A": "Protein has a moderate inhibitory effect, less than fat.",
      "B": "Carbohydrates such as glucose have the least inhibitory effect of the macronutrients.",
      "C": "Fiber is not identified as the dominant inhibitory signal in this brick.",
-     "E": "Water empties rapidly and does not potently slow emptying."
+     "D": "Water empties rapidly and does not potently slow emptying."
     }
    }
   },
@@ -8479,26 +8479,26 @@
     },
     {
      "label": "C",
-     "text": "cGMP"
+     "text": "cAMP"
     },
     {
      "label": "D",
-     "text": "Diacylglycerol"
+     "text": "cGMP"
     },
     {
      "label": "E",
-     "text": "cAMP"
+     "text": "Diacylglycerol"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Secretin raises intracellular cAMP in ductal cells.",
     "whyCorrect": "The brick states secretin binds ductal-cell receptors, activating adenylyl cyclase and raising intracellular cAMP, which drives CFTR-dependent bicarbonate secretion.",
     "whyWrongByChoice": {
      "A": "IP3 mobilizes calcium in Gq-coupled pathways, not the secretin-cAMP mechanism described.",
      "B": "Calcium is not the second messenger cited for secretin's ductal action.",
-     "C": "cGMP is used by nitric oxide/natriuretic peptide signaling, not secretin.",
-     "D": "Diacylglycerol activates protein kinase C in Gq pathways, not secretin's Gs-cAMP pathway."
+     "D": "cGMP is used by nitric oxide/natriuretic peptide signaling, not secretin.",
+     "E": "Diacylglycerol activates protein kinase C in Gq pathways, not secretin's Gs-cAMP pathway."
     }
    }
   },
@@ -8514,29 +8514,29 @@
     },
     {
      "label": "B",
-     "text": "Trypsinogen"
+     "text": "Lipase"
     },
     {
      "label": "C",
-     "text": "Pepsin"
+     "text": "Trypsinogen"
     },
     {
      "label": "D",
-     "text": "Lipase"
+     "text": "Pepsin"
     },
     {
      "label": "E",
      "text": "Enterokinase"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Lipase is irreversibly denatured at low duodenal pH, causing steatorrhea.",
     "whyCorrect": "The brick states lipase is irreversibly denatured at pH below 4 and loses significant activity below pH 5, so impaired neutralization inactivates lipase and produces steatorrhea.",
     "whyWrongByChoice": {
      "A": "Amylase digests carbohydrate and is not the enzyme responsible for the fatty stools described.",
-     "B": "Trypsinogen is an inactive precursor; the brick highlights lipase as most acid-sensitive for fat digestion.",
-     "C": "Pepsin is a gastric enzyme that actually works best at acidic pH.",
+     "C": "Trypsinogen is an inactive precursor; the brick highlights lipase as most acid-sensitive for fat digestion.",
+     "D": "Pepsin is a gastric enzyme that actually works best at acidic pH.",
      "E": "Enterokinase is a brush-border enzyme that activates trypsinogen, not the fat-digesting enzyme denatured here."
     }
    }
@@ -8549,15 +8549,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "Increased tone"
+     "text": "Relaxation"
     },
     {
      "label": "B",
-     "text": "Sustained contraction"
+     "text": "Increased tone"
     },
     {
      "label": "C",
-     "text": "Relaxation"
+     "text": "Sustained contraction"
     },
     {
      "label": "D",
@@ -8568,13 +8568,13 @@
      "text": "Constriction"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "CCK relaxes the sphincter of Oddi to allow bile and pancreatic juice to enter the duodenum.",
     "whyCorrect": "The brick states CCK relaxes the sphincter of Oddi, facilitating coordinated delivery of bile and pancreatic juice into the duodenal lumen while the gallbladder contracts.",
     "whyWrongByChoice": {
-     "A": "Increased tone would obstruct, not facilitate, delivery of bile and juice.",
-     "B": "Sustained contraction would block the papilla against outflow.",
+     "B": "Increased tone would obstruct, not facilitate, delivery of bile and juice.",
+     "C": "Sustained contraction would block the papilla against outflow.",
      "D": "Rhythmic spasm is not the described action and would impede flow.",
      "E": "Constriction would prevent the coordinated delivery CCK promotes."
     }
@@ -8596,26 +8596,26 @@
     },
     {
      "label": "C",
-     "text": "PYY"
-    },
-    {
-     "label": "D",
      "text": "Secretin"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "GIP"
+    },
+    {
+     "label": "E",
+     "text": "PYY"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "PYY from ileal L cells mediates the ileal brake, strongly slowing gastric emptying.",
     "whyCorrect": "The brick states PYY, released from L cells in the ileum, produces the 'ileal brake,' a powerful inhibition of gastric emptying when nutrients reach the distal small intestine.",
     "whyWrongByChoice": {
      "A": "Gastrin stimulates gastric acid, not the ileal brake.",
      "B": "Motilin drives interdigestive motility, not the postprandial ileal brake.",
-     "D": "Secretin slows motility via antral inhibition but is not the ileal-brake hormone released distally.",
-     "E": "GIP contributes to gastric inhibition but the ileal brake is specifically attributed to PYY."
+     "C": "Secretin slows motility via antral inhibition but is not the ileal-brake hormone released distally.",
+     "D": "GIP contributes to gastric inhibition but the ileal brake is specifically attributed to PYY."
     }
    }
   },
@@ -8631,29 +8631,29 @@
     },
     {
      "label": "B",
-     "text": "Brunner's glands"
-    },
-    {
-     "label": "C",
      "text": "Peyer's patches"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Crypts of Lieberkuhn"
+    },
+    {
+     "label": "D",
+     "text": "Brunner's glands"
     },
     {
      "label": "E",
      "text": "Goblet cells"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Brunner's glands secrete protective alkaline mucus in the proximal duodenum.",
     "whyCorrect": "The brick identifies Brunner's glands in the submucosa of the proximal duodenum, secreting alkaline mucus in response to acid and secretin as part of mucosal defense.",
     "whyWrongByChoice": {
      "A": "Oxyntic (gastric) glands contain acid-secreting parietal cells in the stomach.",
-     "C": "Peyer's patches are lymphoid tissue for immune surveillance, not alkaline mucus secretion.",
-     "D": "Crypts of Lieberkuhn are intestinal glands housing stem and secretory cells, not the submucosal alkaline glands described.",
+     "B": "Peyer's patches are lymphoid tissue for immune surveillance, not alkaline mucus secretion.",
+     "C": "Crypts of Lieberkuhn are intestinal glands housing stem and secretory cells, not the submucosal alkaline glands described.",
      "E": "Goblet cells secrete mucus but are individual epithelial cells, not the submucosal glands specified."
     }
    }
@@ -8666,11 +8666,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Carbonic anhydrase"
+     "text": "CFTR"
     },
     {
      "label": "B",
-     "text": "CFTR"
+     "text": "Carbonic anhydrase"
     },
     {
      "label": "C",
@@ -8685,12 +8685,12 @@
      "text": "Secretin receptor"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Cystic fibrosis results from defective CFTR, blocking ductal chloride/bicarbonate secretion.",
     "whyCorrect": "The brick states CFTR mutations (commonly delta-F508) prevent ductal chloride and bicarbonate secretion even when secretin release is intact, so alkaline fluid never reaches the duodenum.",
     "whyWrongByChoice": {
-     "A": "Carbonic anhydrase supplies bicarbonate substrate but the defect described is the CFTR chloride channel.",
+     "B": "Carbonic anhydrase supplies bicarbonate substrate but the defect described is the CFTR chloride channel.",
      "C": "Na-K-ATPase maintains ion gradients generally and is not the mutated protein in this disease.",
      "D": "CCK-A receptors mediate acinar enzyme secretion, unrelated to the ductal bicarbonate defect.",
      "E": "Secretin receptors are intact here; the problem is downstream ductal CFTR function."
@@ -8709,29 +8709,29 @@
     },
     {
      "label": "B",
-     "text": "Emulsification of dietary fats"
-    },
-    {
-     "label": "C",
      "text": "Neutralization of gastric acid"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Activation of trypsinogen"
+    },
+    {
+     "label": "D",
+     "text": "Emulsification of dietary fats"
     },
     {
      "label": "E",
      "text": "Absorption of amino acids"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Bile salts emulsify dietary fats, increasing surface area for lipase.",
     "whyCorrect": "The brick states bile salts are essential for emulsifying dietary fats, dramatically increasing the surface area available for lipase activity.",
     "whyWrongByChoice": {
      "A": "Hydrolysis of triglycerides is performed by lipase; bile salts emulsify but do not hydrolyze.",
-     "C": "Neutralization of acid is the role of pancreatic and Brunner's-gland bicarbonate, not bile salts.",
-     "D": "Trypsinogen is activated by enterokinase, not bile salts.",
+     "B": "Neutralization of acid is the role of pancreatic and Brunner's-gland bicarbonate, not bile salts.",
+     "C": "Trypsinogen is activated by enterokinase, not bile salts.",
      "E": "Amino acid absorption occurs via enterocyte transporters, not bile salts."
     }
    }
@@ -8748,11 +8748,11 @@
     },
     {
      "label": "B",
-     "text": "Suppressing gastrin release from G cells"
+     "text": "Activating parietal cell proton pumps"
     },
     {
      "label": "C",
-     "text": "Activating parietal cell proton pumps"
+     "text": "Suppressing gastrin release from G cells"
     },
     {
      "label": "D",
@@ -8763,13 +8763,13 @@
      "text": "Enhancing vagal acetylcholine release"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Secretin suppresses gastrin release from G cells and reduces parietal cell acid output.",
     "whyCorrect": "The brick states secretin acts on parietal cells to reduce acid output and also suppresses gastrin release from G cells, dampening the gastric phase of acid secretion.",
     "whyWrongByChoice": {
      "A": "Stimulating gastrin would increase, not decrease, acid secretion.",
-     "C": "Activating proton pumps would raise acid output, the opposite of secretin's effect.",
+     "B": "Activating proton pumps would raise acid output, the opposite of secretin's effect.",
      "D": "Increasing ECL histamine would promote acid secretion.",
      "E": "Enhancing vagal acetylcholine would stimulate acid, not inhibit it."
     }
@@ -8783,32 +8783,32 @@
    "choices": [
     {
      "label": "A",
-     "text": "Enteroendocrine cells"
+     "text": "Crypt Paneth cells"
     },
     {
      "label": "B",
-     "text": "Paneth cells"
+     "text": "Absorptive enterocytes"
     },
     {
      "label": "C",
-     "text": "Enterocytes"
+     "text": "Enteroendocrine cells"
     },
     {
      "label": "D",
-     "text": "Goblet cells"
+     "text": "Mucous goblet cells"
     },
     {
      "label": "E",
-     "text": "Chief cells"
+     "text": "Gastric chief cells"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Enteroendocrine cells are the scattered hormone-secreting cells forming the largest endocrine organ.",
     "whyCorrect": "The brick states enteroendocrine cells constitute less than 1% of intestinal epithelial cells yet collectively form the largest endocrine organ, sensing luminal contents via apical receptors.",
     "whyWrongByChoice": {
-     "B": "Paneth cells secrete antimicrobial peptides in crypts, not hormones.",
-     "C": "Enterocytes are absorptive cells, not hormone-secreting endocrine cells.",
+     "A": "Crypt Paneth cells secrete antimicrobial peptides, not hormones.",
+     "B": "Enterocytes are absorptive cells, not hormone-secreting endocrine cells.",
      "D": "Goblet cells secrete mucus and are not endocrine cells.",
      "E": "Chief cells secrete pepsinogen in the stomach, not intestinal hormones."
     }
@@ -8826,30 +8826,30 @@
     },
     {
      "label": "B",
-     "text": "Essential amino acids"
+     "text": "Fat-soluble vitamins"
     },
     {
      "label": "C",
-     "text": "Trace minerals"
+     "text": "Essential amino acids"
     },
     {
      "label": "D",
-     "text": "Simple carbohydrates"
+     "text": "Trace dietary minerals"
     },
     {
      "label": "E",
-     "text": "Fat-soluble vitamins (A, D, E, K)"
+     "text": "Simple carbohydrates"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Impaired fat digestion causes malabsorption of fat-soluble vitamins A, D, E, and K.",
     "whyCorrect": "The brick states that inactivation of pancreatic enzymes produces malabsorption of fats, proteins, and fat-soluble vitamins (A, D, E, K), which depend on fat absorption.",
     "whyWrongByChoice": {
      "A": "Water-soluble vitamins are absorbed independently of fat and are not the primary risk in steatorrhea.",
-     "B": "Amino acid absorption may be affected but the deficiency specifically emphasized with fat malabsorption is fat-soluble vitamins.",
-     "C": "Trace minerals are not the fat-dependent nutrients highlighted in the brick.",
-     "D": "Simple carbohydrates are absorbed without bile or lipase and are not at risk here."
+     "C": "Amino acid absorption may be affected, but the deficiency specifically tied to fat malabsorption is fat-soluble vitamins.",
+     "D": "Trace dietary minerals are not the fat-dependent nutrients at greatest risk here.",
+     "E": "Simple carbohydrates are absorbed without bile or lipase and are not at risk."
     }
    }
   },
@@ -8865,11 +8865,11 @@
     },
     {
      "label": "B",
-     "text": "Activate pancreatic digestive proenzymes"
+     "text": "Emulsify fat droplets and form mixed micelles"
     },
     {
      "label": "C",
-     "text": "Emulsify fat droplets and form mixed micelles"
+     "text": "Activate pancreatic digestive proenzymes"
     },
     {
      "label": "D",
@@ -8880,13 +8880,13 @@
      "text": "Re-esterify fatty acids into triglycerides"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Bile salts are amphipathic molecules that emulsify fat and form mixed micelles to solubilize lipolytic products.",
     "whyCorrect": "Bile salts orient their hydrophobic face into lipid droplets and their hydrophilic face toward the lumen, lowering surface tension to emulsify fat, then form mixed micelles that carry lipid products to the epithelium.",
     "whyWrongByChoice": {
      "A": "Triglyceride ester bonds are cleaved by pancreatic lipase, not by bile salts, which have no catalytic activity.",
-     "B": "Proenzyme activation is performed by trypsin/enteropeptidase, not bile salts.",
+     "C": "Proenzyme activation is performed by trypsin/enteropeptidase, not bile salts.",
      "D": "Lipid uptake across the brush border is by diffusion and transporters (FATP4, CD36), not bile salts.",
      "E": "Re-esterification occurs intracellularly via acyltransferases, unrelated to bile salt function."
     }
@@ -8900,11 +8900,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Cholecystokinin"
+     "text": "Colipase"
     },
     {
      "label": "B",
-     "text": "Colipase"
+     "text": "Cholecystokinin"
     },
     {
      "label": "C",
@@ -8919,12 +8919,12 @@
      "text": "Secretin"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Colipase anchors pancreatic lipase to the bile salt-coated droplet surface, restoring lipase activity.",
     "whyCorrect": "Colipase (secreted as procolipase, activated by trypsin) binds the lipid droplet and provides a platform that re-tethers lipase at the interface despite bile salts.",
     "whyWrongByChoice": {
-     "A": "Cholecystokinin triggers enzyme and bile release but does not physically anchor lipase.",
+     "B": "Cholecystokinin triggers enzyme and bile release but does not physically anchor lipase.",
      "C": "Phospholipase A2 digests phospholipids; it does not restore lipase binding.",
      "D": "Enteropeptidase activates trypsinogen; it plays no role at the lipid interface.",
      "E": "Secretin stimulates bicarbonate secretion, not lipase anchoring."
@@ -8939,11 +8939,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Three free fatty acids and glycerol"
+     "text": "Three fatty acids and glycerol"
     },
     {
      "label": "B",
-     "text": "One free fatty acid and one diglyceride"
+     "text": "One fatty acid and one diglyceride"
     },
     {
      "label": "C",
@@ -8951,14 +8951,14 @@
     },
     {
      "label": "D",
-     "text": "Two free fatty acids and one 2-monoglyceride"
+     "text": "Glycerol and three monoglycerides"
     },
     {
      "label": "E",
-     "text": "Glycerol and three monoglycerides"
+     "text": "Two fatty acids and one 2-monoglyceride"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Pancreatic lipase cleaves the sn-1 and sn-3 ester bonds, yielding two free fatty acids and one 2-monoglyceride.",
     "whyCorrect": "The enzyme is positionally specific for the sn-1 and sn-3 positions, leaving the sn-2 fatty acid on the glycerol backbone as a 2-monoglyceride.",
@@ -8966,7 +8966,7 @@
      "A": "Complete hydrolysis to glycerol plus three fatty acids does not occur; the sn-2 position is spared.",
      "B": "A single cleavage yielding a diglyceride understates lipase action on both outer positions.",
      "C": "This stoichiometry is not produced; only one 2-monoglyceride results per triglyceride.",
-     "E": "Free glycerol and three monoglycerides is not a chemically valid product set."
+     "D": "Free glycerol and three monoglycerides is not a chemically valid product set."
     }
    }
   },
@@ -8978,11 +8978,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Vitamin K"
+     "text": "Vitamin A"
     },
     {
      "label": "B",
-     "text": "Vitamin A"
+     "text": "Vitamin K"
     },
     {
      "label": "C",
@@ -8997,12 +8997,12 @@
      "text": "Folate"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Fat malabsorption from bile salt deficiency causes fat-soluble vitamin K deficiency and coagulopathy.",
     "whyCorrect": "Vitamin K is fat-soluble and micelle-dependent; its deficiency impairs synthesis of clotting factors, prolonging the PT, which corrects with supplementation.",
     "whyWrongByChoice": {
-     "B": "Vitamin A deficiency causes night blindness, not prolonged PT.",
+     "A": "Vitamin A deficiency causes night blindness, not prolonged PT.",
      "C": "Vitamin C is water-soluble and unaffected by fat malabsorption; deficiency causes scurvy.",
      "D": "B12 is water-soluble; its deficiency causes megaloblastic anemia, not coagulopathy.",
      "E": "Folate deficiency causes megaloblastic anemia, not a prolonged prothrombin time."
@@ -9017,34 +9017,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Apolipoprotein B-48"
-    },
-    {
-     "label": "B",
      "text": "Apolipoprotein A-I"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Apolipoprotein A-IV"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Apolipoprotein B-100"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Apolipoprotein E"
+    },
+    {
+     "label": "E",
+     "text": "Apolipoprotein B-48"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "ApoB-48, synthesized exclusively in enterocytes, is the essential structural apolipoprotein of chylomicrons.",
     "whyCorrect": "MTP loads lipids onto apoB-48 to form the primordial particle; without apoB-48, chylomicron assembly fails and severe fat malabsorption results.",
     "whyWrongByChoice": {
-     "B": "ApoA-I is a surface component but not essential for the assembly scaffold.",
-     "C": "ApoA-IV is present on chylomicrons but is not the required structural core protein.",
-     "D": "ApoB-100 is the hepatic isoform used for VLDL/LDL, not intestinal chylomicrons.",
-     "E": "ApoE mediates receptor clearance later but is not required for assembly."
+     "A": "ApoA-I is a surface component but not essential for the assembly scaffold.",
+     "B": "ApoA-IV is present on chylomicrons but is not the required structural core protein.",
+     "C": "ApoB-100 is the hepatic isoform used for VLDL/LDL, not intestinal chylomicrons.",
+     "D": "ApoE mediates receptor clearance later but is not required for assembly."
     }
    }
   },
@@ -9056,33 +9056,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "They are water-soluble particles"
+     "text": "Their large size prevents capillary entry"
     },
     {
      "label": "B",
-     "text": "Apolipoprotein B-48 directs them to lymph"
+     "text": "They are water-soluble particles"
     },
     {
      "label": "C",
-     "text": "Portal venous pressure excludes them"
+     "text": "Apolipoprotein B-48 directs them to lymph"
     },
     {
      "label": "D",
-     "text": "Their large size prevents capillary entry"
+     "text": "Portal venous pressure excludes them"
     },
     {
      "label": "E",
      "text": "They carry fat-soluble vitamins"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Chylomicrons (75-1200 nm) are too large for the ~60-80 nm capillary fenestrae and enter the more permeable lacteals.",
     "whyCorrect": "Capillary fenestrae are far too small for chylomicrons, whereas lacteals have discontinuous endothelium with large gaps that admit chylomicron-sized particles.",
     "whyWrongByChoice": {
-     "A": "Chylomicrons are lipid-rich and not water-soluble; solubility is not the routing basis.",
-     "B": "ApoB-48 is structural; it does not actively steer particles toward lymphatics.",
-     "C": "Portal pressure does not selectively exclude chylomicrons; size is the barrier.",
+     "B": "Chylomicrons are lipid-rich and not water-soluble; solubility is not the routing basis.",
+     "C": "ApoB-48 is structural; it does not actively steer particles toward lymphatics.",
+     "D": "Portal pressure does not selectively exclude chylomicrons; size is the barrier.",
      "E": "Carrying vitamins is unrelated to which vessel a particle can physically enter."
     }
    }
@@ -9134,34 +9134,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Steatorrhea from reduced micelle formation"
+     "text": "Increased hepatic bile salt synthesis"
     },
     {
      "label": "B",
-     "text": "Increased bile salt synthesis"
+     "text": "Impaired pancreatic lipase secretion"
     },
     {
      "label": "C",
-     "text": "Pancreatic lipase deficiency"
+     "text": "Enhanced absorption of dietary cholesterol"
     },
     {
      "label": "D",
-     "text": "Enhanced cholesterol absorption"
+     "text": "Steatorrhea from reduced micelle formation"
     },
     {
      "label": "E",
-     "text": "Portal hypertension"
+     "text": "Portal hypertension with ascites"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Loss of ileal reabsorption depletes the bile salt pool below the CMC, impairing micelles and causing steatorrhea.",
     "whyCorrect": "Without ASBT-mediated recovery, fecal bile salt loss outpaces hepatic synthesis; the pool shrinks, micelle formation fails, and unabsorbed fat produces steatorrhea.",
     "whyWrongByChoice": {
-     "B": "Synthesis is upregulated but cannot fully compensate and is not itself a stool finding.",
-     "C": "Pancreatic lipase secretion is unaffected by ileal resection.",
-     "D": "Cholesterol absorption declines, not improves, with bile salt depletion.",
-     "E": "Portal hypertension is a hepatic/vascular problem unrelated to ileal bile salt handling."
+     "A": "Hepatic synthesis is upregulated but cannot fully compensate and is not itself a stool finding.",
+     "B": "Pancreatic lipase secretion is unaffected by ileal resection.",
+     "C": "Cholesterol absorption declines, not improves, with bile salt depletion.",
+     "E": "Portal hypertension with ascites is a hepatic/vascular problem unrelated to ileal bile salt handling."
     }
    }
   },
@@ -9189,7 +9189,7 @@
     },
     {
      "label": "E",
-     "text": "They enter portal blood directly without micelles"
+     "text": "They enter portal blood without micelles"
     }
    ],
    "correctAnswer": "E",
@@ -9216,29 +9216,29 @@
     },
     {
      "label": "B",
-     "text": "CD36"
+     "text": "FAT/CD36"
     },
     {
      "label": "C",
-     "text": "ASBT"
+     "text": "NPC1L1"
     },
     {
      "label": "D",
-     "text": "NPC1L1"
+     "text": "ASBT"
     },
     {
      "label": "E",
      "text": "MTP"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Ezetimibe competitively inhibits NPC1L1, the enterocyte cholesterol uptake transporter.",
     "whyCorrect": "NPC1L1 mediates apical uptake of dietary and recycled biliary cholesterol and is the direct molecular target of ezetimibe.",
     "whyWrongByChoice": {
      "A": "FATP4 transports long-chain fatty acids, not cholesterol.",
-     "B": "CD36 is a scavenger receptor for fatty acid uptake, not the ezetimibe target.",
-     "C": "ASBT transports bile salts in the ileum, not cholesterol at the brush border.",
+     "B": "FAT/CD36 is a scavenger receptor for fatty acid uptake, not the ezetimibe target.",
+     "D": "ASBT transports bile salts in the ileum, not cholesterol at the brush border.",
      "E": "MTP is an intracellular lipid-loading chaperone, not a membrane cholesterol transporter."
     }
    }
@@ -9290,7 +9290,7 @@
    "choices": [
     {
      "label": "A",
-     "text": "Acyl-CoA synthetase"
+     "text": "Long-chain fatty acyl-CoA synthetase"
     },
     {
      "label": "B",
@@ -9298,26 +9298,26 @@
     },
     {
      "label": "C",
-     "text": "Acyl-CoA cholesterol acyltransferase 2"
+     "text": "Microsomal triglyceride transfer protein"
     },
     {
      "label": "D",
-     "text": "Lipoprotein lipase"
+     "text": "Acyl-CoA cholesterol acyltransferase 2"
     },
     {
      "label": "E",
-     "text": "Microsomal triglyceride transfer protein"
+     "text": "Endothelial capillary lipoprotein lipase"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Microsomal triglyceride transfer protein (MTP) loads lipids onto apoB-48 to form the primordial chylomicron.",
     "whyCorrect": "MTP is the chaperone in the SER that transfers TGs, cholesterol esters, phospholipids, and vitamins onto apoB-48; its loss causes abetalipoproteinemia.",
     "whyWrongByChoice": {
-     "A": "Acyl-CoA synthetase activates fatty acids to acyl-CoA; it does not load apoB-48.",
+     "A": "Fatty acyl-CoA synthetase activates fatty acids to acyl-CoA; it does not load apoB-48.",
      "B": "DGAT catalyzes the final step of TG resynthesis, not lipoprotein loading.",
-     "C": "ACAT2 esterifies cholesterol; it does not assemble the particle onto apoB-48.",
-     "D": "Lipoprotein lipase hydrolyzes circulating triglycerides in capillaries, not in enterocytes."
+     "D": "ACAT2 esterifies cholesterol; it does not assemble the particle onto apoB-48.",
+     "E": "Lipoprotein lipase hydrolyzes circulating triglycerides at capillary endothelium, not in enterocytes."
     }
    }
   },
@@ -9337,15 +9337,15 @@
     },
     {
      "label": "C",
-     "text": "Chylomicrons"
+     "text": "Nascent chylomicron particles"
     },
     {
      "label": "D",
-     "text": "Fat-soluble vitamins"
+     "text": "Dietary fat-soluble vitamins"
     },
     {
      "label": "E",
-     "text": "Cholesterol esters"
+     "text": "Dietary cholesterol esters"
     }
    ],
    "correctAnswer": "A",
@@ -9354,7 +9354,7 @@
     "whyCorrect": "Monosaccharides and amino acids are small and water-soluble, entering capillaries and traveling via the portal vein for first-pass hepatic processing.",
     "whyWrongByChoice": {
      "B": "Long-chain fatty acids are re-esterified and exported in chylomicrons via lymph, not the portal vein.",
-     "C": "Chylomicrons enter lacteals and the lymphatic system, bypassing the portal route.",
+     "C": "Nascent chylomicron particles enter lacteals and the lymphatic system, bypassing the portal route.",
      "D": "Fat-soluble vitamins follow the chylomicron/lymphatic route.",
      "E": "Cholesterol esters are incorporated into chylomicrons and travel via lymph."
     }
@@ -9376,25 +9376,25 @@
     },
     {
      "label": "C",
-     "text": "95%"
+     "text": "50%"
     },
     {
      "label": "D",
-     "text": "50%"
+     "text": "95%"
     },
     {
      "label": "E",
      "text": "75%"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "The enterohepatic circulation recycles approximately 95% of bile salts via ileal active reabsorption.",
     "whyCorrect": "Efficient ASBT-mediated reabsorption in the terminal ileum recovers ~95% of bile salts, allowing a small pool to meet large daily digestive needs.",
     "whyWrongByChoice": {
      "A": "Only about 5% is lost in feces, not reabsorbed; this figure is inverted.",
      "B": "25% recovery would leave the pool unable to sustain digestion.",
-     "D": "50% is far below the actual high recycling efficiency.",
+     "C": "50% is far below the actual high recycling efficiency.",
      "E": "75% understates the ~95% normally reabsorbed."
     }
    }
@@ -9415,26 +9415,26 @@
     },
     {
      "label": "C",
-     "text": "Pancreatic amylase"
+     "text": "Trypsin"
     },
     {
      "label": "D",
-     "text": "Secretin"
+     "text": "Pancreatic amylase"
     },
     {
      "label": "E",
-     "text": "Trypsin"
+     "text": "Secretin"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Trypsin cleaves procolipase to active colipase in the duodenal lumen.",
     "whyCorrect": "Like several pancreatic proenzymes, procolipase is activated by trypsin, which is itself generated from trypsinogen by enteropeptidase.",
     "whyWrongByChoice": {
      "A": "Pepsin is a gastric protease that does not activate procolipase.",
      "B": "Bile salt-stimulated lipase hydrolyzes cholesterol esters; it does not activate colipase.",
-     "C": "Amylase digests starch and has no proteolytic activation role.",
-     "D": "Secretin is a hormone, not a proteolytic activator."
+     "D": "Amylase digests starch and has no proteolytic activation role.",
+     "E": "Secretin is a hormone, not a proteolytic activator."
     }
    }
   },
@@ -9450,29 +9450,29 @@
     },
     {
      "label": "B",
-     "text": "De novo lipogenesis"
+     "text": "Monoglyceride pathway"
     },
     {
      "label": "C",
-     "text": "Beta-oxidation pathway"
+     "text": "De novo lipogenesis"
     },
     {
      "label": "D",
-     "text": "Monoglyceride pathway"
+     "text": "Beta-oxidation pathway"
     },
     {
      "label": "E",
      "text": "Phosphatidic acid pathway"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "The monoglyceride pathway, using MGAT and DGAT, is the predominant route for enterocyte TG resynthesis.",
     "whyCorrect": "2-Monoglyceride is sequentially acylated by MGAT then DGAT to form diacylglycerol and triglyceride, reusing the absorbed glycerol backbone and bypassing de novo glycerol synthesis.",
     "whyWrongByChoice": {
      "A": "The glycerol-3-phosphate pathway is minor in enterocytes after a fatty meal.",
-     "B": "De novo lipogenesis synthesizes fatty acids from scratch, not the main resynthesis route here.",
-     "C": "Beta-oxidation degrades fatty acids rather than building triglycerides.",
+     "C": "De novo lipogenesis synthesizes fatty acids from scratch, not the main resynthesis route here.",
+     "D": "Beta-oxidation degrades fatty acids rather than building triglycerides.",
      "E": "The phosphatidic acid pathway is not the predominant enterocyte TG-resynthesis route."
     }
    }
@@ -9493,25 +9493,25 @@
     },
     {
      "label": "C",
-     "text": "Abetalipoproteinemia"
+     "text": "Crohn disease"
     },
     {
      "label": "D",
-     "text": "Crohn disease"
+     "text": "Abetalipoproteinemia"
     },
     {
      "label": "E",
      "text": "Chronic pancreatitis"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Abetalipoproteinemia is an autosomal recessive MTP defect causing failed chylomicron/VLDL assembly, low LDL, and acanthocytes.",
     "whyCorrect": "Loss of MTP prevents lipid loading onto apoB, so chylomicron and VLDL assembly fail, producing fat malabsorption, very low LDL, acanthocytes, and vitamin E deficiency.",
     "whyWrongByChoice": {
      "A": "Celiac disease causes villous atrophy but not low LDL or acanthocytes.",
      "B": "Cystic fibrosis causes pancreatic insufficiency, not defective apoB loading or acanthocytes.",
-     "D": "Crohn disease affects the bowel wall but does not cause this apoB-loading defect.",
+     "C": "Crohn disease affects the bowel wall but does not cause this apoB-loading defect.",
      "E": "Chronic pancreatitis causes enzyme deficiency, not markedly reduced LDL with acanthocytes."
     }
    }
@@ -9528,29 +9528,29 @@
     },
     {
      "label": "B",
-     "text": "Celiac disease"
-    },
-    {
-     "label": "C",
      "text": "Chronic pancreatitis"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Bile salt deficiency"
+    },
+    {
+     "label": "D",
+     "text": "Celiac disease"
     },
     {
      "label": "E",
      "text": "Short bowel syndrome"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Celiac disease is an immune-mediated absorptive defect with villous atrophy and positive anti-tTG IgA despite intact luminal digestion.",
     "whyCorrect": "Gluten-triggered immune injury damages duodenal/jejunal mucosa, reducing absorptive surface and brush-border enzymes; luminal digestion is intact, and anti-tTG IgA is the serologic hallmark.",
     "whyWrongByChoice": {
      "A": "Abetalipoproteinemia shows low LDL and acanthocytes, not positive anti-tTG serology.",
-     "C": "Chronic pancreatitis impairs luminal enzyme secretion, which is normal here.",
-     "D": "Bile salt deficiency impairs micelles but does not cause villous atrophy or positive anti-tTG.",
+     "B": "Chronic pancreatitis impairs luminal enzyme secretion, which is normal here.",
+     "C": "Bile salt deficiency impairs micelles but does not cause villous atrophy or positive anti-tTG.",
      "E": "Short bowel syndrome follows resection, not immune villous atrophy with anti-tTG antibodies."
     }
    }
@@ -9563,15 +9563,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "Celiac disease"
+     "text": "Cystic fibrosis"
     },
     {
      "label": "B",
-     "text": "Crohn disease"
+     "text": "Celiac disease"
     },
     {
      "label": "C",
-     "text": "Cystic fibrosis"
+     "text": "Crohn disease"
     },
     {
      "label": "D",
@@ -9582,13 +9582,13 @@
      "text": "Chronic pancreatitis"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Cystic fibrosis is the most common inherited cause of pancreatic exocrine insufficiency.",
     "whyCorrect": "The CFTR defect produces viscous pancreatic secretions that plug ducts and block lipase delivery, causing steatorrhea; recurrent lung infection reflects the same channel defect.",
     "whyWrongByChoice": {
-     "A": "Celiac disease is an absorptive mucosal disorder, not a cause of pancreatic insufficiency.",
-     "B": "Crohn disease affects the bowel wall, not pancreatic enzyme secretion primarily.",
+     "B": "Celiac disease is an absorptive mucosal disorder, not a cause of pancreatic insufficiency.",
+     "C": "Crohn disease affects the bowel wall, not pancreatic enzyme secretion primarily.",
      "D": "Abetalipoproteinemia is a lipoprotein-assembly defect, not pancreatic insufficiency.",
      "E": "Chronic pancreatitis causes acquired insufficiency but is not the common inherited cause in children."
     }
@@ -9606,11 +9606,11 @@
     },
     {
      "label": "B",
-     "text": "Phospholipase A2"
+     "text": "Colipase"
     },
     {
      "label": "C",
-     "text": "Colipase"
+     "text": "Phospholipase A2"
     },
     {
      "label": "D",
@@ -9621,13 +9621,13 @@
      "text": "Pancreatic amylase"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Pancreatic phospholipase A2 cleaves the sn-2 bond of phosphatidylcholine to release a lysophospholipid and a fatty acid.",
     "whyCorrect": "Phospholipase A2, activated by trypsin, acts on biliary phosphatidylcholine at the sn-2 position; both products enter mixed micelles, explaining the prominence of lysophospholipids there.",
     "whyWrongByChoice": {
      "A": "Pancreatic lipase cleaves triglyceride sn-1/sn-3 bonds, not phospholipid sn-2 bonds.",
-     "C": "Colipase anchors lipase; it has no phospholipase activity.",
+     "B": "Colipase anchors lipase; it has no phospholipase activity.",
      "D": "Cholesterol esterase hydrolyzes cholesterol esters, not phosphatidylcholine.",
      "E": "Amylase digests carbohydrate and has no phospholipid activity."
     }
@@ -9641,15 +9641,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "SGLT1"
-    },
-    {
-     "label": "B",
      "text": "GLUT2"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "GLUT5"
+    },
+    {
+     "label": "C",
+     "text": "SGLT1"
     },
     {
      "label": "D",
@@ -9660,13 +9660,13 @@
      "text": "Na+/K+-ATPase"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "SGLT1 is the apical secondary active cotransporter for glucose and galactose.",
     "whyCorrect": "SGLT1 couples two Na+ ions to each glucose (or galactose) molecule, using the inward Na+ gradient to concentrate sugar inside the enterocyte against its concentration gradient.",
     "whyWrongByChoice": {
-     "B": "GLUT2 is a basolateral facilitative exporter that moves sugars down their gradient and cannot concentrate them.",
-     "C": "GLUT5 is the apical facilitative fructose transporter with no ion coupling, so it cannot move sugar uphill.",
+     "A": "GLUT2 is a basolateral facilitative exporter that moves sugars down their gradient and cannot concentrate them.",
+     "B": "GLUT5 is the apical facilitative fructose transporter with no ion coupling, so it cannot move sugar uphill.",
      "D": "PepT1 is the H+-coupled di- and tripeptide transporter, not a sugar transporter.",
      "E": "Na+/K+-ATPase is the basolateral pump that maintains the Na+ gradient but does not itself transport glucose."
     }
@@ -9684,29 +9684,29 @@
     },
     {
      "label": "B",
-     "text": "GLUT5"
-    },
-    {
-     "label": "C",
      "text": "GLUT2"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "DMT1"
+    },
+    {
+     "label": "D",
+     "text": "GLUT5"
     },
     {
      "label": "E",
      "text": "PepT1"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "GLUT5 is the apical, ion-independent fructose transporter.",
     "whyCorrect": "GLUT5 mediates facilitated diffusion of fructose across the apical membrane with no sodium or proton coupling.",
     "whyWrongByChoice": {
      "A": "SGLT1 is Na+-coupled and handles glucose and galactose, not fructose.",
-     "C": "GLUT2 is the basolateral exporter for all three sugars, not an apical fructose uptake transporter.",
-     "D": "DMT1 transports ferrous iron, not sugars.",
+     "B": "GLUT2 is the basolateral exporter for all three sugars, not an apical fructose uptake transporter.",
+     "C": "DMT1 transports ferrous iron, not sugars.",
      "E": "PepT1 transports di- and tripeptides."
     }
    }
@@ -9723,11 +9723,11 @@
     },
     {
      "label": "B",
-     "text": "GLUT2"
+     "text": "PepT1"
     },
     {
      "label": "C",
-     "text": "PepT1"
+     "text": "GLUT2"
     },
     {
      "label": "D",
@@ -9738,13 +9738,13 @@
      "text": "ENaC"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "GLUT2 exports all three monosaccharides at the basolateral membrane.",
     "whyCorrect": "GLUT2 is a high-capacity, low-affinity facilitative transporter that moves glucose, galactose, and fructose down their gradient into portal blood.",
     "whyWrongByChoice": {
      "A": "SGLT1 is an apical uptake transporter, not a basolateral exporter.",
-     "C": "PepT1 transports peptides, not sugars.",
+     "B": "PepT1 transports peptides, not sugars.",
      "D": "GLUT5 mediates apical fructose uptake, not basolateral export of all sugars.",
      "E": "ENaC is a colonic sodium channel, unrelated to sugar export."
     }
@@ -9758,32 +9758,32 @@
    "choices": [
     {
      "label": "A",
-     "text": "Na+/K+-ATPase"
+     "text": "GLUT2 uniporter"
     },
     {
      "label": "B",
-     "text": "GLUT2"
+     "text": "Na+/K+-ATPase"
     },
     {
      "label": "C",
-     "text": "DMT1"
+     "text": "DMT1 cotransporter"
     },
     {
      "label": "D",
-     "text": "Ferroportin"
+     "text": "Basolateral ferroportin"
     },
     {
      "label": "E",
      "text": "H+/K+-ATPase"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "The basolateral Na+/K+-ATPase maintains the low intracellular Na+ that drives secondary active transport.",
     "whyCorrect": "By pumping 3 Na+ out and 2 K+ in, the Na+/K+-ATPase keeps intracellular Na+ low, sustaining the inward Na+ gradient that powers SGLT1 and Na+-dependent amino acid transporters.",
     "whyWrongByChoice": {
-     "B": "GLUT2 exports sugars and does not establish an ion gradient.",
-     "C": "DMT1 transports iron and does not maintain the Na+ gradient.",
+     "A": "GLUT2 exports sugars and does not establish an ion gradient.",
+     "C": "DMT1 cotransports iron and does not maintain the Na+ gradient.",
      "D": "Ferroportin exports iron at the basolateral membrane.",
      "E": "The H+/K+-ATPase handles potassium/proton transport in the colon and stomach, not the intestinal Na+ gradient."
     }
@@ -9836,33 +9836,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "SGLT1"
+     "text": "PepT1"
     },
     {
      "label": "B",
-     "text": "Na+-dependent amino acid transporter"
+     "text": "SGLT1"
     },
     {
      "label": "C",
-     "text": "GLUT2"
+     "text": "Na+-dependent amino acid transporter"
     },
     {
      "label": "D",
-     "text": "PepT1"
+     "text": "GLUT2"
     },
     {
      "label": "E",
      "text": "DRA"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "PepT1 absorbs intact di- and tripeptides.",
     "whyCorrect": "PepT1 is the H+-coupled oligopeptide transporter that takes up di- and tripeptides using the inward proton gradient.",
     "whyWrongByChoice": {
-     "A": "SGLT1 transports glucose and galactose.",
-     "B": "Na+-dependent amino acid transporters carry free amino acids, not intact peptides.",
-     "C": "GLUT2 exports sugars at the basolateral membrane.",
+     "B": "SGLT1 transports glucose and galactose.",
+     "C": "Na+-dependent amino acid transporters carry free amino acids, not intact peptides.",
+     "D": "GLUT2 exports sugars at the basolateral membrane.",
      "E": "DRA is the Cl-/HCO3- exchanger, unrelated to peptide uptake."
     }
    }
@@ -9875,15 +9875,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "H+-dependent cotransport"
+     "text": "Na+-dependent cotransport"
     },
     {
      "label": "B",
-     "text": "Facilitated diffusion"
+     "text": "H+-dependent cotransport"
     },
     {
      "label": "C",
-     "text": "Na+-dependent cotransport"
+     "text": "Facilitated diffusion"
     },
     {
      "label": "D",
@@ -9894,13 +9894,13 @@
      "text": "Primary active ATP hydrolysis"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Free amino acids use Na+-dependent secondary active cotransport.",
     "whyCorrect": "Apical amino acid transporters harness the inward Na+ gradient (like SGLT1) to concentrate free amino acids inside the enterocyte even at low luminal concentrations.",
     "whyWrongByChoice": {
-     "A": "H+-dependent cotransport describes PepT1 for peptides, not free amino acids.",
-     "B": "Facilitated diffusion cannot concentrate amino acids against a gradient.",
+     "B": "H+-dependent cotransport describes PepT1 for peptides, not free amino acids.",
+     "C": "Facilitated diffusion cannot concentrate amino acids against a gradient.",
      "D": "The paracellular route mainly carries water and potassium, not amino acids.",
      "E": "These are secondary active transporters; they do not directly hydrolyze ATP."
     }
@@ -9918,11 +9918,11 @@
     },
     {
      "label": "B",
-     "text": "SGLT1"
+     "text": "NHE3"
     },
     {
      "label": "C",
-     "text": "NHE3"
+     "text": "SGLT1"
     },
     {
      "label": "D",
@@ -9933,13 +9933,13 @@
      "text": "DRA"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "NHE3 is the electroneutral Na+/H+ exchanger.",
     "whyCorrect": "NHE3 exchanges luminal Na+ for intracellular H+, mediating electroneutral sodium absorption and generating the proton gradient used by PepT1.",
     "whyWrongByChoice": {
      "A": "ENaC is an electrogenic Na+ channel in the colon, not an exchanger.",
-     "B": "SGLT1 couples Na+ to glucose, not to H+ efflux.",
+     "C": "SGLT1 couples Na+ to glucose, not to H+ efflux.",
      "D": "CFTR is a chloride channel that mediates secretion.",
      "E": "DRA is the Cl-/HCO3- exchanger."
     }
@@ -9953,33 +9953,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "DRA"
-    },
-    {
-     "label": "B",
      "text": "NHE3"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "CFTR"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "ENaC"
+    },
+    {
+     "label": "D",
+     "text": "DRA"
     },
     {
      "label": "E",
      "text": "DMT1"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "DRA (SLC26A3) is the Cl-/HCO3- exchanger.",
     "whyCorrect": "DRA exports intracellular HCO3- in exchange for luminal Cl-; paired with NHE3 it produces net electroneutral NaCl absorption.",
     "whyWrongByChoice": {
-     "B": "NHE3 exchanges Na+ for H+, not Cl- for HCO3-.",
-     "C": "CFTR secretes chloride rather than absorbing it.",
-     "D": "ENaC is a sodium channel.",
+     "A": "NHE3 exchanges Na+ for H+, not Cl- for HCO3-.",
+     "B": "CFTR secretes chloride rather than absorbing it.",
+     "C": "ENaC is a sodium channel.",
      "E": "DMT1 transports iron."
     }
    }
@@ -10031,33 +10031,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Secretory diarrhea"
+     "text": "Osmotic diarrhea"
     },
     {
      "label": "B",
-     "text": "Inflammatory diarrhea"
+     "text": "Secretory diarrhea"
     },
     {
      "label": "C",
-     "text": "Motility-related diarrhea"
+     "text": "Inflammatory diarrhea"
     },
     {
      "label": "D",
-     "text": "Osmotic diarrhea"
+     "text": "Motility-related diarrhea"
     },
     {
      "label": "E",
      "text": "Steatorrhea"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Lactose intolerance produces osmotic diarrhea that resolves with fasting.",
     "whyCorrect": "Undigested lactose is osmotically active and retains water in the lumen; removing the offending solute by fasting eliminates the osmotic load and the diarrhea.",
     "whyWrongByChoice": {
-     "A": "Secretory diarrhea persists during fasting because it results from active ion secretion.",
-     "B": "Inflammatory diarrhea features blood or pus and does not resolve with fasting.",
-     "C": "Motility-related diarrhea is not driven by an unabsorbed solute.",
+     "B": "Secretory diarrhea persists during fasting because it results from active ion secretion.",
+     "C": "Inflammatory diarrhea features blood or pus and does not resolve with fasting.",
+     "D": "Motility-related diarrhea is not driven by an unabsorbed solute.",
      "E": "Steatorrhea is fat malabsorption producing greasy, foul stools, not lactose-driven watery diarrhea."
     }
    }
@@ -10078,25 +10078,25 @@
     },
     {
      "label": "C",
-     "text": "Increased potassium reabsorption"
+     "text": "Massive chloride secretion"
     },
     {
      "label": "D",
-     "text": "Massive chloride secretion"
+     "text": "Increased potassium reabsorption"
     },
     {
      "label": "E",
      "text": "Bicarbonate retention"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "CFTR activation drives massive luminal chloride secretion.",
     "whyCorrect": "Activated CFTR secretes large amounts of Cl- into the lumen with Na+ and water following osmotically, while NHE3 inhibition blocks Na+ (and thus water) reabsorption.",
     "whyWrongByChoice": {
      "A": "Chloride secretion increases, not decreases.",
      "B": "NHE3 inhibition reduces sodium absorption rather than enhancing it.",
-     "C": "Increased potassium reabsorption is not the mechanism of the fluid loss.",
+     "D": "Increased potassium reabsorption is not the mechanism of the fluid loss.",
      "E": "Bicarbonate retention does not explain the secretory fluid loss."
     }
    }
@@ -10113,30 +10113,30 @@
     },
     {
      "label": "B",
-     "text": "SGLT1 couples glucose and sodium absorption"
-    },
-    {
-     "label": "C",
      "text": "ENaC drives small-intestinal sodium absorption"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "CFTR reabsorbs chloride when stimulated"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "NHE3 is upregulated by cAMP"
+    },
+    {
+     "label": "E",
+     "text": "SGLT1 couples glucose and sodium absorption"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Oral rehydration works because SGLT1-mediated glucose-sodium cotransport remains intact.",
     "whyCorrect": "Cholera toxin does not disable SGLT1; co-administered glucose drives Na+ absorption through SGLT1, and water follows osmotically, restoring fluid balance.",
     "whyWrongByChoice": {
      "A": "Fructose uptake via GLUT5 is not sodium-coupled and provides no absorptive driving force.",
-     "C": "ENaC operates in the colon and is not the basis for oral rehydration.",
-     "D": "CFTR secretes chloride; it does not reabsorb it.",
-     "E": "NHE3 is inhibited by cAMP in cholera, not upregulated."
+     "B": "ENaC operates in the colon and is not the basis for oral rehydration.",
+     "C": "CFTR secretes chloride; it does not reabsorb it.",
+     "D": "NHE3 is inhibited by cAMP in cholera, not upregulated."
     }
    }
   },
@@ -10199,14 +10199,14 @@
     },
     {
      "label": "D",
-     "text": "Vitamin B12"
+     "text": "Vitamin K"
     },
     {
      "label": "E",
-     "text": "Vitamin K"
+     "text": "Vitamin B12"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Cholestasis impairs vitamin K absorption, causing coagulopathy.",
     "whyCorrect": "Vitamin K is required for synthesis of clotting factors; its deficiency prolongs the prothrombin time and produces easy bruising and bleeding.",
@@ -10214,7 +10214,7 @@
      "A": "Vitamin A deficiency causes night blindness and xerophthalmia.",
      "B": "Vitamin D deficiency causes rickets or osteomalacia.",
      "C": "Vitamin E deficiency causes hemolytic anemia and neuropathy.",
-     "D": "Vitamin B12 is water-soluble and not affected by cholestatic fat malabsorption."
+     "E": "Vitamin B12 is water-soluble and not affected by cholestatic fat malabsorption."
     }
    }
   },
@@ -10226,33 +10226,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Gastric parietal cells"
-    },
-    {
-     "label": "B",
      "text": "Gastric chief cells"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Pancreatic acinar cells"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Ileal enterocytes"
+    },
+    {
+     "label": "D",
+     "text": "Gastric parietal cells"
     },
     {
      "label": "E",
      "text": "Salivary glands"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Gastric parietal cells secrete intrinsic factor.",
     "whyCorrect": "Parietal cells of the gastric mucosa secrete both hydrochloric acid and intrinsic factor, the glycoprotein required for B12 absorption.",
     "whyWrongByChoice": {
-     "B": "Chief cells secrete pepsinogen, not intrinsic factor.",
-     "C": "Pancreatic acinar cells secrete digestive enzymes.",
-     "D": "Ileal enterocytes absorb the B12-IF complex but do not make intrinsic factor.",
+     "A": "Chief cells secrete pepsinogen, not intrinsic factor.",
+     "B": "Pancreatic acinar cells secrete digestive enzymes.",
+     "C": "Ileal enterocytes absorb the B12-IF complex but do not make intrinsic factor.",
      "E": "Salivary glands secrete haptocorrin (R-protein), not intrinsic factor."
     }
    }
@@ -10269,11 +10269,11 @@
     },
     {
      "label": "B",
-     "text": "Terminal ileum"
+     "text": "Proximal jejunum"
     },
     {
      "label": "C",
-     "text": "Proximal jejunum"
+     "text": "Terminal ileum"
     },
     {
      "label": "D",
@@ -10284,13 +10284,13 @@
      "text": "Colon"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "The terminal ileum absorbs the B12-IF complex via the cubilin receptor.",
     "whyCorrect": "The cubilin-amnionless receptor complex expressed in the terminal ileum binds and endocytoses the B12-intrinsic factor complex.",
     "whyWrongByChoice": {
      "A": "The duodenum absorbs iron and does not have the cubilin receptor for B12-IF.",
-     "C": "The proximal jejunum absorbs most water-soluble vitamins but not the B12-IF complex.",
+     "B": "The proximal jejunum absorbs most water-soluble vitamins but not the B12-IF complex.",
      "D": "The stomach is where intrinsic factor is secreted, not where B12 is absorbed.",
      "E": "The colon has no role in B12 absorption."
     }
@@ -10304,32 +10304,32 @@
    "choices": [
     {
      "label": "A",
-     "text": "Hephaestin"
+     "text": "Basolateral hephaestin"
     },
     {
      "label": "B",
-     "text": "Heme oxygenase"
-    },
-    {
-     "label": "C",
      "text": "Duodenal cytochrome b"
     },
     {
+     "label": "C",
+     "text": "Heme oxygenase-1"
+    },
+    {
      "label": "D",
-     "text": "Ferroportin"
+     "text": "Basolateral ferroportin"
     },
     {
      "label": "E",
      "text": "Carbonic anhydrase"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Duodenal cytochrome b (Dcytb) reduces Fe3+ to Fe2+ at the brush border.",
     "whyCorrect": "Dcytb is the brush-border ferrireductase that converts ferric to ferrous iron so it can be taken up by DMT1.",
     "whyWrongByChoice": {
      "A": "Hephaestin is a basolateral ferroxidase that oxidizes Fe2+ to Fe3+ during export.",
-     "B": "Heme oxygenase releases iron from absorbed heme intracellularly.",
+     "C": "Heme oxygenase-1 releases iron from absorbed heme intracellularly.",
      "D": "Ferroportin exports iron at the basolateral membrane.",
      "E": "Carbonic anhydrase generates H+ and HCO3- and has no role in iron reduction."
     }
@@ -10347,29 +10347,29 @@
     },
     {
      "label": "B",
-     "text": "Transferrin"
+     "text": "DMT1"
     },
     {
      "label": "C",
-     "text": "Cubilin"
+     "text": "Transferrin"
     },
     {
      "label": "D",
-     "text": "DMT1"
+     "text": "Cubilin"
     },
     {
      "label": "E",
      "text": "SGLT1"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "DMT1 is the apical H+-coupled ferrous iron transporter.",
     "whyCorrect": "Divalent metal transporter 1 (DMT1) uses the acidic duodenal microenvironment to drive Fe2+ uptake across the apical membrane.",
     "whyWrongByChoice": {
      "A": "Ferroportin exports iron at the basolateral membrane, not apical uptake.",
-     "B": "Transferrin is a plasma iron carrier, not a membrane transporter.",
-     "C": "Cubilin is the ileal receptor for the B12-intrinsic factor complex.",
+     "C": "Transferrin is a plasma iron carrier, not a membrane transporter.",
+     "D": "Cubilin is the ileal receptor for the B12-intrinsic factor complex.",
      "E": "SGLT1 transports glucose and galactose."
     }
    }
@@ -10382,15 +10382,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "Upregulating ferroportin expression"
+     "text": "Binding ferroportin and degrading it"
     },
     {
      "label": "B",
-     "text": "Phosphorylating ferroportin to activate it"
+     "text": "Upregulating ferroportin expression"
     },
     {
      "label": "C",
-     "text": "Binding ferroportin to trigger its degradation"
+     "text": "Phosphorylating ferroportin to activate it"
     },
     {
      "label": "D",
@@ -10398,16 +10398,16 @@
     },
     {
      "label": "E",
-     "text": "Coupling ferroportin to sodium"
+     "text": "Coupling ferroportin to sodium ions"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Hepcidin binds ferroportin and causes its internalization and degradation.",
     "whyCorrect": "By binding ferroportin and triggering its degradation, hepcidin blocks basolateral iron export, trapping iron in enterocytes and reducing absorption.",
     "whyWrongByChoice": {
-     "A": "Hepcidin decreases, not increases, ferroportin availability.",
-     "B": "Hepcidin does not activate ferroportin by phosphorylation.",
+     "B": "Hepcidin decreases, not increases, ferroportin availability.",
+     "C": "Hepcidin does not activate ferroportin by phosphorylation.",
      "D": "Iron oxidation during export is performed by hephaestin, not hepcidin.",
      "E": "Ferroportin is not a sodium-coupled transporter."
     }
@@ -10433,14 +10433,14 @@
     },
     {
      "label": "D",
-     "text": "Colon"
+     "text": "Terminal ileum"
     },
     {
      "label": "E",
-     "text": "Terminal ileum"
+     "text": "Colon"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "The colon (large bowel) is the most densely colonized region of the GI tract.",
     "whyCorrect": "Microbial density increases proximal to distal, and the large bowel exceeds 10^11 organisms/mL, the densest microbial population in the body, dominated by anaerobes.",
@@ -10448,7 +10448,7 @@
      "A": "The stomach is sparsely colonized (roughly 10^1 to 10^4) because of acidic pH.",
      "B": "The duodenum contains fewer than 10^4 organisms/mL due to acid, bile, and pancreatic secretions.",
      "C": "The proximal jejunum is likewise sparse, containing fewer than 10^4 organisms/mL.",
-     "E": "The distal ileum reaches only about 10^7 to 10^8 organisms/mL, well below the colon."
+     "D": "The distal ileum reaches only about 10^7 to 10^8 organisms/mL, well below the colon."
     }
    }
   },
@@ -10460,34 +10460,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Vitamin A"
+     "text": "Vitamin K"
     },
     {
      "label": "B",
-     "text": "Vitamin B12"
+     "text": "Vitamin A"
     },
     {
      "label": "C",
-     "text": "Vitamin C"
+     "text": "Vitamin B12"
     },
     {
      "label": "D",
-     "text": "Vitamin D"
+     "text": "Vitamin C"
     },
     {
      "label": "E",
-     "text": "Vitamin K"
+     "text": "Vitamin D"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Gut flora synthesize vitamin K, essential for gamma-carboxylation of clotting factors.",
     "whyCorrect": "The brick states normal flora produce vitamin K, which is required for gamma-carboxylation of clotting factors II, VII, IX, and X as well as proteins C and S.",
     "whyWrongByChoice": {
-     "A": "Vitamin A is obtained from diet and is not a product of colonic bacterial synthesis emphasized here.",
-     "B": "Vitamin B12 is absorbed in the terminal ileum from dietary sources, not synthesized as the clotting-related vitamin described.",
-     "C": "Vitamin C is dietary and plays no role in clotting factor carboxylation.",
-     "D": "Vitamin D comes from skin synthesis and diet, not gut flora, and is unrelated to clotting factor carboxylation."
+     "B": "Vitamin A is obtained from diet and is not a product of colonic bacterial synthesis emphasized here.",
+     "C": "Vitamin B12 is absorbed in the terminal ileum from dietary sources, not synthesized as the clotting-related vitamin described.",
+     "D": "Vitamin C is dietary and plays no role in clotting factor carboxylation.",
+     "E": "Vitamin D comes from skin synthesis and diet, not gut flora, and is unrelated to clotting factor carboxylation."
     }
    }
   },
@@ -10499,15 +10499,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "Live Lactobacillus rhamnosus cultures"
-    },
-    {
-     "label": "B",
      "text": "Donor fecal microbiota transplant"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Oral broad-spectrum antibiotics"
+    },
+    {
+     "label": "C",
+     "text": "Live Lactobacillus rhamnosus"
     },
     {
      "label": "D",
@@ -10518,13 +10518,13 @@
      "text": "Purified microbial metabolites"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Probiotics are live microorganisms that confer a health benefit; Lactobacillus rhamnosus qualifies.",
     "whyCorrect": "The brick defines probiotics as live microorganisms that when administered in adequate amounts confer a health benefit, and lists Lactobacillus rhamnosus as a member.",
     "whyWrongByChoice": {
-     "B": "The brick explicitly states fecal microbiota transplant is not classified as a probiotic.",
-     "C": "Antibiotics suppress flora rather than being live beneficial organisms.",
+     "A": "The brick explicitly states fecal microbiota transplant is not classified as a probiotic.",
+     "B": "Antibiotics suppress flora rather than being live beneficial organisms.",
      "D": "Dead organisms are specifically excluded from the definition of probiotics.",
      "E": "Bioactive molecules produced by microbes are specifically excluded from the definition."
     }
@@ -10538,11 +10538,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Immune exclusion"
+     "text": "Immunologic exclusion"
     },
     {
      "label": "B",
-     "text": "Fat emulsification"
+     "text": "Dietary fat emulsification"
     },
     {
      "label": "C",
@@ -10550,22 +10550,22 @@
     },
     {
      "label": "D",
-     "text": "Colonization resistance"
+     "text": "Bile salt conjugation"
     },
     {
      "label": "E",
-     "text": "Bile conjugation"
+     "text": "Colonization resistance"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Protection against pathogenic colonization by normal flora is called colonization resistance.",
     "whyCorrect": "The brick describes colonization resistance as the mechanism by which normal flora protect against pathogenic colonization; its loss with antibiotics predisposes to C. difficile.",
     "whyWrongByChoice": {
-     "A": "Immune exclusion refers to secretory IgA preventing pathogen adherence, not competitive niche occupation by flora.",
+     "A": "Immunologic exclusion refers to secretory IgA preventing pathogen adherence, not competitive niche occupation by flora.",
      "B": "Fat emulsification is a function of bile salts, not normal flora.",
      "C": "Gastric acidification is a host secretory function, not a protective action of flora.",
-     "E": "Bile conjugation occurs in the liver and is unrelated to this protective mechanism."
+     "D": "Bile salt conjugation occurs in the liver and is unrelated to this protective mechanism."
     }
    }
   },
@@ -10616,33 +10616,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Sterilization of the lumen"
+     "text": "Complete sterilization of the lumen"
     },
     {
      "label": "B",
-     "text": "Increased mucus clearance"
+     "text": "Increased luminal mucus clearance"
     },
     {
      "label": "C",
-     "text": "Bacterial overgrowth with perforation"
+     "text": "Enhanced mesenteric lymphatic drainage"
     },
     {
      "label": "D",
-     "text": "Enhanced lymphatic drainage"
+     "text": "Bacterial overgrowth and perforation"
     },
     {
      "label": "E",
      "text": "Reduced intraluminal pressure"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Luminal obstruction of the appendix causes bacterial overgrowth, ischemia, and perforation.",
     "whyCorrect": "The brick states obstruction of the appendiceal lumen, often by a fecalith, leads to rapid bacterial overgrowth, ischemia, and perforation, resulting in appendicitis.",
     "whyWrongByChoice": {
      "A": "Obstruction promotes overgrowth, not sterilization of the lumen.",
      "B": "Obstruction blocks drainage rather than increasing mucus clearance.",
-     "D": "A closed, obstructed compartment impairs rather than enhances drainage.",
+     "C": "A closed, obstructed compartment impairs rather than enhances lymphatic drainage.",
      "E": "Trapped secretions raise intraluminal pressure rather than reducing it."
     }
    }
@@ -10655,34 +10655,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Escherichia coli"
+     "text": "Enterococcus faecalis"
     },
     {
      "label": "B",
-     "text": "Bacteroides fragilis"
+     "text": "Faecalibacterium prausnitzii"
     },
     {
      "label": "C",
-     "text": "Veillonella species"
+     "text": "Bacteroides thetaiotaomicron"
     },
     {
      "label": "D",
-     "text": "Lactobacillus rhamnosus"
+     "text": "Veillonella parvula"
     },
     {
      "label": "E",
-     "text": "Faecalibacterium prausnitzii"
+     "text": "Lactobacillus rhamnosus"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Faecalibacterium prausnitzii is the abundant colonic butyrate producer that fuels colonocytes.",
     "whyCorrect": "The brick identifies F. prausnitzii as one of the most abundant organisms in the healthy colon and a major producer of butyrate, the primary energy source for colonocytes.",
     "whyWrongByChoice": {
-     "A": "E. coli resides in the mucus layer but is not the major butyrate producer described.",
-     "B": "Bacteroides fragilis is abundant but is not identified as the key butyrate producer here.",
-     "C": "Veillonella consumes lactate through cross-feeding rather than being a major butyrate source.",
-     "D": "Lactobacillus is a proximal small-bowel and probiotic organism, not the dominant colonic butyrate producer."
+     "A": "Enterococcus faecalis is a normal gut commensal but not the major butyrate producer described.",
+     "C": "Bacteroides thetaiotaomicron is abundant but is not the key butyrate producer identified here.",
+     "D": "Veillonella parvula consumes lactate through cross-feeding rather than being a major butyrate source.",
+     "E": "Lactobacillus rhamnosus is a proximal small-bowel and probiotic organism, not the dominant colonic butyrate producer."
     }
    }
   },
@@ -10694,11 +10694,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Secretory IgA"
+     "text": "IgG"
     },
     {
      "label": "B",
-     "text": "IgG"
+     "text": "IgA"
     },
     {
      "label": "C",
@@ -10713,12 +10713,12 @@
      "text": "IgD"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Secretory IgA is the dominant mucosal antibody mediating immune exclusion.",
     "whyCorrect": "The brick states secretory IgA is the dominant immunoglobulin at mucosal surfaces and mediates immune exclusion by preventing pathogen adherence without triggering inflammation.",
     "whyWrongByChoice": {
-     "B": "IgG is the major systemic antibody, not the dominant mucosal secretory immunoglobulin.",
+     "A": "IgG is the major systemic antibody, not the dominant mucosal secretory immunoglobulin.",
      "C": "IgM is the first antibody in a primary response but is not the mucosal exclusion antibody described.",
      "D": "IgE mediates allergic and antiparasitic responses, not mucosal immune exclusion.",
      "E": "IgD is a B-cell surface receptor with no role in mucosal immune exclusion."
@@ -10733,33 +10733,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Gastric aerobes with fungi"
+     "text": "Gut anaerobes with skin flora"
     },
     {
      "label": "B",
-     "text": "Biliary gram-negatives alone"
+     "text": "Gastric aerobes with fungi"
     },
     {
      "label": "C",
-     "text": "Oral streptococci alone"
+     "text": "Biliary gram-negatives alone"
     },
     {
      "label": "D",
-     "text": "Enteric anaerobes with skin flora"
+     "text": "Oral streptococci alone"
     },
     {
      "label": "E",
      "text": "Inhaled respiratory flora alone"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Perianal abscesses involve both enteric anaerobes and skin flora.",
     "whyCorrect": "The brick states perianal abscesses and fistulae characteristically involve both enteric anaerobes from the rectum and skin flora such as Staphylococcus at the perianal skin.",
     "whyWrongByChoice": {
-     "A": "Gastric aerobes and fungi are not the flora of the anorectal region.",
-     "B": "Biliary gram-negative rods relate to ascending biliary infection, not perianal abscess.",
-     "C": "Oral streptococci are upper-tract organisms, not the perianal mix described.",
+     "B": "Gastric aerobes and fungi are not the flora of the anorectal region.",
+     "C": "Biliary gram-negative rods relate to ascending biliary infection, not perianal abscess.",
+     "D": "Oral streptococci are upper-tract organisms, not the perianal mix described.",
      "E": "Respiratory flora are unrelated to anorectal infections."
     }
    }
@@ -10780,26 +10780,26 @@
     },
     {
      "label": "C",
-     "text": "Yersinia enterocolitica"
-    },
-    {
-     "label": "D",
      "text": "Clostridioides difficile"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Helicobacter pylori"
+    },
+    {
+     "label": "E",
+     "text": "Yersinia enterocolitica"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Yersinia enterocolitica causes pseudoappendicitis by invading terminal ileal lymphoid tissue.",
     "whyCorrect": "The brick describes Yersinia enterocolitica, classically from undercooked pork, preferentially invading Peyer's patches of the terminal ileum and producing pseudoappendicitis.",
     "whyWrongByChoice": {
      "A": "Salmonella is listed as a small-bowel pathogen but is not the pork-associated pseudoappendicitis organism described.",
      "B": "Campylobacter is noted as a proximal small-bowel pathogen, not the terminal ileal Peyer's-patch invader here.",
-     "D": "C. difficile causes antibiotic-associated colitis, not pseudoappendicitis from pork.",
-     "E": "H. pylori colonizes the gastric antrum, not the terminal ileum."
+     "C": "C. difficile causes antibiotic-associated colitis, not pseudoappendicitis from pork.",
+     "D": "H. pylori colonizes the gastric antrum, not the terminal ileum."
     }
    }
   },
@@ -10854,29 +10854,29 @@
     },
     {
      "label": "B",
-     "text": "Actinobacteria"
-    },
-    {
-     "label": "C",
      "text": "Firmicutes"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Bacteroidetes"
+    },
+    {
+     "label": "D",
+     "text": "Actinobacteria"
     },
     {
      "label": "E",
      "text": "Fusobacteria"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Actinobacteria are high in infancy (about half) and fall below 5 percent in the elderly.",
     "whyCorrect": "The brick states neonates and infants have high Actinobacteria, about half of total gut bacteria, decreasing to under 5 percent in individuals over 70 years.",
     "whyWrongByChoice": {
      "A": "Proteobacteria start around 10 percent in infants and rise in late life, the opposite pattern.",
-     "C": "Firmicutes are about 20 percent in young children and peak in middle age, not half in infancy.",
-     "D": "Bacteroidetes are not described as constituting half of the infant microbiota.",
+     "B": "Firmicutes are about 20 percent in young children and peak in middle age, not half in infancy.",
+     "C": "Bacteroidetes are not described as constituting half of the infant microbiota.",
      "E": "Fusobacteria are not a dominant infant phylum in the brick."
     }
    }
@@ -10897,26 +10897,26 @@
     },
     {
      "label": "C",
-     "text": "Lactate"
-    },
-    {
-     "label": "D",
      "text": "Ammonia"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Hydrogen sulfide"
+    },
+    {
+     "label": "E",
+     "text": "Lactate"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Veillonella consume lactate produced by other organisms, reducing local acid accumulation.",
     "whyCorrect": "The brick states Veillonella metabolize lactate produced by Lactobacillus and Streptococcus, reducing local acid accumulation and stabilizing microbial communities.",
     "whyWrongByChoice": {
      "A": "Butyrate is produced by Faecalibacterium, not consumed by Veillonella in this cross-feeding.",
      "B": "Bile acids are metabolized by flora broadly but are not the Veillonella cross-feeding substrate.",
-     "D": "Ammonia is not identified as the Veillonella substrate.",
-     "E": "Hydrogen sulfide is not the metabolite consumed by Veillonella."
+     "C": "Ammonia is not identified as the Veillonella substrate.",
+     "D": "Hydrogen sulfide is not the metabolite consumed by Veillonella."
     }
    }
   },
@@ -10928,34 +10928,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Probiotic"
+     "text": "Pathobiont"
     },
     {
      "label": "B",
-     "text": "Symbiont"
+     "text": "Probiotic"
     },
     {
      "label": "C",
-     "text": "Opportunist"
+     "text": "Symbiont"
     },
     {
      "label": "D",
-     "text": "Obligate pathogen"
+     "text": "Opportunist"
     },
     {
      "label": "E",
-     "text": "Pathobiont"
+     "text": "Obligate pathogen"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "A benign endogenous microbe that causes disease upon overgrowth is a pathobiont.",
     "whyCorrect": "The brick defines a pathobiont as a typically benign endogenous microorganism that becomes pathogenic when overgrowth occurs, using C. difficile as the example.",
     "whyWrongByChoice": {
-     "A": "A probiotic is an administered live organism conferring benefit, not an endogenous disease-causing overgrowth.",
-     "B": "A symbiont maintains a mutually beneficial relationship rather than causing disease on overgrowth.",
-     "C": "An opportunist would not normally inhabit the body and exploits a weakened host, unlike an endogenous resident.",
-     "D": "An obligate pathogen always causes disease and is not a normally harmless resident."
+     "B": "A probiotic is an administered live organism conferring benefit, not an endogenous disease-causing overgrowth.",
+     "C": "A symbiont maintains a mutually beneficial relationship rather than causing disease on overgrowth.",
+     "D": "An opportunist would not normally inhabit the body and exploits a weakened host, unlike an endogenous resident.",
+     "E": "An obligate pathogen always causes disease and is not a normally harmless resident."
     }
    }
   },
@@ -10971,29 +10971,29 @@
     },
     {
      "label": "B",
-     "text": "Symbiotic"
-    },
-    {
-     "label": "C",
      "text": "Opportunistic"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Commensal-only"
+    },
+    {
+     "label": "D",
+     "text": "Symbiotic"
     },
     {
      "label": "E",
      "text": "Pathogenic"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "The mutually beneficial host-E. coli relationship is symbiotic.",
     "whyCorrect": "The brick classifies E. coli in the large intestine as a symbiotic relationship, in which the host provides nutrients and space and the bacterium benefits the host in return.",
     "whyWrongByChoice": {
      "A": "A parasitic relationship harms the host, unlike this mutually beneficial arrangement.",
-     "C": "Opportunistic organisms cause disease only when the host is compromised, not a normal mutual benefit.",
-     "D": "The brick specifically frames this as symbiotic mutual benefit rather than a purely commensal relationship.",
+     "B": "Opportunistic organisms cause disease only when the host is compromised, not a normal mutual benefit.",
+     "C": "The brick specifically frames this as symbiotic mutual benefit rather than a purely commensal relationship.",
      "E": "A pathogenic relationship produces disease, which does not describe normal E. coli residence."
     }
    }
@@ -11010,11 +11010,11 @@
     },
     {
      "label": "B",
-     "text": "Colonization"
+     "text": "Inflammation"
     },
     {
      "label": "C",
-     "text": "Inflammation"
+     "text": "Colonization"
     },
     {
      "label": "D",
@@ -11025,13 +11025,13 @@
      "text": "Sepsis"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Colonization is stable microbial presence without tissue damage or symptoms.",
     "whyCorrect": "The brick defines colonization as the stable presence of microorganisms at a body site without causing tissue damage, host immune activation, or clinical symptoms.",
     "whyWrongByChoice": {
      "A": "Infection implies microbial invasion with inflammation and symptoms, the opposite of colonization.",
-     "C": "Inflammation is a host response to injury or infection, not asymptomatic microbial presence.",
+     "B": "Inflammation is a host response to injury or infection, not asymptomatic microbial presence.",
      "D": "Dysbiosis is an imbalance of flora, not simply stable asymptomatic colonization.",
      "E": "Sepsis is a systemic inflammatory response to infection, not asymptomatic colonization."
     }
@@ -11049,30 +11049,30 @@
     },
     {
      "label": "B",
-     "text": "10 to 1"
+     "text": "1000 to 1"
     },
     {
      "label": "C",
-     "text": "100 to 1"
+     "text": "10 to 1"
     },
     {
      "label": "D",
-     "text": "1 to 1000"
+     "text": "100 to 1"
     },
     {
      "label": "E",
-     "text": "1000 to 1"
+     "text": "1 to 1000"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "In the colon, anaerobes outnumber aerobes by about 1000 to 1.",
     "whyCorrect": "The brick states that in the large bowel anaerobes dominate overwhelmingly, outnumbering aerobes by a ratio of approximately 1000 to 1.",
     "whyWrongByChoice": {
      "A": "A 1 to 1 ratio understates the overwhelming anaerobic dominance described.",
-     "B": "A 10 to 1 ratio is far below the stated 1000 to 1 dominance.",
-     "C": "A 100 to 1 ratio still understates the described dominance.",
-     "D": "A 1 to 1000 ratio inverts the relationship, implying aerobes dominate."
+     "C": "A 10 to 1 ratio is far below the stated 1000 to 1 dominance.",
+     "D": "A 100 to 1 ratio still understates the described dominance.",
+     "E": "A 1 to 1000 ratio inverts the relationship, implying aerobes dominate."
     }
    }
   },
@@ -11123,15 +11123,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "Primary energy source for colonocytes"
-    },
-    {
-     "label": "B",
      "text": "Emulsification of dietary fats"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Acidification of gastric contents"
+    },
+    {
+     "label": "C",
+     "text": "Energy source for colonocytes"
     },
     {
      "label": "D",
@@ -11142,13 +11142,13 @@
      "text": "Neutralization of bile acids"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Butyrate is the primary energy source for colonocytes.",
     "whyCorrect": "The brick states butyrate, a short-chain fatty acid, serves as the primary energy source for colonocytes and also supports mucosal integrity.",
     "whyWrongByChoice": {
-     "B": "Fat emulsification is performed by bile salts, not butyrate.",
-     "C": "Gastric acidification is a parietal-cell function unrelated to butyrate.",
+     "A": "Fat emulsification is performed by bile salts, not butyrate.",
+     "B": "Gastric acidification is a parietal-cell function unrelated to butyrate.",
      "D": "Clotting factor synthesis relies on vitamin K, not butyrate.",
      "E": "Butyrate does not function to neutralize bile acids."
     }
@@ -11205,29 +11205,29 @@
     },
     {
      "label": "B",
-     "text": "Peyer patches"
-    },
-    {
-     "label": "C",
      "text": "Goblet cells"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Intraepithelial lymphocytes"
+    },
+    {
+     "label": "D",
+     "text": "Peyer patches"
     },
     {
      "label": "E",
      "text": "Crypts of Lieberkuhn"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Peyer patches are organized submucosal lymphoid follicles of the distal ileum that initiate intestinal adaptive immunity.",
     "whyCorrect": "The brick defines Peyer patches as organized lymphoid follicles in the submucosa of the distal small intestine (ileum) with germinal centers and T-cell zones, serving as primary sites for antigen sampling and initiation of adaptive immune responses.",
     "whyWrongByChoice": {
      "A": "Paneth cells are individual secretory cells at the crypt base that release antimicrobial peptides, not organized lymphoid follicles.",
-     "C": "Goblet cells secrete mucus and are scattered in the epithelium; they do not form lymphoid aggregates.",
-     "D": "Intraepithelial lymphocytes are individual CD8+ T cells within the epithelial layer, not follicular structures.",
+     "B": "Goblet cells secrete mucus and are scattered in the epithelium; they do not form lymphoid aggregates.",
+     "C": "Intraepithelial lymphocytes are individual CD8+ T cells within the epithelial layer, not follicular structures.",
      "E": "Crypts of Lieberkuhn house stem and Paneth cells but are not lymphoid follicles that initiate adaptive responses."
     }
    }
@@ -11244,11 +11244,11 @@
     },
     {
      "label": "B",
-     "text": "Microfold (M) cell"
+     "text": "Paneth cell"
     },
     {
      "label": "C",
-     "text": "Paneth cell"
+     "text": "Microfold (M) cell"
     },
     {
      "label": "D",
@@ -11259,13 +11259,13 @@
      "text": "Plasma cell"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "M cells in the follicle-associated epithelium transcytose luminal antigen to underlying immune cells.",
     "whyCorrect": "The brick states M cells lack a brush border and specialize in transcytosis, sampling luminal antigens and delivering them across the epithelial barrier to dendritic cells for presentation.",
     "whyWrongByChoice": {
      "A": "Goblet cells secrete mucus and do not perform antigen transcytosis.",
-     "C": "Paneth cells secrete defensins and lysozyme at the crypt base.",
+     "B": "Paneth cells secrete defensins and lysozyme at the crypt base.",
      "D": "Absorptive enterocytes have a brush border and absorb nutrients rather than sampling antigen.",
      "E": "Plasma cells reside in the lamina propria and secrete dimeric IgA."
     }
@@ -11287,25 +11287,25 @@
     },
     {
      "label": "C",
-     "text": "Paneth cells"
+     "text": "Enterocytes"
     },
     {
      "label": "D",
-     "text": "Enterocytes"
+     "text": "Paneth cells"
     },
     {
      "label": "E",
      "text": "Dendritic cells"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Paneth cells at the crypt base secrete alpha-defensins and lysozyme, protecting the stem cell niche.",
     "whyCorrect": "The brick describes Paneth cells as specialized secretory cells at the base of crypts adjacent to intestinal stem cells that secrete alpha-defensins and lysozyme to regulate crypt microbes and protect the stem cell niche.",
     "whyWrongByChoice": {
      "A": "Goblet cells produce mucus, not antimicrobial defensins.",
      "B": "M cells transcytose antigen and are located over Peyer patches, not at the crypt base.",
-     "D": "Enterocytes are absorptive cells and do not secrete defensins.",
+     "C": "Enterocytes are absorptive cells and do not secrete defensins.",
      "E": "Dendritic cells present antigen; they do not secrete crypt antimicrobial peptides."
     }
    }
@@ -11322,30 +11322,30 @@
     },
     {
      "label": "B",
-     "text": "TGF-beta"
-    },
-    {
-     "label": "C",
      "text": "IFN-gamma"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "IL-17"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "IL-4"
+    },
+    {
+     "label": "E",
+     "text": "TGF-beta"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "TGF-beta drives IgA class switching of B cells in Peyer patches.",
     "whyCorrect": "The brick states that B cells in Peyer patches undergo IgA class switching driven by the cytokine TGF-beta before differentiating into IgA-secreting plasma cells.",
     "whyWrongByChoice": {
      "A": "IL-12 drives Th1 differentiation, not IgA class switching.",
-     "C": "IFN-gamma is a Th1 effector cytokine promoting inflammation, not IgA switching.",
-     "D": "IL-17 is produced by Th17 cells and promotes inflammation.",
-     "E": "Per the brick, TGF-beta is the cytokine responsible for gut IgA class switching."
+     "B": "IFN-gamma is a Th1 effector cytokine promoting inflammation, not IgA switching.",
+     "C": "IL-17 is produced by Th17 cells and promotes inflammation.",
+     "D": "Per the brick, TGF-beta is the cytokine responsible for gut IgA class switching."
     }
    }
   },
@@ -11357,34 +11357,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Activating complement on bacterial surfaces"
+     "text": "Preventing microbial attachment to mucosa"
     },
     {
      "label": "B",
-     "text": "Lysing virally infected epithelial cells"
+     "text": "Activating complement on bacterial surfaces"
     },
     {
      "label": "C",
-     "text": "Opsonizing bacteria for neutrophil phagocytosis"
+     "text": "Lysing virally infected epithelial cells"
     },
     {
      "label": "D",
-     "text": "Neutralizing gastric acid in the stomach"
+     "text": "Opsonizing bacteria for neutrophil phagocytosis"
     },
     {
      "label": "E",
-     "text": "Preventing microbial attachment to mucosal surfaces"
+     "text": "Neutralizing gastric acid in the stomach"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Secretory IgA neutralizes pathogens by preventing their attachment to the mucosa without triggering inflammation.",
     "whyCorrect": "The brick states secretory IgA prevents microbial attachment to mucosal surfaces and neutralizes pathogens without triggering complement activation or significant inflammation, suiting the tolerogenic gut.",
     "whyWrongByChoice": {
-     "A": "sIgA specifically does NOT activate complement, keeping it non-inflammatory.",
-     "B": "Killing infected epithelial cells is the role of CD8+ intraepithelial lymphocytes.",
-     "C": "Opsonization for neutrophils is not the primary luminal action of sIgA described.",
-     "D": "sIgA acts in the intestinal lumen against microbes, not to neutralize gastric acid."
+     "B": "sIgA specifically does NOT activate complement, keeping it non-inflammatory.",
+     "C": "Killing infected epithelial cells is the role of CD8+ intraepithelial lymphocytes.",
+     "D": "Opsonization for neutrophils is not the primary luminal action of sIgA described.",
+     "E": "sIgA acts in the intestinal lumen against microbes, not to neutralize gastric acid."
     }
    }
   },
@@ -11396,33 +11396,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Peristalsis"
+     "text": "Gastric acid"
     },
     {
      "label": "B",
-     "text": "Mucus layer"
+     "text": "Peristalsis"
     },
     {
      "label": "C",
-     "text": "Secretory IgA"
+     "text": "Mucus layer"
     },
     {
      "label": "D",
-     "text": "Gastric hydrochloric acid"
+     "text": "Secretory IgA"
     },
     {
      "label": "E",
      "text": "Lysozyme"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Gastric hydrochloric acid maintains a pH of 1-2 that kills most ingested pathogens.",
     "whyCorrect": "The brick states that in the stomach, hydrochloric acid maintains a pH of 1-2, killing the vast majority of ingested pathogens.",
     "whyWrongByChoice": {
-     "A": "Peristalsis physically clears contents distally but does not create the acidic pH.",
-     "B": "The mucus layer traps microbes but does not kill them via low pH.",
-     "C": "Secretory IgA prevents attachment in the lumen; it is not the gastric acid barrier.",
+     "B": "Peristalsis physically clears contents distally but does not create the acidic pH.",
+     "C": "The mucus layer traps microbes but does not kill them via low pH.",
+     "D": "Secretory IgA prevents attachment in the lumen; it is not the gastric acid barrier.",
      "E": "Lysozyme destroys bacterial cell walls but is not the source of gastric pH 1-2."
     }
    }
@@ -11478,30 +11478,30 @@
     },
     {
      "label": "B",
-     "text": "Butyrate"
-    },
-    {
-     "label": "C",
      "text": "Histamine"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Bilirubin"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Ammonia"
+    },
+    {
+     "label": "E",
+     "text": "Butyrate"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Butyrate is the SCFA that fuels colonocytes and promotes Treg differentiation.",
     "whyCorrect": "The brick states commensals produce short-chain fatty acids, particularly butyrate, which is the primary energy source for colonocytes and promotes Treg differentiation, reinforcing tolerance.",
     "whyWrongByChoice": {
      "A": "Lactate is a fermentation product but is not described as the colonocyte fuel or Treg inducer here.",
-     "C": "Histamine is a vasoactive amine, not a fiber-derived SCFA.",
-     "D": "Bilirubin is a heme breakdown product, unrelated to microbial fermentation.",
-     "E": "Ammonia is a nitrogenous waste product, not the immunomodulatory SCFA described."
+     "B": "Histamine is a vasoactive amine, not a fiber-derived SCFA.",
+     "C": "Bilirubin is a heme breakdown product, unrelated to microbial fermentation.",
+     "D": "Ammonia is a nitrogenous waste product, not the immunomodulatory SCFA described."
     }
    }
   },
@@ -11552,34 +11552,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "IL-12 and IFN-gamma"
-    },
-    {
-     "label": "B",
-     "text": "IL-6 and IL-23"
-    },
-    {
-     "label": "C",
-     "text": "IL-17 and TNF-alpha"
-    },
-    {
-     "label": "D",
      "text": "TGF-beta and retinoic acid"
     },
     {
+     "label": "B",
+     "text": "IL-12 and IFN-gamma"
+    },
+    {
+     "label": "C",
+     "text": "IL-6 and IL-23"
+    },
+    {
+     "label": "D",
+     "text": "IL-17 and TNF-alpha"
+    },
+    {
      "label": "E",
-     "text": "Histamine and IL-4"
+     "text": "Histamine and leukotriene B4"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Tolerogenic dendritic cells produce TGF-beta and retinoic acid to induce Tregs.",
     "whyCorrect": "The brick states tolerogenic dendritic cells produce TGF-beta and retinoic acid, promoting differentiation of helper T cells into regulatory T cells and suppressing effector responses.",
     "whyWrongByChoice": {
-     "A": "IL-12 and IFN-gamma drive Th1 differentiation and inflammation, not tolerance.",
-     "B": "IL-6 and IL-23 promote Th17 differentiation, an inflammatory pathway.",
-     "C": "IL-17 and TNF-alpha are pro-inflammatory effectors, not Treg inducers.",
-     "E": "Histamine and IL-4 are not the Treg-inducing mediators described in the brick."
+     "B": "IL-12 and IFN-gamma drive Th1 differentiation and inflammation, not tolerance.",
+     "C": "IL-6 and IL-23 promote Th17 differentiation, an inflammatory pathway.",
+     "D": "IL-17 and TNF-alpha are pro-inflammatory effectors, not Treg inducers.",
+     "E": "Histamine and leukotriene B4 are inflammatory mediators, not the Treg-inducing signals described."
     }
    }
   },
@@ -11591,15 +11591,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "Gliadin"
-    },
-    {
-     "label": "B",
      "text": "Casein"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Lactose"
+    },
+    {
+     "label": "C",
+     "text": "Gliadin"
     },
     {
      "label": "D",
@@ -11610,13 +11610,13 @@
      "text": "Fructose"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Celiac disease is a loss of oral tolerance to gliadin, a gluten component.",
     "whyCorrect": "The brick states celiac disease results from a breakdown of oral tolerance to gliadin, a component of gluten found in wheat, barley, and rye, producing villous atrophy and malabsorption.",
     "whyWrongByChoice": {
-     "B": "Casein is a milk protein and is not the antigen driving celiac disease.",
-     "C": "Lactose is a sugar; lactose intolerance is enzymatic, not a loss of oral tolerance.",
+     "A": "Casein is a milk protein and is not the antigen driving celiac disease.",
+     "B": "Lactose is a sugar; lactose intolerance is enzymatic, not a loss of oral tolerance.",
      "D": "Albumin is a serum/food protein not implicated in celiac pathogenesis here.",
      "E": "Fructose malabsorption is a carbohydrate issue, not immune loss of tolerance to gliadin."
     }
@@ -11638,26 +11638,26 @@
     },
     {
      "label": "C",
-     "text": "Continuous mucosal ulceration limited to the rectum"
+     "text": "Villous atrophy, crypt hyperplasia, and intraepithelial lymphocytosis"
     },
     {
      "label": "D",
-     "text": "Goblet cell hyperplasia with luminal mucus plugging"
+     "text": "Continuous mucosal ulceration and crypt abscesses starting in the rectum"
     },
     {
      "label": "E",
-     "text": "Villous atrophy, crypt hyperplasia, and intraepithelial lymphocytosis"
+     "text": "Goblet cell hyperplasia with luminal mucus plugging"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Celiac disease shows villous atrophy, crypt hyperplasia, and increased intraepithelial lymphocytes.",
     "whyCorrect": "The brick states celiac immune-mediated damage produces villous atrophy and crypt hyperplasia, with increased intraepithelial lymphocytes as a histologic hallmark.",
     "whyWrongByChoice": {
      "A": "Non-caseating granulomas, skip lesions, and transmural inflammation characterize Crohn disease.",
      "B": "Pseudomembranes and leukocytosis describe C. difficile pseudomembranous colitis.",
-     "C": "Continuous ulceration starting at the rectum describes ulcerative colitis, not celiac disease.",
-     "D": "Goblet cell hyperplasia with mucus plugging is not the described celiac histology."
+     "D": "Continuous ulceration with crypt abscesses beginning in the rectum describes ulcerative colitis, not celiac disease.",
+     "E": "Goblet cell hyperplasia with mucus plugging is not the described celiac histology."
     }
    }
   },
@@ -11677,25 +11677,25 @@
     },
     {
      "label": "C",
-     "text": "Pseudomembranous colitis"
+     "text": "Crohn disease"
     },
     {
      "label": "D",
-     "text": "Crohn disease"
+     "text": "Pseudomembranous colitis"
     },
     {
      "label": "E",
      "text": "Tropical sprue"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Skip lesions, non-caseating granulomas, and transmural inflammation define Crohn disease.",
     "whyCorrect": "The brick states Crohn disease produces transmural inflammation that can affect any GI segment, characteristically with skip lesions and non-caseating granulomas.",
     "whyWrongByChoice": {
      "A": "Ulcerative colitis is continuous, limited to mucosa/submucosa, and lacks granulomas and skip lesions.",
      "B": "Celiac disease causes villous atrophy in the small bowel, not transmural colonic granulomas.",
-     "C": "Pseudomembranous colitis follows antibiotics and shows pseudomembranes, not granulomas.",
+     "D": "Pseudomembranous colitis follows antibiotics and shows pseudomembranes, not granulomas.",
      "E": "Tropical sprue is a malabsorptive small-bowel disorder, not transmural granulomatous disease."
     }
    }
@@ -11712,11 +11712,11 @@
     },
     {
      "label": "B",
-     "text": "Small-bowel stricture"
+     "text": "Colorectal cancer"
     },
     {
      "label": "C",
-     "text": "Colorectal cancer"
+     "text": "Small-bowel stricture"
     },
     {
      "label": "D",
@@ -11727,13 +11727,13 @@
      "text": "Perianal abscess"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Ulcerative colitis carries an increased long-term risk of colorectal cancer.",
     "whyCorrect": "The brick states ulcerative colitis involves continuous mucosal inflammation from the rectum and carries a higher risk of colorectal cancer with long-standing disease.",
     "whyWrongByChoice": {
      "A": "Fistulas are complications of transmural Crohn disease, not mucosal-limited UC.",
-     "B": "Strictures reflect transmural Crohn disease rather than UC.",
+     "C": "Strictures reflect transmural Crohn disease rather than UC.",
      "D": "Gallstone formation is not the complication of long-standing UC emphasized here.",
      "E": "Perianal abscesses are associated with transmural Crohn disease, not UC."
     }
@@ -11747,34 +11747,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Pseudomembranous colitis"
+     "text": "Autoimmune celiac disease"
     },
     {
      "label": "B",
-     "text": "Celiac disease"
+     "text": "Chronic ulcerative colitis"
     },
     {
      "label": "C",
-     "text": "Ulcerative colitis"
+     "text": "Chronic tropical sprue"
     },
     {
      "label": "D",
-     "text": "Tropical sprue"
+     "text": "Acute ischemic colitis"
     },
     {
      "label": "E",
-     "text": "Ischemic colitis"
+     "text": "Pseudomembranous colitis"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "C. difficile toxins A and B cause pseudomembranous colitis.",
     "whyCorrect": "The brick states C. difficile produces Toxin A (enterotoxin) and Toxin B (cytotoxin) that damage the epithelium and disrupt tight junctions, resulting in pseudomembranous colitis with pseudomembranes and severe diarrhea.",
     "whyWrongByChoice": {
-     "B": "Celiac disease is gliadin-driven villous atrophy, not toxin-mediated colonic exudates.",
-     "C": "Ulcerative colitis is an autoimmune-type mucosal inflammation, not toxin-mediated after antibiotics.",
-     "D": "Tropical sprue is a malabsorptive disorder, not toxin-induced pseudomembrane formation.",
-     "E": "Ischemic colitis results from reduced blood flow, not bacterial toxin production."
+     "A": "Autoimmune celiac disease is gliadin-driven villous atrophy, not toxin-mediated colonic exudates.",
+     "B": "Chronic ulcerative colitis is autoimmune-type mucosal inflammation, not toxin-mediated after antibiotics.",
+     "C": "Chronic tropical sprue is a malabsorptive disorder, not toxin-induced pseudomembrane formation.",
+     "D": "Acute ischemic colitis results from reduced blood flow, not bacterial toxin production."
     }
    }
   },
@@ -11794,26 +11794,26 @@
     },
     {
      "label": "C",
-     "text": "M cell"
-    },
-    {
-     "label": "D",
      "text": "Enterocyte"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Plasma cell"
+    },
+    {
+     "label": "E",
+     "text": "M cell"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Salmonella and Shigella exploit M cells to invade deeper tissue.",
     "whyCorrect": "The brick states several pathogens, including Salmonella and Shigella, exploit M cells as an entry point, hijacking the transcytosis sampling mechanism to reach deeper tissues.",
     "whyWrongByChoice": {
      "A": "Goblet cells secrete mucus and are not the described invasion portal.",
      "B": "Paneth cells secrete antimicrobial peptides; they are not exploited for entry.",
-     "D": "Absorptive enterocytes are not the antigen-sampling cells these pathogens exploit.",
-     "E": "Plasma cells secrete IgA in the lamina propria and are not an epithelial entry point."
+     "C": "Absorptive enterocytes are not the antigen-sampling cells these pathogens exploit.",
+     "D": "Plasma cells secrete IgA in the lamina propria and are not an epithelial entry point."
     }
    }
   },
@@ -11829,30 +11829,30 @@
     },
     {
      "label": "B",
-     "text": "Goblet cells"
+     "text": "M cells"
     },
     {
      "label": "C",
-     "text": "Regulatory T cells"
+     "text": "Goblet cells"
     },
     {
      "label": "D",
-     "text": "Enterocytes"
+     "text": "Regulatory T cells"
     },
     {
      "label": "E",
-     "text": "M cells"
+     "text": "Enterocytes"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "M cells overlying Peyer patches take up oral vaccine antigens to prime mucosal IgA.",
     "whyCorrect": "The brick states oral vaccines such as oral polio and rotavirus rely on uptake through M cells overlying Peyer patches, which transport antigens to immune cells and initiate mucosal IgA responses.",
     "whyWrongByChoice": {
      "A": "Paneth cells secrete defensins at the crypt base and do not take up vaccine antigen.",
-     "B": "Goblet cells secrete mucus and are not the transcytosing uptake cells.",
-     "C": "Regulatory T cells suppress responses; they do not perform epithelial antigen uptake.",
-     "D": "Enterocytes absorb nutrients and lack the specialized transcytosis of M cells."
+     "C": "Goblet cells secrete mucus and are not the transcytosing uptake cells.",
+     "D": "Regulatory T cells suppress responses; they do not perform epithelial antigen uptake.",
+     "E": "Enterocytes absorb nutrients and lack the specialized transcytosis of M cells."
     }
    }
   },
@@ -11868,30 +11868,30 @@
     },
     {
      "label": "B",
-     "text": "Gluten-free diet"
+     "text": "Fecal microbiota transplant"
     },
     {
      "label": "C",
-     "text": "Corticosteroid taper"
+     "text": "Strict gluten-free diet"
     },
     {
      "label": "D",
-     "text": "Anti-PD-1 immunotherapy"
+     "text": "Corticosteroid taper"
     },
     {
      "label": "E",
-     "text": "Fecal microbiota transplantation"
+     "text": "Anti-PD-1 immunotherapy"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Fecal microbiota transplantation restores diversity and colonization resistance in recurrent CDI.",
     "whyCorrect": "The brick states fecal microbiota transplantation restores microbial diversity in patients with recurrent C. difficile infection, re-establishing colonization resistance and suppressing pathogen overgrowth.",
     "whyWrongByChoice": {
      "A": "Proton pump inhibitors reduce gastric acid and actually increase enteric infection risk.",
-     "B": "A gluten-free diet treats celiac disease, not C. difficile microbiota disruption.",
-     "C": "A corticosteroid taper suppresses immunity and does not restore colonization resistance.",
-     "D": "Anti-PD-1 therapy can provoke colitis and does not restore microbial diversity."
+     "C": "A strict gluten-free diet treats celiac disease, not C. difficile microbiota disruption.",
+     "D": "A corticosteroid taper suppresses immunity and does not restore colonization resistance.",
+     "E": "Anti-PD-1 therapy can provoke colitis and does not restore microbial diversity."
     }
    }
   },
@@ -11907,11 +11907,11 @@
     },
     {
      "label": "B",
-     "text": "Firmicutes and Fusobacteria"
+     "text": "Bacteroidetes and Firmicutes"
     },
     {
      "label": "C",
-     "text": "Bacteroidetes and Firmicutes"
+     "text": "Firmicutes and Fusobacteria"
     },
     {
      "label": "D",
@@ -11922,13 +11922,13 @@
      "text": "Actinobacteria and Verrucomicrobia"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "The healthy gut microbiota is dominated by Bacteroidetes and Firmicutes.",
     "whyCorrect": "The brick states the healthy intestinal microbiota is dominated by two major phyla, Bacteroidetes and Firmicutes, which occupy niches and compete with pathogens for nutrients and attachment sites.",
     "whyWrongByChoice": {
      "A": "Proteobacteria and Actinobacteria are minor components, not the dominant pair.",
-     "B": "Firmicutes is dominant, but Fusobacteria is not the paired dominant phylum.",
+     "C": "Firmicutes is dominant, but Fusobacteria is not the paired dominant phylum.",
      "D": "Cyanobacteria and Spirochaetes are not dominant human gut phyla.",
      "E": "Actinobacteria and Verrucomicrobia are present in smaller proportions, not dominant."
     }
@@ -11942,33 +11942,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Goblet cells"
-    },
-    {
-     "label": "B",
      "text": "Paneth cells"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "M cells"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Enterocytes"
+    },
+    {
+     "label": "D",
+     "text": "Goblet cells"
     },
     {
      "label": "E",
      "text": "Plasma cells"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Goblet cells secrete the mucus layer that traps microorganisms.",
     "whyCorrect": "The brick states goblet cells throughout the intestine secrete mucus that traps microorganisms, forming part of the innate physical barrier.",
     "whyWrongByChoice": {
-     "B": "Paneth cells secrete antimicrobial peptides, not the mucus barrier.",
-     "C": "M cells transcytose antigen; they do not produce mucus.",
-     "D": "Enterocytes are absorptive and do not secrete the mucus layer.",
+     "A": "Paneth cells secrete antimicrobial peptides, not the mucus barrier.",
+     "B": "M cells transcytose antigen; they do not produce mucus.",
+     "C": "Enterocytes are absorptive and do not secrete the mucus layer.",
      "E": "Plasma cells secrete dimeric IgA, not mucus."
     }
    }
@@ -11985,11 +11985,11 @@
     },
     {
      "label": "B",
-     "text": "Inadequate coverage of the pathogen"
+     "text": "Risk of C. difficile colitis"
     },
     {
      "label": "C",
-     "text": "Increased risk of C. difficile infection"
+     "text": "Inadequate coverage of the pathogen"
     },
     {
      "label": "D",
@@ -12000,13 +12000,13 @@
      "text": "Slower onset of antibacterial effect"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Broader-than-necessary coverage disrupts normal gut flora and raises the risk of C. difficile infection and resistance.",
     "whyCorrect": "The brick states broader coverage is not always better because it disrupts normal gut flora, increases risk of C. difficile infection, and drives resistance; a narrow agent is chosen to avoid these harms when the pathogen is known.",
     "whyWrongByChoice": {
      "A": "Absorption is a property of the drug, not a downside of broad-spectrum coverage described in the brick.",
-     "B": "A narrow agent chosen against a known susceptible pathogen provides adequate, not inadequate, coverage.",
+     "C": "A narrow agent chosen against a known susceptible pathogen provides adequate, not inadequate, coverage.",
      "D": "Tissue penetration is not the trade-off the brick attributes to broad-spectrum use.",
      "E": "Speed of effect is not listed among the drawbacks of broad coverage."
     }
@@ -12020,34 +12020,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Shigella species"
+     "text": "Campylobacter jejuni"
     },
     {
      "label": "B",
-     "text": "Salmonella species"
+     "text": "Shigella species"
     },
     {
      "label": "C",
-     "text": "Escherichia coli"
+     "text": "Salmonella species"
     },
     {
      "label": "D",
-     "text": "Listeria monocytogenes"
+     "text": "Escherichia coli"
     },
     {
      "label": "E",
-     "text": "Campylobacter jejuni"
+     "text": "Listeria monocytogenes"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Campylobacter jejuni is the leading cause of bacterial gastroenteritis and is linked to undercooked poultry.",
     "whyCorrect": "The brick identifies Campylobacter jejuni as the leading cause of bacterial gastroenteritis, classically associated with undercooked poultry.",
     "whyWrongByChoice": {
-     "A": "Shigella causes dysentery with bloody diarrhea by fecal-oral spread, not the poultry-associated syndrome.",
-     "B": "Salmonella causes salmonellosis and typhoid via contaminated food or water, not the leading poultry gastroenteritis.",
-     "C": "E. coli produces ETEC/EHEC syndromes, not the poultry-linked gastroenteritis emphasized here.",
-     "D": "Listeria causes listeriosis, dangerous in pregnancy and immunocompromise, not typical poultry gastroenteritis."
+     "B": "Shigella causes dysentery with bloody diarrhea by fecal-oral spread, not the poultry-associated syndrome.",
+     "C": "Salmonella causes salmonellosis and typhoid via contaminated food or water, not the leading poultry gastroenteritis.",
+     "D": "E. coli produces ETEC/EHEC syndromes, not the poultry-linked gastroenteritis emphasized here.",
+     "E": "Listeria causes listeriosis, dangerous in pregnancy and immunocompromise, not typical poultry gastroenteritis."
     }
    }
   },
@@ -12067,25 +12067,25 @@
     },
     {
      "label": "C",
-     "text": "Azithromycin"
+     "text": "Ampicillin"
     },
     {
      "label": "D",
-     "text": "Ampicillin"
+     "text": "Azithromycin"
     },
     {
      "label": "E",
      "text": "Metronidazole"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Rising fluoroquinolone resistance in Campylobacter makes azithromycin the preferred agent.",
     "whyCorrect": "The brick notes Campylobacter has increasing fluoroquinolone resistance, making azithromycin the preferred agent in many settings.",
     "whyWrongByChoice": {
      "A": "Ciprofloxacin is a fluoroquinolone, precisely the class facing rising Campylobacter resistance.",
      "B": "Ceftriaxone is used for severe gram-negative infections like typhoid, not the preferred Campylobacter agent here.",
-     "D": "Ampicillin is the drug of choice for Listeria, not for resistant Campylobacter.",
+     "C": "Ampicillin is the drug of choice for Listeria, not for resistant Campylobacter.",
      "E": "Metronidazole targets anaerobes and C. difficile, not Campylobacter enteritis."
     }
    }
@@ -12149,14 +12149,14 @@
     },
     {
      "label": "D",
-     "text": "Intravenous ceftriaxone"
+     "text": "Oral vancomycin"
     },
     {
      "label": "E",
-     "text": "Oral vancomycin"
+     "text": "Intravenous ceftriaxone"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Oral vancomycin (or fidaxomicin) is preferred first-line for C. difficile infection.",
     "whyCorrect": "The brick states oral vancomycin or fidaxomicin are the preferred treatments for C. difficile infection.",
@@ -12164,7 +12164,7 @@
      "A": "Metronidazole is now reserved for mild cases or when other agents are unavailable, not first-line.",
      "B": "Intravenous vancomycin does not reach the gut lumen and is ineffective for CDI.",
      "C": "Fluoroquinolones do not treat CDI and can precipitate it.",
-     "D": "Ceftriaxone does not treat CDI and broad cephalosporin use is a risk factor for it."
+     "E": "Ceftriaxone does not treat CDI and broad cephalosporin use is a risk factor for it."
     }
    }
   },
@@ -12184,25 +12184,25 @@
     },
     {
      "label": "C",
-     "text": "It is only active against gram-negatives"
+     "text": "It does not reach the gut lumen"
     },
     {
      "label": "D",
-     "text": "It does not reach the gut lumen"
+     "text": "It is only active against gram-negatives"
     },
     {
      "label": "E",
      "text": "It cannot cross the outer membrane"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "IV vancomycin fails to achieve adequate concentrations in the gut lumen, so only the oral form works for CDI.",
     "whyCorrect": "The brick explicitly notes systemic (IV) vancomycin does not reach adequate concentrations in the gut lumen and is ineffective for CDI; only the oral formulation is appropriate.",
     "whyWrongByChoice": {
      "A": "Gastric acid inactivation is not the reason given; oral vancomycin is in fact the effective route.",
      "B": "Resistance selection is not the explanation for IV vancomycin's failure in CDI.",
-     "C": "Vancomycin is a gram-positive agent, and C. difficile is gram-positive, so this is incorrect.",
+     "D": "Vancomycin is a gram-positive agent, and C. difficile is gram-positive, so this is incorrect.",
      "E": "C. difficile is gram-positive and lacks an outer membrane, so this reasoning does not apply."
     }
    }
@@ -12219,11 +12219,11 @@
     },
     {
      "label": "B",
-     "text": "Ampicillin"
+     "text": "Ciprofloxacin"
     },
     {
      "label": "C",
-     "text": "Ciprofloxacin"
+     "text": "Ampicillin"
     },
     {
      "label": "D",
@@ -12234,13 +12234,13 @@
      "text": "Vancomycin"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Ampicillin is the drug of choice for Listeria, often combined with gentamicin in severe cases.",
     "whyCorrect": "The brick states that for Listeria monocytogenes, ampicillin is the drug of choice, often combined with gentamicin in severe cases.",
     "whyWrongByChoice": {
      "A": "Cephalosporins such as ceftriaxone do not reliably cover Listeria due to altered penicillin-binding proteins.",
-     "C": "Fluoroquinolones are not the drug of choice for Listeria in this brick.",
+     "B": "Fluoroquinolones are not the drug of choice for Listeria in this brick.",
      "D": "Azithromycin is favored for Campylobacter and Shigella, not Listeria.",
      "E": "Vancomycin is used for C. difficile, not as the drug of choice for listeriosis here."
     }
@@ -12258,30 +12258,30 @@
     },
     {
      "label": "B",
-     "text": "Campylobacter and E. coli"
+     "text": "Listeria and Enterococcus"
     },
     {
      "label": "C",
-     "text": "Staphylococcus and Streptococcus"
+     "text": "Campylobacter and E. coli"
     },
     {
      "label": "D",
-     "text": "Clostridioides and Bacillus"
+     "text": "Staphylococcus and Streptococcus"
     },
     {
      "label": "E",
-     "text": "Listeria and Enterococcus"
+     "text": "Clostridioides and Bacillus"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Listeria and Enterococcus have altered penicillin-binding proteins, giving cephalosporins poor coverage.",
     "whyCorrect": "The brick emphasizes that cephalosporins do not cover Enterococcus and Listeria, which have altered penicillin-binding proteins with low affinity for cephalosporins.",
     "whyWrongByChoice": {
      "A": "Salmonella and Shigella are gram-negatives generally covered by third-generation cephalosporins.",
-     "B": "Campylobacter and E. coli are gram-negatives, not the cephalosporin-resistant gram-positive pair described.",
-     "C": "Staphylococcus and Streptococcus are not the specific organisms the brick highlights as cephalosporin gaps.",
-     "D": "Clostridioides and Bacillus are not the pair the brick identifies for altered penicillin-binding proteins."
+     "C": "Campylobacter and E. coli are gram-negatives, not the cephalosporin-resistant gram-positive pair described.",
+     "D": "Staphylococcus and Streptococcus are not the specific organisms the brick highlights as cephalosporin gaps.",
+     "E": "Clostridioides and Bacillus are not the pair the brick identifies for altered penicillin-binding proteins."
     }
    }
   },
@@ -12293,33 +12293,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "They increase the risk of hemolytic uremic syndrome"
+     "text": "They markedly worsen dehydration and fluid loss"
     },
     {
      "label": "B",
-     "text": "They worsen dehydration very rapidly"
+     "text": "They provide poor coverage of gram-negative rods"
     },
     {
      "label": "C",
-     "text": "They provide poor gram-negative coverage"
+     "text": "They increase risk of hemolytic uremic syndrome"
     },
     {
      "label": "D",
-     "text": "They cause immediate allergic reactions"
+     "text": "They frequently cause immediate allergic reactions"
     },
     {
      "label": "E",
-     "text": "They promote fluoroquinolone resistance"
+     "text": "They rapidly promote fluoroquinolone resistance"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "In STEC, bacterial killing can increase Shiga toxin release, raising the risk of hemolytic uremic syndrome.",
     "whyCorrect": "The brick states antibiotics should be avoided in STEC infections because bacterial killing may increase Shiga toxin release, increasing the risk of hemolytic uremic syndrome.",
     "whyWrongByChoice": {
-     "B": "The concern is toxin-mediated HUS, not accelerated dehydration.",
-     "C": "Antibiotics like ceftriaxone actually cover E. coli well; poor coverage is not the reason.",
-     "D": "Allergic reactions are not the brick's stated reason to avoid antibiotics in STEC.",
+     "A": "The concern is toxin-mediated HUS, not accelerated dehydration or fluid loss.",
+     "B": "Agents such as ceftriaxone cover gram-negative rods well; poor coverage is not the reason.",
+     "D": "Immediate allergic reactions are not the brick's stated reason to avoid antibiotics in STEC.",
      "E": "Resistance selection is a general concern but not the specific STEC reasoning about toxin release and HUS."
     }
    }
@@ -12332,33 +12332,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Macrolides"
+     "text": "Carbapenems"
     },
     {
      "label": "B",
-     "text": "Fluoroquinolones"
+     "text": "Macrolides"
     },
     {
      "label": "C",
-     "text": "Penicillins"
+     "text": "Fluoroquinolones"
     },
     {
      "label": "D",
-     "text": "Carbapenems"
+     "text": "Penicillins"
     },
     {
      "label": "E",
      "text": "First-generation cephalosporins"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Carbapenems represent the broadest spectrum, covering gram-positives, gram-negatives, and anaerobes.",
     "whyCorrect": "The brick states carbapenems (e.g., meropenem, imipenem) represent the broadest available spectrum, covering gram-positives, gram-negatives, and anaerobes.",
     "whyWrongByChoice": {
-     "A": "Macrolides like azithromycin are used for specific enteric pathogens, not the broadest coverage.",
-     "B": "Fluoroquinolones cover many gram-negatives but not the full gram-positive/anaerobe range of carbapenems.",
-     "C": "Penicillins alone lack the comprehensive coverage attributed to carbapenems.",
+     "B": "Macrolides like azithromycin are used for specific enteric pathogens, not the broadest coverage.",
+     "C": "Fluoroquinolones cover many gram-negatives but not the full gram-positive/anaerobe range of carbapenems.",
+     "D": "Penicillins alone lack the comprehensive coverage attributed to carbapenems.",
      "E": "First-generation cephalosporins have narrow gram-positive-focused coverage, not the broadest."
     }
    }
@@ -12410,15 +12410,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "Piperacillin-tazobactam"
+     "text": "Trimethoprim-sulfamethoxazole"
     },
     {
      "label": "B",
-     "text": "Ciprofloxacin"
+     "text": "Azithromycin"
     },
     {
      "label": "C",
-     "text": "Azithromycin"
+     "text": "Piperacillin-tazobactam"
     },
     {
      "label": "D",
@@ -12429,13 +12429,13 @@
      "text": "Doxycycline"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Piperacillin-tazobactam provides both gram-negative and anaerobic coverage for broad empiric therapy.",
     "whyCorrect": "The brick states beta-lactam/beta-lactamase inhibitor combinations like piperacillin-tazobactam provide both gram-negative and anaerobic coverage, useful for broad empiric therapy in severe GI infections.",
     "whyWrongByChoice": {
-     "B": "Ciprofloxacin covers gram-negatives but lacks reliable anaerobic activity.",
-     "C": "Azithromycin does not provide the combined gram-negative and anaerobic coverage described.",
+     "A": "Trimethoprim-sulfamethoxazole covers many gram-negatives but lacks reliable anaerobic activity.",
+     "B": "Azithromycin does not provide the combined gram-negative and anaerobic coverage described.",
      "D": "Cefazolin is a first-generation cephalosporin with narrow, mainly gram-positive coverage.",
      "E": "Doxycycline does not provide the dual gram-negative/anaerobic empiric coverage needed."
     }
@@ -12492,30 +12492,30 @@
     },
     {
      "label": "B",
-     "text": "Adult with bloody diarrhea and fever"
-    },
-    {
-     "label": "C",
      "text": "Adult with mild traveler's cramps"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Adult with resolving viral diarrhea"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Adult with non-bloody loose stools"
+    },
+    {
+     "label": "E",
+     "text": "Adult with bloody diarrhea and fever"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Loperamide should be avoided in suspected inflammatory or toxin-mediated diarrhea, such as bloody diarrhea with fever.",
     "whyCorrect": "The brick states loperamide should be avoided in suspected inflammatory or toxin-mediated diarrhea (e.g., Shigella, Salmonella, STEC, C. difficile); bloody diarrhea with fever signals such disease.",
     "whyWrongByChoice": {
      "A": "Non-bloody diarrhea without fever is where loperamide may reasonably be considered in adults.",
-     "C": "Mild cramps without inflammatory features are not a contraindication to loperamide.",
-     "D": "Resolving viral, non-inflammatory diarrhea is not a setting where the brick prohibits loperamide.",
-     "E": "Non-bloody loose stools without fever fit the permissible use of loperamide."
+     "B": "Mild cramps without inflammatory features are not a contraindication to loperamide.",
+     "C": "Resolving viral, non-inflammatory diarrhea is not a setting where the brick prohibits loperamide.",
+     "D": "Non-bloody loose stools without fever fit the permissible use of loperamide."
     }
    }
   },
@@ -12527,7 +12527,7 @@
    "choices": [
     {
      "label": "A",
-     "text": "Oral rehydration therapy"
+     "text": "Oral rehydration"
     },
     {
      "label": "B",
@@ -12574,26 +12574,26 @@
     },
     {
      "label": "C",
-     "text": "Identifying the likely causative organism"
-    },
-    {
-     "label": "D",
      "text": "Prescribing an antimotility agent"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Administering intravenous fluids"
+    },
+    {
+     "label": "E",
+     "text": "Identifying the likely pathogen"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Identifying the likely causative organism is the first step in rational antibiotic selection.",
     "whyCorrect": "The brick states that identifying the likely causative organism is the first step in rational antibiotic selection.",
     "whyWrongByChoice": {
      "A": "Broad-spectrum therapy is reserved for severe or polymicrobial cases, not the initial step.",
      "B": "Cultures may refine therapy later, but identifying the likely organism guides the initial empiric choice.",
-     "D": "Antimotility agents provide symptom relief and are not a step in antibiotic selection.",
-     "E": "Fluids are supportive care, not the first step in choosing an antibiotic."
+     "C": "Antimotility agents provide symptom relief and are not a step in antibiotic selection.",
+     "D": "Fluids are supportive care, not the first step in choosing an antibiotic."
     }
    }
   },
@@ -12613,26 +12613,26 @@
     },
     {
      "label": "C",
-     "text": "De-escalation"
-    },
-    {
-     "label": "D",
      "text": "Combination therapy"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Synergy"
+    },
+    {
+     "label": "E",
+     "text": "De-escalation"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Narrowing to the most targeted agent once susceptibilities are known is called de-escalation.",
     "whyCorrect": "The brick defines de-escalation as narrowing therapy to the most targeted effective agent once the organism and susceptibility data are available.",
     "whyWrongByChoice": {
      "A": "Empiric therapy is treatment before a definitive diagnosis, the opposite of this step.",
      "B": "Prophylaxis is prevention of infection, not narrowing of established treatment.",
-     "D": "Combination therapy uses multiple agents and is not the term for narrowing.",
-     "E": "Synergy describes enhanced combined drug effect, not the narrowing process."
+     "C": "Combination therapy uses multiple agents and is not the term for narrowing.",
+     "D": "Synergy describes enhanced combined drug effect, not the narrowing process."
     }
    }
   },
@@ -12644,33 +12644,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Bacillus cereus"
-    },
-    {
-     "label": "B",
      "text": "Clostridioides difficile"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Listeria monocytogenes"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Staphylococcus aureus"
+    },
+    {
+     "label": "D",
+     "text": "Bacillus cereus"
     },
     {
      "label": "E",
      "text": "Salmonella species"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Bacillus cereus is a spore-former associated with reheated rice and rapid-onset vomiting.",
     "whyCorrect": "The brick describes Bacillus cereus as a gram-positive spore-former associated with reheated rice and rapid-onset vomiting.",
     "whyWrongByChoice": {
-     "B": "C. difficile causes antibiotic-associated colitis, not reheated-rice vomiting.",
-     "C": "Listeria causes listeriosis, especially dangerous in pregnancy and immunocompromise.",
-     "D": "S. aureus causes preformed-toxin food poisoning but is the brick's non-rice example, whereas rice/spore-former points to Bacillus.",
+     "A": "C. difficile causes antibiotic-associated colitis, not reheated-rice vomiting.",
+     "B": "Listeria causes listeriosis, especially dangerous in pregnancy and immunocompromise.",
+     "C": "S. aureus causes preformed-toxin food poisoning but is the brick's non-rice example, whereas rice/spore-former points to Bacillus.",
      "E": "Salmonella causes salmonellosis and typhoid via contaminated food or water, not the rice/spore syndrome."
     }
    }
@@ -12687,29 +12687,29 @@
     },
     {
      "label": "B",
-     "text": "Waxy acid-fast mycolic acid layer"
+     "text": "Lipopolysaccharide outer membrane"
     },
     {
      "label": "C",
-     "text": "Heat-resistant endospore formation"
+     "text": "Waxy acid-fast mycolic acid layer"
     },
     {
      "label": "D",
-     "text": "Outer membrane containing lipopolysaccharide"
+     "text": "Heat-resistant endospore formation"
     },
     {
      "label": "E",
      "text": "Ingested preformed enterotoxin"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Gram-negatives have an outer membrane with lipopolysaccharide that affects pathogenicity and antibiotic penetration.",
     "whyCorrect": "The brick states gram-negative bacteria possess an outer membrane containing lipopolysaccharide, which contributes to pathogenicity and influences antibiotic penetration.",
     "whyWrongByChoice": {
      "A": "A thick peptidoglycan wall is characteristic of gram-positive organisms, not gram-negatives.",
-     "B": "A mycolic acid layer characterizes mycobacteria, not enteric gram-negatives.",
-     "C": "Spore formation is a gram-positive trait (e.g., Bacillus, Clostridioides), not gram-negative.",
+     "C": "A mycolic acid layer characterizes mycobacteria, not enteric gram-negatives.",
+     "D": "Spore formation is a gram-positive trait (e.g., Bacillus, Clostridioides), not gram-negative.",
      "E": "Preformed enterotoxins are a mechanism of certain gram-positives like S. aureus, not a gram-negative structure."
     }
    }
@@ -12722,11 +12722,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Listeria monocytogenes"
+     "text": "Staphylococcus aureus"
     },
     {
      "label": "B",
-     "text": "Staphylococcus aureus"
+     "text": "Listeria monocytogenes"
     },
     {
      "label": "C",
@@ -12741,12 +12741,12 @@
      "text": "Shigella species"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Staphylococcus aureus causes food poisoning via preformed enterotoxins with rapid symptom onset.",
     "whyCorrect": "The brick states Staphylococcus aureus is a gram-positive organism that causes food poisoning via preformed enterotoxins.",
     "whyWrongByChoice": {
-     "A": "Listeria causes invasive listeriosis, not preformed-toxin food poisoning.",
+     "B": "Listeria causes invasive listeriosis, not preformed-toxin food poisoning.",
      "C": "C. difficile causes antibiotic-associated colitis, not preformed-toxin food poisoning.",
      "D": "Campylobacter is a gram-negative cause of gastroenteritis, not a preformed-toxin gram-positive.",
      "E": "Shigella is a gram-negative cause of dysentery, not the preformed-toxin organism described."
