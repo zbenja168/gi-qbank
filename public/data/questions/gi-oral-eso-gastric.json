@@ -5547,29 +5547,29 @@
     },
     {
      "label": "B",
-     "text": "Parietal cell"
-    },
-    {
-     "label": "C",
      "text": "ECL cell"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "G cell"
+    },
+    {
+     "label": "D",
+     "text": "Parietal cell"
     },
     {
      "label": "E",
      "text": "D cell"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Parietal (oxyntic) cells secrete both HCl and intrinsic factor.",
     "whyCorrect": "Parietal cells are the only gastric cell that secretes hydrochloric acid and intrinsic factor; the glycoprotein needed for vitamin B12 absorption in the terminal ileum is intrinsic factor.",
     "whyWrongByChoice": {
      "A": "Chief cells secrete pepsinogen and gastric lipase, not acid or intrinsic factor.",
-     "C": "ECL cells secrete histamine, a paracrine stimulant of acid secretion.",
-     "D": "G cells secrete gastrin, an endocrine hormone released into blood.",
+     "B": "ECL cells secrete histamine, a paracrine stimulant of acid secretion.",
+     "C": "G cells secrete gastrin, an endocrine hormone released into blood.",
      "E": "D cells secrete somatostatin, an inhibitory paracrine peptide."
     }
    }
@@ -5582,34 +5582,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Vitamin B12"
+     "text": "Folate (vitamin B9)"
     },
     {
      "label": "B",
-     "text": "Folate"
+     "text": "Vitamin C (ascorbate)"
     },
     {
      "label": "C",
-     "text": "Vitamin C"
+     "text": "Calcium (Ca2+)"
     },
     {
      "label": "D",
-     "text": "Calcium"
+     "text": "Vitamin K (phylloquinone)"
     },
     {
      "label": "E",
-     "text": "Vitamin K"
+     "text": "Vitamin B12 (cobalamin)"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Intrinsic factor is required for vitamin B12 absorption in the terminal ileum.",
     "whyCorrect": "Intrinsic factor secreted by parietal cells binds vitamin B12 and is required for its absorption in the terminal ileum; its loss causes B12 deficiency.",
     "whyWrongByChoice": {
-     "B": "Folate absorption does not depend on intrinsic factor.",
-     "C": "Vitamin C is absorbed independently of gastric intrinsic factor.",
-     "D": "Calcium absorption is not intrinsic factor-dependent, though gastric acid aids solubility.",
-     "E": "Vitamin K absorption relies on bile and does not require intrinsic factor."
+     "A": "Folate absorption does not depend on intrinsic factor.",
+     "B": "Vitamin C is absorbed independently of gastric intrinsic factor.",
+     "C": "Calcium absorption is not intrinsic factor-dependent, though gastric acid aids solubility.",
+     "D": "Vitamin K absorption relies on bile and does not require intrinsic factor."
     }
    }
   },
@@ -5621,34 +5621,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Pepsinogen"
-    },
-    {
-     "label": "B",
      "text": "Histamine"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Gastrin"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Somatostatin"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Intrinsic factor"
+    },
+    {
+     "label": "E",
+     "text": "Pepsinogen"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Chief (zymogenic) cells store and secrete pepsinogen in apical granules.",
     "whyCorrect": "Chief cells located in the base of oxyntic glands store pepsinogen and gastric lipase in apical secretory granules; pepsinogen is the inactive precursor of pepsin.",
     "whyWrongByChoice": {
-     "B": "Histamine is secreted by ECL cells, not zymogen-granule-containing chief cells.",
-     "C": "Gastrin is secreted by antral G cells into the bloodstream.",
-     "D": "Somatostatin is secreted by D cells.",
-     "E": "Intrinsic factor is secreted by parietal cells."
+     "A": "Histamine is secreted by ECL cells, not zymogen-granule-containing chief cells.",
+     "B": "Gastrin is secreted by antral G cells into the bloodstream.",
+     "C": "Somatostatin is secreted by D cells.",
+     "D": "Intrinsic factor is secreted by parietal cells."
     }
    }
   },
@@ -5672,14 +5672,14 @@
     },
     {
      "label": "D",
-     "text": "G cell"
+     "text": "D cell"
     },
     {
      "label": "E",
-     "text": "D cell"
+     "text": "G cell"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Antral G cells sense luminal peptides/amino acids and release gastrin into the blood.",
     "whyCorrect": "G cells are enteroendocrine cells concentrated in the antrum that sense luminal peptides and amino acids and release gastrin into the bloodstream to stimulate parietal cell acid secretion.",
@@ -5687,7 +5687,7 @@
      "A": "Parietal cells respond to gastrin but secrete acid, not a blood-borne stimulatory hormone.",
      "B": "Chief cells secrete pepsinogen, not gastrin.",
      "C": "ECL cells release histamine as a paracrine, not endocrine, signal.",
-     "E": "D cells release somatostatin, which inhibits acid secretion."
+     "D": "D cells release somatostatin, which inhibits acid secretion."
     }
    }
   },
@@ -5738,15 +5738,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "Histamine"
+     "text": "Somatostatin"
     },
     {
      "label": "B",
-     "text": "Gastrin"
+     "text": "Histamine"
     },
     {
      "label": "C",
-     "text": "Somatostatin"
+     "text": "Gastrin"
     },
     {
      "label": "D",
@@ -5757,13 +5757,13 @@
      "text": "Intrinsic factor"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "D cells secrete somatostatin, an inhibitor of gastrin release and acid secretion.",
     "whyCorrect": "Somatostatin from D cells suppresses gastrin release from G cells and directly inhibits parietal cell acid secretion; it is released in response to low luminal pH.",
     "whyWrongByChoice": {
-     "A": "Histamine stimulates, rather than inhibits, acid secretion.",
-     "B": "Gastrin stimulates acid secretion and is the target of somatostatin's inhibition.",
+     "B": "Histamine stimulates, rather than inhibits, acid secretion.",
+     "C": "Gastrin stimulates acid secretion and is the target of somatostatin's inhibition.",
      "D": "Pepsinogen is a digestive zymogen, not an inhibitory paracrine signal.",
      "E": "Intrinsic factor supports B12 absorption and does not regulate acid secretion."
     }
@@ -5781,30 +5781,30 @@
     },
     {
      "label": "B",
-     "text": "Basolateral Cl- entry"
+     "text": "Apical H+ secretion"
     },
     {
      "label": "C",
-     "text": "Basolateral HCO3- export"
+     "text": "Basolateral Cl- entry"
     },
     {
      "label": "D",
-     "text": "Apical K+ recycling"
+     "text": "Basolateral HCO3- export"
     },
     {
      "label": "E",
-     "text": "Apical H+ secretion"
+     "text": "Apical K+ recycling"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "The H+/K+-ATPase exchanges intracellular H+ for luminal K+, secreting H+ into the lumen.",
     "whyCorrect": "The apical proton pump uses ATP to exchange intracellular H+ for luminal K+ in a 1:1 ratio, directly secreting H+ into the gastric lumen to generate the acidic environment.",
     "whyWrongByChoice": {
      "A": "Carbonic anhydrase generates H+ intracellularly but is a separate enzyme, not the pump.",
-     "B": "Basolateral Cl- entry occurs via the Cl-/HCO3- exchanger, not the proton pump.",
-     "C": "HCO3- export is performed by the basolateral Cl-/HCO3- antiporter.",
-     "D": "K+ recycling occurs through apical K+ channels, not the ATPase itself."
+     "C": "Basolateral Cl- entry occurs via the Cl-/HCO3- exchanger, not the proton pump.",
+     "D": "HCO3- export is performed by the basolateral Cl-/HCO3- antiporter.",
+     "E": "K+ recycling occurs through apical K+ channels, not the ATPase itself."
     }
    }
   },
@@ -5824,26 +5824,26 @@
     },
     {
      "label": "C",
-     "text": "Apical K+ recycling"
+     "text": "Basolateral HCO3- export"
     },
     {
      "label": "D",
-     "text": "Carbonic anhydrase inhibition"
+     "text": "Apical K+ recycling"
     },
     {
      "label": "E",
-     "text": "Basolateral HCO3- export"
+     "text": "Carbonic anhydrase inhibition"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "The alkaline tide results from basolateral HCO3- efflux via the Cl-/HCO3- exchanger.",
     "whyCorrect": "Carbonic anhydrase generates H+ and HCO3-; while H+ is secreted apically, HCO3- is exported into the blood via the basolateral Cl-/HCO3- antiporter, producing the postprandial alkaline tide.",
     "whyWrongByChoice": {
      "A": "Apical H+/K+ exchange secretes acid into the lumen, not base into the blood.",
      "B": "Apical Cl- efflux contributes to luminal HCl formation, not blood alkalinization.",
-     "C": "K+ recycling maintains pump substrate and does not alter blood pH.",
-     "D": "Carbonic anhydrase is active, not inhibited, and supplies the HCO3- that is exported."
+     "D": "K+ recycling maintains pump substrate and does not alter blood pH.",
+     "E": "Carbonic anhydrase is active, not inhibited, and supplies the HCO3- that is exported."
     }
    }
   },
@@ -5855,11 +5855,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "IP3"
+     "text": "cAMP"
     },
     {
      "label": "B",
-     "text": "cAMP"
+     "text": "IP3"
     },
     {
      "label": "C",
@@ -5874,12 +5874,12 @@
      "text": "cGMP"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "The H2 receptor is a Gs-coupled GPCR that raises cAMP.",
     "whyCorrect": "Histamine binding the H2 receptor activates adenylyl cyclase, increasing cAMP, which activates PKA and drives H+/K+-ATPase translocation to the apical membrane.",
     "whyWrongByChoice": {
-     "A": "IP3 is generated by the Gq/M3 and CCK-B pathways, not the H2 receptor.",
+     "B": "IP3 is generated by the Gq/M3 and CCK-B pathways, not the H2 receptor.",
      "C": "Diacylglycerol arises from PLC activation, characteristic of M3/gastrin signaling.",
      "D": "Elevated Ca2+ is the mediator for ACh and gastrin, not for histamine.",
      "E": "cGMP is not the second messenger for the H2 receptor."
@@ -5894,32 +5894,32 @@
    "choices": [
     {
      "label": "A",
-     "text": "Intracellular Ca2+"
+     "text": "Cyclic AMP (cAMP)"
     },
     {
      "label": "B",
-     "text": "cAMP"
+     "text": "Cyclic GMP (cGMP)"
     },
     {
      "label": "C",
-     "text": "cGMP"
+     "text": "Cytosolic Ca2+"
     },
     {
      "label": "D",
-     "text": "Nitric oxide"
+     "text": "Nitric oxide (NO)"
     },
     {
      "label": "E",
      "text": "Adenosine"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "M3 receptors activate PLC, raising IP3/DAG and intracellular Ca2+.",
     "whyCorrect": "ACh binding M3 receptors activates phospholipase C, generating IP3 and DAG and elevating intracellular Ca2+ (and PKC), which stimulates acid secretion.",
     "whyWrongByChoice": {
-     "B": "cAMP is the messenger for the histamine H2 pathway, not M3.",
-     "C": "cGMP is not involved in M3 parietal cell signaling.",
+     "A": "cAMP is the messenger for the histamine H2 pathway, not M3.",
+     "B": "cGMP is not involved in M3 parietal cell signaling.",
      "D": "Nitric oxide is not the second messenger for muscarinic acid stimulation.",
      "E": "Adenosine is not part of the M3 acid-secretory pathway."
     }
@@ -5933,15 +5933,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "H2 receptor"
+     "text": "CCK-B receptor"
     },
     {
      "label": "B",
-     "text": "M3 receptor"
+     "text": "H2 receptor"
     },
     {
      "label": "C",
-     "text": "CCK-B receptor"
+     "text": "M3 receptor"
     },
     {
      "label": "D",
@@ -5952,13 +5952,13 @@
      "text": "Gi-coupled receptor"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Gastrin acts on CCK-B receptors on parietal and ECL cells.",
     "whyCorrect": "Gastrin binds CCK-B receptors on parietal cells (direct stimulation) and ECL cells (triggering histamine release), signaling via increased intracellular Ca2+.",
     "whyWrongByChoice": {
-     "A": "The H2 receptor is the target of histamine, not gastrin.",
-     "B": "The M3 receptor mediates acetylcholine, not gastrin, signaling.",
+     "B": "The H2 receptor is the target of histamine, not gastrin.",
+     "C": "The M3 receptor mediates acetylcholine, not gastrin, signaling.",
      "D": "GRP receptors are on G cells and mediate vagal stimulation of gastrin release.",
      "E": "Gi-coupled receptors mediate somatostatin's inhibitory effect, not gastrin."
     }
@@ -5972,33 +5972,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Falling luminal pH"
-    },
-    {
-     "label": "B",
      "text": "Rising luminal pH"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Increased luminal peptides"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Antral distension"
+    },
+    {
+     "label": "D",
+     "text": "Falling luminal pH"
     },
     {
      "label": "E",
      "text": "Vagal acetylcholine"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "D cells release somatostatin in response to low (falling) luminal pH.",
     "whyCorrect": "Somatostatin release from D cells is triggered by low luminal pH, forming a negative feedback loop that suppresses gastrin release and acid secretion when the stomach becomes acidic.",
     "whyWrongByChoice": {
-     "B": "A rising (less acidic) pH removes the stimulus for somatostatin release.",
-     "C": "Luminal peptides stimulate G-cell gastrin release, not D-cell somatostatin.",
-     "D": "Antral distension favors gastrin/acid responses rather than somatostatin.",
+     "A": "A rising (less acidic) pH removes the stimulus for somatostatin release.",
+     "B": "Luminal peptides stimulate G-cell gastrin release, not D-cell somatostatin.",
+     "C": "Antral distension favors gastrin/acid responses rather than somatostatin.",
      "E": "Acetylcholine inhibits somatostatin release from D cells."
     }
    }
@@ -6011,34 +6011,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Acetylcholine"
+     "text": "Acetylcholine (ACh)"
     },
     {
      "label": "B",
-     "text": "Secretin"
+     "text": "Gastrin-releasing peptide"
     },
     {
      "label": "C",
-     "text": "Somatostatin"
+     "text": "Secretin (S cells)"
     },
     {
      "label": "D",
-     "text": "Cholecystokinin"
+     "text": "Somatostatin (D cells)"
     },
     {
      "label": "E",
-     "text": "Gastrin-releasing peptide"
+     "text": "Cholecystokinin (I cells)"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "GRP is the vagal, non-muscarinic mediator of gastrin release in the cephalic phase.",
     "whyCorrect": "Gastrin-releasing peptide (GRP) is released by antral enteric neurons under vagal input, binds GRP receptors on G cells, and triggers gastrin secretion; because it is non-muscarinic, its effect is not blocked by atropine.",
     "whyWrongByChoice": {
      "A": "Acetylcholine acts through muscarinic receptors and is blocked by atropine.",
-     "B": "Secretin inhibits gastric acid secretion and is a duodenal signal.",
-     "C": "Somatostatin inhibits gastrin and acid secretion.",
-     "D": "Cholecystokinin is a duodenal hormone not central to cephalic-phase gastrin release."
+     "C": "Secretin inhibits gastric acid secretion and is a duodenal signal.",
+     "D": "Somatostatin inhibits gastrin and acid secretion.",
+     "E": "Cholecystokinin is a duodenal hormone not central to cephalic-phase gastrin release."
     }
    }
   },
@@ -6093,11 +6093,11 @@
     },
     {
      "label": "B",
-     "text": "Increased pancreatic lipase"
+     "text": "Luminal pH rising above 7"
     },
     {
      "label": "C",
-     "text": "Luminal pH rising above 7"
+     "text": "Increased pancreatic lipase"
     },
     {
      "label": "D",
@@ -6108,13 +6108,13 @@
      "text": "Loss of intrinsic factor"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Pepsin is irreversibly inactivated at pH above 7 in the alkaline duodenum.",
     "whyCorrect": "Pepsin activity is irreversibly lost at pH above 7, which occurs as acidic chyme is neutralized upon entering the alkaline duodenum, confining pepsin's proteolysis to the stomach.",
     "whyWrongByChoice": {
      "A": "Very low pH favors pepsin activity, not inactivation.",
-     "B": "Pancreatic lipase digests fat and does not inactivate pepsin.",
+     "C": "Pancreatic lipase digests fat and does not inactivate pepsin.",
      "D": "Bile acid binding does not account for irreversible pepsin inactivation.",
      "E": "Intrinsic factor relates to B12 absorption, not pepsin activity."
     }
@@ -6132,29 +6132,29 @@
     },
     {
      "label": "B",
-     "text": "Hydrolysis of starch"
+     "text": "Hydrolysis of dietary starch"
     },
     {
      "label": "C",
-     "text": "Hydrolysis of triglycerides"
+     "text": "Emulsification of bile"
     },
     {
      "label": "D",
-     "text": "Emulsification of bile"
+     "text": "Hydrolysis of triglycerides"
     },
     {
      "label": "E",
      "text": "Denaturation of proteins"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Gastric lipase hydrolyzes triglycerides into fatty acids and diglycerides.",
     "whyCorrect": "Gastric lipase, an acid-stable lipase active at pH 3-6, cleaves triglycerides into fatty acids and diglycerides, accounting for roughly 10-30% of total fat digestion.",
     "whyWrongByChoice": {
      "A": "Peptide bond cleavage is performed by pepsin, not gastric lipase.",
      "B": "Starch hydrolysis is carried out by amylases, not gastric lipase.",
-     "D": "Emulsification is a function of bile salts, not a gastric enzyme.",
+     "C": "Emulsification is a function of bile salts, not a gastric enzyme.",
      "E": "Protein denaturation is driven by luminal acid, not by lipase."
     }
    }
@@ -6175,25 +6175,25 @@
     },
     {
      "label": "C",
-     "text": "Decreased gastric lipase release"
+     "text": "Failure of pepsinogen activation"
     },
     {
      "label": "D",
-     "text": "Failure of pepsinogen activation"
+     "text": "Decreased gastric lipase release"
     },
     {
      "label": "E",
      "text": "Increased somatostatin signaling"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Without acid, pepsinogen cannot be activated, eliminating the gastric phase of protein digestion.",
     "whyCorrect": "Achlorhydria removes the acidic environment needed to cleave pepsinogen into pepsin, so the gastric phase of protein digestion is lost; the small intestine only partially compensates via pancreatic proteases.",
     "whyWrongByChoice": {
      "A": "Pancreatic enzyme output is not primarily reduced by achlorhydria and actually helps compensate.",
      "B": "Loss of intrinsic factor affects B12 absorption, not protein digestion.",
-     "C": "Reduced lipase affects fat, not protein, digestion.",
+     "D": "Reduced lipase affects fat, not protein, digestion.",
      "E": "Somatostatin changes regulate acid secretion but do not directly block protein digestion."
     }
    }
@@ -6206,23 +6206,23 @@
    "choices": [
     {
      "label": "A",
-     "text": "Vitamin C"
+     "text": "Vitamin C (ascorbate)"
     },
     {
      "label": "B",
-     "text": "Folate"
+     "text": "Folate (vitamin B9)"
     },
     {
      "label": "C",
-     "text": "Vitamin D"
+     "text": "Vitamin D (calciferol)"
     },
     {
      "label": "D",
-     "text": "Vitamin K"
+     "text": "Vitamin K (phylloquinone)"
     },
     {
      "label": "E",
-     "text": "Vitamin B12"
+     "text": "Vitamin B12 (cobalamin)"
     }
    ],
    "correctAnswer": "E",
@@ -6249,29 +6249,29 @@
     },
     {
      "label": "B",
-     "text": "Mucus-bicarbonate barrier"
+     "text": "Epithelial cell restitution"
     },
     {
      "label": "C",
-     "text": "Epithelial restitution"
+     "text": "Mucus-bicarbonate barrier"
     },
     {
      "label": "D",
-     "text": "Mucosal blood flow"
+     "text": "Gastric mucosal blood flow"
     },
     {
      "label": "E",
      "text": "Mast cell degranulation"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "The mucus-bicarbonate barrier is the primary gastric mucosal defense.",
     "whyCorrect": "Surface mucous cells secrete an adherent mucus gel that traps bicarbonate, establishing a pH gradient from ~2 at the lumen to ~7 at the epithelial surface; this is the primary defense layer.",
     "whyWrongByChoice": {
      "A": "Tight junctions prevent H+ back-diffusion but are a supporting, not primary, layer.",
-     "C": "Epithelial restitution reseals breaches after injury as a third-line mechanism.",
-     "D": "Mucosal blood flow supports defense but is not the primary barrier to acid.",
+     "B": "Epithelial cell restitution reseals breaches after injury as a third-line mechanism.",
+     "D": "Gastric mucosal blood flow supports defense but is not the primary barrier to acid.",
      "E": "Mast cell degranulation aggravates injury rather than protecting the mucosa."
     }
    }
@@ -6284,33 +6284,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Proton pump-driven acid secretion"
+     "text": "PGE2-driven mucus and bicarbonate secretion"
     },
     {
      "label": "B",
-     "text": "Gastrin-driven G-cell signaling"
+     "text": "Proton pump-driven parietal acid secretion"
     },
     {
      "label": "C",
-     "text": "Chief cell pepsinogen secretion"
+     "text": "Gastrin-driven parietal cell stimulation"
     },
     {
      "label": "D",
-     "text": "Prostaglandin-driven mucus and bicarbonate secretion"
+     "text": "Chief cell-driven pepsinogen secretion"
     },
     {
      "label": "E",
-     "text": "Parietal cell intrinsic factor output"
+     "text": "Parietal cell-driven intrinsic factor output"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "COX-1 inhibition lowers prostaglandins that stimulate mucus and bicarbonate secretion.",
     "whyCorrect": "COX-1 produces prostaglandins (PGE2, PGI2) that stimulate mucus and bicarbonate secretion and maintain mucosal blood flow; NSAIDs inhibit COX-1, weakening this defense and predisposing to ulceration.",
     "whyWrongByChoice": {
-     "A": "NSAIDs do not act on the proton pump; reducing acid would protect, not harm.",
-     "B": "Gastrin signaling is not the mucosal defense impaired by NSAIDs.",
-     "C": "Pepsinogen secretion is not the protective function NSAIDs impair.",
+     "B": "NSAIDs do not act on the proton pump; reducing acid would protect, not harm.",
+     "C": "Gastrin signaling is not the mucosal defense impaired by NSAIDs.",
+     "D": "Pepsinogen secretion is not the protective function NSAIDs impair.",
      "E": "Intrinsic factor output is unrelated to NSAID-induced mucosal injury."
     }
    }
@@ -6331,26 +6331,26 @@
     },
     {
      "label": "C",
-     "text": "Esophageal manometry"
-    },
-    {
-     "label": "D",
      "text": "CT scan of the chest with contrast"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Gastric emptying scintigraphy"
+    },
+    {
+     "label": "E",
+     "text": "Esophageal manometry"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Achalasia is diagnosed definitively by esophageal manometry showing impaired LES relaxation and absent peristalsis.",
     "whyCorrect": "Esophageal manometry is the gold standard for achalasia, demonstrating the two hallmarks: impaired lower esophageal sphincter relaxation and absent peristalsis in the esophageal body.",
     "whyWrongByChoice": {
      "A": "pH monitoring quantifies acid reflux (GERD) and does not assess motility.",
      "B": "Upper endoscopy is performed first to rule out mechanical obstruction or malignancy, but it is not the confirmatory motility test.",
-     "D": "Chest CT does not establish a motility diagnosis.",
-     "E": "Scintigraphy assesses gastric emptying, used for gastroparesis, not the esophagus."
+     "C": "Chest CT does not establish a motility diagnosis.",
+     "D": "Scintigraphy assesses gastric emptying, used for gastroparesis, not the esophagus."
     }
    }
   },
@@ -6366,11 +6366,11 @@
     },
     {
      "label": "B",
-     "text": "Degeneration of inhibitory myenteric plexus neurons"
+     "text": "Fibrotic stricture of the distal esophageal wall"
     },
     {
      "label": "C",
-     "text": "Fibrotic stricture of the distal esophageal wall"
+     "text": "Degeneration of inhibitory myenteric plexus neurons"
     },
     {
      "label": "D",
@@ -6381,13 +6381,13 @@
      "text": "Eosinophilic infiltration of the esophageal mucosa"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Achalasia results from loss of inhibitory neurons in the esophageal myenteric plexus.",
     "whyCorrect": "The inhibitory ganglion neurons of the myenteric plexus, which release nitric oxide and VIP to relax the LES and coordinate peristalsis, are destroyed (likely autoimmune), producing impaired LES relaxation and absent peristalsis.",
     "whyWrongByChoice": {
      "A": "The epithelium is not the target; the pathology is neuronal loss in the myenteric plexus.",
-     "C": "A fibrotic stricture is a mechanical/structural cause, not the functional neuronal loss of achalasia.",
+     "B": "A fibrotic stricture is a mechanical/structural cause, not the functional neuronal loss of achalasia.",
      "D": "The LES fails to relax because of neuronal loss, not because of muscle hypertrophy.",
      "E": "Eosinophilic infiltration describes eosinophilic esophagitis, a different disorder."
     }
@@ -6409,25 +6409,25 @@
     },
     {
      "label": "C",
-     "text": "Laparoscopic Heller myotomy"
+     "text": "Proton pump inhibitor therapy"
     },
     {
      "label": "D",
-     "text": "Proton pump inhibitor therapy"
+     "text": "Laparoscopic Heller myotomy"
     },
     {
      "label": "E",
      "text": "Swallowed topical corticosteroids"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Laparoscopic Heller myotomy (with partial fundoplication) is a definitive treatment with good long-term success.",
     "whyCorrect": "Since peristalsis cannot be restored, treatment reduces LES resistance; surgical division of the LES fibers (Heller myotomy) with a partial fundoplication provides durable relief.",
     "whyWrongByChoice": {
      "A": "Pharmacotherapy with calcium channel blockers is minimally effective and rarely used.",
      "B": "Botulinum toxin gives only temporary relief (~6 months) and is reserved for poor surgical candidates.",
-     "D": "PPIs treat acid reflux, not the functional obstruction of achalasia.",
+     "C": "PPIs treat acid reflux, not the functional obstruction of achalasia.",
      "E": "Swallowed steroids treat eosinophilic esophagitis, not achalasia."
     }
    }
@@ -6448,25 +6448,25 @@
     },
     {
      "label": "C",
-     "text": "Distal esophageal spasm"
+     "text": "Hypercontractile (jackhammer) esophagus"
     },
     {
      "label": "D",
-     "text": "Hypercontractile (jackhammer) esophagus"
+     "text": "Distal esophageal spasm"
     },
     {
      "label": "E",
      "text": "Eosinophilic esophagitis"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Distal esophageal spasm features premature, uncoordinated (simultaneous) contractions with a corkscrew barium appearance and predominant chest pain.",
     "whyCorrect": "DES presents predominantly with substernal chest pain mimicking cardiac pain; manometry shows simultaneous rather than sequential contractions, and barium shows the classic corkscrew pattern.",
     "whyWrongByChoice": {
      "A": "Achalasia shows impaired LES relaxation and absent peristalsis with a bird's-beak, not a corkscrew.",
      "B": "GERD causes heartburn/regurgitation, not simultaneous contractions with a corkscrew esophagus.",
-     "D": "Jackhammer esophagus has properly sequenced but excessively forceful contractions, not premature/simultaneous ones.",
+     "C": "Jackhammer esophagus has properly sequenced but excessively forceful contractions, not premature/simultaneous ones.",
      "E": "Eosinophilic esophagitis causes solid-food dysphagia/food impaction, not a corkscrew manometric pattern."
     }
    }
@@ -6479,15 +6479,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "Hypercontractile (jackhammer) esophagus"
+     "text": "Esophageal achalasia"
     },
     {
      "label": "B",
-     "text": "Achalasia"
+     "text": "Distal esophageal spasm"
     },
     {
      "label": "C",
-     "text": "Distal esophageal spasm"
+     "text": "Hypercontractile esophagus"
     },
     {
      "label": "D",
@@ -6498,13 +6498,13 @@
      "text": "Esophageal adenocarcinoma"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Hypercontractile (jackhammer) esophagus shows preserved peristaltic sequencing with excessively forceful contractions.",
     "whyCorrect": "In jackhammer esophagus, contractions remain properly sequenced/coordinated but are hypercontractile; the extreme force impairs bolus transit, producing dysphagia, with normal LES relaxation.",
     "whyWrongByChoice": {
-     "B": "Achalasia shows impaired LES relaxation and absent peristalsis, not preserved forceful peristalsis.",
-     "C": "DES has premature, simultaneous (uncoordinated) contractions, not properly sequenced ones.",
+     "A": "Achalasia shows impaired LES relaxation and absent peristalsis, not preserved forceful peristalsis.",
+     "B": "DES has premature, simultaneous (uncoordinated) contractions, not properly sequenced ones.",
      "D": "A stricture is a mechanical cause and would typically show narrowing on barium.",
      "E": "Adenocarcinoma is a mechanical obstruction causing solid-predominant dysphagia, not a hypercontractile motility pattern."
     }
@@ -6600,11 +6600,11 @@
     },
     {
      "label": "B",
-     "text": "Tardive dyskinesia"
+     "text": "Peripheral neuropathy"
     },
     {
      "label": "C",
-     "text": "Peripheral neuropathy"
+     "text": "Tardive dyskinesia"
     },
     {
      "label": "D",
@@ -6615,13 +6615,13 @@
      "text": "Hemolytic anemia"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Long-term metoclopramide use risks tardive dyskinesia.",
     "whyCorrect": "Metoclopramide is a dopamine antagonist/prokinetic; chronic use can produce tardive dyskinesia, an important limitation of long-term therapy.",
     "whyWrongByChoice": {
      "A": "Pulmonary fibrosis is associated with drugs such as amiodarone or bleomycin, not metoclopramide.",
-     "C": "Peripheral neuropathy is not a recognized metoclopramide effect.",
+     "B": "Peripheral neuropathy is not a recognized metoclopramide effect.",
      "D": "Nephrolithiasis is unrelated to metoclopramide.",
      "E": "Hemolytic anemia is not a characteristic metoclopramide toxicity."
     }
@@ -6635,33 +6635,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Mechanical small bowel obstruction"
+     "text": "Paralytic ileus"
     },
     {
      "label": "B",
-     "text": "Cecal volvulus"
+     "text": "Mechanical small bowel obstruction"
     },
     {
      "label": "C",
-     "text": "Ogilvie syndrome"
+     "text": "Cecal volvulus"
     },
     {
      "label": "D",
-     "text": "Paralytic ileus"
+     "text": "Ogilvie syndrome"
     },
     {
      "label": "E",
      "text": "Toxic megacolon"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Postoperative paralytic ileus causes functional cessation of motility with diffuse small- and large-bowel gas and no mechanical transition point.",
     "whyCorrect": "Postoperative ileus is the most common cause of ileus; imaging shows diffusely air-filled small AND large bowel, distinguishing it from mechanical obstruction.",
     "whyWrongByChoice": {
-     "A": "Small bowel obstruction shows dilated small bowel with absence of air reaching the colon and a transition point.",
-     "B": "Volvulus produces a focal closed-loop obstruction, not diffuse gas throughout both small and large bowel.",
-     "C": "Ogilvie syndrome is massive colonic (not diffuse small and large bowel) dilation.",
+     "B": "Small bowel obstruction shows dilated small bowel with absence of air reaching the colon and a transition point.",
+     "C": "Volvulus produces a focal closed-loop obstruction, not diffuse gas throughout both small and large bowel.",
+     "D": "Ogilvie syndrome is massive colonic (not diffuse small and large bowel) dilation.",
      "E": "Toxic megacolon involves colonic dilation with systemic toxicity and colitis, not diffuse postoperative gas."
     }
    }
@@ -6717,29 +6717,29 @@
     },
     {
      "label": "B",
-     "text": "Sigmoid volvulus"
+     "text": "Acute colonic pseudo-obstruction"
     },
     {
      "label": "C",
-     "text": "Toxic megacolon"
+     "text": "Sigmoid volvulus"
     },
     {
      "label": "D",
-     "text": "Acute colonic pseudo-obstruction"
+     "text": "Toxic megacolon"
     },
     {
      "label": "E",
      "text": "Adynamic paralytic ileus"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Acute colonic pseudo-obstruction (Ogilvie syndrome) is massive colonic dilation without mechanical obstruction in a seriously ill, hospitalized patient.",
     "whyCorrect": "Ogilvie syndrome occurs almost exclusively in hospitalized/institutionalized patients (surgery, trauma, sepsis) and is defined by massive colonic dilation with no mechanical cause on imaging.",
     "whyWrongByChoice": {
      "A": "Small bowel obstruction dilates the small intestine and shows a transition point, not isolated massive colonic dilation.",
-     "B": "Sigmoid volvulus shows a focal twisted closed loop, not diffuse colonic dilation without obstruction.",
-     "C": "Toxic megacolon involves severe colitis with systemic toxicity, not the atonic pseudo-obstruction of a septic patient.",
+     "C": "Sigmoid volvulus shows a focal twisted closed loop, not diffuse colonic dilation without obstruction.",
+     "D": "Toxic megacolon involves severe colitis with systemic toxicity, not the atonic pseudo-obstruction of a septic patient.",
      "E": "Ileus classically affects both small and large bowel diffusely, whereas this is predominantly massive colonic dilation."
     }
    }
@@ -6760,25 +6760,25 @@
     },
     {
      "label": "C",
-     "text": "Broad-spectrum antibiotics"
+     "text": "Intravenous neostigmine"
     },
     {
      "label": "D",
-     "text": "Intravenous neostigmine"
+     "text": "Broad-spectrum antibiotics"
     },
     {
      "label": "E",
      "text": "Subcutaneous octreotide"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Neostigmine is the pharmacologic treatment for Ogilvie syndrome when conservative measures fail.",
     "whyCorrect": "Neostigmine, an acetylcholinesterase inhibitor, boosts parasympathetic tone and decompresses the colon (often rapidly) and is effective in about 85% of cases refractory to conservative therapy.",
     "whyWrongByChoice": {
      "A": "Erythromycin is a motilin agonist used for gastroparesis, not Ogilvie syndrome.",
      "B": "Osmotic laxatives are not the treatment for acute colonic pseudo-obstruction.",
-     "C": "Antibiotics do not address the autonomic dysmotility unless there is perforation/peritonitis.",
+     "D": "Antibiotics do not address the autonomic dysmotility unless there is perforation/peritonitis.",
      "E": "Octreotide is used for secretory tumors, not colonic decompression."
     }
    }
@@ -6791,11 +6791,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Cecal perforation"
+     "text": "Sigmoid volvulus"
     },
     {
      "label": "B",
-     "text": "Sigmoid volvulus"
+     "text": "Cecal perforation"
     },
     {
      "label": "C",
@@ -6810,12 +6810,12 @@
      "text": "Diverticular abscess"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "The key danger of Ogilvie syndrome is cecal perforation, whose risk rises as cecal diameter exceeds 12 cm.",
     "whyCorrect": "The cecum has the largest diameter and thinnest wall; distension beyond ~12 cm markedly increases the risk of cecal perforation, which carries roughly 50% mortality.",
     "whyWrongByChoice": {
-     "B": "Volvulus is a mechanical twisting event, not the consequence of progressive cecal dilation.",
+     "A": "Volvulus is a mechanical twisting event, not the consequence of progressive cecal dilation.",
      "C": "Colovesical fistulas arise from diverticulitis or malignancy, not acute dilation.",
      "D": "Cancer is a chronic obstructive cause, not a complication of pseudo-obstruction.",
      "E": "Diverticular abscess results from diverticulitis, unrelated to cecal over-distension."
@@ -6842,14 +6842,14 @@
     },
     {
      "label": "D",
-     "text": "Proton pump inhibitors"
+     "text": "Opioid analgesics"
     },
     {
      "label": "E",
-     "text": "Opioid analgesics"
+     "text": "Proton pump inhibitors"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Opioids are the single most common medication cause of constipation.",
     "whyCorrect": "Among the medications that cause constipation (anticholinergics, calcium channel blockers, iron, antacids), opioids are the single most common culprit.",
@@ -6857,7 +6857,7 @@
      "A": "Osmotic laxatives treat constipation; they do not cause it.",
      "B": "Loop diuretics are not a leading cause of constipation.",
      "C": "Beta-blockers are not among the classic constipating drug classes emphasized here.",
-     "D": "PPIs are not a common cause of constipation (they are linked to microscopic colitis instead)."
+     "E": "PPIs are not a common cause of constipation (they are linked to microscopic colitis instead)."
     }
    }
   },
@@ -6947,15 +6947,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "Fecal calprotectin"
+     "text": "Hydrogen breath test"
     },
     {
      "label": "B",
-     "text": "Serum tissue transglutaminase IgA"
+     "text": "Fecal calprotectin"
     },
     {
      "label": "C",
-     "text": "Hydrogen breath test"
+     "text": "Serum tissue transglutaminase IgA"
     },
     {
      "label": "D",
@@ -6966,13 +6966,13 @@
      "text": "Stool osmotic gap"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "The hydrogen breath test is the most widely used test for lactose intolerance.",
     "whyCorrect": "After ingesting a lactose solution, breath hydrogen is measured; a rise of at least 20 ppm above baseline indicates malabsorption, and this is the most commonly used method.",
     "whyWrongByChoice": {
-     "A": "Fecal calprotectin screens for intestinal inflammation (IBD), not lactose intolerance.",
-     "B": "tTG-IgA is the serologic test for celiac disease.",
+     "B": "Fecal calprotectin screens for intestinal inflammation (IBD), not lactose intolerance.",
+     "C": "tTG-IgA is the serologic test for celiac disease.",
      "D": "Colonoscopy is not used to diagnose lactose intolerance.",
      "E": "The stool osmotic gap helps classify diarrhea but is not the standard lactose intolerance test."
     }
@@ -6986,11 +6986,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "VIPoma"
+     "text": "Gastrinoma"
     },
     {
      "label": "B",
-     "text": "Gastrinoma"
+     "text": "VIPoma"
     },
     {
      "label": "C",
@@ -7005,12 +7005,12 @@
      "text": "Glucagonoma"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "VIPoma causes WDHA syndrome: watery diarrhea, hypokalemia, and achlorhydria.",
     "whyCorrect": "A pancreatic neuroendocrine tumor secreting VIP drives massive intestinal water/chloride secretion, potassium loss, and impaired gastric acid secretion, with an elevated fasting VIP level.",
     "whyWrongByChoice": {
-     "B": "Gastrinoma causes excess acid and peptic ulcers (Zollinger-Ellison), not achlorhydria.",
+     "A": "Gastrinoma causes excess acid and peptic ulcers (Zollinger-Ellison), not achlorhydria.",
      "C": "Carcinoid causes flushing, diarrhea, and wheezing from serotonin, not WDHA with elevated VIP.",
      "D": "Insulinoma causes hypoglycemia, not secretory diarrhea.",
      "E": "Glucagonoma causes necrolytic migratory erythema and hyperglycemia, not WDHA."
@@ -7025,15 +7025,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "Ulcerative colitis"
+     "text": "Collagenous colitis"
     },
     {
      "label": "B",
-     "text": "Collagenous (microscopic) colitis"
+     "text": "Ulcerative pancolitis"
     },
     {
      "label": "C",
-     "text": "Crohn disease"
+     "text": "Crohn ileocolitis"
     },
     {
      "label": "D",
@@ -7044,13 +7044,13 @@
      "text": "Ischemic colitis"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Microscopic colitis causes chronic watery nonbloody diarrhea with a normal-appearing colon and diagnostic findings only on biopsy.",
     "whyCorrect": "Collagenous colitis, a subtype of microscopic colitis common in women over 60, shows a normal endoscopic appearance with a thickened subepithelial collagen band on biopsy.",
     "whyWrongByChoice": {
-     "A": "Ulcerative colitis produces grossly inflamed, friable mucosa with bloody diarrhea.",
-     "C": "Crohn disease shows endoscopic inflammation (skip lesions, ulcers), not a normal-appearing colon.",
+     "B": "Ulcerative pancolitis produces grossly inflamed, friable mucosa with bloody diarrhea.",
+     "C": "Crohn ileocolitis shows endoscopic inflammation (skip lesions, ulcers), not a normal-appearing colon.",
      "D": "Celiac disease affects the small bowel (duodenal villous atrophy), not the colon.",
      "E": "Ischemic colitis shows segmental mucosal injury, typically with pain and bleeding."
     }
@@ -7107,29 +7107,29 @@
     },
     {
      "label": "B",
-     "text": "It stimulates enteric neurons to increase peristalsis"
+     "text": "It is isotonic and causes minimal electrolyte shifts"
     },
     {
      "label": "C",
-     "text": "It binds luminal bile acids to reduce fluid secretion"
+     "text": "It stimulates enteric neurons to increase peristalsis"
     },
     {
      "label": "D",
-     "text": "It is an isotonic solution that causes no significant electrolyte shifts"
+     "text": "It binds luminal bile acids to reduce fluid secretion"
     },
     {
      "label": "E",
      "text": "It lowers stool surface tension as a surfactant"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "PEG is an inert, nonabsorbable, osmotically active agent formulated as a balanced isotonic solution so that no significant intravascular fluid or electrolyte shifts occur, making it ideal for complete colonic cleansing.",
     "whyCorrect": "The brick states PEG solutions contain PEG with sodium and potassium salts and are designed so that no significant intravascular fluid or electrolyte shifts occur, which is why PEG is a common option for complete colonic cleansing before endoscopy.",
     "whyWrongByChoice": {
      "A": "PEG is nonabsorbable; it stays in the lumen rather than being absorbed and renally cleared.",
-     "B": "Acting on enteric neurons describes stimulant laxatives such as senna and bisacodyl, not PEG.",
-     "C": "Binding bile acids describes bile-acid sequestrants used as antidiarrheals, not an osmotic laxative.",
+     "C": "Acting on enteric neurons describes stimulant laxatives such as senna and bisacodyl, not PEG.",
+     "D": "Binding bile acids describes bile-acid sequestrants used as antidiarrheals, not an osmotic laxative.",
      "E": "Lowering stool surface tension is the mechanism of docusate, an emollient stool surfactant."
     }
    }
@@ -7158,7 +7158,7 @@
     },
     {
      "label": "E",
-     "text": "Excessive flatulence"
+     "text": "Gas and bloating"
     }
    ],
    "correctAnswer": "E",
@@ -7189,25 +7189,25 @@
     },
     {
      "label": "C",
-     "text": "Lactulose"
+     "text": "Senna"
     },
     {
      "label": "D",
-     "text": "Senna"
+     "text": "Lactulose"
     },
     {
      "label": "E",
      "text": "Methylcellulose"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Chronic use of the stimulant laxative senna causes melanosis coli, a benign brown pigmentation of the colonic mucosa.",
     "whyCorrect": "The brick specifies that chronic use of senna can cause melanosis coli, described as brown pigmentation of the colonic mucosa of no functional significance.",
     "whyWrongByChoice": {
      "A": "Docusate is an emollient stool softener and is not associated with melanosis coli.",
      "B": "Psyllium is a bulk-forming laxative whose main adverse effect is flatulence.",
-     "C": "Lactulose is an osmotic laxative and does not cause colonic pigmentation.",
+     "D": "Lactulose is an osmotic laxative and does not cause colonic pigmentation.",
      "E": "Methylcellulose is a bulk-forming laxative and does not produce melanosis coli."
     }
    }
@@ -7224,30 +7224,30 @@
     },
     {
      "label": "B",
-     "text": "It lowers the surface tension of the stool"
+     "text": "It is fermented in the colon, drawing in water"
     },
     {
      "label": "C",
-     "text": "It stimulates mu-opioid receptors in the gut wall"
+     "text": "It lowers the surface tension of the stool"
     },
     {
      "label": "D",
-     "text": "It activates guanylate cyclase C on the epithelium"
+     "text": "It stimulates mu-opioid receptors in the gut wall"
     },
     {
      "label": "E",
-     "text": "It is hydrolyzed in the colon, drawing water into the lumen"
+     "text": "It activates guanylate cyclase C on the epithelium"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Lactulose resists intestinal disaccharidases and is hydrolyzed by colonic bacteria to short-chain fatty acids that osmotically draw water into the lumen, stimulating propulsive motility.",
     "whyCorrect": "The brick states lactulose resists intestinal disaccharidase activity and is hydrolyzed in the colon to short-chain fatty acids, which stimulate colonic propulsive motility by osmotically drawing water into the lumen.",
     "whyWrongByChoice": {
      "A": "Binding bile acids is the mechanism of bile-acid sequestrants used as antidiarrheals.",
-     "B": "Lowering stool surface tension describes the emollient docusate.",
-     "C": "Stimulating mu-opioid receptors describes opioid antidiarrheals like loperamide, which slow the gut.",
-     "D": "Activating guanylate cyclase C is the mechanism of linaclotide, an IBS-C drug."
+     "C": "Lowering stool surface tension describes the emollient docusate.",
+     "D": "Stimulating mu-opioid receptors describes opioid antidiarrheals like loperamide, which slow the gut.",
+     "E": "Activating guanylate cyclase C is the mechanism of linaclotide, an IBS-C drug."
     }
    }
   },
@@ -7263,29 +7263,29 @@
     },
     {
      "label": "B",
-     "text": "It lowers stool surface tension to soften the stool"
-    },
-    {
-     "label": "C",
      "text": "It blocks 5-HT3 receptors in the gut"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "It antagonizes peripheral mu-opioid receptors"
+    },
+    {
+     "label": "D",
+     "text": "It lowers stool surface tension to soften the stool"
     },
     {
      "label": "E",
      "text": "It activates chloride channels in the small intestine"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Docusate is an anionic surfactant (emollient) that lowers stool surface tension, allowing water and fat to mix into the stool and soften it.",
     "whyCorrect": "The brick states docusate salts are anionic surfactants that lower the surface tension of the stool, allowing mixing of aqueous and fatty substances and thus softening the stool.",
     "whyWrongByChoice": {
      "A": "Creating a bulky distending mass describes bulk-forming laxatives such as psyllium.",
-     "C": "Blocking 5-HT3 receptors describes the antidiarrheal alosetron.",
-     "D": "Antagonizing peripheral mu-opioid receptors describes opiate antagonists like methylnaltrexone.",
+     "B": "Blocking 5-HT3 receptors describes the antidiarrheal alosetron.",
+     "C": "Antagonizing peripheral mu-opioid receptors describes opiate antagonists like methylnaltrexone.",
      "E": "Activating chloride channels describes lubiprostone, an IBS-C drug."
     }
    }
@@ -7337,23 +7337,23 @@
    "choices": [
     {
      "label": "A",
-     "text": "It breaks down to ricinoleic acid, which irritates the gut"
+     "text": "It is converted to ricinoleic acid, a gut irritant"
     },
     {
      "label": "B",
-     "text": "It binds enterotoxins in the lumen"
+     "text": "It binds bacterial enterotoxins in the intestinal lumen"
     },
     {
      "label": "C",
-     "text": "It increases cyclic GMP in the epithelium"
+     "text": "It raises cyclic GMP in the gut epithelium"
     },
     {
      "label": "D",
-     "text": "It absorbs water to distend the colon"
+     "text": "It absorbs luminal water to distend the colon"
     },
     {
      "label": "E",
-     "text": "It reduces bile acid reabsorption"
+     "text": "It reduces ileal bile acid reabsorption"
     }
    ],
    "correctAnswer": "A",
@@ -7376,34 +7376,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Methylnaltrexone"
+     "text": "Loperamide (mu-agonist)"
     },
     {
      "label": "B",
-     "text": "Loperamide"
+     "text": "Alosetron (5-HT3 blocker)"
     },
     {
      "label": "C",
-     "text": "Alosetron"
+     "text": "Bisacodyl (stimulant)"
     },
     {
      "label": "D",
-     "text": "Bisacodyl"
+     "text": "Cholestyramine (sequestrant)"
     },
     {
      "label": "E",
-     "text": "Cholestyramine"
+     "text": "Methylnaltrexone (PAMORA)"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Opioid-induced constipation refractory to standard laxatives is treated with a peripherally acting opiate antagonist such as methylnaltrexone, which relieves gut constipation without reversing central analgesia.",
     "whyCorrect": "The brick states opiate antagonists such as methylnaltrexone are used for opioid-induced constipation, typically only when other methods have failed, and block the gut opioid receptors causing constipation without disturbing central analgesia.",
     "whyWrongByChoice": {
-     "B": "Loperamide is an opioid antidiarrheal that would worsen constipation.",
-     "C": "Alosetron is a 5-HT3 antagonist used for IBS-D and would not help constipation.",
-     "D": "Bisacodyl is a stimulant laxative in the same category she has already tried without benefit.",
-     "E": "Cholestyramine is a bile-acid sequestrant used for diarrhea, not constipation."
+     "A": "Loperamide is an opioid antidiarrheal that would worsen constipation.",
+     "B": "Alosetron is a 5-HT3 antagonist used for IBS-D and would not help constipation.",
+     "C": "Bisacodyl is a stimulant laxative in the same category she has already tried without benefit.",
+     "D": "Cholestyramine is a bile-acid sequestrant used for diarrhea, not constipation."
     }
    }
   },
@@ -7419,7 +7419,7 @@
     },
     {
      "label": "B",
-     "text": "It antagonizes peripheral mu-opioid receptors in the gut"
+     "text": "It antagonizes peripheral mu-opioid receptors"
     },
     {
      "label": "C",
@@ -7431,7 +7431,7 @@
     },
     {
      "label": "E",
-     "text": "It binds bile acids that stimulate secretion"
+     "text": "It binds luminal bile acids that stimulate secretion"
     }
    ],
    "correctAnswer": "B",
@@ -7442,7 +7442,7 @@
      "A": "Activating chloride channels describes lubiprostone, not an opiate antagonist.",
      "C": "Cholecystokinin release is stimulated by magnesium-containing osmotic laxatives.",
      "D": "Blocking 5-HT3 receptors describes alosetron, an antidiarrheal.",
-     "E": "Binding bile acids describes bile-acid sequestrants used for diarrhea."
+     "E": "Binding luminal bile acids describes bile-acid sequestrants used for diarrhea."
     }
    }
   },
@@ -7454,33 +7454,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "It absorbs water to distend the colon"
+     "text": "It activates type 2 chloride channels to secrete fluid"
     },
     {
      "label": "B",
-     "text": "It activates type 2 chloride channels to increase fluid secretion"
+     "text": "It absorbs water osmotically to distend the colon"
     },
     {
      "label": "C",
-     "text": "It antagonizes mu-opioid receptors in the gut"
+     "text": "It antagonizes peripheral mu-opioid receptors in the gut"
     },
     {
      "label": "D",
-     "text": "It blocks serotonin release in the intestine"
+     "text": "It blocks serotonin release in the intestinal wall"
     },
     {
      "label": "E",
-     "text": "It lowers the surface tension of the stool"
+     "text": "It lowers the surface tension of hardened stool"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Lubiprostone is a type 2 chloride channel (ClC-2) activator that promotes secretion of chloride-rich fluid into the small intestine, increasing motility.",
     "whyCorrect": "The brick states lubiprostone stimulates the ClC-2 channel in the small intestine, leading to secretion of chloride-rich fluid that increases intestinal motility.",
     "whyWrongByChoice": {
-     "A": "Absorbing water to distend the colon describes bulk-forming laxatives.",
-     "C": "Antagonizing mu-opioid receptors describes opiate antagonists like methylnaltrexone.",
-     "D": "Blocking serotonin describes the antidiarrheal alosetron.",
+     "B": "Osmotically absorbing water to distend the colon describes bulk-forming laxatives.",
+     "C": "Antagonizing peripheral mu-opioid receptors describes opiate antagonists like methylnaltrexone.",
+     "D": "Blocking intestinal serotonin signaling describes the antidiarrheal alosetron.",
      "E": "Lowering stool surface tension describes docusate."
     }
    }
@@ -7536,30 +7536,30 @@
     },
     {
      "label": "B",
-     "text": "Binds bile acids to reduce secretion"
+     "text": "Binds luminal bile acids to reduce fluid secretion"
     },
     {
      "label": "C",
-     "text": "Blocks mu-opioid receptors in the gut"
+     "text": "Blocks peripheral mu-opioid receptors in the gut"
     },
     {
      "label": "D",
-     "text": "Increases cyclic GMP to drive CFTR chloride secretion"
+     "text": "Stimulates enteric neurons via mucosal irritation"
     },
     {
      "label": "E",
-     "text": "Stimulates enteric neurons via mucosal irritation"
+     "text": "Increases cGMP to drive CFTR chloride secretion"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Linaclotide activates guanylate cyclase C on the luminal epithelium, increasing cGMP, which activates CFTR to induce chloride-rich secretion and increase bowel movements.",
     "whyCorrect": "The brick states linaclotide increases cyclic GMP, which activates the cystic fibrosis transmembrane conductance regulator (CFTR) to induce chloride-rich secretion.",
     "whyWrongByChoice": {
      "A": "Direct activation of type 2 chloride channels is the mechanism of lubiprostone, not linaclotide.",
      "B": "Binding bile acids describes bile-acid sequestrants.",
-     "C": "Blocking mu-opioid receptors describes opiate antagonists.",
-     "E": "Mucosal irritation of enteric neurons describes stimulant laxatives such as senna or castor oil."
+     "C": "Blocking peripheral mu-opioid receptors describes opiate antagonists.",
+     "D": "Mucosal irritation of enteric neurons describes stimulant laxatives such as senna or castor oil."
     }
    }
   },
@@ -7583,11 +7583,11 @@
     },
     {
      "label": "D",
-     "text": "It increases chloride secretion into the lumen"
+     "text": "It increases chloride secretion into the gut lumen"
     },
     {
      "label": "E",
-     "text": "It reduces peristalsis via peripheral opioid receptors"
+     "text": "It slows peristalsis via gut opioid receptors"
     }
    ],
    "correctAnswer": "E",
@@ -7622,14 +7622,14 @@
     },
     {
      "label": "D",
-     "text": "To block peripheral serotonin receptors"
+     "text": "To discourage misuse and dose escalation"
     },
     {
      "label": "E",
-     "text": "To discourage misuse and dose escalation"
+     "text": "To block peripheral serotonin receptors"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Diphenoxylate crosses the blood-brain barrier and can cause CNS effects, so atropine is added; its unpleasant anticholinergic effects at higher doses discourage dose increases and misuse.",
     "whyCorrect": "The brick states diphenoxylate crosses the blood-brain barrier leading to CNS effects, so it is combined with atropine to dissuade dose increases, with anticholinergic side effects occurring in excess.",
@@ -7637,7 +7637,7 @@
      "A": "Atropine is added to deter overuse, not to boost antidiarrheal potency.",
      "B": "Fat-soluble vitamin deficiency relates to bile-acid sequestrants, not this combination.",
      "C": "Pancreatitis risk relates to eluxadoline, not diphenoxylate-atropine.",
-     "D": "Atropine is an antimuscarinic, not a serotonin receptor blocker."
+     "E": "Atropine is an antimuscarinic, not a serotonin receptor blocker."
     }
    }
   },
@@ -7649,11 +7649,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "It binds bile acids that cause colonic secretion"
+     "text": "It enhances mucosal defense and binds enterotoxins"
     },
     {
      "label": "B",
-     "text": "It enhances mucosal defense and binds enterotoxins"
+     "text": "It binds bile acids that cause colonic secretion"
     },
     {
      "label": "C",
@@ -7668,12 +7668,12 @@
      "text": "It lowers the surface tension of the stool"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Bismuth subsalicylate enhances mucosal defense (stimulating prostaglandin, mucus, and bicarbonate secretion), inhibits intestinal prostaglandin synthesis and chloride secretion, and has direct antimicrobial activity while binding enterotoxins, making it useful for traveler's diarrhea.",
     "whyCorrect": "The brick states bismuth subsalicylate enhances mucosal defense, exhibits direct antimicrobial activity, and binds enterotoxins, contributing to its effectiveness in preventing and treating traveler's diarrhea.",
     "whyWrongByChoice": {
-     "A": "Binding bile acids describes bile-acid sequestrants such as cholestyramine.",
+     "B": "Binding bile acids describes bile-acid sequestrants such as cholestyramine.",
      "C": "Antagonizing mu-opioid receptors describes opiate antagonists like methylnaltrexone.",
      "D": "Activating guanylate cyclase C describes linaclotide, an IBS-C drug.",
      "E": "Lowering stool surface tension describes the emollient docusate."
@@ -7688,34 +7688,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Ischemic colitis"
+     "text": "Ischemic colitis with bloody stools"
     },
     {
      "label": "B",
-     "text": "Melanosis coli"
+     "text": "Malabsorption of fat-soluble vitamins"
     },
     {
      "label": "C",
-     "text": "Interference with fat-soluble vitamin absorption"
+     "text": "Melanosis coli with dark mucosa"
     },
     {
      "label": "D",
-     "text": "Acute pancreatitis"
+     "text": "Acute pancreatitis with abdominal pain"
     },
     {
      "label": "E",
-     "text": "Urinary retention"
+     "text": "Urinary retention and dry mouth"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "The main adverse effect of bile-acid sequestrants such as cholestyramine is interference with the absorption of other drugs and of fat-soluble vitamins in the GI tract.",
     "whyCorrect": "The brick states the main adverse effect of bile-acid sequestrants is interference with the absorption of drugs and fat-soluble vitamins in the GI tract.",
     "whyWrongByChoice": {
      "A": "Ischemic colitis is the rare serious adverse effect of alosetron.",
-     "B": "Melanosis coli is caused by chronic senna use.",
+     "C": "Melanosis coli is caused by chronic senna use.",
      "D": "Pancreatitis is associated with eluxadoline.",
-     "E": "Urinary retention is an anticholinergic effect of atropine."
+     "E": "Urinary retention and dry mouth are anticholinergic effects of atropine."
     }
    }
   },
@@ -7735,25 +7735,25 @@
     },
     {
      "label": "C",
-     "text": "Ischemic colitis"
+     "text": "Melanosis coli"
     },
     {
      "label": "D",
-     "text": "Melanosis coli"
+     "text": "Ischemic colitis"
     },
     {
      "label": "E",
      "text": "Flatulence"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Alosetron is reserved for women with severe or refractory IBS-D partly because of a rare but serious risk of ischemic colitis that can require transfusion, surgery, or even cause death.",
     "whyCorrect": "The brick states alosetron carries a rare but serious risk of ischemic colitis, which may result in a need for blood transfusion or surgery, or even death, limiting its use to severe or refractory cases.",
     "whyWrongByChoice": {
      "A": "Pancreatitis is the serious adverse effect of eluxadoline, not alosetron.",
      "B": "Xerostomia is an anticholinergic effect of atropine combined with diphenoxylate.",
-     "D": "Melanosis coli results from chronic stimulant laxative use.",
+     "C": "Melanosis coli results from chronic stimulant laxative use.",
      "E": "Flatulence is the adverse effect of bulk-forming laxatives, not a serious limiting effect of alosetron."
     }
    }
@@ -7774,25 +7774,25 @@
     },
     {
      "label": "C",
-     "text": "A patient with an ileostomy"
+     "text": "A patient with prior cholecystectomy"
     },
     {
      "label": "D",
-     "text": "A patient with prior cholecystectomy"
+     "text": "A patient with an ileostomy"
     },
     {
      "label": "E",
      "text": "A patient older than 65 years"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Eluxadoline increases the risk of pancreatitis from sphincter of Oddi spasm and is contraindicated in patients who have had a cholecystectomy.",
     "whyCorrect": "The brick states eluxadoline is contraindicated in patients who have had a cholecystectomy because of increased risk of pancreatitis due to sphincter of Oddi spasm.",
     "whyWrongByChoice": {
      "A": "Asthma is not listed as a contraindication to eluxadoline in this brick.",
      "B": "Hypertension is not a stated contraindication to eluxadoline.",
-     "C": "An ileostomy is actually a setting where antidiarrheals may be used, not a contraindication to eluxadoline.",
+     "D": "An ileostomy is actually a setting where antidiarrheals may be used, not a contraindication to eluxadoline.",
      "E": "Age over 65 is not a stated contraindication; prior cholecystectomy is."
     }
    }
@@ -7805,15 +7805,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "Methylcellulose"
-    },
-    {
-     "label": "B",
      "text": "Docusate"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Senna"
+    },
+    {
+     "label": "C",
+     "text": "Psyllium"
     },
     {
      "label": "D",
@@ -7824,13 +7824,13 @@
      "text": "Bisacodyl"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Psyllium, bran, and methylcellulose are the bulk-forming laxatives; they absorb water and distend the intestine to trigger peristalsis.",
     "whyCorrect": "The brick lists psyllium, bran, and methylcellulose as examples of bulk-forming laxatives.",
     "whyWrongByChoice": {
-     "B": "Docusate is an emollient (stool surfactant).",
-     "C": "Senna is a stimulant (cathartic) laxative.",
+     "A": "Docusate is an emollient (stool surfactant).",
+     "B": "Senna is a stimulant (cathartic) laxative.",
      "D": "Lactulose is an osmotic laxative.",
      "E": "Bisacodyl is a stimulant laxative."
     }
@@ -7852,26 +7852,26 @@
     },
     {
      "label": "C",
-     "text": "Cholecystokinin"
-    },
-    {
-     "label": "D",
      "text": "Somatostatin"
     },
     {
+     "label": "D",
+     "text": "Cholecystokinin"
+    },
+    {
      "label": "E",
-     "text": "Motilin"
+     "text": "Vasoactive intestinal peptide"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Magnesium-containing laxatives may stimulate release of cholecystokinin (CCK), leading to intraluminal fluid and electrolyte accumulation and increased intestinal motility.",
     "whyCorrect": "The brick states magnesium-containing laxatives may stimulate the release of cholecystokinin (CCK), which leads to intraluminal fluid and electrolyte accumulation and increased intestinal motility.",
     "whyWrongByChoice": {
      "A": "Gastrin drives gastric acid secretion and is not the hormone stimulated by magnesium laxatives here.",
      "B": "Secretin stimulates pancreatic bicarbonate and is not implicated in this brick's mechanism.",
-     "D": "Somatostatin inhibits GI secretion and motility, the opposite of the described effect.",
-     "E": "Motilin promotes the migrating motor complex but is not the hormone named in the brick for magnesium laxatives."
+     "C": "Somatostatin inhibits GI secretion and motility, the opposite of the described effect.",
+     "E": "Vasoactive intestinal peptide drives intestinal secretion but is not the hormone stimulated by magnesium laxatives here."
     }
    }
   },
@@ -7883,15 +7883,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "Enterotoxigenic Escherichia coli"
-    },
-    {
-     "label": "B",
      "text": "Shigella dysenteriae"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Salmonella enterica"
+    },
+    {
+     "label": "C",
+     "text": "Enterotoxigenic Escherichia coli"
     },
     {
      "label": "D",
@@ -7902,13 +7902,13 @@
      "text": "Enterohemorrhagic Escherichia coli"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Acute watery, non-bloody diarrhea in a traveler to a developing country with negative fecal leukocytes and a secretory (low) osmotic gap is classic enterotoxigenic E. coli (ETEC).",
     "whyCorrect": "ETEC is the leading cause of traveler's diarrhea, produces a noninflammatory secretory (watery) picture via its LT/ST enterotoxins, and peaks on the second to third day after arrival in a developing region.",
     "whyWrongByChoice": {
-     "B": "Shigella causes small-volume bloody dysentery with fever and positive fecal leukocytes, not watery diarrhea with a low osmotic gap.",
-     "C": "Salmonella is a mucosal-invasive, inflammatory pathogen producing fever and often bloody stools with fecal leukocytes.",
+     "A": "Shigella causes small-volume bloody dysentery with fever and positive fecal leukocytes, not watery diarrhea with a low osmotic gap.",
+     "B": "Salmonella is a mucosal-invasive, inflammatory pathogen producing fever and often bloody stools with fecal leukocytes.",
      "D": "Campylobacter is invasive and typically causes bloody, inflammatory diarrhea with fecal leukocytes.",
      "E": "EHEC produces bloody diarrhea linked to undercooked beef or petting-zoo exposure, not watery traveler's diarrhea."
     }
@@ -7922,15 +7922,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "Vibrio cholerae"
-    },
-    {
-     "label": "B",
      "text": "Staphylococcus aureus"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Clostridioides difficile"
+    },
+    {
+     "label": "C",
+     "text": "Vibrio cholerae"
     },
     {
      "label": "D",
@@ -7941,13 +7941,13 @@
      "text": "Bacillus cereus"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Massive-volume, painless 'rice-water' stools with life-threatening dehydration are the hallmark of cholera.",
     "whyCorrect": "Vibrio cholerae produces cholera toxin that permanently activates adenylate cyclase, driving huge chloride and water secretion and producing colorless rice-water stools with volume losses of 10-20 L/day.",
     "whyWrongByChoice": {
-     "B": "S. aureus food poisoning is vomiting-predominant, brief, and does not cause liters of watery stool.",
-     "C": "C. difficile causes watery diarrhea but with inflammatory findings and far smaller volumes, and follows antibiotic exposure.",
+     "A": "S. aureus food poisoning is vomiting-predominant, brief, and does not cause liters of watery stool.",
+     "B": "C. difficile causes watery diarrhea but with inflammatory findings and far smaller volumes, and follows antibiotic exposure.",
      "D": "EPEC causes pediatric watery diarrhea by flattening villi, not massive rice-water stools.",
      "E": "B. cereus causes brief self-limited vomiting or watery diarrhea, not profuse dehydrating losses."
     }
@@ -8000,34 +8000,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Salmonella enterica"
+     "text": "Bacillus cereus"
     },
     {
      "label": "B",
-     "text": "Vibrio cholerae"
+     "text": "Salmonella enterica"
     },
     {
      "label": "C",
-     "text": "Clostridioides difficile"
+     "text": "Vibrio cholerae"
     },
     {
      "label": "D",
-     "text": "Enterotoxigenic Escherichia coli"
+     "text": "Clostridioides difficile"
     },
     {
      "label": "E",
-     "text": "Bacillus cereus"
+     "text": "Enterotoxigenic Escherichia coli"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Rapid vomiting (1-5 h) after reheated fried rice is the classic emetic syndrome of Bacillus cereus caused by preformed cereulide.",
     "whyCorrect": "B. cereus emetic disease results from preformed, heat-stable cereulide toxin in reheated rice, producing vomiting 1-5 hours after ingestion with a self-limited course under 24 hours.",
     "whyWrongByChoice": {
-     "A": "Salmonella causes invasive inflammatory diarrhea with fever, not brief toxin-mediated vomiting.",
-     "B": "V. cholerae causes profuse watery diarrhea, not a vomiting illness after fried rice.",
-     "C": "C. difficile causes antibiotic-associated watery diarrhea, not rapid-onset vomiting.",
-     "D": "ETEC causes watery traveler's diarrhea, not a vomiting-predominant illness."
+     "B": "Salmonella causes invasive inflammatory diarrhea with fever, not brief toxin-mediated vomiting.",
+     "C": "V. cholerae causes profuse watery diarrhea, not a vomiting illness after fried rice.",
+     "D": "C. difficile causes antibiotic-associated watery diarrhea, not rapid-onset vomiting.",
+     "E": "ETEC causes watery traveler's diarrhea, not a vomiting-predominant illness."
     }
    }
   },
@@ -8039,11 +8039,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Staphylococcus aureus"
+     "text": "Clostridium perfringens"
     },
     {
      "label": "B",
-     "text": "Clostridium perfringens"
+     "text": "Staphylococcus aureus"
     },
     {
      "label": "C",
@@ -8058,12 +8058,12 @@
      "text": "Vibrio cholerae"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Cramps and watery diarrhea 10-12 hours after reheated meat/poultry, without vomiting or fever, is classic Clostridium perfringens.",
     "whyCorrect": "C. perfringens spores survive cooking and germinate in slowly cooled meats; ingested vegetative cells sporulate in the gut and release enterotoxin, causing cramps and watery diarrhea at 10-12 hours with vomiting and fever uncommon.",
     "whyWrongByChoice": {
-     "A": "S. aureus causes vomiting-predominant illness within 2-6 hours, not delayed cramps and watery diarrhea.",
+     "B": "S. aureus causes vomiting-predominant illness within 2-6 hours, not delayed cramps and watery diarrhea.",
      "C": "B. cereus emetic disease is vomiting after fried rice; its diarrheal form is possible but the reheated-meat and 10-12 hour pattern fits C. perfringens.",
      "D": "C. difficile follows antibiotic exposure and produces inflammatory findings, not a point-source potluck outbreak.",
      "E": "V. cholerae causes profuse dehydrating rice-water stools, not a brief self-limited potluck illness."
@@ -8082,11 +8082,11 @@
     },
     {
      "label": "B",
-     "text": "Campylobacter jejuni"
+     "text": "Clostridioides difficile"
     },
     {
      "label": "C",
-     "text": "Clostridioides difficile"
+     "text": "Campylobacter jejuni"
     },
     {
      "label": "D",
@@ -8097,13 +8097,13 @@
      "text": "Staphylococcus aureus"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Watery diarrhea after recent antibiotics with pseudomembranes (yellow-white plaques) on colonoscopy is Clostridioides difficile infection.",
     "whyCorrect": "Antibiotics such as clindamycin disrupt colonic flora, allowing C. difficile spores to germinate; toxins A and B damage colonocytes from within, producing pseudomembranes despite the organism being noninvasive.",
     "whyWrongByChoice": {
      "A": "ETEC causes watery traveler's diarrhea without pseudomembranes and is unrelated to antibiotic use.",
-     "B": "Campylobacter causes invasive bloody diarrhea, not pseudomembranous colitis after antibiotics.",
+     "C": "Campylobacter causes invasive bloody diarrhea, not pseudomembranous colitis after antibiotics.",
      "D": "V. cholerae causes rice-water stools without pseudomembranes and requires contaminated water/seafood exposure.",
      "E": "S. aureus food poisoning is a brief vomiting illness, not pseudomembranous colitis."
     }
@@ -8164,26 +8164,26 @@
     },
     {
      "label": "C",
-     "text": "Handwashing with soap and water"
-    },
-    {
-     "label": "D",
      "text": "Sterile surgical scrub only"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Waterless foam sanitizer"
+    },
+    {
+     "label": "E",
+     "text": "Handwashing with soap and water"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Hand hygiene for C. difficile requires soap and water because alcohol does not kill spores.",
     "whyCorrect": "C. difficile forms alcohol-resistant spores, so mechanical removal by handwashing with soap and water is required; contact precautions with gowns/gloves and bleach-based cleaning are also used.",
     "whyWrongByChoice": {
      "A": "Alcohol-based rubs do not kill C. difficile spores.",
      "B": "A chlorhexidine rub without rinsing does not physically remove spores the way soap and water does.",
-     "D": "A sterile surgical scrub is unnecessary and is not the recommended measure for CDI contact.",
-     "E": "Waterless foam sanitizers are alcohol-based and ineffective against spores."
+     "C": "A sterile surgical scrub is unnecessary and is not the recommended measure for CDI contact.",
+     "D": "Waterless foam sanitizers are alcohol-based and ineffective against spores."
     }
    }
   },
@@ -8203,25 +8203,25 @@
     },
     {
      "label": "C",
-     "text": "Salmonella enterica"
+     "text": "Tropheryma whipplei"
     },
     {
      "label": "D",
-     "text": "Tropheryma whipplei"
+     "text": "Salmonella enterica"
     },
     {
      "label": "E",
      "text": "Clostridioides difficile"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Arthralgias, steatorrhea, abdominal pain, and weight loss with PAS-positive, acid-fast-negative macrophages is Whipple disease due to Tropheryma whipplei.",
     "whyCorrect": "Tropheryma whipplei causes Whipple disease, with a classic tetrad of arthralgias, chronic diarrhea/steatorrhea, abdominal pain, and weight loss; biopsy shows PAS-positive foamy macrophages that are acid-fast negative.",
     "whyWrongByChoice": {
      "A": "Mycobacterium avium complex also fills macrophages but is acid-fast positive, distinguishing it from Whipple disease.",
      "B": "Giardia causes malabsorptive diarrhea but shows trophozoites, not PAS-positive macrophages.",
-     "C": "Salmonella causes acute inflammatory diarrhea, not a chronic PAS-positive macrophage infiltrate.",
+     "D": "Salmonella causes acute inflammatory diarrhea, not a chronic PAS-positive macrophage infiltrate.",
      "E": "C. difficile causes pseudomembranous colitis, not chronic steatorrhea with PAS-positive macrophages."
     }
    }
@@ -8234,34 +8234,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Oral vancomycin for 10 days"
+     "text": "Oral vancomycin for 10 to 14 days"
     },
     {
      "label": "B",
-     "text": "Azithromycin as a single dose"
+     "text": "Ceftriaxone then oral co-trimoxazole"
     },
     {
      "label": "C",
-     "text": "Metronidazole for 14 days"
+     "text": "Azithromycin as a single oral dose"
     },
     {
      "label": "D",
-     "text": "Supportive care without antibiotics"
+     "text": "Oral metronidazole for a 14-day course"
     },
     {
      "label": "E",
-     "text": "Ceftriaxone then long-term co-trimoxazole"
+     "text": "Supportive care without any antibiotics"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Whipple disease is treated with an initial CNS-penetrating parenteral agent followed by prolonged oral therapy to prevent fatal CNS relapse.",
     "whyCorrect": "Recommended therapy is intravenous ceftriaxone for about 2 weeks followed by long-term trimethoprim-sulfamethoxazole for roughly 12 months; the CNS-penetrating regimen prevents fatal central nervous system relapse.",
     "whyWrongByChoice": {
      "A": "Oral vancomycin treats C. difficile colitis, not Whipple disease.",
-     "B": "A single dose of azithromycin is inadequate; Whipple requires prolonged therapy.",
-     "C": "A 14-day metronidazole course does not treat Tropheryma whipplei.",
-     "D": "Untreated Whipple disease is fatal, so supportive care alone is inappropriate."
+     "C": "A single dose of azithromycin is inadequate; Whipple requires prolonged therapy.",
+     "D": "A 14-day metronidazole course does not treat Tropheryma whipplei.",
+     "E": "Untreated Whipple disease is fatal, so supportive care alone is inappropriate."
     }
    }
   },
@@ -8281,25 +8281,25 @@
     },
     {
      "label": "C",
-     "text": "An infectious cause"
+     "text": "A neuroendocrine tumor"
     },
     {
      "label": "D",
-     "text": "A neuroendocrine tumor"
+     "text": "An infectious cause"
     },
     {
      "label": "E",
      "text": "Chronic pancreatic insufficiency"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Acute diarrhea (14 days or less) is most likely infectious in roughly 90% of cases.",
     "whyCorrect": "By the duration framework, acute diarrhea lasting 14 days or less is infectious in about 90% of cases, making an infectious etiology most likely in a 4-day illness.",
     "whyWrongByChoice": {
      "A": "IBD is a chronic (over 30 days) non-infectious cause, at most suggested by persistent illness.",
      "B": "Celiac disease is a chronic non-infectious cause of diarrhea.",
-     "D": "Neuroendocrine tumors cause chronic secretory diarrhea, not a 4-day acute illness.",
+     "C": "Neuroendocrine tumors cause chronic secretory diarrhea, not a 4-day acute illness.",
      "E": "Chronic pancreatic insufficiency causes long-standing steatorrhea, not acute diarrhea."
     }
    }
@@ -8351,11 +8351,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Osmotic diarrhea"
+     "text": "Secretory diarrhea"
     },
     {
      "label": "B",
-     "text": "Secretory diarrhea"
+     "text": "Osmotic diarrhea"
     },
     {
      "label": "C",
@@ -8370,12 +8370,12 @@
      "text": "Malabsorptive diarrhea"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Diarrhea that persists during fasting indicates an active secretory process independent of ingested substrate.",
     "whyCorrect": "Secretory diarrhea persists during fasting (including overnight) because active ion secretion continues regardless of oral intake, whereas osmotic diarrhea decreases or resolves.",
     "whyWrongByChoice": {
-     "A": "Osmotic diarrhea decreases or resolves during fasting because it depends on ingested solutes.",
+     "B": "Osmotic diarrhea decreases or resolves during fasting because it depends on ingested solutes.",
      "C": "Fatty diarrhea depends on ingested fat and would improve without intake.",
      "D": "Factitious/laxative-related diarrhea also depends on ingested substances and typically abates with fasting.",
      "E": "Malabsorptive diarrhea depends on ingested nutrients and improves during fasting."
@@ -8398,25 +8398,25 @@
     },
     {
      "label": "C",
-     "text": "Preformed-toxin vagal stimulation"
+     "text": "Mucosal invasion or destruction"
     },
     {
      "label": "D",
-     "text": "Mucosal invasion or destruction"
+     "text": "Preformed-toxin vagal stimulation"
     },
     {
      "label": "E",
      "text": "Rapid intestinal transit"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Positive fecal leukocytes/lactoferrin indicate neutrophil recruitment from mucosal invasion or destruction (an inflammatory pattern).",
     "whyCorrect": "A bloody/dysenteric inflammatory pattern recruits neutrophils to the mucosa; their presence, detected directly or via lactoferrin/calprotectin, confirms mucosal invasion or destruction.",
     "whyWrongByChoice": {
      "A": "Enterotoxin-driven secretory diarrhea is typically fecal-leukocyte negative.",
      "B": "Osmotic diarrhea does not produce fecal leukocytes.",
-     "C": "Preformed-toxin vomiting illness does not cause mucosal inflammation or fecal leukocytes.",
+     "D": "Preformed-toxin vomiting illness does not cause mucosal inflammation or fecal leukocytes.",
      "E": "Rapid transit does not generate an inflammatory leukocyte response."
     }
    }
@@ -8437,26 +8437,26 @@
     },
     {
      "label": "C",
-     "text": "Toxic megacolon"
-    },
-    {
-     "label": "D",
      "text": "Ogilvie syndrome"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Small-bowel obstruction"
+    },
+    {
+     "label": "E",
+     "text": "Toxic megacolon"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Colonic dilatation over 6 cm with systemic toxicity in severe colitis defines toxic megacolon.",
     "whyCorrect": "Toxic megacolon is diagnosed by transverse colon dilatation greater than 6 cm on imaging with systemic toxicity (fever, tachycardia, hypotension), and is most commonly seen with C. difficile and ulcerative colitis.",
     "whyWrongByChoice": {
      "A": "Perforation shows free intraperitoneal air, not simply colonic dilatation.",
      "B": "Sigmoid volvulus shows a coffee-bean loop, not toxic transverse colon dilatation in the setting of colitis.",
-     "D": "Ogilvie syndrome is acute colonic pseudo-obstruction without the inflammatory colitis and systemic toxicity described.",
-     "E": "Small-bowel obstruction shows dilated small-bowel loops, not transverse colon dilatation."
+     "C": "Ogilvie syndrome is acute colonic pseudo-obstruction without the inflammatory colitis and systemic toxicity described.",
+     "D": "Small-bowel obstruction shows dilated small-bowel loops, not transverse colon dilatation."
     }
    }
   },
@@ -8480,14 +8480,14 @@
     },
     {
      "label": "D",
-     "text": "Vibrio parahaemolyticus"
+     "text": "Enteropathogenic Escherichia coli"
     },
     {
      "label": "E",
-     "text": "Enteropathogenic Escherichia coli"
+     "text": "Vibrio parahaemolyticus"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Watery diarrhea after raw shellfish (especially oysters) in a coastal setting is classic Vibrio parahaemolyticus.",
     "whyCorrect": "V. parahaemolyticus is a halophilic vibrio acquired from raw/undercooked seafood, common on the Gulf Coast; it produces hemolysins causing watery diarrhea and cramps 12-24 hours after ingestion, occasionally mildly bloody, self-limited in 1-3 days.",
@@ -8495,7 +8495,7 @@
      "A": "C. difficile follows antibiotic exposure, not raw oyster ingestion.",
      "B": "B. cereus is linked to reheated rice, not shellfish.",
      "C": "S. aureus causes rapid vomiting after cream/mayonnaise foods, not delayed watery diarrhea after oysters.",
-     "E": "EPEC causes pediatric watery diarrhea in developing countries, not shellfish-associated illness in adults."
+     "D": "EPEC causes pediatric watery diarrhea in developing countries, not shellfish-associated illness in adults."
     }
    }
   },
@@ -8507,33 +8507,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Hyperkalemia with anion gap metabolic acidosis"
+     "text": "Hyperkalemia with high anion-gap metabolic acidosis"
     },
     {
      "label": "B",
-     "text": "Hypokalemia with non-anion gap metabolic acidosis"
+     "text": "Hypokalemia with primary metabolic alkalosis"
     },
     {
      "label": "C",
-     "text": "Hypokalemia with metabolic alkalosis"
+     "text": "Hypernatremia with acute respiratory acidosis"
     },
     {
      "label": "D",
-     "text": "Hypernatremia with respiratory acidosis"
+     "text": "Hypokalemia with non-anion gap metabolic acidosis"
     },
     {
      "label": "E",
-     "text": "Hypocalcemia with metabolic alkalosis"
+     "text": "Hypocalcemia with primary metabolic alkalosis"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Because stool contains potassium and bicarbonate, large secretory losses cause hypokalemia and non-anion gap metabolic acidosis.",
     "whyCorrect": "Secretory diarrheal fluid is rich in K+ and HCO3-, so massive losses produce hypokalemia and a non-anion gap (hyperchloremic) metabolic acidosis.",
     "whyWrongByChoice": {
      "A": "Potassium is lost in stool, causing hypokalemia rather than hyperkalemia, and the acidosis is non-anion gap.",
-     "C": "Bicarbonate loss causes acidosis, not alkalosis, though hypokalemia is correct.",
-     "D": "Diarrhea does not typically cause hypernatremia with a respiratory acidosis.",
+     "B": "Bicarbonate loss causes acidosis, not alkalosis, though hypokalemia is correct.",
+     "C": "Diarrhea does not typically cause hypernatremia with a respiratory acidosis.",
      "E": "The primary disturbance is potassium and bicarbonate loss, not hypocalcemia with alkalosis."
     }
    }
@@ -8546,34 +8546,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "CFTR chloride channel"
+     "text": "CFTR chloride secretory channel"
     },
     {
      "label": "B",
-     "text": "Na+/K+-ATPase inhibition"
+     "text": "SGLT1 sodium-glucose cotransporter"
     },
     {
      "label": "C",
-     "text": "Adenylate cyclase activation"
+     "text": "Na+/K+-ATPase pump inhibition"
     },
     {
      "label": "D",
-     "text": "Aquaporin blockade"
+     "text": "Mucosal adenylate cyclase activation"
     },
     {
      "label": "E",
-     "text": "SGLT1 sodium-glucose cotransporter"
+     "text": "Apical aquaporin channel blockade"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "ORS works because enterotoxins do not destroy the enterocyte, leaving the apical SGLT1 sodium-glucose cotransporter functional.",
     "whyCorrect": "In secretory diarrhea the enterocyte is intact, so apical SGLT1 remains functional; equimolar sodium and glucose in ORS drive 1:1 cotransport of sodium and glucose, and water follows osmotically.",
     "whyWrongByChoice": {
      "A": "CFTR is the channel being hijacked to secrete chloride; it does not mediate ORS-driven absorption.",
-     "B": "ORS does not work by inhibiting the Na+/K+-ATPase.",
-     "C": "Adenylate cyclase activation is the toxin's harmful effect, not the basis of ORS therapy.",
-     "D": "ORS does not act by blocking aquaporins."
+     "C": "ORS does not work by inhibiting the Na+/K+-ATPase.",
+     "D": "Adenylate cyclase activation is the toxin's harmful effect, not the basis of ORS therapy.",
+     "E": "ORS does not act by blocking aquaporins."
     }
    }
   },
@@ -8585,33 +8585,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Increased cAMP via adenylate cyclase"
-    },
-    {
-     "label": "B",
      "text": "Increased cGMP via guanylate cyclase"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Increased IP3 via phospholipase C"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Decreased cAMP via Gi activation"
+    },
+    {
+     "label": "D",
+     "text": "Increased cAMP via adenylate cyclase"
     },
     {
      "label": "E",
      "text": "Increased calcium via ryanodine receptors"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "ETEC heat-labile toxin (LT) uses a cholera-like mechanism: it activates adenylate cyclase and raises cAMP.",
     "whyCorrect": "LT is 'labile in the Air (Adenylate cyclase)': it activates adenylate cyclase to increase cAMP, driving chloride and water secretion, whereas the heat-stable toxin raises cGMP.",
     "whyWrongByChoice": {
-     "B": "Increased cGMP via guanylate cyclase is the mechanism of ETEC heat-stable toxin (ST), not LT.",
-     "C": "IP3/phospholipase C signaling is not the ETEC LT mechanism.",
-     "D": "LT increases, not decreases, cAMP.",
+     "A": "Increased cGMP via guanylate cyclase is the mechanism of ETEC heat-stable toxin (ST), not LT.",
+     "B": "IP3/phospholipase C signaling is not the ETEC LT mechanism.",
+     "C": "LT increases, not decreases, cAMP.",
      "E": "ETEC LT does not act through ryanodine-receptor calcium release."
     }
    }
@@ -8667,11 +8667,11 @@
     },
     {
      "label": "B",
-     "text": "Shigella sonnei"
+     "text": "Campylobacter jejuni"
     },
     {
      "label": "C",
-     "text": "Campylobacter jejuni"
+     "text": "Shigella sonnei"
     },
     {
      "label": "D",
@@ -8682,13 +8682,13 @@
      "text": "Vibrio cholerae"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Comma/S-shaped, oxidase-positive gram-negative rods grown at 42 C microaerophilically after poultry exposure are classic Campylobacter jejuni.",
     "whyCorrect": "Campylobacter jejuni is a comma- or S-shaped, oxidase-positive gram-negative rod cultured at 42 C in microaerophilic conditions and is the most common bacterial cause of foodborne diarrhea in the U.S., classically after undercooked poultry.",
     "whyWrongByChoice": {
      "A": "Salmonella is a motile, H2S-positive straight rod that does not require 42 C microaerophilic culture.",
-     "B": "Shigella is a nonmotile, H2S-negative straight rod and is not grown at 42 C microaerophilically.",
+     "C": "Shigella is a nonmotile, H2S-negative straight rod and is not grown at 42 C microaerophilically.",
      "D": "Yersinia is a bipolar-staining coccobacillus grown in the cold (4 C), not a 42 C comma-shaped rod.",
      "E": "Vibrio cholerae is comma-shaped but grows in alkaline media and causes watery, not bloody, diarrhea."
     }
@@ -8710,26 +8710,26 @@
     },
     {
      "label": "C",
-     "text": "Cross-reactivity of antibodies with peripheral nerve gangliosides"
-    },
-    {
-     "label": "D",
      "text": "Immune-complex deposition in the vasa nervorum"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Demyelination from reactivation of a latent herpesvirus"
+    },
+    {
+     "label": "E",
+     "text": "Antibody cross-reactivity with nerve gangliosides"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Post-Campylobacter Guillain-Barre syndrome results from molecular mimicry: anti-Campylobacter antibodies cross-react with peripheral nerve myelin gangliosides.",
     "whyCorrect": "Up to one-third of Guillain-Barre cases are preceded by Campylobacter; host antibodies cross-react with peripheral nerve gangliosides, causing demyelination and ascending symmetric weakness with depressed reflexes.",
     "whyWrongByChoice": {
      "A": "GBS is immune-mediated molecular mimicry, not direct bacterial nerve invasion.",
      "B": "Blockade of acetylcholine release describes botulism, not post-Campylobacter GBS.",
-     "D": "The mechanism is antibody cross-reactivity, not immune-complex deposition in the vasa nervorum.",
-     "E": "GBS here follows a bacterial infection, not reactivation of a latent herpesvirus."
+     "C": "The mechanism is antibody cross-reactivity, not immune-complex deposition in the vasa nervorum.",
+     "D": "GBS here follows a bacterial infection, not reactivation of a latent herpesvirus."
     }
    }
   },
@@ -8753,14 +8753,14 @@
     },
     {
      "label": "D",
-     "text": "Salmonella species"
+     "text": "Listeria monocytogenes"
     },
     {
      "label": "E",
-     "text": "Listeria monocytogenes"
+     "text": "Salmonella species"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Salmonella is the most common cause of osteomyelitis in sickle cell disease and matches the motile, H2S-positive, non-lactose-fermenting rod described.",
     "whyCorrect": "Although S. aureus causes osteomyelitis overall, Salmonella is the number-one cause in sickle cell disease, and the motile, H2S-producing, non-lactose-fermenting gram-negative rod fits Salmonella.",
@@ -8768,7 +8768,7 @@
      "A": "S. aureus is the leading cause of osteomyelitis overall but not in sickle cell disease, and it is a gram-positive coccus, not this rod.",
      "B": "Shigella is nonmotile and H2S-negative and does not cause osteomyelitis.",
      "C": "Campylobacter is comma-shaped and oxidase-positive and is associated with GBS, not osteomyelitis.",
-     "E": "Listeria is a gram-positive rod causing meningitis in at-risk hosts, not sickle cell osteomyelitis."
+     "D": "Listeria is a gram-positive rod causing meningitis in at-risk hosts, not sickle cell osteomyelitis."
     }
    }
   },
@@ -8780,33 +8780,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Salmonella typhi"
-    },
-    {
-     "label": "B",
      "text": "Salmonella enteritidis"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Shigella flexneri"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Yersinia enterocolitica"
+    },
+    {
+     "label": "D",
+     "text": "Salmonella typhi"
     },
     {
      "label": "E",
      "text": "Campylobacter jejuni"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Stepwise fever, relative bradycardia, rose spots, and early constipation after travel to an endemic region are classic enteric (typhoid) fever from Salmonella typhi.",
     "whyCorrect": "Typhoidal Salmonella (S. typhi) causes a systemic febrile illness with slow stepwise fever, relative bradycardia, and rose spots; diarrhea may be absent early with constipation, distinct from nontyphoidal disease.",
     "whyWrongByChoice": {
-     "B": "Nontyphoidal Salmonella causes inflammatory diarrhea with fever, not enteric fever with rose spots and relative bradycardia.",
-     "C": "Shigella causes acute bacillary dysentery, not weeks of stepwise systemic fever.",
-     "D": "Yersinia causes pseudoappendicitis, not enteric fever.",
+     "A": "Nontyphoidal Salmonella causes inflammatory diarrhea with fever, not enteric fever with rose spots and relative bradycardia.",
+     "B": "Shigella causes acute bacillary dysentery, not weeks of stepwise systemic fever.",
+     "C": "Yersinia causes pseudoappendicitis, not enteric fever.",
      "E": "Campylobacter causes acute bloody diarrhea after poultry, not this systemic febrile syndrome."
     }
    }
@@ -8819,11 +8819,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Salmonella enteritidis"
+     "text": "Shigella species"
     },
     {
      "label": "B",
-     "text": "Shigella species"
+     "text": "Salmonella enteritidis"
     },
     {
      "label": "C",
@@ -8838,12 +8838,12 @@
      "text": "Rotavirus"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "A very low infectious dose enables rapid person-to-person daycare spread of Shigella, which is a nonmotile, H2S-negative rod causing bacillary dysentery.",
     "whyCorrect": "Shigella has an extremely low infectious dose (10-100 organisms) that drives efficient person-to-person spread and daycare outbreaks, and it is a nonmotile, H2S-negative rod producing fever, tenesmus, and small-volume bloody stools.",
     "whyWrongByChoice": {
-     "A": "Salmonella is motile and H2S-positive and has a higher infectious dose.",
+     "B": "Salmonella is motile and H2S-positive and has a higher infectious dose.",
      "C": "EHEC causes bloody diarrhea but with low/absent fever and is acquired from food/animals rather than efficient daycare person-to-person spread.",
      "D": "Vibrio cholerae causes watery, not bloody, diarrhea.",
      "E": "Rotavirus causes watery, non-bloody diarrhea in this age group."
@@ -8858,19 +8858,19 @@
    "choices": [
     {
      "label": "A",
-     "text": "Supportive fluids and monitoring"
+     "text": "Supportive rehydration"
     },
     {
      "label": "B",
-     "text": "Oral ciprofloxacin"
+     "text": "Oral ciprofloxacin therapy"
     },
     {
      "label": "C",
-     "text": "Oral azithromycin"
+     "text": "Oral azithromycin therapy"
     },
     {
      "label": "D",
-     "text": "Loperamide"
+     "text": "Loperamide (antimotility)"
     },
     {
      "label": "E",
@@ -8936,15 +8936,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "Ceftriaxone"
+     "text": "Ampicillin"
     },
     {
      "label": "B",
-     "text": "Azithromycin"
+     "text": "Ceftriaxone"
     },
     {
      "label": "C",
-     "text": "Ampicillin"
+     "text": "Azithromycin"
     },
     {
      "label": "D",
@@ -8955,13 +8955,13 @@
      "text": "Metronidazole"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Listeria monocytogenes (soft cheese, tumbling motility, cold growth, gram-positive rod) is treated with ampicillin; cephalosporins do not cover it.",
     "whyCorrect": "Invasive listeriosis is treated with ampicillin (with gentamicin for synergy in serious infection); Listeria is intrinsically resistant to cephalosporins.",
     "whyWrongByChoice": {
-     "A": "Cephalosporins do not cover Listeria.",
-     "B": "Azithromycin is not the drug of choice for invasive Listeria.",
+     "B": "Cephalosporins do not cover Listeria.",
+     "C": "Azithromycin is not the drug of choice for invasive Listeria.",
      "D": "Fluoroquinolones are not standard therapy for Listeria.",
      "E": "Metronidazole targets anaerobes/protozoa, not Listeria."
     }
@@ -8987,14 +8987,14 @@
     },
     {
      "label": "D",
-     "text": "Norovirus"
+     "text": "Campylobacter jejuni"
     },
     {
      "label": "E",
-     "text": "Campylobacter jejuni"
+     "text": "Norovirus"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "An explosive adult gastroenteritis outbreak on a cruise ship with vomiting and brief watery diarrhea is classic norovirus.",
     "whyCorrect": "Norovirus is the predominant cause of acute gastroenteritis in adults and classically causes closed-setting outbreaks (cruise ships, nursing homes) with prominent vomiting and watery diarrhea lasting 1-2 days.",
@@ -9002,7 +9002,7 @@
      "A": "Rotavirus predominantly causes severe diarrhea in unvaccinated infants, not adult cruise-ship outbreaks.",
      "B": "Salmonella causes inflammatory, often bloody diarrhea with fever.",
      "C": "ETEC causes traveler's diarrhea in developing regions, not closed-setting adult outbreaks.",
-     "E": "Campylobacter causes bloody diarrhea after poultry, not this outbreak pattern."
+     "D": "Campylobacter causes bloody diarrhea after poultry, not this outbreak pattern."
     }
    }
   },
@@ -9022,26 +9022,26 @@
     },
     {
      "label": "C",
-     "text": "Adenovirus (enteric)"
+     "text": "Rotavirus"
     },
     {
      "label": "D",
-     "text": "Astrovirus"
+     "text": "Adenovirus (enteric)"
     },
     {
      "label": "E",
-     "text": "Rotavirus"
+     "text": "Astrovirus"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Severe dehydrating watery diarrhea in an unvaccinated infant during winter, with a positive rapid antigen test, is classic rotavirus.",
     "whyCorrect": "Rotavirus is the leading cause of severe dehydrating diarrhea in unvaccinated infants and young children, has winter seasonality, and is diagnosed by rapid stool antigen (EIA).",
     "whyWrongByChoice": {
      "A": "Norovirus predominates in adults and older children rather than this classic severe infant winter picture.",
      "B": "Shigella causes bloody dysentery, not watery diarrhea.",
-     "C": "Enteric adenovirus causes milder, prolonged diarrhea without strong winter seasonality.",
-     "D": "Astrovirus causes milder disease and is a less common cause than rotavirus."
+     "D": "Enteric adenovirus causes milder, prolonged diarrhea without strong winter seasonality.",
+     "E": "Astrovirus causes milder disease and is a less common cause than rotavirus."
     }
    }
   },
@@ -9065,14 +9065,14 @@
     },
     {
      "label": "D",
-     "text": "Cytomegalovirus"
+     "text": "Astrovirus"
     },
     {
      "label": "E",
-     "text": "Astrovirus"
+     "text": "Cytomegalovirus"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Owl-eye intranuclear inclusions on colonic biopsy in an immunocompromised transplant patient indicate CMV colitis.",
     "whyCorrect": "CMV colitis is a disease of immunocompromised hosts (transplant, HIV/AIDS, chemotherapy) and is diagnosed by biopsy showing owl-eye intranuclear inclusions, treated with ganciclovir.",
@@ -9080,7 +9080,7 @@
      "A": "Norovirus causes community-acquired watery diarrhea in immunocompetent hosts without owl-eye inclusions.",
      "B": "Rotavirus affects young children with watery diarrhea, not transplant colitis with inclusions.",
      "C": "Enteric adenovirus causes mild prolonged pediatric diarrhea, not owl-eye inclusion colitis.",
-     "E": "Astrovirus causes mild watery diarrhea, not inclusion-bearing colitis."
+     "D": "Astrovirus causes mild watery diarrhea, not inclusion-bearing colitis."
     }
    }
   },
@@ -9092,34 +9092,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Oral ciprofloxacin"
+     "text": "Supportive rehydration only"
     },
     {
      "label": "B",
-     "text": "Intravenous ceftriaxone"
+     "text": "Oral ciprofloxacin therapy"
     },
     {
      "label": "C",
-     "text": "Oral azithromycin"
+     "text": "Intravenous ceftriaxone alone"
     },
     {
      "label": "D",
-     "text": "Oral vancomycin"
+     "text": "Oral azithromycin therapy"
     },
     {
      "label": "E",
-     "text": "Supportive rehydration without antibiotics"
+     "text": "Oral vancomycin therapy"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Uncomplicated nontyphoidal Salmonella in an immunocompetent adult is treated supportively; antibiotics prolong fecal carriage without shortening illness.",
     "whyCorrect": "In immunocompetent adults, antibiotics for nontyphoidal Salmonella prolong fecal carriage without shortening illness, so management is supportive rehydration; treatment is reserved for high-risk patients.",
     "whyWrongByChoice": {
-     "A": "Ciprofloxacin would prolong carriage without benefit in a healthy adult.",
-     "B": "Ceftriaxone is reserved for invasive disease or high-risk patients.",
-     "C": "Azithromycin is not indicated for uncomplicated nontyphoidal Salmonella in a healthy adult.",
-     "D": "Vancomycin treats C. difficile, not Salmonella."
+     "B": "Ciprofloxacin would prolong carriage without benefit in a healthy adult.",
+     "C": "Ceftriaxone is reserved for invasive disease or high-risk patients.",
+     "D": "Azithromycin is not indicated for uncomplicated nontyphoidal Salmonella in a healthy adult.",
+     "E": "Vancomycin treats C. difficile, not Salmonella."
     }
    }
   },
@@ -9135,11 +9135,11 @@
     },
     {
      "label": "B",
-     "text": "Salmonella species"
+     "text": "Campylobacter jejuni"
     },
     {
      "label": "C",
-     "text": "Campylobacter jejuni"
+     "text": "Salmonella species"
     },
     {
      "label": "D",
@@ -9150,13 +9150,13 @@
      "text": "Listeria monocytogenes"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Reptile (pet turtle/lizard) exposure is a classic source of nontyphoidal Salmonella.",
     "whyCorrect": "Nontyphoidal Salmonella is acquired from undercooked poultry, eggs, unpasteurized dairy, and reptiles such as pet turtles and lizards, making it the most likely cause here.",
     "whyWrongByChoice": {
      "A": "Shigella spreads person-to-person via the 4 F's, not reptile contact.",
-     "C": "Campylobacter is linked to poultry and puppies/kittens, not reptiles.",
+     "B": "Campylobacter is linked to poultry and puppies/kittens, not reptiles.",
      "D": "Yersinia is linked to pork and cold storage, not reptiles.",
      "E": "Listeria is linked to deli/dairy foods in at-risk hosts, not pet turtles."
     }
@@ -9178,26 +9178,26 @@
     },
     {
      "label": "C",
-     "text": "The Gs regulatory protein"
+     "text": "The 60S ribosomal subunit"
     },
     {
      "label": "D",
-     "text": "Guanylate cyclase"
+     "text": "The Gs regulatory protein"
     },
     {
      "label": "E",
-     "text": "The 60S ribosomal subunit"
+     "text": "Guanylate cyclase"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Shiga and Shiga-like toxins remove an adenine from 28S rRNA of the 60S ribosomal subunit, halting protein synthesis.",
     "whyCorrect": "The A subunit of Shiga/Shiga-like toxin depurinates the 28S rRNA of the 60S ribosomal subunit, halting protein synthesis and triggering apoptosis of intestinal and endothelial cells.",
     "whyWrongByChoice": {
      "A": "Shiga toxin acts on the 60S (28S rRNA), not the 40S subunit.",
      "B": "EF-2 ADP-ribosylation is the mechanism of diphtheria and Pseudomonas exotoxin A.",
-     "C": "Gs activation describes cholera toxin.",
-     "D": "Guanylate cyclase activation describes the ETEC heat-stable toxin."
+     "D": "Gs activation describes cholera toxin.",
+     "E": "Guanylate cyclase activation describes the ETEC heat-stable toxin."
     }
    }
   },
@@ -9209,11 +9209,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Failure to ferment sorbitol on sorbitol-MacConkey agar"
+     "text": "Hydrogen sulfide production on TSI agar"
     },
     {
      "label": "B",
-     "text": "Production of H2S on TSI agar"
+     "text": "Sorbitol nonfermentation on sorbitol-MacConkey agar"
     },
     {
      "label": "C",
@@ -9221,19 +9221,19 @@
     },
     {
      "label": "D",
-     "text": "Oxidase positivity"
+     "text": "Cytochrome oxidase positivity on spot testing"
     },
     {
      "label": "E",
-     "text": "Bipolar staining on Wright stain"
+     "text": "Bipolar 'safety-pin' staining on Wright-Giemsa stain"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "EHEC O157:H7 does not ferment sorbitol, the basis for sorbitol-MacConkey screening.",
     "whyCorrect": "Unlike most E. coli, O157:H7 does not ferment sorbitol, so it appears colorless on sorbitol-MacConkey agar, which is the screening test that supports the diagnosis.",
     "whyWrongByChoice": {
-     "B": "H2S production characterizes Salmonella, not EHEC.",
+     "A": "H2S production characterizes Salmonella, not EHEC.",
      "C": "Growth at 42 C microaerophilically characterizes Campylobacter.",
      "D": "Oxidase positivity characterizes Campylobacter/Vibrio, not E. coli.",
      "E": "Bipolar staining characterizes Yersinia."
@@ -9252,11 +9252,11 @@
     },
     {
      "label": "B",
-     "text": "Anaerobic conditions at 25 C"
+     "text": "Microaerophilic conditions at 42 C"
     },
     {
      "label": "C",
-     "text": "Microaerophilic conditions at 42 C"
+     "text": "Anaerobic conditions at 25 C"
     },
     {
      "label": "D",
@@ -9267,13 +9267,13 @@
      "text": "Aerobic conditions on sorbitol-MacConkey agar"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Campylobacter jejuni is cultured on enriched media at 42 C under microaerophilic conditions.",
     "whyCorrect": "Campylobacter, the poultry-associated oxidase-positive comma-shaped rod, grows on enriched media at 42 C in microaerophilic conditions.",
     "whyWrongByChoice": {
      "A": "Alkaline media favor Vibrio cholerae.",
-     "B": "Anaerobic growth at 25 C is not the Campylobacter requirement.",
+     "C": "Anaerobic growth at 25 C is not the Campylobacter requirement.",
      "D": "Cold enrichment at 4 C favors Yersinia and Listeria.",
      "E": "Sorbitol-MacConkey agar screens for EHEC O157:H7."
     }
@@ -9291,29 +9291,29 @@
     },
     {
      "label": "B",
-     "text": "Ampicillin"
-    },
-    {
-     "label": "C",
      "text": "Ciprofloxacin"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Metronidazole"
+    },
+    {
+     "label": "D",
+     "text": "Ampicillin"
     },
     {
      "label": "E",
      "text": "Vancomycin (oral)"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "The catalase-positive, beta-hemolytic, tumbling-motile gram-positive rod is Listeria, treated with ampicillin because cephalosporins do not cover it.",
     "whyCorrect": "Listeria monocytogenes is intrinsically resistant to cephalosporins and is treated with ampicillin (with gentamicin for synergy in invasive disease).",
     "whyWrongByChoice": {
      "A": "Azithromycin is not first-line for invasive Listeria.",
-     "C": "Fluoroquinolones are not standard Listeria therapy.",
-     "D": "Metronidazole covers anaerobes/protozoa, not Listeria.",
+     "B": "Fluoroquinolones are not standard Listeria therapy.",
+     "C": "Metronidazole covers anaerobes/protozoa, not Listeria.",
      "E": "Oral vancomycin is used for C. difficile colitis and is not absorbed systemically."
     }
    }
@@ -9377,14 +9377,14 @@
     },
     {
      "label": "D",
-     "text": "Bismuth subsalicylate for all residents"
+     "text": "Handwashing with soap and water"
     },
     {
      "label": "E",
-     "text": "Handwashing with soap and water"
+     "text": "Bismuth subsalicylate for all residents"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Handwashing with soap and water is preferred for norovirus because alcohol-based sanitizers are less effective.",
     "whyCorrect": "Norovirus is relatively resistant to alcohol-based sanitizers, so soap-and-water handwashing (with environmental bleach disinfection) is the most effective control measure.",
@@ -9392,7 +9392,7 @@
      "A": "Alcohol-based sanitizers are less effective against norovirus (similar to C. difficile spores).",
      "B": "Antibiotics have no role in viral gastroenteritis.",
      "C": "No routine antiviral prophylaxis exists for norovirus.",
-     "D": "Bismuth is not an effective outbreak-control measure."
+     "E": "Bismuth is not an effective outbreak-control measure."
     }
    }
   },
@@ -9404,32 +9404,32 @@
    "choices": [
     {
      "label": "A",
-     "text": "Adenovirus (enteric)"
+     "text": "Rotavirus (group A)"
     },
     {
      "label": "B",
-     "text": "Rotavirus"
+     "text": "Norovirus (genogroup II)"
     },
     {
      "label": "C",
-     "text": "Norovirus"
+     "text": "Enteric adenovirus"
     },
     {
      "label": "D",
-     "text": "Shigella species"
+     "text": "Shigella sonnei"
     },
     {
      "label": "E",
      "text": "Cytomegalovirus"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "A young child with mild watery diarrhea lasting more than a week, without respiratory or eye findings, fits enteric adenovirus (serotypes 40/41).",
     "whyCorrect": "Enteric adenovirus (serotypes 40, 41) causes a longer incubation and duration (5-12 days) of mild watery diarrhea in infants, without the nasopharyngitis or keratoconjunctivitis of respiratory serotypes.",
     "whyWrongByChoice": {
-     "B": "Rotavirus diarrhea usually lasts 3-8 days, shorter than this prolonged course.",
-     "C": "Norovirus is brief (1-2 days) and predominates in adults.",
+     "A": "Rotavirus diarrhea usually lasts 3-8 days, shorter than this prolonged course.",
+     "B": "Norovirus is brief (1-2 days) and predominates in adults.",
      "D": "Shigella causes bloody dysentery with high fever, not mild prolonged watery diarrhea.",
      "E": "CMV enteritis occurs in immunocompromised hosts, not a healthy toddler."
     }
@@ -9455,14 +9455,14 @@
     },
     {
      "label": "D",
-     "text": "Ulcerative colitis"
+     "text": "Crohn disease"
     },
     {
      "label": "E",
-     "text": "Crohn disease"
+     "text": "Ulcerative colitis"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Patchy transmural inflammation with skip areas, terminal ileal involvement, and rectal sparing is characteristic of Crohn disease.",
     "whyCorrect": "Crohn disease is typically patchy ('skip lesions'), can involve any segment from mouth to anus, favors the terminal ileum, and characteristically spares the rectum, matching this presentation.",
@@ -9470,7 +9470,7 @@
      "A": "Celiac disease causes small-bowel malabsorption but does not produce patchy colonic inflammation with rectal sparing on colonoscopy.",
      "B": "Ischemic colitis usually occurs in older patients at watershed areas with sudden pain and bleeding, not months of skip-pattern ileocolic inflammation.",
      "C": "Microscopic colitis causes chronic watery diarrhea with a normal-appearing mucosa and is diagnosed only on biopsy.",
-     "D": "Ulcerative colitis is continuous from the rectum and spares the small intestine, the opposite of the pattern here."
+     "E": "Ulcerative colitis is continuous from the rectum and spares the small intestine, the opposite of the pattern here."
     }
    }
   },
@@ -9521,15 +9521,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "Enterovesical fistula"
-    },
-    {
-     "label": "B",
      "text": "Anal fissure"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Enterocutaneous fistula"
+    },
+    {
+     "label": "C",
+     "text": "Enterovesical fistula"
     },
     {
      "label": "D",
@@ -9540,13 +9540,13 @@
      "text": "Perirectal abscess"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Pneumaturia and recurrent UTIs indicate an abnormal connection between bowel and bladder (enterovesical fistula).",
     "whyCorrect": "Transmural Crohn inflammation forms sinus tracts that can create an enterovesical fistula, allowing gas and enteric bacteria to enter the bladder and cause pneumaturia and recurrent UTIs.",
     "whyWrongByChoice": {
-     "B": "An anal fissure causes perianal pain, not communication with the urinary tract.",
-     "C": "An enterocutaneous fistula drains bowel contents to the skin surface, not into the bladder.",
+     "A": "An anal fissure causes perianal pain, not communication with the urinary tract.",
+     "B": "An enterocutaneous fistula drains bowel contents to the skin surface, not into the bladder.",
      "D": "An enterovaginal fistula causes passage of stool or gas through the vagina, not urinary symptoms.",
      "E": "A perirectal abscess causes perianal pain, fever, and purulent drainage, not pneumaturia."
     }
@@ -9560,11 +9560,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Crohn disease"
+     "text": "Celiac disease"
     },
     {
      "label": "B",
-     "text": "Celiac disease"
+     "text": "Crohn disease"
     },
     {
      "label": "C",
@@ -9579,12 +9579,12 @@
      "text": "Ulcerative colitis"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Transmural inflammation with noncaseating granulomas is characteristic (though not required) for Crohn disease.",
     "whyCorrect": "Crohn disease shows full-thickness (transmural) chronic inflammation and noncaseating granulomas; these granulomas are pathognomonic when present but are not required for diagnosis.",
     "whyWrongByChoice": {
-     "B": "Celiac disease shows villous atrophy and intraepithelial lymphocytes in the small bowel, not transmural granulomas.",
+     "A": "Celiac disease shows villous atrophy and intraepithelial lymphocytes in the small bowel, not transmural granulomas.",
      "C": "Intestinal tuberculosis produces caseating (necrotizing) granulomas, not noncaseating ones.",
      "D": "Ischemic colitis shows coagulative mucosal necrosis, not transmural granulomatous inflammation.",
      "E": "Ulcerative colitis is limited to the mucosa/superficial submucosa and does not form granulomas."
@@ -9607,25 +9607,25 @@
     },
     {
      "label": "C",
-     "text": "Crypt abscess"
+     "text": "Skip lesion"
     },
     {
      "label": "D",
-     "text": "Skip lesion"
+     "text": "Crypt abscess"
     },
     {
      "label": "E",
      "text": "Transmural inflammation"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Neutrophils within gland lumens define a crypt abscess, a marker of active IBD inflammation.",
     "whyCorrect": "During active disease, both Crohn and UC can show crypt abscesses, defined as neutrophils within the lumen of glands (crypts).",
     "whyWrongByChoice": {
      "A": "A noncaseating granuloma is an organized collection of macrophages, characteristic of Crohn, not neutrophils in glands.",
      "B": "A pseudopolyp is regenerating mucosa bulging into the lumen, a gross/architectural finding, not neutrophils in a crypt.",
-     "D": "A skip lesion is a gross pattern of discontinuous involvement, not a microscopic gland finding.",
+     "C": "A skip lesion is a gross pattern of discontinuous involvement, not a microscopic gland finding.",
      "E": "Transmural inflammation refers to full-thickness wall involvement, not neutrophils within crypt lumens."
     }
    }
@@ -9642,30 +9642,30 @@
     },
     {
      "label": "B",
-     "text": "Enterovesical fistula"
+     "text": "Toxic megacolon"
     },
     {
      "label": "C",
-     "text": "Primary sclerosing cholangitis"
+     "text": "Enterovesical fistula"
     },
     {
      "label": "D",
-     "text": "Diverticular abscess"
+     "text": "Primary sclerosing cholangitis"
     },
     {
      "label": "E",
-     "text": "Toxic megacolon"
+     "text": "Diverticular abscess"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "A toxic patient with marked colonic dilation (>9 cm cecum or >6 cm elsewhere) has toxic megacolon.",
     "whyCorrect": "Toxic megacolon is massive colonic distension (>9 cm cecum or >6 cm remaining colon) with systemic toxicity; it carries the greatest risk of perforation in UC and mandates urgent surgery.",
     "whyWrongByChoice": {
      "A": "Strictures cause obstruction and are far more typical of Crohn disease than UC and do not produce diffuse dilation with toxicity.",
-     "B": "Enterovesical fistula is a transmural Crohn complication causing urinary symptoms, not colonic dilation.",
-     "C": "Primary sclerosing cholangitis is a hepatobiliary complication, unrelated to acute colonic dilation.",
-     "D": "A diverticular abscess causes focal pain and a walled-off collection, not diffuse toxic dilation of the colon."
+     "C": "Enterovesical fistula is a transmural Crohn complication causing urinary symptoms, not colonic dilation.",
+     "D": "Primary sclerosing cholangitis is a hepatobiliary complication, unrelated to acute colonic dilation.",
+     "E": "A diverticular abscess causes focal pain and a walled-off collection, not diffuse toxic dilation of the colon."
     }
    }
   },
@@ -9685,25 +9685,25 @@
     },
     {
      "label": "C",
-     "text": "Livedo reticularis"
+     "text": "Erythema nodosum"
     },
     {
      "label": "D",
-     "text": "Erythema nodosum"
+     "text": "Livedo reticularis"
     },
     {
      "label": "E",
      "text": "Pyoderma gangrenosum"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Painful red nodules on the shins in IBD are erythema nodosum.",
     "whyCorrect": "Both Crohn disease and UC can cause erythema nodosum, painful red nodules typically located on the shins.",
     "whyWrongByChoice": {
      "A": "Cellulitis is a spreading warm, erythematous infection, usually solitary and not multiple tender pretibial nodules.",
      "B": "Dermatitis herpetiformis is a pruritic vesicular eruption on extensor surfaces associated with celiac disease.",
-     "C": "Livedo reticularis is a lacy, mottled vascular pattern, not tender nodules.",
+     "D": "Livedo reticularis is a lacy, mottled vascular pattern, not tender nodules.",
      "E": "Pyoderma gangrenosum presents as painful purulent ulcers, not raised nodules on the shins."
     }
    }
@@ -9716,34 +9716,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Acute cholecystitis"
-    },
-    {
-     "label": "B",
-     "text": "Choledocholithiasis"
-    },
-    {
-     "label": "C",
-     "text": "Primary biliary cholangitis"
-    },
-    {
-     "label": "D",
      "text": "Primary sclerosing cholangitis"
     },
     {
+     "label": "B",
+     "text": "Acute calculous cholecystitis"
+    },
+    {
+     "label": "C",
+     "text": "Obstructing choledocholithiasis"
+    },
+    {
+     "label": "D",
+     "text": "Primary biliary cholangitis"
+    },
+    {
      "label": "E",
-     "text": "Cholangiocarcinoma"
+     "text": "Intrahepatic cholangiocarcinoma"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Fibrosis of the biliary tree with isolated ALP elevation in a UC patient is primary sclerosing cholangitis.",
     "whyCorrect": "PSC causes fibrosis of the biliary tree (beaded ducts), is strongly associated with UC, and is often identified only by an isolated elevation in alkaline phosphatase.",
     "whyWrongByChoice": {
-     "A": "Acute cholecystitis presents with RUQ pain, fever, and a positive Murphy sign, not diffuse biliary fibrosis.",
-     "B": "Choledocholithiasis causes a discrete obstructing stone, not a diffusely beaded, fibrotic tree.",
-     "C": "Primary biliary cholangitis is a small-duct autoimmune disease with antimitochondrial antibodies, not the large-duct beading seen here and not linked to UC.",
-     "E": "Cholangiocarcinoma produces a focal mass or stricture, not the diffuse beaded fibrosis characteristic of PSC."
+     "B": "Acute calculous cholecystitis presents with RUQ pain, fever, and a positive Murphy sign, not diffuse biliary fibrosis.",
+     "C": "Obstructing choledocholithiasis causes a discrete obstructing stone, not a diffusely beaded, fibrotic tree.",
+     "D": "Primary biliary cholangitis is a small-duct autoimmune disease with antimitochondrial antibodies, not the large-duct beading seen here and not linked to UC.",
+     "E": "Intrahepatic cholangiocarcinoma produces a focal mass or stricture, not the diffuse beaded fibrosis characteristic of PSC."
     }
    }
   },
@@ -9755,23 +9755,23 @@
    "choices": [
     {
      "label": "A",
-     "text": "Folate"
+     "text": "Folate (vitamin B9)"
     },
     {
      "label": "B",
-     "text": "Vitamin B12"
+     "text": "Vitamin B12 (cobalamin)"
     },
     {
      "label": "C",
-     "text": "Iron"
+     "text": "Iron (nonheme form)"
     },
     {
      "label": "D",
-     "text": "Vitamin C"
+     "text": "Vitamin C (ascorbic acid)"
     },
     {
      "label": "E",
-     "text": "Zinc"
+     "text": "Zinc (trace mineral)"
     }
    ],
    "correctAnswer": "B",
@@ -9806,14 +9806,14 @@
     },
     {
      "label": "D",
-     "text": "Uric acid"
+     "text": "Calcium oxalate"
     },
     {
      "label": "E",
-     "text": "Calcium oxalate"
+     "text": "Uric acid"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Crohn-related fat malabsorption promotes calcium oxalate stone formation.",
     "whyCorrect": "In Crohn disease, unabsorbed fat binds luminal calcium, leaving free oxalate to be absorbed and deposited in the kidney, forming calcium oxalate stones.",
@@ -9821,7 +9821,7 @@
      "A": "Calcium phosphate stones are associated with alkaline urine and renal tubular acidosis, not fat malabsorption.",
      "B": "Cystine stones result from a hereditary transport defect (cystinuria), unrelated to Crohn.",
      "C": "Struvite stones form with urea-splitting organism infections, not enteric hyperoxaluria.",
-     "D": "Uric acid stones form in acidic urine with hyperuricemia, not from bile acid/fat malabsorption."
+     "E": "Uric acid stones form in acidic urine with hyperuricemia, not from bile acid/fat malabsorption."
     }
    }
   },
@@ -9833,26 +9833,26 @@
    "choices": [
     {
      "label": "A",
-     "text": "ASCA titer"
+     "text": "Serum ASCA antibody titer"
     },
     {
      "label": "B",
-     "text": "Serum CRP"
+     "text": "Serum C-reactive protein"
     },
     {
      "label": "C",
-     "text": "p-ANCA titer"
+     "text": "Serum p-ANCA antibody titer"
     },
     {
      "label": "D",
-     "text": "Colonoscopy"
+     "text": "Fecal calprotectin level"
     },
     {
      "label": "E",
-     "text": "Fecal calprotectin"
+     "text": "Colonoscopy with biopsy"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Fecal calprotectin is a noninvasive stool marker used to differentiate IBD from IBS and to monitor activity.",
     "whyCorrect": "Fecal calprotectin measures protein released into the gut during inflammation; it helps separate inflammatory IBD from non-inflammatory IBS and is used to follow disease activity.",
@@ -9860,7 +9860,7 @@
      "A": "ASCA is a serologic marker that supports Crohn disease but is not the general test used to distinguish IBD from IBS or monitor activity.",
      "B": "CRP is nonspecific and elevated in many inflammatory states, so it is less useful for this specific purpose.",
      "C": "p-ANCA supports UC but does not reliably separate IBD from IBS or track activity noninvasively.",
-     "D": "Colonoscopy is diagnostic but invasive, so it is not the noninvasive monitoring test being sought."
+     "E": "Colonoscopy with biopsy is diagnostic but invasive, so it is not the noninvasive monitoring test being sought."
     }
    }
   },
@@ -9872,32 +9872,32 @@
    "choices": [
     {
      "label": "A",
-     "text": "MPO-ANCA"
+     "text": "Myeloperoxidase-ANCA antibodies"
     },
     {
      "label": "B",
-     "text": "Anti-Saccharomyces cerevisiae antibodies"
+     "text": "Anti-tissue transglutaminase IgA antibodies"
     },
     {
      "label": "C",
-     "text": "Anti-tissue transglutaminase"
+     "text": "Anti-Saccharomyces cerevisiae antibodies"
     },
     {
      "label": "D",
-     "text": "Antimitochondrial antibodies"
+     "text": "Antimitochondrial antibodies (AMA)"
     },
     {
      "label": "E",
-     "text": "Perinuclear ANCA"
+     "text": "Perinuclear (p-ANCA) antibodies"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Crohn disease is associated with anti-Saccharomyces cerevisiae antibodies (ASCA).",
     "whyCorrect": "Patients with Crohn disease may test positive for ASCA, whereas UC is more often associated with p-ANCA.",
     "whyWrongByChoice": {
      "A": "MPO-ANCA/p-ANCA positivity is associated with ulcerative colitis, not Crohn disease.",
-     "C": "Anti-tissue transglutaminase antibodies indicate celiac disease.",
+     "B": "Anti-tissue transglutaminase IgA antibodies indicate celiac disease.",
      "D": "Antimitochondrial antibodies indicate primary biliary cholangitis.",
      "E": "Perinuclear ANCA (p-ANCA) is associated with ulcerative colitis rather than Crohn."
     }
@@ -9919,26 +9919,26 @@
     },
     {
      "label": "C",
-     "text": "8 years after diagnosis"
-    },
-    {
-     "label": "D",
      "text": "5 years after diagnosis"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "10 years after diagnosis"
+    },
+    {
+     "label": "E",
+     "text": "8 years after diagnosis"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Patients with UC or colonic Crohn should begin surveillance colonoscopy about 8 years after diagnosis or symptom onset.",
     "whyCorrect": "Because of prolonged inflammation, screening colonoscopy is recommended starting 8 years after diagnosis or symptom onset, with repeat exams every 1-3 years to detect dysplasia.",
     "whyWrongByChoice": {
      "A": "Age 50 applies to average-risk general-population screening, not IBD-specific surveillance.",
      "B": "Immediate yearly screening from diagnosis is more aggressive than the recommended 8-year start.",
-     "D": "Screening at 5 years is earlier than the guideline threshold in the brick.",
-     "E": "Waiting 10 years is later than the recommended 8-year start."
+     "C": "Screening at 5 years is earlier than the guideline threshold in the brick.",
+     "D": "Waiting 10 years is later than the recommended 8-year start."
     }
    }
   },
@@ -9950,7 +9950,7 @@
    "choices": [
     {
      "label": "A",
-     "text": "Crohn disease"
+     "text": "Crohn ileocolitis"
     },
     {
      "label": "B",
@@ -9958,7 +9958,7 @@
     },
     {
      "label": "C",
-     "text": "Diverticulosis"
+     "text": "Colonic diverticulosis"
     },
     {
      "label": "D",
@@ -9966,7 +9966,7 @@
     },
     {
      "label": "E",
-     "text": "Colon cancer"
+     "text": "Colorectal carcinoma"
     }
    ],
    "correctAnswer": "B",
@@ -9974,10 +9974,10 @@
     "summary": "Loss of haustra producing a 'lead pipe' colon is characteristic of chronic ulcerative colitis.",
     "whyCorrect": "UC can cause loss of colonic haustra, giving a smooth 'lead pipe' appearance on imaging.",
     "whyWrongByChoice": {
-     "A": "Crohn disease more typically shows skip lesions, strictures, and a string sign, not diffuse haustral loss.",
-     "C": "Diverticulosis shows outpouchings of the colonic wall, not a featureless lead-pipe colon.",
+     "A": "Crohn ileocolitis more typically shows skip lesions, strictures, and a string sign, not diffuse haustral loss.",
+     "C": "Colonic diverticulosis shows outpouchings of the colonic wall, not a featureless lead-pipe colon.",
      "D": "Ischemic colitis shows thumbprinting from submucosal edema, not chronic haustral loss.",
-     "E": "Colon cancer produces a focal 'apple-core' lesion, not diffuse loss of haustra."
+     "E": "Colorectal carcinoma produces a focal 'apple-core' lesion, not diffuse loss of haustra."
     }
    }
   },
@@ -9997,25 +9997,25 @@
     },
     {
      "label": "C",
-     "text": "Fistula"
+     "text": "Stricture"
     },
     {
      "label": "D",
-     "text": "Stricture"
+     "text": "Fistula"
     },
     {
      "label": "E",
      "text": "Perforation"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "The string sign reflects passage of contrast through a narrowed, strictured lumen in Crohn disease.",
     "whyCorrect": "When strictures are present, they can produce a 'string sign' on barium study, signifying passage of contrast through a narrowed lumen.",
     "whyWrongByChoice": {
      "A": "A pseudopolyp is regenerating mucosa bulging into the lumen, not luminal narrowing.",
      "B": "Toxic megacolon is colonic dilation, the opposite of a narrowed string-like lumen.",
-     "C": "A fistula is an abnormal tract between structures, not a narrowed lumen producing a string sign.",
+     "D": "A fistula is an abnormal tract between structures, not a narrowed lumen producing a string sign.",
      "E": "Perforation causes free air/leak of contrast, not a thin string of contrast through a narrowed segment."
     }
    }
@@ -10028,34 +10028,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Skip lesions"
-    },
-    {
-     "label": "B",
      "text": "Cobblestoning"
     },
     {
-     "label": "C",
+     "label": "B",
      "text": "Lead pipe colon"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Pseudopolyps"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Creeping fat"
+    },
+    {
+     "label": "E",
+     "text": "Skip lesions"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Discontinuous involvement with intervening normal bowel is termed skip lesions, typical of Crohn disease.",
     "whyCorrect": "Crohn disease is often patchy, with 'skip lesions' referring to discontinuous segments of diseased bowel separated by normal mucosa.",
     "whyWrongByChoice": {
-     "B": "Cobblestoning describes nodular mucosa from ulceration around edematous islands, not the discontinuous distribution.",
-     "C": "Lead pipe colon describes loss of haustra in UC, not patchy involvement.",
-     "D": "Pseudopolyps are islands of regenerating mucosa, not a distribution pattern.",
-     "E": "Creeping fat is mesenteric fat wrapping around bowel, not a mucosal distribution pattern."
+     "A": "Cobblestoning describes nodular mucosa from ulceration around edematous islands, not the discontinuous distribution.",
+     "B": "Lead pipe colon describes loss of haustra in UC, not patchy involvement.",
+     "C": "Pseudopolyps are islands of regenerating mucosa, not a distribution pattern.",
+     "D": "Creeping fat is mesenteric fat wrapping around bowel, not a mucosal distribution pattern."
     }
    }
   },
@@ -10067,34 +10067,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Appendectomy"
-    },
-    {
-     "label": "B",
-     "text": "High-fiber diet"
-    },
-    {
-     "label": "C",
-     "text": "NSAID use"
-    },
-    {
-     "label": "D",
      "text": "Cigarette smoking"
     },
     {
+     "label": "B",
+     "text": "Prior appendectomy"
+    },
+    {
+     "label": "C",
+     "text": "High-fiber dietary intake"
+    },
+    {
+     "label": "D",
+     "text": "Chronic NSAID use"
+    },
+    {
      "label": "E",
-     "text": "Regular exercise"
+     "text": "Regular aerobic exercise"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Smoking increases the risk of Crohn disease but does not increase, and may protect against, ulcerative colitis.",
     "whyCorrect": "The brick states that smoking increases the risk of Crohn disease but does not increase the risk of, and may be protective in, UC.",
     "whyWrongByChoice": {
-     "A": "Appendectomy is not identified in this brick as the factor that raises Crohn risk while protecting in UC.",
-     "B": "Increased fiber is associated with decreased risk of Crohn disease, not increased risk.",
-     "C": "NSAID use is implicated in triggering IBD generally but is not the smoking-like factor with opposite effects in the two diseases.",
-     "E": "Exercise is associated with a decreased risk of Crohn disease, not increased risk."
+     "B": "Prior appendectomy is not identified in this brick as the factor that raises Crohn risk while protecting in UC.",
+     "C": "A high-fiber dietary intake is associated with decreased risk of Crohn disease, not increased risk.",
+     "D": "Chronic NSAID use is implicated in triggering IBD generally but is not the smoking-like factor with opposite effects in the two diseases.",
+     "E": "Regular aerobic exercise is associated with a decreased risk of Crohn disease, not increased risk."
     }
    }
   },
@@ -10114,26 +10114,26 @@
     },
     {
      "label": "C",
-     "text": "Episcleritis"
-    },
-    {
-     "label": "D",
      "text": "Glaucoma"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Retinal detachment"
+    },
+    {
+     "label": "E",
+     "text": "Episcleritis"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Episcleritis is the most common ocular manifestation of IBD.",
     "whyCorrect": "Patients with IBD may develop uveitis, iritis, and episcleritis; episcleritis is the most common ocular manifestation.",
     "whyWrongByChoice": {
      "A": "Cataract is lens opacification and is not the characteristic inflammatory ocular manifestation of IBD.",
      "B": "Conjunctivitis is not listed as the characteristic IBD-associated ocular condition.",
-     "D": "Glaucoma is elevated intraocular pressure, not an inflammatory IBD manifestation.",
-     "E": "Retinal detachment is a mechanical/vascular event unrelated to IBD inflammation."
+     "C": "Glaucoma is elevated intraocular pressure, not an inflammatory IBD manifestation.",
+     "D": "Retinal detachment is a mechanical/vascular event unrelated to IBD inflammation."
     }
    }
   },
@@ -10145,11 +10145,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Erythema nodosum"
+     "text": "Pyoderma gangrenosum"
     },
     {
      "label": "B",
-     "text": "Pyoderma gangrenosum"
+     "text": "Erythema nodosum"
     },
     {
      "label": "C",
@@ -10164,12 +10164,12 @@
      "text": "Stasis ulcer"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "A painful purulent ulcer in a middle-aged woman with IBD is pyoderma gangrenosum.",
     "whyCorrect": "Pyoderma gangrenosum is an inflammatory skin disorder associated with IBD, more common in middle-aged women, that presents as painful, purulent ulcers.",
     "whyWrongByChoice": {
-     "A": "Erythema nodosum presents as tender red nodules on the shins, not purulent ulcers.",
+     "B": "Erythema nodosum presents as tender red nodules on the shins, not purulent ulcers.",
      "C": "Erythema multiforme is a target-lesion hypersensitivity eruption, not a purulent ulcer.",
      "D": "Necrotizing fasciitis is a rapidly progressive infection with systemic toxicity and crepitus, not an IBD-associated inflammatory ulcer.",
      "E": "A stasis ulcer occurs over the medial malleolus from venous insufficiency, not the IBD-associated neutrophilic ulcer described."
@@ -10192,26 +10192,26 @@
     },
     {
      "label": "C",
-     "text": "Fulminant colitis"
-    },
-    {
-     "label": "D",
      "text": "Diversion colitis"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Collagenous colitis"
+    },
+    {
+     "label": "E",
+     "text": "Fulminant colitis"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "More than 10 stools/day with bleeding, distension, fever, and a toxic appearance describes fulminant colitis.",
     "whyCorrect": "Fulminant colitis is a complication of UC with more than 10 stools a day, bleeding, abdominal pain and distension, and a toxic appearance with fever and anorexia.",
     "whyWrongByChoice": {
      "A": "Microscopic colitis causes chronic watery (nonbloody) diarrhea with normal endoscopy, not a toxic fulminant picture.",
      "B": "Pseudomembranous colitis is caused by C. difficile with pseudomembranes, a distinct entity from a UC flare.",
-     "D": "Diversion colitis occurs in defunctioned bowel segments after surgery, not this acute toxic flare.",
-     "E": "Collagenous colitis is a form of microscopic colitis with watery diarrhea, not a fulminant bloody presentation."
+     "C": "Diversion colitis occurs in defunctioned bowel segments after surgery, not this acute toxic flare.",
+     "D": "Collagenous colitis is a form of microscopic colitis with watery diarrhea, not a fulminant bloody presentation."
     }
    }
   },
@@ -10223,11 +10223,11 @@
    "choices": [
     {
      "label": "A",
-     "text": "Activation of nuclear factor kappa B in enterocytes"
+     "text": "Inhibition of nuclear factor kappa B signaling"
     },
     {
      "label": "B",
-     "text": "Inhibition of nuclear factor kappa B signaling in the mucosa"
+     "text": "Activation of nuclear factor kappa B in enterocytes"
     },
     {
      "label": "C",
@@ -10242,12 +10242,12 @@
      "text": "Inhibition of dihydrofolate reductase in immune cells"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "5-aminosalicylic acid works locally on the intestinal mucosa, chiefly by inhibiting NF-kB signaling and reducing pro-inflammatory cytokine transcription.",
     "whyCorrect": "The active moiety 5-ASA inhibits the NF-kB pathway in the mucosa, decreasing transcription of IL-1, TNF-alpha, and IL-6, which reduces inflammation and promotes epithelial healing.",
     "whyWrongByChoice": {
-     "A": "5-ASA inhibits, rather than activates, NF-kB; activation would worsen inflammation.",
+     "B": "5-ASA inhibits, rather than activates, NF-kB; activation would worsen inflammation.",
      "C": "Blocking α4β7 integrin is the mechanism of vedolizumab, not an aminosalicylate.",
      "D": "Neutralizing TNF-alpha describes anti-TNF biologics such as infliximab.",
      "E": "Inhibiting dihydrofolate reductase is the mechanism of methotrexate."
@@ -10309,26 +10309,26 @@
     },
     {
      "label": "C",
-     "text": "Vitamin D"
+     "text": "Folic acid"
     },
     {
      "label": "D",
-     "text": "Thiamine"
+     "text": "Vitamin D"
     },
     {
      "label": "E",
-     "text": "Folic acid"
+     "text": "Thiamine"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Sulfasalazine impairs folate handling and can cause folate deficiency, which is corrected with folic acid.",
     "whyCorrect": "Sulfasalazine is associated with folate deficiency and a resulting macrocytic anemia; folic acid supplementation is the appropriate treatment.",
     "whyWrongByChoice": {
      "A": "Sulfasalazine causes folate, not B12, deficiency; B12 deficiency is not a described effect.",
      "B": "Iron deficiency causes a microcytic, not macrocytic, anemia.",
-     "C": "Vitamin D deficiency does not produce macrocytic anemia and is not caused by sulfasalazine.",
-     "D": "Thiamine deficiency causes neurologic/cardiac disease, not this drug-related macrocytic anemia."
+     "D": "Vitamin D deficiency does not produce macrocytic anemia and is not caused by sulfasalazine.",
+     "E": "Thiamine deficiency causes neurologic/cardiac disease, not this drug-related macrocytic anemia."
     }
    }
   },
@@ -10340,15 +10340,15 @@
    "choices": [
     {
      "label": "A",
-     "text": "Binding intracellular glucocorticoid receptors to modulate transcription"
+     "text": "Binding cell-surface cytokine receptors to block downstream signaling"
     },
     {
      "label": "B",
-     "text": "Binding cell-surface cytokine receptors to block signaling"
+     "text": "Binding intracellular glucocorticoid receptors to alter transcription"
     },
     {
      "label": "C",
-     "text": "Selective blockade of α4β7 integrin on lymphocytes"
+     "text": "Selective blockade of the α4β7 integrin on lymphocytes"
     },
     {
      "label": "D",
@@ -10356,15 +10356,15 @@
     },
     {
      "label": "E",
-     "text": "Neutralization of membrane-bound tumor necrosis factor"
+     "text": "Neutralization of soluble and membrane-bound tumor necrosis factor"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Corticosteroids bind intracellular glucocorticoid receptors; the complex enters the nucleus and suppresses transcription of many inflammatory mediators.",
     "whyCorrect": "The glucocorticoid-receptor complex translocates to the nucleus and modulates gene transcription, suppressing cytokines, chemokines, and adhesion molecules.",
     "whyWrongByChoice": {
-     "B": "Glucocorticoid receptors are intracellular, not cell-surface cytokine receptors.",
+     "A": "Glucocorticoid receptors are intracellular, not cell-surface cytokine receptors.",
      "C": "α4β7 blockade is the vedolizumab mechanism, not that of corticosteroids.",
      "D": "JAK-STAT inhibition describes tofacitinib.",
      "E": "TNF neutralization describes anti-TNF biologics."
@@ -10383,11 +10383,11 @@
     },
     {
      "label": "B",
-     "text": "Renal elimination without hepatic metabolism"
+     "text": "Extensive first-pass hepatic metabolism"
     },
     {
      "label": "C",
-     "text": "Extensive first-pass hepatic metabolism"
+     "text": "Renal elimination without hepatic metabolism"
     },
     {
      "label": "D",
@@ -10398,13 +10398,13 @@
      "text": "Irreversible inhibition of calcineurin activity"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Budesonide undergoes high first-pass hepatic metabolism via CYP3A4, limiting systemic exposure.",
     "whyCorrect": "Its extensive first-pass hepatic metabolism limits systemic drug levels, reducing systemic glucocorticoid adverse effects while retaining local potency.",
     "whyWrongByChoice": {
      "A": "Budesonide is a potent glucocorticoid-receptor agonist; it clearly binds the receptor.",
-     "B": "It is metabolized hepatically rather than eliminated unchanged by the kidneys.",
+     "C": "It is metabolized hepatically rather than eliminated unchanged by the kidneys.",
      "D": "Budesonide is not dependent on colonic bacterial activation like sulfasalazine.",
      "E": "Calcineurin inhibition is the mechanism of cyclosporine, not budesonide."
     }
@@ -10422,29 +10422,29 @@
     },
     {
      "label": "B",
-     "text": "Myelosuppression"
+     "text": "Osteoporosis"
     },
     {
      "label": "C",
-     "text": "Pulmonary fibrosis"
+     "text": "Myelosuppression"
     },
     {
      "label": "D",
-     "text": "Osteoporosis"
+     "text": "Pulmonary fibrosis"
     },
     {
      "label": "E",
      "text": "Peripheral neuropathy"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Long-term corticosteroid use causes metabolic and endocrine effects including reduced bone density (osteoporosis), a reason they are avoided for maintenance.",
     "whyCorrect": "Chronic glucocorticoids cause Cushingoid changes and reduced bone density; osteoporosis is a hallmark long-term complication prompting bone-density monitoring.",
     "whyWrongByChoice": {
      "A": "Nephrotoxicity is characteristic of cyclosporine and monitored with aminosalicylates, not a hallmark of steroids.",
-     "B": "Myelosuppression is the key thiopurine toxicity, not a corticosteroid effect.",
-     "C": "Pulmonary fibrosis/pneumonitis is associated with methotrexate.",
+     "C": "Myelosuppression is the key thiopurine toxicity, not a corticosteroid effect.",
+     "D": "Pulmonary fibrosis/pneumonitis is associated with methotrexate.",
      "E": "Peripheral neuropathy is associated with cyclosporine, not corticosteroids."
     }
    }
@@ -10465,25 +10465,25 @@
     },
     {
      "label": "C",
-     "text": "6-thioguanine nucleotides"
+     "text": "5-aminosalicylic acid"
     },
     {
      "label": "D",
-     "text": "5-aminosalicylic acid"
+     "text": "6-thioguanine nucleotides"
     },
     {
      "label": "E",
      "text": "N5-formyl-tetrahydrofolate"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Thiopurines are converted to 6-thioguanine nucleotides (6-TGN), the active metabolites that impair purine synthesis and induce lymphocyte apoptosis.",
     "whyCorrect": "6-TGN incorporate into DNA and RNA, inhibiting purine synthesis and inducing apoptosis of activated T cells, reducing intestinal inflammation.",
     "whyWrongByChoice": {
      "A": "6-thiouric acid is the inactive product of xanthine oxidase metabolism.",
      "B": "6-methyl-mercaptopurine is a TPMT-generated metabolite, not the principal active nucleotide.",
-     "D": "5-ASA is the aminosalicylate active moiety, unrelated to thiopurine metabolism.",
+     "C": "5-ASA is the aminosalicylate active moiety, unrelated to thiopurine metabolism.",
      "E": "N5-formyl-tetrahydrofolate (leucovorin) is a folate rescue agent, not a thiopurine metabolite."
     }
    }
@@ -10504,26 +10504,26 @@
     },
     {
      "label": "C",
-     "text": "Latent tuberculosis reactivation"
+     "text": "Bone marrow suppression"
     },
     {
      "label": "D",
-     "text": "Peripheral neuropathy"
+     "text": "Latent tuberculosis reactivation"
     },
     {
      "label": "E",
-     "text": "Bone marrow suppression"
+     "text": "Peripheral neuropathy"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Low TPMT activity leads to accumulation of toxic 6-TGN and dose-dependent bone marrow suppression, so TPMT testing precedes thiopurine therapy.",
     "whyCorrect": "Patients with low TPMT accumulate toxic 6-TGN, causing dose-dependent myelosuppression; TPMT testing before initiation identifies this risk.",
     "whyWrongByChoice": {
      "A": "Interstitial nephritis is a monitoring concern for aminosalicylates, not TPMT-related.",
      "B": "Pulmonary fibrosis is associated with methotrexate, unrelated to TPMT status.",
-     "C": "Latent TB reactivation is a risk of anti-TNF biologics, not thiopurines.",
-     "D": "Peripheral neuropathy is a cyclosporine effect, not related to TPMT."
+     "D": "Latent TB reactivation is a risk of anti-TNF biologics, not thiopurines.",
+     "E": "Peripheral neuropathy is a cyclosporine effect, not related to TPMT."
     }
    }
   },
@@ -10547,14 +10547,14 @@
     },
     {
      "label": "D",
-     "text": "Inhibits xanthine oxidase, raising toxic metabolite levels"
+     "text": "Blocks the colonic bacterial activation of the prodrug"
     },
     {
      "label": "E",
-     "text": "Blocks the colonic bacterial activation of the prodrug"
+     "text": "Inhibits xanthine oxidase, raising toxic metabolite levels"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Allopurinol inhibits xanthine oxidase, diverting 6-mercaptopurine toward more active toxic metabolites and precipitating myelosuppression.",
     "whyCorrect": "Xanthine oxidase normally inactivates mercaptopurine to thiouric acid; allopurinol inhibits this enzyme, shunting the drug to active 6-TGN and causing marrow toxicity.",
@@ -10562,7 +10562,7 @@
      "A": "Allopurinol does not induce TPMT; the problem is increased, not decreased, active metabolite.",
      "B": "Protein-binding displacement is not the described interaction mechanism.",
      "C": "The toxicity arises from more active metabolite, not from retained inactive thiouric acid.",
-     "E": "Colonic bacterial activation applies to sulfasalazine, not thiopurines."
+     "D": "Colonic bacterial activation applies to sulfasalazine, not thiopurines."
     }
    }
   },
@@ -10574,31 +10574,31 @@
    "choices": [
     {
      "label": "A",
-     "text": "Xanthine oxidase"
-    },
-    {
-     "label": "B",
      "text": "Dihydrofolate reductase"
     },
     {
+     "label": "B",
+     "text": "Xanthine oxidase enzyme"
+    },
+    {
      "label": "C",
-     "text": "Calcineurin"
+     "text": "Calcineurin phosphatase"
     },
     {
      "label": "D",
-     "text": "Cyclooxygenase"
+     "text": "Cyclooxygenase (COX)"
     },
     {
      "label": "E",
-     "text": "Janus kinase"
+     "text": "Janus kinase (JAK)"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Methotrexate inhibits dihydrofolate reductase, depleting folate needed for nucleotide synthesis in rapidly dividing cells.",
     "whyCorrect": "By inhibiting dihydrofolate reductase, methotrexate impairs folate metabolism and nucleotide synthesis, reducing proliferation of immune cells and cytokine production.",
     "whyWrongByChoice": {
-     "A": "Xanthine oxidase is the target of allopurinol and metabolizes thiopurines.",
+     "B": "Xanthine oxidase is the target of allopurinol and metabolizes thiopurines.",
      "C": "Calcineurin is inhibited by cyclosporine.",
      "D": "Cyclooxygenase is inhibited by 5-ASAs and NSAIDs, not methotrexate.",
      "E": "Janus kinase is inhibited by tofacitinib."
@@ -10617,30 +10617,30 @@
     },
     {
      "label": "B",
-     "text": "Mucositis"
-    },
-    {
-     "label": "C",
      "text": "Hypertension"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "Osteoporosis"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Latent tuberculosis reactivation"
+    },
+    {
+     "label": "E",
+     "text": "Mucositis"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Methotrexate depletes folate in rapidly dividing mucosal cells, causing mucositis; folic acid reduces this GI toxicity.",
     "whyCorrect": "DHFR inhibition depletes folate in rapidly dividing mucosal epithelium, producing mucositis; folic acid supplementation lowers its incidence.",
     "whyWrongByChoice": {
      "A": "Nephrotoxicity is a cyclosporine effect, not the reason for folate supplementation.",
-     "C": "Hypertension is associated with cyclosporine, not methotrexate.",
-     "D": "Osteoporosis is a corticosteroid effect, not reduced by folic acid.",
-     "E": "Latent TB reactivation is a biologic risk unaffected by folate supplementation."
+     "B": "Hypertension is associated with cyclosporine, not methotrexate.",
+     "C": "Osteoporosis is a corticosteroid effect, not reduced by folic acid.",
+     "D": "Latent TB reactivation is a biologic risk unaffected by folate supplementation."
     }
    }
   },
@@ -10656,29 +10656,29 @@
     },
     {
      "label": "B",
-     "text": "Myelosuppression"
+     "text": "Pneumonitis"
     },
     {
      "label": "C",
-     "text": "Cushingoid features"
+     "text": "Myelosuppression"
     },
     {
      "label": "D",
-     "text": "Pneumonitis"
+     "text": "Cushingoid features"
     },
     {
      "label": "E",
      "text": "Peripheral neuropathy"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "B",
    "explanation": {
     "summary": "Methotrexate can cause pulmonary toxicity (pneumonitis), presenting with cough and dyspnea.",
     "whyCorrect": "Pneumonitis is a recognized methotrexate toxicity; monitoring pulmonary function is recommended, and it fits the dry cough and dyspnea.",
     "whyWrongByChoice": {
      "A": "Interstitial nephritis is an aminosalicylate concern and would present with renal, not pulmonary, findings.",
-     "B": "Myelosuppression causes cytopenias, not cough and dyspnea.",
-     "C": "Cushingoid features are a corticosteroid effect and are not respiratory.",
+     "C": "Myelosuppression causes cytopenias, not cough and dyspnea.",
+     "D": "Cushingoid features are a corticosteroid effect and are not respiratory.",
      "E": "Peripheral neuropathy is a cyclosporine effect and does not cause pulmonary symptoms."
     }
    }
@@ -10691,34 +10691,34 @@
    "choices": [
     {
      "label": "A",
-     "text": "Neutralization of soluble and membrane-bound TNF-alpha"
+     "text": "Blockade of the α4β7 integrin on lymphocytes"
     },
     {
      "label": "B",
-     "text": "Blockade of α4β7 integrin on lymphocytes"
+     "text": "Inhibition of dihydrofolate reductase enzyme"
     },
     {
      "label": "C",
-     "text": "Inhibition of dihydrofolate reductase"
-    },
-    {
-     "label": "D",
      "text": "Targeting the p40 subunit of IL-12 and IL-23"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Inhibition of calcineurin via cyclophilin binding"
+    },
+    {
+     "label": "E",
+     "text": "Neutralization of soluble and membrane-bound TNF"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Infliximab is an anti-TNF monoclonal antibody that neutralizes soluble and membrane-bound TNF-alpha.",
     "whyCorrect": "By binding both soluble and membrane-bound TNF-alpha, infliximab interrupts downstream NF-kB activation and reduces pro-inflammatory mediators, promoting mucosal healing.",
     "whyWrongByChoice": {
-     "B": "α4β7 integrin blockade is the vedolizumab mechanism.",
-     "C": "DHFR inhibition is methotrexate's mechanism.",
-     "D": "Targeting the IL-12/23 p40 subunit describes ustekinumab.",
-     "E": "Calcineurin inhibition via cyclophilin describes cyclosporine."
+     "A": "α4β7 integrin blockade is the vedolizumab mechanism.",
+     "B": "DHFR inhibition is methotrexate's mechanism.",
+     "C": "Targeting the IL-12/23 p40 subunit describes ustekinumab.",
+     "D": "Calcineurin inhibition via cyclophilin describes cyclosporine."
     }
    }
   },
@@ -10738,25 +10738,25 @@
     },
     {
      "label": "C",
-     "text": "Hepatitis B"
+     "text": "Epstein-Barr virus"
     },
     {
      "label": "D",
-     "text": "Epstein-Barr virus"
+     "text": "Hepatitis B"
     },
     {
      "label": "E",
      "text": "Herpes simplex virus"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Anti-TNF therapy risks reactivation of latent infections; screening for latent TB and hepatitis B is mandatory before starting.",
     "whyCorrect": "Because anti-TNF agents can reactivate latent infections, hepatitis B serology (along with TB screening) is required before initiating therapy.",
     "whyWrongByChoice": {
      "A": "Hepatitis A is an acute self-limited infection without a latent reactivation risk requiring pre-biologic screening.",
      "B": "Routine CMV screening is not the mandated pre-anti-TNF test in this brick.",
-     "D": "EBV screening is not the required pre-treatment step described.",
+     "C": "EBV screening is not the required pre-treatment step described.",
      "E": "HSV screening is not part of the mandatory pre-biologic workup."
     }
    }
@@ -10773,30 +10773,30 @@
     },
     {
      "label": "B",
-     "text": "α4β7 integrin"
-    },
-    {
-     "label": "C",
      "text": "Dihydrofolate reductase"
     },
     {
-     "label": "D",
+     "label": "C",
      "text": "IL-12/23 p40 subunit"
     },
     {
-     "label": "E",
+     "label": "D",
      "text": "Janus kinase"
+    },
+    {
+     "label": "E",
+     "text": "α4β7 integrin"
     }
    ],
-   "correctAnswer": "B",
+   "correctAnswer": "E",
    "explanation": {
     "summary": "Vedolizumab selectively blocks the α4β7 integrin, preventing lymphocyte binding to MAdCAM-1 on gut endothelium.",
     "whyCorrect": "By blocking α4β7 integrin on lymphocytes, vedolizumab prevents their binding to gut MAdCAM-1, reducing intestinal infiltration in a gut-selective manner.",
     "whyWrongByChoice": {
      "A": "TNF-alpha is the target of anti-TNF biologics, not vedolizumab.",
-     "C": "DHFR is inhibited by methotrexate.",
-     "D": "The IL-12/23 p40 subunit is targeted by ustekinumab.",
-     "E": "Janus kinase is inhibited by tofacitinib."
+     "B": "DHFR is inhibited by methotrexate.",
+     "C": "The IL-12/23 p40 subunit is targeted by ustekinumab.",
+     "D": "Janus kinase is inhibited by tofacitinib."
     }
    }
   },
@@ -10808,32 +10808,32 @@
    "choices": [
     {
      "label": "A",
-     "text": "JC (John Cunningham) virus"
+     "text": "Hepatitis B virus (HBV)"
     },
     {
      "label": "B",
-     "text": "Hepatitis B virus"
+     "text": "Cytomegalovirus (CMV)"
     },
     {
      "label": "C",
-     "text": "Cytomegalovirus"
+     "text": "JC virus (polyomavirus)"
     },
     {
      "label": "D",
-     "text": "Epstein-Barr virus"
+     "text": "Epstein-Barr virus (EBV)"
     },
     {
      "label": "E",
-     "text": "Herpes simplex virus"
+     "text": "Herpes simplex virus (HSV)"
     }
    ],
-   "correctAnswer": "A",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Natalizumab is associated with progressive multifocal leukoencephalopathy (PML) from reactivation of JC (John Cunningham) virus.",
     "whyCorrect": "PML is a rare, often fatal demyelinating CNS disease caused by JC virus reactivation in patients with impaired cell-mediated immunity, limiting natalizumab use.",
     "whyWrongByChoice": {
-     "B": "Hepatitis B reactivation is an anti-TNF concern and causes hepatitis, not PML.",
-     "C": "CMV causes retinitis/colitis in immunocompromise, not the PML associated with natalizumab.",
+     "A": "Hepatitis B reactivation is an anti-TNF concern and causes hepatitis, not PML.",
+     "B": "CMV causes retinitis/colitis in immunocompromise, not the PML associated with natalizumab.",
      "D": "EBV is linked to lymphoproliferative disease, not PML.",
      "E": "HSV causes encephalitis but is not the cause of PML."
     }
@@ -10847,7 +10847,7 @@
    "choices": [
     {
      "label": "A",
-     "text": "Tumor necrosis factor-alpha"
+     "text": "Tumor necrosis factor-alpha (TNF-α)"
     },
     {
      "label": "B",
@@ -10859,14 +10859,14 @@
     },
     {
      "label": "D",
-     "text": "Calcineurin phosphatase activity"
+     "text": "Shared p40 subunit of IL-12/IL-23"
     },
     {
      "label": "E",
-     "text": "Interleukin-12 and interleukin-23 p40"
+     "text": "Calcineurin phosphatase activity"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Ustekinumab targets the shared p40 subunit of IL-12 and IL-23, inhibiting Th1 and Th17 differentiation.",
     "whyCorrect": "By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab blocks Th1 and Th17 differentiation, pathways implicated in Crohn disease.",
@@ -10874,7 +10874,7 @@
      "A": "TNF-alpha is the target of anti-TNF biologics, not ustekinumab.",
      "B": "α4β7 integrin is targeted by vedolizumab.",
      "C": "Janus kinase is inhibited by tofacitinib.",
-     "D": "Calcineurin is inhibited by cyclosporine."
+     "E": "Calcineurin is inhibited by cyclosporine."
     }
    }
   },
@@ -10894,26 +10894,26 @@
     },
     {
      "label": "C",
-     "text": "α4β7 integrin adhesion"
+     "text": "Janus kinase-STAT signaling"
     },
     {
      "label": "D",
-     "text": "Xanthine oxidase metabolism"
+     "text": "α4β7 integrin adhesion"
     },
     {
      "label": "E",
-     "text": "Janus kinase-STAT signaling"
+     "text": "Xanthine oxidase metabolism"
     }
    ],
-   "correctAnswer": "E",
+   "correctAnswer": "C",
    "explanation": {
     "summary": "Tofacitinib is a small-molecule JAK inhibitor that blocks Janus kinase-STAT signaling required for cytokine receptor signal transduction.",
     "whyCorrect": "Tofacitinib blocks JAK signaling, interrupting the JAK-STAT pathway needed for cytokine receptor signal transduction and broadly suppressing cytokine-driven inflammation.",
     "whyWrongByChoice": {
      "A": "Calcineurin-NF-AT signaling is inhibited by cyclosporine.",
      "B": "Colonic azoreductase activation applies to sulfasalazine.",
-     "C": "α4β7 integrin adhesion is blocked by vedolizumab.",
-     "D": "Xanthine oxidase is inhibited by allopurinol."
+     "D": "α4β7 integrin adhesion is blocked by vedolizumab.",
+     "E": "Xanthine oxidase is inhibited by allopurinol."
     }
    }
   },
@@ -10933,25 +10933,25 @@
     },
     {
      "label": "C",
-     "text": "Calcineurin"
+     "text": "Janus kinase"
     },
     {
      "label": "D",
-     "text": "Janus kinase"
+     "text": "Calcineurin"
     },
     {
      "label": "E",
      "text": "Cyclooxygenase"
     }
    ],
-   "correctAnswer": "C",
+   "correctAnswer": "D",
    "explanation": {
     "summary": "Cyclosporine binds cyclophilin and inhibits calcineurin, blocking NF-AT-dependent T-cell activation.",
     "whyCorrect": "The cyclosporine-cyclophilin complex inhibits calcineurin, preventing dephosphorylation of NF-AT and reducing transcription of IL-2 and other T-cell activation genes.",
     "whyWrongByChoice": {
      "A": "Dihydrofolate reductase is inhibited by methotrexate.",
      "B": "Xanthine oxidase is inhibited by allopurinol.",
-     "D": "Janus kinase is inhibited by tofacitinib.",
+     "C": "Janus kinase is inhibited by tofacitinib.",
      "E": "Cyclooxygenase is inhibited by 5-ASAs and NSAIDs."
     }
    }
@@ -10964,33 +10964,33 @@
    "choices": [
     {
      "label": "A",
-     "text": "Anti-TNF biologics"
+     "text": "Aminosalicylates"
     },
     {
      "label": "B",
-     "text": "Calcineurin inhibitors"
+     "text": "Anti-TNF biologics"
     },
     {
      "label": "C",
-     "text": "Systemic corticosteroids"
+     "text": "Calcineurin inhibitors"
     },
     {
      "label": "D",
-     "text": "Aminosalicylates"
+     "text": "Systemic corticosteroids"
     },
     {
      "label": "E",
      "text": "Anti-integrin biologics"
     }
    ],
-   "correctAnswer": "D",
+   "correctAnswer": "A",
    "explanation": {
     "summary": "Aminosalicylates (5-ASAs) are first-line therapy for mild-to-moderate ulcerative colitis.",
     "whyCorrect": "5-ASAs act locally on the colonic mucosa and are the recommended first-line therapy for mild-to-moderate ulcerative colitis.",
     "whyWrongByChoice": {
-     "A": "Anti-TNF biologics are reserved for moderate-to-severe or refractory disease, not first-line mild disease.",
-     "B": "Calcineurin inhibitors are reserved for specific severe cases owing to their toxicity.",
-     "C": "Systemic corticosteroids are used for flares/induction, not first-line maintenance in mild disease.",
+     "B": "Anti-TNF biologics are reserved for moderate-to-severe or refractory disease, not first-line mild disease.",
+     "C": "Calcineurin inhibitors are reserved for specific severe cases owing to their toxicity.",
+     "D": "Systemic corticosteroids are used for flares/induction, not first-line maintenance in mild disease.",
      "E": "Anti-integrin biologics are used in moderate-to-severe disease, not first-line for mild colitis."
     }
    }
