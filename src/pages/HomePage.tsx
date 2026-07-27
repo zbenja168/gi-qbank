@@ -134,7 +134,9 @@ export function HomePage({
             <div className="text-4xl mb-3">🔒</div>
             <h2 className="text-xl font-bold text-slate-100 mb-2">Advanced is an Active Transport Pro feature</h2>
             <p className="text-slate-400 max-w-lg mx-auto mb-6">
-              {entitlementReason === 'not_signed_in'
+              {entitlementReason === 'expired'
+                ? 'Your session has expired. Reopen this QBank from the Active Transport hub to pick up where you left off — it only takes a click.'
+                : entitlementReason === 'not_signed_in'
                 ? 'Open this QBank from the Active Transport hub while signed in to your Pro account to unlock UWorld-style advanced questions.'
                 : entitlement === 'error'
                   ? "Couldn't reach Active Transport to check your membership. Check your connection and try again."

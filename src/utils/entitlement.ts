@@ -25,7 +25,18 @@ function toolSlug(): string {
 function token(): string | null {
   try {
     const m = (location.search || '').match(/[?&]at=([A-Za-z0-9._-]+)/);
-    if (m) return m[1];
+    if (m) {
+      // Move it out of the address bar the moment we have it. A token sitting
+      // in the URL gets copied to a friend, pasted into a group chat, captured
+      // in a screenshot and written into browser history - and until it expires
+      // it IS the subscription. sessionStorage keeps it to this tab.
+      try {
+        sessionStorage.setItem('at_tool_uid', m[1]);
+        const clean = location.pathname + location.search.replace(/([?&])at=[A-Za-z0-9._-]+&?/, '$1').replace(/[?&]$/, '') + location.hash;
+        history.replaceState(null, '', clean);
+      } catch { /* storage or history unavailable: the token still works below */ }
+      return m[1];
+    }
     return sessionStorage.getItem('at_tool_uid');
   } catch { return null; }
 }
