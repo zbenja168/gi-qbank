@@ -25,7 +25,7 @@ function AppShell() {
 
   const topicsHook = useTopics(tier);
   const { progress, recordAnswer, recordSession, toggleBookmark, clearAllProgress } = useProgress();
-  const { questions, loading: questionsLoading, loadQuestions, loadAllQuestions } = useQuestions();
+  const { questions, loading: questionsLoading, loadQuestions, loadMissedQuestions, loadAllQuestions } = useQuestions();
 
   const allCategoryIds = topicsHook.topics?.categories.map(c => c.id) ?? [];
 
@@ -35,6 +35,20 @@ function AppShell() {
     track('quiz_start');
     setPage('quiz');
   }, [loadQuestions, topicsHook.categoriesForSelected, topicsHook.selectedTopicIds, progress, tier]);
+
+  // Retake every question he got wrong, as a real quiz rather than a review.
+  //
+  // His previous answers are left in place on purpose. Wiping them would make a
+  // half-finished retake lose the missed list entirely; leaving them means a
+  // question he now gets right simply stops being missed, and one he gets wrong
+  // again stays. Same outcome, nothing destroyed if he walks away mid-run.
+  const handleRetakeMissed = useCallback(async () => {
+    if (allCategoryIds.length === 0) return;
+    const count = await loadMissedQuestions(allCategoryIds, progress, tier);
+    if (count === 0) return;
+    track('retake_missed');
+    setPage('quiz');
+  }, [loadMissedQuestions, allCategoryIds, progress, tier]);
 
   const handleGoToDashboard = useCallback(async () => {
     if (allCategoryIds.length > 0) {
@@ -58,11 +72,12 @@ function AppShell() {
       if (hash === '/dashboard') handleGoToDashboard();
       else if (hash === '/review') handleGoToReview();
       else if (hash === '/missed') handleGoToReview('incorrect');
+      else if (hash === '/retake') handleRetakeMissed();
       else setPage('home');
     };
     window.addEventListener('hashchange', handleHash);
     return () => window.removeEventListener('hashchange', handleHash);
-  }, [handleGoToDashboard, handleGoToReview]);
+  }, [handleGoToDashboard, handleGoToReview, handleRetakeMissed]);
 
   if (topicsHook.loading) {
     return (
@@ -149,6 +164,7 @@ function AppShell() {
           onStartQuiz={handleStartQuiz}
           onGoToDashboard={handleGoToDashboard}
           onGoToReview={handleGoToReview}
+          onRetakeMissed={handleRetakeMissed}
           onClearProgress={clearAllProgress}
         />
       );
