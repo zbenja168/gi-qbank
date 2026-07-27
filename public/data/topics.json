@@ -1,291 +1,285 @@
 {
- "categories": [
-  {
-   "id": "gi-foundations-anatomy",
-   "name": "Foundations, Anatomy & Development",
-   "topics": [
+  "categories": [
     {
-     "id": "gi-foundations-overview",
-     "name": "GI System: Foundations and Overview",
-     "questionCount": 20
+      "id": "gi-week-1",
+      "name": "Week 1 | Foundations, Anatomy & Upper GI",
+      "topics": [
+        {
+          "id": "gi-foundations-overview",
+          "name": "GI System: Foundations and Overview",
+          "questionCount": 20
+        },
+        {
+          "id": "histology-gi-tract",
+          "name": "Histology of the Gastrointestinal Tract",
+          "questionCount": 20
+        },
+        {
+          "id": "oral-region-anatomy",
+          "name": "Gross Anatomy and Histology of the Oral Region",
+          "questionCount": 20
+        },
+        {
+          "id": "gi-blood-supply-innervation",
+          "name": "GI Blood Supply and Innervation",
+          "questionCount": 20
+        },
+        {
+          "id": "gi-tract-anatomy",
+          "name": "Anatomy of the Gastrointestinal Tract",
+          "questionCount": 20
+        },
+        {
+          "id": "gi-development",
+          "name": "Development of the Gastrointestinal System",
+          "questionCount": 20
+        },
+        {
+          "id": "gi-congenital-disorders",
+          "name": "Congenital Disorders of the GI Tract",
+          "questionCount": 20
+        },
+        {
+          "id": "oral-dysbiosis",
+          "name": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+          "questionCount": 20
+        },
+        {
+          "id": "sjogren-syndrome",
+          "name": "Sjögren Syndrome",
+          "questionCount": 20
+        },
+        {
+          "id": "benign-esophageal-disorders",
+          "name": "Benign Esophageal Disorders: GERD, Esophagitis, and Structural Disorders",
+          "questionCount": 20
+        },
+        {
+          "id": "peptic-ulcer-gastritis",
+          "name": "Peptic Ulcer Disease and Gastritis",
+          "questionCount": 20
+        },
+        {
+          "id": "upper-gi-neoplasms",
+          "name": "Oral, Salivary Gland, and Esophageal Neoplasms",
+          "questionCount": 20
+        },
+        {
+          "id": "gastric-neoplasms",
+          "name": "Gastric Neoplasms",
+          "questionCount": 20
+        }
+      ]
     },
     {
-     "id": "histology-gi-tract",
-     "name": "Histology of the Gastrointestinal Tract",
-     "questionCount": 20
+      "id": "gi-week-2",
+      "name": "Week 2 | Hepatobiliary Anatomy & Liver Disease",
+      "topics": [
+        {
+          "id": "liver-biliary-pancreas-anatomy",
+          "name": "Anatomy of the Liver, Biliary System, and Exocrine Pancreas",
+          "questionCount": 20
+        },
+        {
+          "id": "femoral-inguinal-anatomy",
+          "name": "Anatomy of the Femoral and Inguinal Regions",
+          "questionCount": 20
+        },
+        {
+          "id": "histology-accessory-organs",
+          "name": "Histology of the Accessory Digestive Organs",
+          "questionCount": 20
+        },
+        {
+          "id": "liver-function-regeneration",
+          "name": "Liver Function and Regeneration",
+          "questionCount": 20
+        },
+        {
+          "id": "porphyrins-iron-homeostasis",
+          "name": "Porphyrins and Iron Homeostasis",
+          "questionCount": 20
+        },
+        {
+          "id": "benign-liver-disease",
+          "name": "Benign Liver Disease",
+          "questionCount": 20
+        },
+        {
+          "id": "masld",
+          "name": "Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD)",
+          "questionCount": 20
+        },
+        {
+          "id": "alcohol-liver-disease",
+          "name": "Alcohol-Associated Liver Disease",
+          "questionCount": 20
+        },
+        {
+          "id": "hepatic-ethanol-metabolism",
+          "name": "Hepatic Ethanol Metabolism",
+          "questionCount": 20
+        },
+        {
+          "id": "inherited-metabolic-liver",
+          "name": "Inherited Metabolic Liver Diseases (Wilson, Hemochromatosis, A1AT)",
+          "questionCount": 20
+        },
+        {
+          "id": "cirrhosis-portal-hypertension",
+          "name": "Cirrhosis and Portal Hypertension",
+          "questionCount": 20
+        }
+      ]
     },
     {
-     "id": "oral-region-anatomy",
-     "name": "Gross Anatomy and Histology of the Oral Region",
-     "questionCount": 20
+      "id": "gi-week-3",
+      "name": "Week 3 | Hepatitis, Biliary Disease & Pancreas",
+      "topics": [
+        {
+          "id": "viral-hepatitis-clinical",
+          "name": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
+          "questionCount": 22
+        },
+        {
+          "id": "hepatic-abscesses-flukes",
+          "name": "Infectious Hepatic Abscesses and Flukes",
+          "questionCount": 20
+        },
+        {
+          "id": "hepatitis-bc-drugs",
+          "name": "Drugs to Treat Hepatitis B and C Infections",
+          "questionCount": 20
+        },
+        {
+          "id": "biliary-noninfectious",
+          "name": "Noninfectious Disorders of the Biliary System",
+          "questionCount": 20
+        },
+        {
+          "id": "hepatobiliary-neoplasms",
+          "name": "Hepatic and Biliary Neoplasms",
+          "questionCount": 20
+        },
+        {
+          "id": "peritonitis",
+          "name": "Peritonitis",
+          "questionCount": 20
+        },
+        {
+          "id": "pancreatitis",
+          "name": "Acute and Chronic Pancreatitis",
+          "questionCount": 20
+        },
+        {
+          "id": "pancreatic-carcinoma",
+          "name": "Pancreatic Carcinoma",
+          "questionCount": 20
+        }
+      ]
     },
     {
-     "id": "gi-blood-supply-innervation",
-     "name": "GI Blood Supply and Innervation",
-     "questionCount": 20
+      "id": "gi-week-4",
+      "name": "Week 4 | GI Physiology",
+      "topics": [
+        {
+          "id": "digestive-motility",
+          "name": "Digestive Motility",
+          "questionCount": 20
+        },
+        {
+          "id": "neural-control-of-the-gi-system-enteric-nervous-system",
+          "name": "Neural Control of the GI System (Enteric Nervous System)",
+          "questionCount": 20
+        },
+        {
+          "id": "gastric-secretion-and-the-parietal-cell",
+          "name": "Gastric Secretion and the Parietal Cell",
+          "questionCount": 20
+        },
+        {
+          "id": "gi-hormones-the-intestinal-phase-of-digestion",
+          "name": "GI Hormones & the Intestinal Phase of Digestion",
+          "questionCount": 20
+        },
+        {
+          "id": "exocrine-functions-of-the-gi-system",
+          "name": "Exocrine Functions of the GI System",
+          "questionCount": 20
+        },
+        {
+          "id": "gastrointestinal-motility-disorders",
+          "name": "Gastrointestinal Motility Disorders",
+          "questionCount": 20
+        },
+        {
+          "id": "laxatives-and-antidiarrheals",
+          "name": "Laxatives and Antidiarrheals",
+          "questionCount": 20
+        },
+        {
+          "id": "luminal-fat-digestion-and-absorption",
+          "name": "Luminal Fat Digestion and Absorption",
+          "questionCount": 20
+        },
+        {
+          "id": "intestinal-nutrient-transporter-mechanisms",
+          "name": "Intestinal Nutrient Transporter Mechanisms",
+          "questionCount": 20
+        }
+      ]
     },
     {
-     "id": "gi-tract-anatomy",
-     "name": "Anatomy of the Gastrointestinal Tract",
-     "questionCount": 20
-    },
-    {
-     "id": "gi-development",
-     "name": "Development of the Gastrointestinal System",
-     "questionCount": 20
-    },
-    {
-     "id": "gi-congenital-disorders",
-     "name": "Congenital Disorders of the GI Tract",
-     "questionCount": 20
-    },
-    {
-     "id": "digestive-motility",
-     "name": "Digestive Motility",
-     "questionCount": 20
-    },
-    {
-     "id": "neural-control-of-the-gi-system-enteric-nervous-system",
-     "name": "Neural Control of the GI System (Enteric Nervous System)",
-     "questionCount": 20
-    },
-    {
-     "id": "gi-hormones-the-intestinal-phase-of-digestion",
-     "name": "GI Hormones & the Intestinal Phase of Digestion",
-     "questionCount": 20
-    },
-    {
-     "id": "luminal-fat-digestion-and-absorption",
-     "name": "Luminal Fat Digestion and Absorption",
-     "questionCount": 20
-    },
-    {
-     "id": "intestinal-nutrient-transporter-mechanisms",
-     "name": "Intestinal Nutrient Transporter Mechanisms",
-     "questionCount": 20
-    },
-    {
-     "id": "normal-gi-flora",
-     "name": "Normal GI Flora",
-     "questionCount": 20
-    },
-    {
-     "id": "gi-mucosal-immunity-and-immune-failures",
-     "name": "GI Mucosal Immunity and Immune Failures",
-     "questionCount": 20
-    },
-    {
-     "id": "antibiotic-spectrum-for-gi-infections",
-     "name": "Antibiotic Spectrum for GI Infections",
-     "questionCount": 20
+      "id": "gi-week-5",
+      "name": "Week 5 | Flora, Infection & Inflammatory Disease",
+      "topics": [
+        {
+          "id": "normal-gi-flora",
+          "name": "Normal GI Flora",
+          "questionCount": 20
+        },
+        {
+          "id": "gi-mucosal-immunity-and-immune-failures",
+          "name": "GI Mucosal Immunity and Immune Failures",
+          "questionCount": 20
+        },
+        {
+          "id": "antibiotic-spectrum-for-gi-infections",
+          "name": "Antibiotic Spectrum for GI Infections",
+          "questionCount": 20
+        },
+        {
+          "id": "bacterial-infectious-diarrhea",
+          "name": "Bacterial Infectious Diarrhea",
+          "questionCount": 20
+        },
+        {
+          "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes",
+          "name": "Infectious Diarrhea: Invasive Bacterial and Viral Causes",
+          "questionCount": 20
+        },
+        {
+          "id": "key-gi-parasites-and-amoebas",
+          "name": "Key GI Parasites and Amoebas",
+          "questionCount": 20
+        },
+        {
+          "id": "inflammatory-bowel-disease",
+          "name": "Inflammatory Bowel Disease",
+          "questionCount": 20
+        },
+        {
+          "id": "pharmacologic-agents-for-inflammatory-bowel-disease",
+          "name": "Pharmacologic Agents for Inflammatory Bowel Disease",
+          "questionCount": 20
+        },
+        {
+          "id": "traumatic-and-mechanical-gi-injuries",
+          "name": "Traumatic and Mechanical GI Injuries",
+          "questionCount": 20
+        }
+      ]
     }
-   ]
-  },
-  {
-   "id": "gi-oral-eso-gastric",
-   "name": "Oral, Esophageal & Gastric Disorders",
-   "topics": [
-    {
-     "id": "oral-dysbiosis",
-     "name": "Oral Dysbiosis: Microflora and Clinical Pathologies",
-     "questionCount": 20
-    },
-    {
-     "id": "sjogren-syndrome",
-     "name": "Sjögren Syndrome",
-     "questionCount": 20
-    },
-    {
-     "id": "benign-esophageal-disorders",
-     "name": "Benign Esophageal Disorders: GERD, Esophagitis, and Structural Disorders",
-     "questionCount": 20
-    },
-    {
-     "id": "peptic-ulcer-gastritis",
-     "name": "Peptic Ulcer Disease and Gastritis",
-     "questionCount": 20
-    },
-    {
-     "id": "upper-gi-neoplasms",
-     "name": "Oral, Salivary Gland, and Esophageal Neoplasms",
-     "questionCount": 20
-    },
-    {
-     "id": "gastric-neoplasms",
-     "name": "Gastric Neoplasms",
-     "questionCount": 20
-    },
-    {
-     "id": "gastric-secretion-and-the-parietal-cell",
-     "name": "Gastric Secretion and the Parietal Cell",
-     "questionCount": 20
-    },
-    {
-     "id": "gastrointestinal-motility-disorders",
-     "name": "Gastrointestinal Motility Disorders",
-     "questionCount": 20
-    },
-    {
-     "id": "laxatives-and-antidiarrheals",
-     "name": "Laxatives and Antidiarrheals",
-     "questionCount": 20
-    },
-    {
-     "id": "bacterial-infectious-diarrhea",
-     "name": "Bacterial Infectious Diarrhea",
-     "questionCount": 20
-    },
-    {
-     "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes",
-     "name": "Infectious Diarrhea: Invasive Bacterial and Viral Causes",
-     "questionCount": 20
-    },
-    {
-     "id": "inflammatory-bowel-disease",
-     "name": "Inflammatory Bowel Disease",
-     "questionCount": 20
-    },
-    {
-     "id": "pharmacologic-agents-for-inflammatory-bowel-disease",
-     "name": "Pharmacologic Agents for Inflammatory Bowel Disease",
-     "questionCount": 20
-    }
-   ]
-  },
-  {
-   "id": "gi-hepatobiliary-anatomy",
-   "name": "Liver, Biliary & Abdominal Wall Anatomy",
-   "topics": [
-    {
-     "id": "liver-biliary-pancreas-anatomy",
-     "name": "Anatomy of the Liver, Biliary System, and Exocrine Pancreas",
-     "questionCount": 20
-    },
-    {
-     "id": "femoral-inguinal-anatomy",
-     "name": "Anatomy of the Femoral and Inguinal Regions",
-     "questionCount": 20
-    },
-    {
-     "id": "histology-accessory-organs",
-     "name": "Histology of the Accessory Digestive Organs",
-     "questionCount": 20
-    }
-   ]
-  },
-  {
-   "id": "gi-liver-function-disease",
-   "name": "Liver Function & Disease",
-   "topics": [
-    {
-     "id": "liver-function-regeneration",
-     "name": "Liver Function and Regeneration",
-     "questionCount": 20
-    },
-    {
-     "id": "porphyrins-iron-homeostasis",
-     "name": "Porphyrins and Iron Homeostasis",
-     "questionCount": 20
-    },
-    {
-     "id": "benign-liver-disease",
-     "name": "Benign Liver Disease",
-     "questionCount": 20
-    },
-    {
-     "id": "masld",
-     "name": "Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD)",
-     "questionCount": 20
-    },
-    {
-     "id": "alcohol-liver-disease",
-     "name": "Alcohol-Associated Liver Disease",
-     "questionCount": 20
-    },
-    {
-     "id": "hepatic-ethanol-metabolism",
-     "name": "Hepatic Ethanol Metabolism",
-     "questionCount": 20
-    },
-    {
-     "id": "inherited-metabolic-liver",
-     "name": "Inherited Metabolic Liver Diseases (Wilson, Hemochromatosis, A1AT)",
-     "questionCount": 20
-    },
-    {
-     "id": "cirrhosis-portal-hypertension",
-     "name": "Cirrhosis and Portal Hypertension",
-     "questionCount": 20
-    }
-   ]
-  },
-  {
-   "id": "gi-hepatobiliary-infection-neoplasm",
-   "name": "Hepatobiliary Infections, Biliary Disease & Neoplasms",
-   "topics": [
-    {
-     "id": "viral-hepatitis-clinical",
-     "name": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
-     "questionCount": 22
-    },
-    {
-     "id": "hepatic-abscesses-flukes",
-     "name": "Infectious Hepatic Abscesses and Flukes",
-     "questionCount": 20
-    },
-    {
-     "id": "hepatitis-bc-drugs",
-     "name": "Drugs to Treat Hepatitis B and C Infections",
-     "questionCount": 20
-    },
-    {
-     "id": "biliary-noninfectious",
-     "name": "Noninfectious Disorders of the Biliary System",
-     "questionCount": 20
-    },
-    {
-     "id": "hepatobiliary-neoplasms",
-     "name": "Hepatic and Biliary Neoplasms",
-     "questionCount": 20
-    },
-    {
-     "id": "key-gi-parasites-and-amoebas",
-     "name": "Key GI Parasites and Amoebas",
-     "questionCount": 20
-    }
-   ]
-  },
-  {
-   "id": "gi-pancreas-peritoneum",
-   "name": "Pancreas & Peritoneum",
-   "topics": [
-    {
-     "id": "peritonitis",
-     "name": "Peritonitis",
-     "questionCount": 20
-    },
-    {
-     "id": "pancreatitis",
-     "name": "Acute and Chronic Pancreatitis",
-     "questionCount": 20
-    },
-    {
-     "id": "pancreatic-carcinoma",
-     "name": "Pancreatic Carcinoma",
-     "questionCount": 20
-    },
-    {
-     "id": "exocrine-functions-of-the-gi-system",
-     "name": "Exocrine Functions of the GI System",
-     "questionCount": 20
-    },
-    {
-     "id": "traumatic-and-mechanical-gi-injuries",
-     "name": "Traumatic and Mechanical GI Injuries",
-     "questionCount": 20
-    }
-   ]
-  }
- ],
- "totalQuestions": 1002
+  ],
+  "totalQuestions": 1002
 }
