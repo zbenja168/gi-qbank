@@ -4,18 +4,19 @@ import { ProgressData, AnswerRecord } from '../types/progress';
 import { QuestionCard } from '../components/Question/QuestionCard';
 import { useTimer } from '../hooks/useTimer';
 
+type ReviewMode = 'completed' | 'incorrect' | 'bookmarked';
+
 interface Props {
   questions: Question[];
   progress: ProgressData;
   onRecordAnswer: (questionId: string, record: AnswerRecord) => void;
   onToggleBookmark: (questionId: string) => void;
   onBack: () => void;
+  initialMode?: ReviewMode;
 }
 
-type ReviewMode = 'completed' | 'incorrect' | 'bookmarked';
-
-export function ReviewPage({ questions, progress, onRecordAnswer, onToggleBookmark, onBack }: Props) {
-  const [mode, setMode] = useState<ReviewMode>('completed');
+export function ReviewPage({ questions, progress, onRecordAnswer, onToggleBookmark, onBack, initialMode = 'completed' }: Props) {
+  const [mode, setMode] = useState<ReviewMode>(initialMode);
   const [currentIndex, setCurrentIndex] = useState(0);
   const timer = useTimer();
 

@@ -43,7 +43,9 @@ function AppShell() {
     setPage('dashboard');
   }, [loadAllQuestions, allCategoryIds, tier]);
 
-  const handleGoToReview = useCallback(async () => {
+  const [reviewMode, setReviewMode] = useState<'completed' | 'incorrect' | 'bookmarked'>('completed');
+  const handleGoToReview = useCallback(async (mode: 'completed' | 'incorrect' | 'bookmarked' = 'completed') => {
+    setReviewMode(mode);
     if (allCategoryIds.length > 0) {
       await loadAllQuestions(allCategoryIds, tier);
     }
@@ -55,6 +57,7 @@ function AppShell() {
       const hash = window.location.hash.slice(1);
       if (hash === '/dashboard') handleGoToDashboard();
       else if (hash === '/review') handleGoToReview();
+      else if (hash === '/missed') handleGoToReview('incorrect');
       else setPage('home');
     };
     window.addEventListener('hashchange', handleHash);
@@ -120,6 +123,7 @@ function AppShell() {
     case 'review':
       return (
         <ReviewPage
+          initialMode={reviewMode}
           questions={questions}
           progress={progress}
           onRecordAnswer={recordAnswer}

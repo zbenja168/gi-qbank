@@ -21,7 +21,7 @@ interface Props {
   onClearAll: () => void;
   onStartQuiz: () => void;
   onGoToDashboard: () => void;
-  onGoToReview: () => void;
+  onGoToReview: (mode?: 'completed' | 'incorrect' | 'bookmarked') => void;
   onClearProgress: () => void;
 }
 
@@ -43,6 +43,7 @@ export function HomePage({
   };
   const stats = getOverallStats(tierProgress);
   const completedCount = Object.keys(tierProgress.answers).length;
+  const missedCount = Object.values(tierProgress.answers).filter((a) => !a.isCorrect).length;
   const answeredByTopic = getAnsweredByTopic(tierProgress);
 
   // Compute remaining (unanswered) for selected topics
@@ -76,9 +77,18 @@ export function HomePage({
                 Dashboard ({stats.percentage}%)
               </button>
             )}
+            {missedCount > 0 && (
+              <button
+                onClick={() => onGoToReview('incorrect')}
+                className="px-4 py-2 text-sm rounded-lg border border-amber-600 bg-amber-500/10 text-amber-400 font-medium hover:bg-amber-500/20 transition-colors"
+                title="Redo the questions you got wrong"
+              >
+                🔁 Missed ({missedCount})
+              </button>
+            )}
             {completedCount > 0 && (
               <button
-                onClick={onGoToReview}
+                onClick={() => onGoToReview('completed')}
                 className="px-4 py-2 text-sm rounded-lg border border-teal-700 text-teal-400 hover:bg-teal-900/30 transition-colors"
               >
                 Completed ({completedCount})
