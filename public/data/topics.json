@@ -279,7 +279,83 @@
           "questionCount": 20
         }
       ]
+    },
+    {
+      "id": "gi-week-6",
+      "name": "Week 6 | Intestinal Disorders, Neoplasia & Anorectal Disease",
+      "topics": [
+        {
+          "id": "small-intestine-disorders",
+          "name": "Small Intestine Disorders",
+          "questionCount": 20
+        },
+        {
+          "id": "appendicitis",
+          "name": "Appendicitis",
+          "questionCount": 20
+        },
+        {
+          "id": "colon-disorders",
+          "name": "Colon Disorders",
+          "questionCount": 20
+        },
+        {
+          "id": "gi-obstruction",
+          "name": "Gastrointestinal Obstruction",
+          "questionCount": 20
+        },
+        {
+          "id": "intestinal-polyps",
+          "name": "Intestinal Polyps",
+          "questionCount": 20
+        },
+        {
+          "id": "hereditary-colon-cancer",
+          "name": "Hereditary Colon Cancer Syndromes",
+          "questionCount": 20
+        },
+        {
+          "id": "colorectal-cancer-carcinoid",
+          "name": "Colorectal Cancer and Carcinoid Tumors",
+          "questionCount": 20
+        },
+        {
+          "id": "congenital-abdominal-wall-defects",
+          "name": "Congenital Abdominal Wall Defects",
+          "questionCount": 20
+        },
+        {
+          "id": "hernias-types-management",
+          "name": "Hernias: Types, Risk Factors and Management",
+          "questionCount": 20
+        },
+        {
+          "id": "anorectal-anatomy-hemorrhoids",
+          "name": "Anorectal Anatomy and Hemorrhoids",
+          "questionCount": 20
+        },
+        {
+          "id": "anal-fissure-abscess-fistula",
+          "name": "Anal Fissure, Abscess and Fistula-in-Ano",
+          "questionCount": 20
+        },
+        {
+          "id": "proctitis-pruritus-ani",
+          "name": "Proctitis and Pruritus Ani",
+          "questionCount": 20
+        },
+        {
+          "id": "colonic-absorption-motility",
+          "name": "Colonic Structure, Absorption and Motility",
+          "questionCount": 20
+        },
+        {
+          "id": "defecation-continence",
+          "name": "Defecation and Continence",
+          "questionCount": 20
+        }
+      ]
     }
   ],
-  "totalQuestions": 1002
+  "totalQuestions": 1282
 }
