@@ -1,4 +1,4 @@
-import { useState, useCallback } from 'react';
+import { useState, useCallback, useMemo } from 'react';
 import { Question } from '../types/question';
 import { ProgressData, AnswerRecord } from '../types/progress';
 import { QuestionCard } from '../components/Question/QuestionCard';
@@ -20,11 +20,19 @@ export function ReviewPage({ questions, progress, onRecordAnswer, onToggleBookma
   const [currentIndex, setCurrentIndex] = useState(0);
   const timer = useTimer();
 
-  const filteredQuestions = mode === 'completed'
-    ? questions.filter(q => progress.answers[q.id])
-    : mode === 'incorrect'
-    ? questions.filter(q => progress.answers[q.id] && !progress.answers[q.id].isCorrect)
-    : questions.filter(q => progress.bookmarkedQuestions.includes(q.id));
+  // Frozen when the mode changes, NOT recomputed on every render. Recomputing
+  // meant that answering a missed question correctly removed it from the list
+  // mid-session, so the current index silently pointed at a different question
+  // and the one after it got skipped. The counts below stay live; the list he
+  // is working through does not move under him.
+  const filteredQuestions = useMemo(() => {
+    if (mode === 'completed') return questions.filter(q => progress.answers[q.id]);
+    if (mode === 'incorrect') {
+      return questions.filter(q => progress.answers[q.id] && !progress.answers[q.id].isCorrect);
+    }
+    return questions.filter(q => progress.bookmarkedQuestions.includes(q.id));
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [questions, mode]);
 
   const currentQuestion = filteredQuestions[currentIndex];
 

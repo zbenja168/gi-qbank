@@ -31,6 +31,36 @@ export function useQuestions() {
     }
   }, []);
 
+  // Load ONLY the questions he has answered incorrectly, as a retake.
+  //
+  // Deliberately does not filter out answered questions the way loadQuestions
+  // does - every question here has been answered, that is the point. The set is
+  // resolved once, here, so the run is fixed at the moment he starts it: fixing
+  // one must not make the list shrink under him mid-quiz.
+  const loadMissedQuestions = useCallback(async (
+    categoryIds: string[],
+    progress: ProgressData,
+    tier: Tier = 'standard',
+  ) => {
+    setLoading(true);
+    try {
+      const categories = await loadMultipleCategories(categoryIds, tier);
+      const all = categories.flatMap(c => c.questions);
+      const missed = all.filter(q => {
+        const a = progress.answers[q.id];
+        return a && !a.isCorrect;
+      });
+      setQuestions(shuffle(missed));
+      return missed.length;
+    } catch (err) {
+      console.error('Failed to load missed questions:', err);
+      setQuestions([]);
+      return 0;
+    } finally {
+      setLoading(false);
+    }
+  }, []);
+
   // Load all questions (for dashboard/review — no filtering)
   const loadAllQuestions = useCallback(async (categoryIds: string[], tier: Tier = 'standard') => {
     setLoading(true);
@@ -46,5 +76,5 @@ export function useQuestions() {
     }
   }, []);
 
-  return { questions, loading, loadQuestions, loadAllQuestions };
+  return { questions, loading, loadQuestions, loadMissedQuestions, loadAllQuestions };
 }

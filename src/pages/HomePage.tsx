@@ -22,13 +22,14 @@ interface Props {
   onStartQuiz: () => void;
   onGoToDashboard: () => void;
   onGoToReview: (mode?: 'completed' | 'incorrect' | 'bookmarked') => void;
+  onRetakeMissed: () => void;
   onClearProgress: () => void;
 }
 
 export function HomePage({
   tier, onSetTier, entitlement, entitlementReason, topics, selectedTopicIds, selectedCount, progress,
   onToggleTopic, onToggleCategory, onSelectAll, onClearAll,
-  onStartQuiz, onGoToDashboard, onGoToReview, onClearProgress,
+  onStartQuiz, onGoToDashboard, onGoToReview, onRetakeMissed, onClearProgress,
 }: Props) {
   const locked = tier === 'advanced' && entitlement !== null && entitlement !== 'ok';
   // Standard and advanced share topicIds but have distinct question ids
@@ -78,13 +79,22 @@ export function HomePage({
               </button>
             )}
             {missedCount > 0 && (
-              <button
-                onClick={() => onGoToReview('incorrect')}
-                className="px-4 py-2 text-sm rounded-lg border border-amber-600 bg-amber-500/10 text-amber-400 font-medium hover:bg-amber-500/20 transition-colors"
-                title="Redo the questions you got wrong"
-              >
-                🔁 Missed ({missedCount})
-              </button>
+              <>
+                <button
+                  onClick={() => onGoToReview('incorrect')}
+                  className="px-4 py-2 text-sm rounded-lg border border-amber-600 bg-amber-500/10 text-amber-400 font-medium hover:bg-amber-500/20 transition-colors"
+                  title="Look back over the questions you got wrong"
+                >
+                  🔁 Missed ({missedCount})
+                </button>
+                <button
+                  onClick={onRetakeMissed}
+                  className="px-4 py-2 text-sm rounded-lg border border-amber-500 bg-amber-500 text-slate-900 font-semibold hover:bg-amber-400 transition-colors"
+                  title="Take a fresh quiz of only the questions you got wrong"
+                >
+                  Retake ({missedCount})
+                </button>
+              </>
             )}
             {completedCount > 0 && (
               <button
