@@ -58,7 +58,7 @@ export function QuestionCard({
   return (
     <div className="max-w-4xl mx-auto">
       {/* Header */}
-      <div className="flex items-center justify-between mb-4">
+      <div data-part="card-meta" className="flex items-center justify-between mb-4">
         <div className="flex items-center gap-3">
           <span className="text-sm font-medium text-slate-400">
             Question {index + 1} of {total}
@@ -101,7 +101,7 @@ export function QuestionCard({
       )}
 
       {/* Progress bar */}
-      <div className="w-full h-1.5 bg-slate-700 rounded-full mb-6">
+      <div data-part="card-progress" className="w-full h-1.5 bg-slate-700 rounded-full mb-6">
         <div
           className="h-full bg-teal-500 rounded-full transition-all duration-300"
           style={{ width: `${((index + 1) / total) * 100}%` }}
@@ -114,7 +114,7 @@ export function QuestionCard({
       </div>
 
       {/* Choices */}
-      <div className="space-y-3 mb-6">
+      <div data-part="choices" className="space-y-3 mb-6">
         {question.choices.map(choice => (
           <button
             key={choice.label}
@@ -184,7 +184,7 @@ export function QuestionCard({
       )}
 
       {/* Navigation */}
-      <div className="flex items-center justify-between pt-2 pb-8">
+      <div data-part="card-nav" className="flex items-center justify-between pt-2 pb-8">
         <button
           onClick={onPrevious}
           disabled={!hasPrevious}

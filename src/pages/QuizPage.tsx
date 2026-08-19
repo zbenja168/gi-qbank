@@ -4,6 +4,7 @@ import { ProgressData, AnswerRecord, Session } from '../types/progress';
 import { QuestionCard } from '../components/Question/QuestionCard';
 import { useTimer } from '../hooks/useTimer';
 import { track } from '../utils/track';
+import { SkinName } from '../utils/skin';
 
 interface Props {
   questions: Question[];
@@ -23,6 +24,32 @@ export function QuizPage({
   const [sessionAnswers, setSessionAnswers] = useState<Map<string, boolean>>(new Map());
   const [sessionStart] = useState(() => new Date().toISOString());
   const timer = useTimer();
+
+  // Exam chrome — the palette, flag pill and bottom navigation only exist when a
+  // skin is on, because they are there to reproduce a layout, not to change how
+  // the QBank works. Watching the attribute keeps them in step if the skin is
+  // switched while a quiz is open.
+  const [skin, setSkin] = useState<SkinName>(
+    () => (document.documentElement.getAttribute('data-skin') as SkinName) || 'off',
+  );
+  useEffect(() => {
+    const el = document.documentElement;
+    const obs = new MutationObserver(() =>
+      setSkin((el.getAttribute('data-skin') as SkinName) || 'off'));
+    obs.observe(el, { attributes: true, attributeFilter: ['data-skin'] });
+    return () => obs.disconnect();
+  }, []);
+  const examMode = skin !== 'off';
+
+  // A running clock: an exam interface without one does not feel like an exam.
+  const [elapsed, setElapsed] = useState(0);
+  useEffect(() => {
+    if (!examMode) return;
+    const t = setInterval(() => setElapsed(e => e + 1), 1000);
+    return () => clearInterval(t);
+  }, [examMode]);
+  const clock = [Math.floor(elapsed / 3600), Math.floor((elapsed % 3600) / 60), elapsed % 60]
+    .map(n => String(n).padStart(2, '0')).join(':');
 
   useEffect(() => {
     timer.start();
@@ -89,9 +116,10 @@ export function QuizPage({
   return (
     <div data-part="quiz-root" className="min-h-screen bg-slate-900">
       <header data-part="quiz-header" className="bg-slate-800 border-b border-slate-700 sticky top-0 z-10">
-        <div className="max-w-4xl mx-auto px-4 py-3 flex items-center justify-between">
+        <div data-part="quiz-headbar" className="max-w-4xl mx-auto px-4 py-3 flex items-center justify-between">
           <h1 data-part="quiz-title" className="text-lg font-bold text-teal-400">GI QBank</h1>
           <div className="flex items-center gap-4">
+            {examMode && <span data-part="quiz-clock">{clock}</span>}
             {sessionAnswered > 0 && (
               <span data-part="quiz-meta" className={`text-sm font-medium ${
                 Math.round((sessionCorrect / sessionAnswered) * 100) >= 70 ? 'text-green-400' :
@@ -100,11 +128,56 @@ export function QuizPage({
                 {Math.round((sessionCorrect / sessionAnswered) * 100)}% ({sessionCorrect}/{sessionAnswered})
               </span>
             )}
+            {examMode && (
+              <button data-part="quiz-end" onClick={handleEnd}>
+                {skin === 'nbme' ? 'End Block' : 'END EXAM'}
+              </button>
+            )}
           </div>
         </div>
       </header>
 
+      {/* Examplify keeps a question palette down the left; the NBME interface
+          does not, so it is skinned away there rather than rendered twice. */}
+      {examMode && (
+        <aside data-part="palette" aria-label="Questions">
+          <span data-part="palette-head">FILTER ›</span>
+          {questions.map((q, i) => {
+            const done = progress.answers[q.id] || sessionAnswers.has(q.id);
+            return (
+              <button
+                key={q.id}
+                data-part="palette-item"
+                data-state={i === currentIndex ? 'current' : done ? 'done' : undefined}
+                aria-current={i === currentIndex ? 'true' : undefined}
+                onClick={() => setCurrentIndex(i)}
+              >
+                {i + 1}
+              </button>
+            );
+          })}
+        </aside>
+      )}
+
       <main data-part="quiz-main" className="px-4 py-6">
+        {examMode && (
+          <div data-part="exam-itembar">
+            <span data-part="exam-itemno">
+              {skin === 'nbme'
+                ? `Item ${currentIndex + 1} of ${questions.length}`
+                : `Question # ${currentIndex + 1} of ${questions.length}`}
+            </span>
+            <button
+              data-part="exam-flag"
+              data-state={progress.bookmarkedQuestions.includes(currentQuestion.id) ? 'on' : undefined}
+              onClick={() => onToggleBookmark(currentQuestion.id)}
+            >
+              {progress.bookmarkedQuestions.includes(currentQuestion.id)
+                ? (skin === 'nbme' ? '☑ Mark' : 'UNFLAG QUESTION')
+                : (skin === 'nbme' ? '☐ Mark' : 'FLAG QUESTION')}
+            </button>
+          </div>
+        )}
         <QuestionCard
           key={currentQuestion.id}
           question={currentQuestion}
@@ -122,6 +195,33 @@ export function QuizPage({
           runningStats={{ correct: sessionCorrect, answered: sessionAnswered }}
         />
       </main>
+
+      {examMode && (
+        <div data-part="examfoot">
+          <span data-part="examfoot-count">
+            {currentIndex + 1} OF {questions.length} QUESTIONS
+          </span>
+          <div data-part="examfoot-nav">
+            <button
+              data-part="examfoot-prev"
+              disabled={currentIndex === 0}
+              onClick={() => setCurrentIndex(i => Math.max(i - 1, 0))}
+            >
+              Previous
+            </button>
+            <button
+              data-part="examfoot-next"
+              onClick={() =>
+                currentIndex < questions.length - 1
+                  ? setCurrentIndex(i => i + 1)
+                  : handleEnd()
+              }
+            >
+              {currentIndex < questions.length - 1 ? 'Next' : 'Finish'}
+            </button>
+          </div>
+        </div>
+      )}
     </div>
   );
 }
