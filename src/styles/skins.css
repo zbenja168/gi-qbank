@@ -695,3 +695,52 @@ html[data-skin='nbme'] [data-part='quiz-main'] {
   max-width: 900px;
   margin: 0 0 0 44px;
 }
+
+/* --- cross-out ----------------------------------------------------------
+   The eye at the right of each Examplify option is a real control: it rules
+   an option out without answering, and clicking it again brings it back. It
+   exists only while a skin is on, and only before the question is answered —
+   after that the option's own right/wrong state is the thing that matters. */
+
+[data-part='choice-eye'] { display: none; }
+
+html[data-skin='examplify'] [data-part='choice-row'] { position: relative; }
+html[data-skin='examplify'] [data-part='choice-eye'] {
+  display: block;
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  transform: translateY(-50%);
+  width: 30px;
+  height: 30px;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: transparent no-repeat center/21px
+    url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2316232c' stroke-width='1.7'><path d='M1.6 12S5.2 5.8 12 5.8 22.4 12 22.4 12 18.8 18.2 12 18.2 1.6 12 1.6 12Z'/><circle cx='12' cy='12' r='3.1'/></svg>");
+  opacity: 0.62;
+  cursor: pointer;
+}
+html[data-skin='examplify'] [data-part='choice-eye']:hover { opacity: 1; }
+html[data-skin='examplify'] [data-part='choice-eye']:focus-visible {
+  outline: 2px solid #1b4f72;
+  outline-offset: 1px;
+  opacity: 1;
+}
+/* Ruled out: the eye is struck through, and so is the option. */
+html[data-skin='examplify'] [data-part='choice-eye'][data-state='on'] {
+  opacity: 0.85;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2316232c' stroke-width='1.7'><path d='M3.2 5.4 20.8 18.6'/><path d='M1.6 12S5.2 5.8 12 5.8 22.4 12 22.4 12 18.8 18.2 12 18.2 1.6 12 1.6 12Z'/><circle cx='12' cy='12' r='3.1'/></svg>");
+}
+html[data-skin='examplify'] [data-part='choice'][data-struck='on'] {
+  background: #f6f7f7;
+}
+html[data-skin='examplify'] [data-part='choice'][data-struck='on'] [data-part='choice-text'],
+html[data-skin='examplify'] [data-part='choice'][data-struck='on'] [data-part='choice-letter'] {
+  text-decoration: line-through;
+  color: #8b959c;
+}
+/* The pseudo-element that stood in for the eye before it did anything. */
+html[data-skin='examplify'] [data-part='choice']:not(:disabled)::after { content: none; }
+/* Room for the control at the right-hand end of the pill. */
+html[data-skin='examplify'] [data-part='choice'] { padding-right: 62px; }

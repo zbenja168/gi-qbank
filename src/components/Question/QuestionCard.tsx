@@ -25,6 +25,18 @@ export function QuestionCard({
   const [selected, setSelected] = useState<string | null>(previousAnswer ?? null);
   const answered = selected !== null;
 
+  // Options the student has ruled out with the cross-out control. Local to the
+  // card, which is keyed by question id, so each question starts clean.
+  const [struck, setStruck] = useState<Set<string>>(() => new Set());
+  const toggleStrike = (label: string) => {
+    setStruck(prev => {
+      const next = new Set(prev);
+      if (next.has(label)) next.delete(label);
+      else next.add(label);
+      return next;
+    });
+  };
+
   const handleSelect = (label: string) => {
     if (answered) return;
     setSelected(label);
@@ -120,28 +132,42 @@ export function QuestionCard({
         className="space-y-3 mb-6"
       >
         {question.choices.map(choice => (
-          <button
-            key={choice.label}
-            onClick={() => handleSelect(choice.label)}
-            disabled={answered}
-            data-part="choice"
-            data-state={
-              !answered ? undefined
-                : choice.label === question.correctAnswer ? 'correct'
-                : choice.label === selected ? 'wrong' : undefined
-            }
-            className={`w-full text-left px-5 py-4 rounded-xl border-2 transition-all flex items-center gap-3 ${getChoiceStyle(choice.label)}`}
-          >
-            <span data-part="choice-letter" className={`w-8 h-8 rounded-full flex items-center justify-center text-sm font-semibold flex-shrink-0 ${
-              answered && choice.label === question.correctAnswer ? 'bg-green-600 text-white' :
-              answered && choice.label === selected ? 'bg-red-600 text-white' :
-              'bg-slate-700 text-slate-300'
-            }`}>
-              {choice.label}
-            </span>
-            <span data-part="choice-text" className="text-slate-300 flex-1">{choice.text}</span>
-            {getChoiceIcon(choice.label)}
-          </button>
+          <div key={choice.label} data-part="choice-row" className="relative">
+            <button
+              onClick={() => handleSelect(choice.label)}
+              disabled={answered}
+              data-part="choice"
+              data-struck={!answered && struck.has(choice.label) ? 'on' : undefined}
+              data-state={
+                !answered ? undefined
+                  : choice.label === question.correctAnswer ? 'correct'
+                  : choice.label === selected ? 'wrong' : undefined
+              }
+              className={`w-full text-left px-5 py-4 rounded-xl border-2 transition-all flex items-center gap-3 ${getChoiceStyle(choice.label)}`}
+            >
+              <span data-part="choice-letter" className={`w-8 h-8 rounded-full flex items-center justify-center text-sm font-semibold flex-shrink-0 ${
+                answered && choice.label === question.correctAnswer ? 'bg-green-600 text-white' :
+                answered && choice.label === selected ? 'bg-red-600 text-white' :
+                'bg-slate-700 text-slate-300'
+              }`}>
+                {choice.label}
+              </span>
+              <span data-part="choice-text" className="text-slate-300 flex-1">{choice.text}</span>
+              {getChoiceIcon(choice.label)}
+            </button>
+            {/* Cross-out. Only the exam skins show it (see skins.css); it rules
+                an option out without answering, the way the real software does. */}
+            {!answered && (
+              <button
+                type="button"
+                data-part="choice-eye"
+                data-state={struck.has(choice.label) ? 'on' : undefined}
+                aria-pressed={struck.has(choice.label)}
+                aria-label={`${struck.has(choice.label) ? 'Restore' : 'Cross out'} answer ${choice.label}`}
+                onClick={() => toggleStrike(choice.label)}
+              />
+            )}
+          </div>
         ))}
       </div>
 
