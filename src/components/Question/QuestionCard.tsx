@@ -109,7 +109,7 @@ export function QuestionCard({
       </div>
 
       {/* Stem */}
-      <div className="bg-slate-800 rounded-xl border border-slate-700 p-6 mb-6 shadow-sm">
+      <div data-part="stem" className="bg-slate-800 rounded-xl border border-slate-700 p-6 mb-6 shadow-sm">
         <p className="text-slate-200 leading-relaxed whitespace-pre-line">{question.stem}</p>
       </div>
 
@@ -120,16 +120,22 @@ export function QuestionCard({
             key={choice.label}
             onClick={() => handleSelect(choice.label)}
             disabled={answered}
+            data-part="choice"
+            data-state={
+              !answered ? undefined
+                : choice.label === question.correctAnswer ? 'correct'
+                : choice.label === selected ? 'wrong' : undefined
+            }
             className={`w-full text-left px-5 py-4 rounded-xl border-2 transition-all flex items-center gap-3 ${getChoiceStyle(choice.label)}`}
           >
-            <span className={`w-8 h-8 rounded-full flex items-center justify-center text-sm font-semibold flex-shrink-0 ${
+            <span data-part="choice-letter" className={`w-8 h-8 rounded-full flex items-center justify-center text-sm font-semibold flex-shrink-0 ${
               answered && choice.label === question.correctAnswer ? 'bg-green-600 text-white' :
               answered && choice.label === selected ? 'bg-red-600 text-white' :
               'bg-slate-700 text-slate-300'
             }`}>
               {choice.label}
             </span>
-            <span className="text-slate-300 flex-1">{choice.text}</span>
+            <span data-part="choice-text" className="text-slate-300 flex-1">{choice.text}</span>
             {getChoiceIcon(choice.label)}
           </button>
         ))}
@@ -137,7 +143,7 @@ export function QuestionCard({
 
       {/* Explanation */}
       {answered && (
-        <div className={`rounded-xl border-2 p-6 mb-6 ${
+        <div data-part="explanation" className={`rounded-xl border-2 p-6 mb-6 ${
           selected === question.correctAnswer ? 'border-green-700 bg-green-900/30' : 'border-red-700 bg-red-900/30'
         }`}>
           <div className="flex items-center gap-2 mb-3">

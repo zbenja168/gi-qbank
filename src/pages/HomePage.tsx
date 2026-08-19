@@ -1,3 +1,4 @@
+import { useState, useEffect } from 'react';
 import { TopicsIndex, Category } from '../types/topic';
 import { CategoryAccordion } from '../components/TopicFilter/CategoryAccordion';
 import { ProgressData, getAnsweredByTopic } from '../types/progress';
@@ -5,6 +6,7 @@ import { getOverallStats } from '../utils/stats';
 import { BrandCard } from '../components/Brand';
 import { Tier } from '../utils/questionLoader';
 import { EntitlementStatus } from '../utils/entitlement';
+import { SkinName, SkinAccess, applySkin, savedSkin, loadSkinAccess } from '../utils/skin';
 
 interface Props {
   tier: Tier;
@@ -54,6 +56,16 @@ export function HomePage({
       const answered = answeredByTopic[t.id] || 0;
       return s + Math.max(0, t.questionCount - answered);
     }, 0), 0);
+
+  const [skin, setSkin] = useState<SkinName>(savedSkin);
+  const [skinAccess, setSkinAccess] = useState<SkinAccess | null>(null);
+  useEffect(() => { loadSkinAccess().then(setSkinAccess); }, []);
+  const skinLocked = skinAccess !== null && skinAccess !== 'ok';
+  function chooseSkin(next: SkinName) {
+    if (skinLocked && next !== 'off') return;
+    setSkin(next);
+    applySkin(next);
+  }
 
   return (
     <div className="min-h-screen bg-slate-900">
@@ -131,6 +143,46 @@ export function HomePage({
               Advanced
             </button>
           </div>
+          {/* Exam skins — re-dress the quiz to look like the interfaces you
+              actually sit exams in. Signed-in Active Transport accounts only. */}
+          <div className="mt-4">
+            <div className="flex items-center gap-2 flex-wrap">
+              <span className="text-sm text-slate-400">Skin</span>
+              <div className="inline-flex rounded-xl border border-slate-700 bg-slate-800 p-1">
+                {([
+                  ['off', 'Off'],
+                  ['examplify', 'Examplify Skin'],
+                  ['nbme', 'NBME Skin'],
+                ] as [SkinName, string][]).map(([value, label]) => (
+                  <button
+                    key={value}
+                    onClick={() => chooseSkin(value)}
+                    disabled={skinLocked && value !== 'off'}
+                    title={skinLocked && value !== 'off'
+                      ? 'Sign in to Active Transport to use the exam skins'
+                      : undefined}
+                    className={`px-3 py-1.5 text-sm font-semibold rounded-lg transition-colors ${
+                      skin === value
+                        ? 'bg-blue-600 text-white'
+                        : skinLocked && value !== 'off'
+                          ? 'text-slate-600 cursor-not-allowed'
+                          : 'text-slate-400 hover:text-slate-200'
+                    }`}
+                  >
+                    {label}
+                  </button>
+                ))}
+              </div>
+            </div>
+            <p className="mt-2 text-sm text-slate-400 max-w-2xl">
+              {skinLocked
+                ? 'Sign in to Active Transport and open this QBank from the hub to practise in an exam-style interface.'
+                : skin === 'off'
+                  ? 'Practise in an interface that looks like the software you sit exams in.'
+                  : 'Exam skin on — right and wrong are still marked the usual way.'}
+            </p>
+          </div>
+
           <p className="mt-2 text-sm text-slate-400 max-w-2xl">
             {tier === 'advanced'
               ? 'Advanced: UWorld-style, multi-step clinical vignettes that make you apply the bricks, not just recall them. Rolling out brick by brick — the topics below are the ones ready so far.'
