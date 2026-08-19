@@ -142,20 +142,24 @@ export function QuizPage({
       {examMode && (
         <aside data-part="palette" aria-label="Questions">
           <span data-part="palette-head">FILTER ›</span>
-          {questions.map((q, i) => {
-            const done = progress.answers[q.id] || sessionAnswers.has(q.id);
-            return (
-              <button
-                key={q.id}
-                data-part="palette-item"
-                data-state={i === currentIndex ? 'current' : done ? 'done' : undefined}
-                aria-current={i === currentIndex ? 'true' : undefined}
-                onClick={() => setCurrentIndex(i)}
-              >
-                {i + 1}
-              </button>
-            );
-          })}
+          <span data-part="palette-chev" data-dir="up" aria-hidden="true" />
+          <div data-part="palette-items">
+            {questions.map((q, i) => {
+              const done = progress.answers[q.id] || sessionAnswers.has(q.id);
+              return (
+                <button
+                  key={q.id}
+                  data-part="palette-item"
+                  data-state={i === currentIndex ? 'current' : done ? 'done' : undefined}
+                  aria-current={i === currentIndex ? 'true' : undefined}
+                  onClick={() => setCurrentIndex(i)}
+                >
+                  {i + 1}
+                </button>
+              );
+            })}
+          </div>
+          <span data-part="palette-chev" data-dir="down" aria-hidden="true" />
         </aside>
       )}
 
@@ -165,7 +169,7 @@ export function QuizPage({
             <span data-part="exam-itemno">
               {skin === 'nbme'
                 ? `Item ${currentIndex + 1} of ${questions.length}`
-                : `Question # ${currentIndex + 1} of ${questions.length}`}
+                : `Question ${currentIndex + 1}`}
             </span>
             <button
               data-part="exam-flag"
@@ -176,6 +180,7 @@ export function QuizPage({
                 ? (skin === 'nbme' ? '☑ Mark' : 'UNFLAG QUESTION')
                 : (skin === 'nbme' ? '☐ Mark' : 'FLAG QUESTION')}
             </button>
+            {skin === 'examplify' && <span data-part="exam-more" aria-hidden="true">•••</span>}
           </div>
         )}
         <QuestionCard

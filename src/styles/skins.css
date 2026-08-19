@@ -348,3 +348,350 @@ html[data-skin] [data-part='examfoot'] { padding-left: 200px; }
   html[data-skin] [data-part='examfoot'] { padding-left: 22px; justify-content: flex-end; }
   html[data-skin] [data-part='examfoot-count'] { display: none; }
 }
+
+/* ============================================================================
+   FIDELITY PASS — worked from a full-resolution screenshot of the real
+   Examplify item view. The earlier version had the right furniture in the
+   right places but the wrong weights, shapes and colours; these rules bring
+   each piece to what the product actually renders.
+   ========================================================================== */
+
+/* ------------------------------------------------------------- Examplify ---
+   Navy on near-white, not Material blue on grey. */
+html[data-skin='examplify'] {
+  --exam-navy: #1b4f72;
+  --exam-navy-deep: #16405c;
+  --exam-ink: #16232c;
+  --exam-rule: #e2e5e7;
+}
+html[data-skin='examplify'] body,
+html[data-skin='examplify'] [data-part='quiz-root'] { background: #ffffff; }
+
+/* The item header: question label with its dropdown caret, an OUTLINED flag
+   pill (it only fills orange once the question is flagged), and the overflow
+   menu pushed to the far right. */
+html[data-skin='examplify'] [data-part='exam-itembar'] {
+  max-width: none;
+  gap: 14px;
+  padding: 4px 0 18px;
+}
+html[data-skin='examplify'] [data-part='exam-itemno'] {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--exam-ink);
+  letter-spacing: 0.01em;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+html[data-skin='examplify'] [data-part='exam-itemno']::after {
+  content: '';
+  width: 8px;
+  height: 8px;
+  border-right: 2px solid var(--exam-ink);
+  border-bottom: 2px solid var(--exam-ink);
+  transform: translateY(-3px) rotate(45deg);
+}
+html[data-skin='examplify'] [data-part='exam-flag'] {
+  background: #ffffff;
+  color: var(--exam-navy);
+  border: 1.5px solid var(--exam-navy);
+  border-radius: 999px;
+  padding: 8px 20px;
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+}
+html[data-skin='examplify'] [data-part='exam-flag']:hover { background: #f2f7fb; }
+html[data-skin='examplify'] [data-part='exam-flag'][data-state='on'] {
+  background: #f5a623;
+  border-color: #f5a623;
+  color: #ffffff;
+}
+html[data-skin='examplify'] [data-part='exam-more'] {
+  margin-left: auto;
+  color: var(--exam-navy-deep);
+  font-size: 1.35rem;
+  letter-spacing: 0.08em;
+  line-height: 1;
+}
+
+/* Stem: no card, no border — plain text across the working area. */
+html[data-skin='examplify'] [data-part='stem'] {
+  border: 0;
+  padding: 0 0 26px;
+  font-size: 0.97rem;
+  line-height: 1.55;
+  color: var(--exam-ink);
+}
+
+/* "Answers: A - D" — the range is real, so it comes from the card. */
+html[data-skin='examplify'] [data-part='choices']::before {
+  content: 'Answers: A - ' attr(data-last);
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--exam-ink);
+  margin-bottom: 14px;
+}
+
+/* Full-round pills, bold letter set in from the edge, and the eye that sits at
+   the right of every unanswered option. */
+html[data-skin='examplify'] [data-part='choice'] {
+  background: #eff0f0;
+  border: 1px solid #e3e5e6;
+  border-radius: 999px;
+  padding: 15px 26px;
+  gap: 16px;
+  min-height: 54px;
+}
+html[data-skin='examplify'] [data-part='choice']:hover:not(:disabled) {
+  background: #e8eaeb;
+  border-color: #d5d8da;
+}
+html[data-skin='examplify'] [data-part='choice-letter'] {
+  background: transparent;
+  border: 0;
+  color: var(--exam-ink);
+  font-weight: 700;
+  font-size: 0.95rem;
+  width: 0.9rem;
+  height: auto;
+}
+html[data-skin='examplify'] [data-part='choice-text'] {
+  color: var(--exam-ink);
+  font-size: 0.95rem;
+}
+html[data-skin='examplify'] [data-part='choice']:not(:disabled)::after {
+  content: '';
+  margin-left: auto;
+  flex: none;
+  width: 21px;
+  height: 21px;
+  opacity: 0.62;
+  background: no-repeat center/21px url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2316232c' stroke-width='1.7'><path d='M1.6 12S5.2 5.8 12 5.8 22.4 12 22.4 12 18.8 18.2 12 18.2 1.6 12 1.6 12Z'/><circle cx='12' cy='12' r='3.1'/></svg>");
+}
+html[data-skin='examplify'] [data-part='choice'][data-state='correct'] {
+  background: #ffffff;
+  border: 2px solid var(--exam-navy);
+}
+html[data-skin='examplify'] [data-part='choice'][data-state='wrong'] {
+  background: #fdecea;
+  border: 2px solid #e57373;
+}
+
+/* Palette: filled navy discs for what has been seen, a hollow ring for where
+   you are, a bare number for what you have not reached, and a scroll caret at
+   each end of the rail. */
+html[data-skin='examplify'] [data-part='palette'] {
+  width: 84px;
+  top: 49px;
+  background: #ffffff;
+  border-right: 1px solid var(--exam-rule);
+  padding: 12px 0;
+  gap: 0;
+  overflow: hidden;
+  align-items: stretch;
+}
+html[data-skin='examplify'] [data-part='palette-head'] {
+  color: var(--exam-navy-deep);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  padding: 0 0 6px 12px;
+}
+html[data-skin='examplify'] [data-part='palette-chev'] {
+  height: 26px;
+  flex: none;
+  position: relative;
+}
+html[data-skin='examplify'] [data-part='palette-chev']::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 10px;
+  height: 10px;
+  border-left: 2px solid #6b7b86;
+  border-top: 2px solid #6b7b86;
+}
+html[data-skin='examplify'] [data-part='palette-chev'][data-dir='up']::before {
+  transform: translate(-50%, -30%) rotate(45deg);
+}
+html[data-skin='examplify'] [data-part='palette-chev'][data-dir='down']::before {
+  transform: translate(-50%, -70%) rotate(-135deg);
+}
+html[data-skin='examplify'] [data-part='palette-items'] {
+  flex: 1 1 auto;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+  padding: 6px 0;
+  scrollbar-width: thin;
+}
+html[data-skin='examplify'] [data-part='palette-items']::-webkit-scrollbar { width: 5px; }
+html[data-skin='examplify'] [data-part='palette-items']::-webkit-scrollbar-thumb {
+  background: #c9ced2;
+  border-radius: 3px;
+}
+html[data-skin='examplify'] [data-part='palette-item'] {
+  width: 44px;
+  height: 44px;
+  border: 0;
+  background: transparent;
+  color: #7c8791;
+  font-size: 0.95rem;
+  font-weight: 500;
+}
+html[data-skin='examplify'] [data-part='palette-item'][data-state='done'] {
+  background: var(--exam-navy);
+  border: 0;
+  color: #ffffff;
+  font-weight: 600;
+  border-radius: 50%;
+}
+html[data-skin='examplify'] [data-part='palette-item'][data-state='current'] {
+  background: #ffffff;
+  border: 2px solid var(--exam-navy);
+  color: var(--exam-ink);
+  font-weight: 600;
+}
+html[data-skin='examplify'] [data-part='quiz-main'] {
+  max-width: 1180px;
+  margin: 0;
+  padding-left: 112px;
+}
+
+/* Footer: near-white blue, pill buttons, solid navy for Next. */
+html[data-skin='examplify'] [data-part='examfoot'] {
+  background: #eef4f9;
+  border-top: 1px solid #dde6ee;
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
+html[data-skin='examplify'] [data-part='examfoot-count'] {
+  color: var(--exam-ink);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+}
+html[data-skin='examplify'] [data-part='examfoot'] button {
+  border-radius: 999px;
+  min-width: 150px;
+  padding: 12px 22px;
+  font-size: 0.95rem;
+  font-weight: 500;
+}
+html[data-skin='examplify'] [data-part='examfoot-prev'] {
+  background: #ffffff;
+  border: 1px solid #cfd9e2;
+  color: var(--exam-ink);
+}
+html[data-skin='examplify'] [data-part='examfoot-prev']:disabled {
+  background: #f4f6f8;
+  border-color: #e2e7ec;
+  color: #a8b2ba;
+}
+html[data-skin='examplify'] [data-part='examfoot-next'] {
+  background: var(--exam-navy);
+  border: 1px solid var(--exam-navy);
+  color: #ffffff;
+}
+
+/* Top strip: Examplify's chrome is dark navy, not slate with a green rule. */
+html[data-skin='examplify'] [data-part='quiz-header'] {
+  background: #16232c;
+  border-bottom: 0;
+}
+
+/* ------------------------------------------------------------------ NBME ---
+   Tightened toward the board interface: its blue, Arial at reading size, and
+   an item rule that runs the width of the measure. */
+html[data-skin='nbme'] [data-part='quiz-header'] {
+  background: #12457c;
+  border-bottom: 1px solid #0c3157;
+}
+html[data-skin='nbme'] [data-part='examfoot'] {
+  background: #12457c;
+  border-top: 1px solid #0c3157;
+}
+html[data-skin='nbme'] [data-part='examfoot'] button {
+  border: 1px solid #7ea6cc;
+  border-radius: 3px;
+  background: #1c5b8f;
+}
+html[data-skin='nbme'] [data-part='quiz-main'] { max-width: 840px; }
+html[data-skin='nbme'] [data-part='stem'] { font-size: 1rem; line-height: 1.6; }
+html[data-skin='nbme'] [data-part='exam-itembar'] { max-width: none; }
+html[data-skin='nbme'] [data-part='choice-text'] { font-size: 0.97rem; }
+
+/* --- second pass -------------------------------------------------------- */
+
+/* The card centres itself inside a 4xl measure, which pulled the stem and the
+   answers away from the item header. Examplify works edge to edge. */
+html[data-skin='examplify'] [data-part='card'] { max-width: none; margin: 0; }
+
+/* These have to out-specify the earlier `[data-part='examfoot'] button` rule,
+   which is one class heavier than a bare part selector. */
+html[data-skin='examplify'] [data-part='examfoot'] [data-part='examfoot-next'] {
+  background: #1b4f72;
+  border: 1px solid #1b4f72;
+  color: #ffffff;
+}
+html[data-skin='examplify'] [data-part='examfoot'] [data-part='examfoot-prev'] {
+  background: #ffffff;
+  border: 1px solid #cfd9e2;
+  color: #16232c;
+}
+html[data-skin='examplify'] [data-part='examfoot'] [data-part='examfoot-prev']:disabled {
+  background: #f4f6f8;
+  border-color: #e2e7ec;
+  color: #a8b2ba;
+}
+
+/* ------------------------------------------------------------------ NBME ---
+   The board interface keeps the item number and the Mark control in their own
+   grey band under the blue chrome, not floating in the reading column. */
+html[data-skin='nbme'] [data-part='exam-itembar'] {
+  position: fixed;
+  top: 49px;
+  left: 0;
+  right: 0;
+  z-index: 14;
+  margin: 0;
+  padding: 9px 22px;
+  background: #eef1f4;
+  border-bottom: 1px solid #c9d2da;
+  gap: 14px;
+}
+html[data-skin='nbme'] [data-part='quiz-main'] { padding-top: 108px; }
+html[data-skin='nbme'] [data-part='exam-itemno'] { font-weight: 700; }
+html[data-skin='nbme'] [data-part='exam-flag'] {
+  background: #ffffff;
+  border: 1px solid #8b98a5;
+  color: #16232c;
+  font-size: 0.78rem;
+  padding: 4px 12px;
+}
+html[data-skin='nbme'] [data-part='exam-flag'][data-state='on'] {
+  background: #fdf3d3;
+  border-color: #c9a227;
+}
+html[data-skin='nbme'] [data-part='card'] { max-width: 760px; }
+
+/* --- third pass --------------------------------------------------------- */
+
+/* Examplify runs the item to the edge of the window, not to a reading measure:
+   the answer pills stop about a thumb's width from the right of the screen. */
+html[data-skin='examplify'] [data-part='quiz-main'] {
+  max-width: none;
+  padding-right: 30px;
+}
+
+/* NBME sets the item to the left of the working area and leaves the right
+   side clear, which is where its lab-values pane opens. */
+html[data-skin='nbme'] [data-part='quiz-main'] {
+  max-width: 900px;
+  margin: 0 0 0 44px;
+}
