@@ -4,7 +4,11 @@
 // questions, one rung lower: any account, not just Pro.
 const API = 'https://activetransport.app';
 
-export type SkinName = 'off' | 'examplify' | 'nbme';
+// 'examplify-dark' is Examplify's dark theme: the same interface, not a
+// different one. It sets data-skin="examplify" plus data-skin-mode="dark", so
+// every layout rule and every piece of chrome logic keeps treating it as
+// Examplify and only the palette changes.
+export type SkinName = 'off' | 'examplify' | 'examplify-dark' | 'nbme';
 export type SkinAccess = 'ok' | 'locked' | 'error';
 
 const STORE = 'at_qbank_skin';
@@ -41,22 +45,32 @@ export async function loadSkinAccess(): Promise<SkinAccess> {
 export function savedSkin(): SkinName {
   try {
     const s = localStorage.getItem(STORE);
-    return s === 'examplify' || s === 'nbme' ? s : 'off';
+    return s === 'examplify' || s === 'examplify-dark' || s === 'nbme' ? s : 'off';
   } catch {
     return 'off';
   }
 }
 
-/** Sets the attribute every skin rule hangs off, and remembers the choice. */
+/** Sets the attributes every skin rule hangs off, and remembers the choice. */
 export function applySkin(skin: SkinName) {
+  const el = document.documentElement;
   try {
-    if (skin === 'off') document.documentElement.removeAttribute('data-skin');
-    else document.documentElement.setAttribute('data-skin', skin);
+    if (skin === 'off') {
+      el.removeAttribute('data-skin');
+      el.removeAttribute('data-skin-mode');
+    } else if (skin === 'examplify-dark') {
+      el.setAttribute('data-skin', 'examplify');
+      el.setAttribute('data-skin-mode', 'dark');
+    } else {
+      el.setAttribute('data-skin', skin);
+      el.removeAttribute('data-skin-mode');
+    }
     localStorage.setItem(STORE, skin);
   } catch {
     /* private mode — the skin still applies for this page view */
   }
 }
+
 
 /** Re-apply on load, but never leave a skin on for someone who has signed out. */
 export async function restoreSkin(): Promise<SkinName> {

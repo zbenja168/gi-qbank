@@ -152,6 +152,7 @@ export function HomePage({
                 {([
                   ['off', 'Off'],
                   ['examplify', 'Examplify Skin'],
+                  ['examplify-dark', 'Examplify Dark'],
                   ['nbme', 'NBME Skin'],
                 ] as [SkinName, string][]).map(([value, label]) => (
                   <button

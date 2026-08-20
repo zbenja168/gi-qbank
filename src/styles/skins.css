@@ -744,3 +744,163 @@ html[data-skin='examplify'] [data-part='choice'][data-struck='on'] [data-part='c
 html[data-skin='examplify'] [data-part='choice']:not(:disabled)::after { content: none; }
 /* Room for the control at the right-hand end of the pill. */
 html[data-skin='examplify'] [data-part='choice'] { padding-right: 62px; }
+
+/* ============================================================================
+   EXAMPLIFY — DARK THEME
+
+   Examplify's own dark setting, not a separate interface: data-skin stays
+   "examplify" so every layout rule and every bit of chrome logic above still
+   applies, and only the palette is restated here. Charcoal field, lifted
+   surfaces for the answer pills, and the accent moved to the lighter blue that
+   stays legible on a dark ground.
+   ========================================================================== */
+html[data-skin='examplify'][data-skin-mode='dark'] {
+  --exam-navy: #4a9eda;
+  --exam-navy-deep: #7db6e6;
+  --exam-ink: #e6e9ec;
+  --exam-rule: #33383d;
+  color-scheme: dark;
+}
+html[data-skin='examplify'][data-skin-mode='dark'],
+html[data-skin='examplify'][data-skin-mode='dark'] body,
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='quiz-root'] {
+  background: #202427;
+  color: var(--exam-ink);
+}
+
+/* Top strip sits a shade below the field, the way the real dark theme does. */
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='quiz-header'] {
+  background: #15181a;
+  border-bottom: 1px solid #000;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='quiz-title'],
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='quiz-meta'],
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='quiz-clock'] {
+  color: #d6dade;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='quiz-end'] {
+  background: #2c3237;
+  color: #e6e9ec;
+}
+
+/* Item bar */
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='exam-itemno'] { color: var(--exam-ink); }
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='exam-itemno']::after {
+  border-right-color: var(--exam-ink);
+  border-bottom-color: var(--exam-ink);
+}
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='exam-flag'] {
+  background: transparent;
+  color: var(--exam-navy);
+  border-color: var(--exam-navy);
+}
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='exam-flag']:hover {
+  background: rgba(74, 158, 218, 0.12);
+}
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='exam-flag'][data-state='on'] {
+  background: #d98b1f;
+  border-color: #d98b1f;
+  color: #16191b;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='exam-more'] { color: var(--exam-navy-deep); }
+
+/* Stem and answers */
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='stem'] {
+  /* the light skin paints this white; on a dark field it has to sit on the page */
+  background: transparent;
+  box-shadow: none;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='stem'],
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='stem'] * { color: var(--exam-ink); }
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='choices']::before { color: #c6ccd2; }
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='choice'] {
+  background: #2b3034;
+  border-color: #383e43;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='choice']:hover:not(:disabled) {
+  background: #333a3f;
+  border-color: #454c52;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='choice-letter'],
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='choice-text'] { color: var(--exam-ink); }
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='choice'][data-state='correct'] {
+  background: #1f3a2a;
+  border-color: #4caf7d;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='choice'][data-state='wrong'] {
+  background: #3d2426;
+  border-color: #c96a6a;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='choice'][data-struck='on'] {
+  background: #24282b;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='choice'][data-struck='on'] [data-part='choice-text'],
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='choice'][data-struck='on'] [data-part='choice-letter'] {
+  color: #6f7a83;
+}
+/* The eye is drawn as a stroked SVG, so it needs restating in a light stroke. */
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='choice-eye'] {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23c6ccd2' stroke-width='1.7'><path d='M1.6 12S5.2 5.8 12 5.8 22.4 12 22.4 12 18.8 18.2 12 18.2 1.6 12 1.6 12Z'/><circle cx='12' cy='12' r='3.1'/></svg>");
+}
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='choice-eye'][data-state='on'] {
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23c6ccd2' stroke-width='1.7'><path d='M3.2 5.4 20.8 18.6'/><path d='M1.6 12S5.2 5.8 12 5.8 22.4 12 22.4 12 18.8 18.2 12 18.2 1.6 12 1.6 12Z'/><circle cx='12' cy='12' r='3.1'/></svg>");
+}
+
+/* Explanation stays readable rather than a white slab on a dark page. */
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='explanation'] {
+  background: #262b2f;
+  border-color: #3a4147;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='explanation'] * { color: #d6dade; }
+
+/* Palette rail */
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='palette'] {
+  background: #1a1d20;
+  border-right-color: var(--exam-rule);
+}
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='palette-head'] { color: var(--exam-navy-deep); }
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='palette-chev']::before {
+  border-left-color: #7f8a93;
+  border-top-color: #7f8a93;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='palette-items']::-webkit-scrollbar-thumb {
+  background: #3f464c;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='palette-item'] { color: #98a3ac; }
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='palette-item'][data-state='done'] {
+  background: #2f6f9e;
+  color: #f2f5f7;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='palette-item'][data-state='current'] {
+  background: transparent;
+  border-color: var(--exam-navy);
+  color: var(--exam-navy);
+}
+
+/* Footer */
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='examfoot'] {
+  background: #1a1d20;
+  border-top-color: #000;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='examfoot-count'] { color: #b9c1c8; }
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='examfoot'] [data-part='examfoot-prev'] {
+  background: #2c3237;
+  border-color: #434a50;
+  color: #dfe4e8;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='examfoot'] [data-part='examfoot-prev']:disabled {
+  background: #23272a;
+  border-color: #32373b;
+  color: #666f77;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='examfoot'] [data-part='examfoot-next'] {
+  background: #2f6f9e;
+  border-color: #2f6f9e;
+  color: #ffffff;
+}
+
+/* The Active Transport badge is pinned over the footer; keep it dark too. */
+html[data-skin='examplify'][data-skin-mode='dark'] #at-badge-root {
+  background: rgba(20, 23, 26, 0.92);
+  border-color: #3a4147;
+}
