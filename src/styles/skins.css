@@ -904,3 +904,56 @@ html[data-skin='examplify'][data-skin-mode='dark'] #at-badge-root {
   background: rgba(20, 23, 26, 0.92);
   border-color: #3a4147;
 }
+
+/* ============================================================================
+   SCORED PALETTE + RUNNING SCORE
+
+   A departure from the real software, which never tells you how you are doing
+   mid-block — but this is a qbank, and knowing which ones you got wrong is the
+   point of reviewing. Filled green for right, hollow red for wrong; questions
+   answered in an earlier sitting keep the neutral "seen" disc.
+   ========================================================================== */
+
+/* Each QBank's own header status says something different — a raw count here,
+   a percentage there — so it is skinned away and quiz-score replaces it. */
+html[data-skin] [data-part='quiz-meta'] { display: none; }
+html[data-skin] [data-part='quiz-score'] {
+  font-size: 0.82rem;
+  letter-spacing: 0.01em;
+  white-space: nowrap;
+}
+html[data-skin='examplify'] [data-part='quiz-score'] { color: #d6dade; }
+html[data-skin='nbme'] [data-part='quiz-score'] { color: #dbe6f2; }
+
+/* ------------------------------------------------------- Examplify (light) --- */
+html[data-skin='examplify'] [data-part='palette-item'][data-state='correct'] {
+  background: #2e9e63;
+  border: 0;
+  border-radius: 50%;
+  color: #ffffff;
+  font-weight: 600;
+}
+html[data-skin='examplify'] [data-part='palette-item'][data-state='wrong'] {
+  background: transparent;
+  border: 2px solid #d0453f;
+  border-radius: 50%;
+  color: #d0453f;
+  font-weight: 600;
+}
+/* Where you are still reads as where you are, even once it is scored. */
+html[data-skin='examplify'] [data-part='palette-item'][data-state='current'] {
+  box-shadow: 0 0 0 3px rgba(27, 79, 114, 0.18);
+}
+
+/* -------------------------------------------------------- Examplify (dark) --- */
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='palette-item'][data-state='correct'] {
+  background: #35a86c;
+  color: #10161a;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='palette-item'][data-state='wrong'] {
+  border-color: #e2635c;
+  color: #e2635c;
+}
+html[data-skin='examplify'][data-skin-mode='dark'] [data-part='palette-item'][data-state='current'] {
+  box-shadow: 0 0 0 3px rgba(74, 158, 218, 0.22);
+}

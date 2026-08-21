@@ -50,6 +50,16 @@ export function QuizPage({
   }, [examMode]);
   const clock = [Math.floor(elapsed / 3600), Math.floor((elapsed % 3600) / 60), elapsed % 60]
     .map(n => String(n).padStart(2, '0')).join(':');
+  // Running score for this sitting. Correctness comes from the progress record
+  // rather than the session map, because two of these QBanks store the picked
+  // label there and the rest store a boolean — the record is the same either way.
+  const examGraded = Array.from(sessionAnswers.keys())
+    .map(id => progress.answers[id])
+    .filter(Boolean);
+  const examCorrect = examGraded.filter(r => r.isCorrect).length;
+  const examPct = examGraded.length
+    ? Math.round((examCorrect / examGraded.length) * 100)
+    : 0;
 
   useEffect(() => {
     timer.start();
@@ -120,6 +130,14 @@ export function QuizPage({
           <h1 data-part="quiz-title" className="text-lg font-bold text-teal-400">GI QBank</h1>
           <div className="flex items-center gap-4">
             {examMode && <span data-part="quiz-clock">{clock}</span>}
+            {/* One status line for every QBank: their own quiz-meta says
+                different things, so it is skinned away and this replaces it. */}
+            {examMode && (
+              <span data-part="quiz-score">
+                {sessionAnswers.size} answered
+                {examGraded.length > 0 && ` · ${examPct}% correct`}
+              </span>
+            )}
             {sessionAnswered > 0 && (
               <span data-part="quiz-meta" className={`text-sm font-medium ${
                 Math.round((sessionCorrect / sessionAnswered) * 100) >= 70 ? 'text-green-400' :
@@ -145,12 +163,21 @@ export function QuizPage({
           <span data-part="palette-chev" data-dir="up" aria-hidden="true" />
           <div data-part="palette-items">
             {questions.map((q, i) => {
-              const done = progress.answers[q.id] || sessionAnswers.has(q.id);
+              const rec = progress.answers[q.id];
+              // Only this sitting's answers are scored in the rail. A question
+              // answered in an earlier session stays neutral-done, so opening a
+              // quiz doesn't greet you with a wall of old red.
+              const graded = sessionAnswers.has(q.id) && rec
+                ? (rec.isCorrect ? 'correct' : 'wrong')
+                : undefined;
+              const done = rec || sessionAnswers.has(q.id);
               return (
                 <button
                   key={q.id}
                   data-part="palette-item"
-                  data-state={i === currentIndex ? 'current' : done ? 'done' : undefined}
+                  data-state={i === currentIndex
+                    ? 'current'
+                    : graded || (done ? 'done' : undefined)}
                   aria-current={i === currentIndex ? 'true' : undefined}
                   onClick={() => setCurrentIndex(i)}
                 >
