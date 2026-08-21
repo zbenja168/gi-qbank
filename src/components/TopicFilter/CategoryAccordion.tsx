@@ -24,6 +24,7 @@ export function CategoryAccordion({
   const remaining = topicStats
     ? category.topics.reduce((n, t) => n + (stat(t.id)?.remaining ?? t.questionCount), 0)
     : null;
+  const catTotal = category.topics.reduce((n, t) => n + (stat(t.id)?.total ?? t.questionCount), 0);
   const catComplete = topicStats !== null && topicStats !== undefined
     && category.topics.length > 0
     && category.topics.every(t => stat(t.id)?.complete);
@@ -52,9 +53,18 @@ export function CategoryAccordion({
         {catComplete
           ? <span className="text-xs font-semibold text-green-500 uppercase tracking-wide">Complete</span>
           : remaining !== null && (
-            <span className="text-sm text-slate-400">{remaining} left</span>
+            <>
+              {/* How far through this category you are, at a glance. */}
+              <div className="hidden sm:block w-24 h-1.5 rounded-full bg-slate-700 overflow-hidden" aria-hidden="true">
+                <div className="h-full bg-blue-500/80"
+                     style={{ width: `${catTotal ? ((catTotal - remaining) / catTotal) * 100 : 0}%` }} />
+              </div>
+              <span className="text-sm text-slate-400 tabular-nums">{remaining} left</span>
+            </>
           )}
-        <span className="text-sm text-slate-500">{selectedCount}/{category.topics.length}</span>
+        <span className="text-xs text-slate-600 tabular-nums" title="Topics selected">
+          {selectedCount}/{category.topics.length}
+        </span>
         <svg className={`w-4 h-4 text-slate-500 transition-transform ${open ? 'rotate-180' : ''}`} fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" /></svg>
       </div>
       {open && (
