@@ -1,5 +1,6 @@
 import { useState, useCallback, useEffect } from 'react';
-import { useTopics } from './hooks/useTopics';
+import { useTopicProgress } from './hooks/useTopicProgress';
+import { setCompletedTopicIds, useTopics } from './hooks/useTopics';
 import { useProgress } from './hooks/useProgress';
 import { useQuestions } from './hooks/useQuestions';
 import { HomePage } from './pages/HomePage';
@@ -31,6 +32,12 @@ function AppShell() {
   const topicsHook = useTopics(tier);
   const { progress, recordAnswer, recordSession, toggleBookmark, clearAllProgress } = useProgress();
   const { questions, loading: questionsLoading, loadQuestions, loadMissedQuestions, loadAllQuestions } = useQuestions();
+  // What is left in each topic, so the picker can show remaining rather than
+  // total and a finished topic can grey itself out.
+  const { stats: topicStats } = useTopicProgress(topicsHook.topics, progress, tier);
+  // Keep bulk selection in step with what is finished.
+  setCompletedTopicIds(new Set(
+    topicStats ? Array.from(topicStats).filter(([, v]) => v.complete).map(([k]) => k) : []));
 
   const allCategoryIds = topicsHook.topics?.categories.map(c => c.id) ?? [];
 
@@ -161,6 +168,7 @@ function AppShell() {
           topics={topicsHook.topics}
           selectedTopicIds={topicsHook.selectedTopicIds}
           selectedCount={topicsHook.selectedCount}
+          topicStats={topicStats}
           progress={progress}
           onToggleTopic={topicsHook.toggleTopic}
           onToggleCategory={topicsHook.toggleCategory}

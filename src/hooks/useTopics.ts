@@ -3,9 +3,12 @@ import { TopicsIndex, Category } from '../types/topic';
 import { Tier } from '../utils/questionLoader';
 import { loadEntitlement, advancedTopics, EntitlementStatus } from '../utils/entitlement';
 
-// Advanced is Pro-gated: its topics + questions come from activetransport.app,
-// not from this repo. `entitlement` tells the UI whether to show the board or an
-// upgrade prompt. Standard still loads its public topics.json.
+/** Topic ids to leave out of bulk selection — the completed ones. Set by App
+ *  once the per-topic counts are known; empty until then, which just means
+ *  Select All behaves as it always did. */
+let completedTopicIds: Set<string> = new Set();
+export function setCompletedTopicIds(ids: Set<string>) { completedTopicIds = ids; }
+
 export function useTopics(tier: Tier = 'standard') {
   const [topics, setTopics] = useState<TopicsIndex | null>(null);
   const [selectedTopicIds, setSelectedTopicIds] = useState<Set<string>>(new Set());
@@ -15,8 +18,7 @@ export function useTopics(tier: Tier = 'standard') {
 
   useEffect(() => {
     setLoading(true);
-    setSelectedTopicIds(new Set());   // selections don't carry across tiers
-
+    setSelectedTopicIds(new Set());
     if (tier === 'advanced') {
       let cancelled = false;
       setEntitlement(null);
@@ -29,11 +31,13 @@ export function useTopics(tier: Tier = 'standard') {
       });
       return () => { cancelled = true; };
     }
-
     setEntitlement(null);
     fetch(`${import.meta.env.BASE_URL}data/topics.json`)
       .then(r => r.json())
-      .then((data: TopicsIndex) => { setTopics(data); setLoading(false); })
+      .then((data: TopicsIndex) => {
+        setTopics(data);
+        setLoading(false);
+      })
       .catch(() => setLoading(false));
   }, [tier]);
 
@@ -49,8 +53,12 @@ export function useTopics(tier: Tier = 'standard') {
   const toggleCategory = useCallback((category: Category) => {
     setSelectedTopicIds(prev => {
       const next = new Set(prev);
-      const allSelected = category.topics.every(t => next.has(t.id));
-      for (const t of category.topics) {
+      // Completed topics are skipped: ticking a category should queue up what
+      // is left in it, not re-serve questions already answered.
+      const pickable = category.topics.filter(t => !completedTopicIds.has(t.id));
+      const target = pickable.length ? pickable : category.topics;
+      const allSelected = target.every(t => next.has(t.id));
+      for (const t of target) {
         if (allSelected) next.delete(t.id);
         else next.add(t.id);
       }
@@ -62,7 +70,7 @@ export function useTopics(tier: Tier = 'standard') {
     if (!topics) return;
     const all = new Set<string>();
     for (const cat of topics.categories) {
-      for (const t of cat.topics) all.add(t.id);
+      for (const t of cat.topics) if (!completedTopicIds.has(t.id)) all.add(t.id);
     }
     setSelectedTopicIds(all);
   }, [topics]);
