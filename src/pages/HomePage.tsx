@@ -6,6 +6,7 @@ import { ProgressData, getAnsweredByTopic } from '../types/progress';
 import { getOverallStats } from '../utils/stats';
 import { BrandCard } from '../components/Brand';
 import { ProgressSummary } from '../components/ProgressSummary';
+import { MembraneDivider } from '../components/Membrane';
 import { Tier } from '../utils/questionLoader';
 import { EntitlementStatus } from '../utils/entitlement';
 import { SkinName, SkinAccess, applySkin, savedSkin, loadSkinAccess } from '../utils/skin';
@@ -228,6 +229,8 @@ export function HomePage({
             onReset={onClearProgress}
           />
         )}
+
+        <MembraneDivider />
 
         {/* Topic selection + quiz start — only when unlocked and topics loaded */}
         {!locked && topics && (<>

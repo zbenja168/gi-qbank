@@ -3,6 +3,7 @@ import { useTopicProgress } from './hooks/useTopicProgress';
 import { setCompletedTopicIds, useTopics } from './hooks/useTopics';
 import { useProgress } from './hooks/useProgress';
 import { useQuestions } from './hooks/useQuestions';
+import { MembraneLoader } from './components/Membrane';
 import { HomePage } from './pages/HomePage';
 import { QuizPage } from './pages/QuizPage';
 import { DashboardPage } from './pages/DashboardPage';
@@ -94,9 +95,8 @@ function AppShell() {
   if (topicsHook.loading) {
     return (
       <div className="min-h-screen flex items-center justify-center bg-slate-900">
-        <div className="text-center">
-          <div className="w-8 h-8 border-3 border-teal-600 border-t-transparent rounded-full animate-spin mx-auto mb-3" />
-          <p className="text-slate-400">Loading question bank...</p>
+        <div className="text-center w-full max-w-xl px-4">
+          <MembraneLoader label="Loading question bank…" />
         </div>
       </div>
     );
@@ -116,9 +116,8 @@ function AppShell() {
   if (questionsLoading) {
     return (
       <div className="min-h-screen flex items-center justify-center bg-slate-900">
-        <div className="text-center">
-          <div className="w-8 h-8 border-3 border-teal-600 border-t-transparent rounded-full animate-spin mx-auto mb-3" />
-          <p className="text-slate-400">Loading questions...</p>
+        <div className="text-center w-full max-w-xl px-4">
+          <MembraneLoader label="Loading questions…" />
         </div>
       </div>
     );
