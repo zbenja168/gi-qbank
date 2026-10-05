@@ -244,18 +244,42 @@ export function HomePage({
           </div>
         </div>
 
-        {/* Category accordions */}
-        <div className="space-y-2 mb-8">
-          {topics.categories.map(cat => (
-            <CategoryAccordion
-              key={cat.id}
-              category={cat}
-              selectedTopicIds={selectedTopicIds}
-              topicStats={topicStats}
-              onToggleTopic={onToggleTopic}
-              onToggleCategory={onToggleCategory}
-            />
-          ))}
+        {/* Category accordions, grouped by teaching week so a student revising
+            one week of the block can find its topics together. Falls back to a
+            flat list if the data has no week on it. */}
+        <div className="mb-8">
+          {topics.categories.map((cat, i) => {
+            const prev = i > 0 ? topics.categories[i - 1] : undefined;
+            const startsWeek = cat.week !== undefined && cat.week !== prev?.week;
+            const inWeek = topics.categories.filter(c => c.week === cat.week);
+            const topicCount = inWeek.reduce((n, c) => n + c.topics.length, 0);
+            const questionCount = inWeek.reduce(
+              (n, c) => n + c.topics.reduce((m, t) => m + t.questionCount, 0), 0);
+            return (
+              <div key={cat.id}>
+                {startsWeek && (
+                  <div className={`flex items-baseline gap-3 flex-wrap rounded-lg border border-teal-900/60 bg-teal-950/30 px-4 py-3 ${i === 0 ? 'mb-3' : 'mt-6 mb-3'}`}>
+                    <span className="text-base font-bold text-teal-300">{cat.weekName}</span>
+                    {cat.weekSubtitle && (
+                      <span className="text-sm text-slate-300">{cat.weekSubtitle}</span>
+                    )}
+                    <span className="ml-auto text-xs text-slate-500 whitespace-nowrap">
+                      {topicCount} topics &middot; {questionCount} questions
+                    </span>
+                  </div>
+                )}
+                <div className="mb-2">
+                  <CategoryAccordion
+                    category={cat}
+                    selectedTopicIds={selectedTopicIds}
+                    topicStats={topicStats}
+                    onToggleTopic={onToggleTopic}
+                    onToggleCategory={onToggleCategory}
+                  />
+                </div>
+              </div>
+            );
+          })}
         </div>
 
         {/* Start button */}

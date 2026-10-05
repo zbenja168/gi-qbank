@@ -1,0 +1,3715 @@
+{
+  "categoryId": "w1s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "gi-development-001",
+      "topicId": "gi-development",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "During week 4 of development, lateral folding of the trilaminar embryo creates a single midline primitive gut tube. The innermost lining (epithelium) of this tube is derived from which embryonic germ layer or tissue?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ectoderm"
+        },
+        {
+          "label": "B",
+          "text": "Somatic (parietal) mesoderm"
+        },
+        {
+          "label": "C",
+          "text": "Neural crest"
+        },
+        {
+          "label": "D",
+          "text": "Splanchnic (visceral) mesoderm"
+        },
+        {
+          "label": "E",
+          "text": "Endoderm"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The gut tube epithelium comes from endoderm; the rest of the wall comes from splanchnic mesoderm.",
+        "whyCorrect": "The lining (epithelium) of the GI tract tube is derived from endoderm, which becomes surrounded by splanchnic mesoderm during lateral folding.",
+        "whyWrongByChoice": {
+          "A": "Ectoderm forms the epidermis and nervous system, not the gut epithelium (except the extreme oral and anal ends from stomodeum/proctodeum).",
+          "B": "Somatic mesoderm lines the body wall on the opposite side of the coelom, not the gut lining.",
+          "C": "Neural crest contributes enteric ganglia (neurons), not the epithelial lining.",
+          "D": "Splanchnic mesoderm forms the muscular and connective wall of the tube, not its epithelial lining."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "gut tube formation",
+        "endoderm",
+        "germ layers"
+      ]
+    },
+    {
+      "id": "gi-development-002",
+      "topicId": "gi-development",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "A medical student is asked which artery supplies the foregut and its derivatives (esophagus, stomach, proximal duodenum, liver, gallbladder, and pancreas). Which artery is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Celiac artery (trunk)"
+        },
+        {
+          "label": "B",
+          "text": "Superior mesenteric artery"
+        },
+        {
+          "label": "C",
+          "text": "Inferior mesenteric artery"
+        },
+        {
+          "label": "D",
+          "text": "Splenic artery"
+        },
+        {
+          "label": "E",
+          "text": "Left gastric artery"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Foregut derivatives are supplied by the celiac artery.",
+        "whyCorrect": "The foregut is vascularized by the celiac artery, the midgut by the SMA, and the hindgut by the IMA.",
+        "whyWrongByChoice": {
+          "B": "The superior mesenteric artery supplies the midgut, not the foregut.",
+          "C": "The inferior mesenteric artery supplies the hindgut.",
+          "D": "The splenic artery is a branch of the celiac trunk, not the primary named foregut vessel asked for.",
+          "E": "The left gastric artery is a celiac branch, not the whole foregut supply."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "foregut",
+        "blood supply",
+        "celiac artery"
+      ]
+    },
+    {
+      "id": "gi-development-003",
+      "topicId": "gi-development",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "Which of the following adult structures is derived from the midgut?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stomach"
+        },
+        {
+          "label": "B",
+          "text": "Liver"
+        },
+        {
+          "label": "C",
+          "text": "Gallbladder"
+        },
+        {
+          "label": "D",
+          "text": "Jejunum"
+        },
+        {
+          "label": "E",
+          "text": "Sigmoid colon"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The jejunum is a midgut derivative.",
+        "whyCorrect": "The midgut becomes the distal duodenum, jejunum, ileum, cecum, ascending colon, and proximal two-thirds of the transverse colon.",
+        "whyWrongByChoice": {
+          "A": "The stomach is a foregut derivative.",
+          "B": "The liver is a foregut derivative arising from the hepatic diverticulum.",
+          "C": "The gallbladder is a foregut derivative from the caudal hepatic diverticulum.",
+          "E": "The sigmoid colon is a hindgut derivative."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "midgut",
+        "derivatives",
+        "jejunum"
+      ]
+    },
+    {
+      "id": "gi-development-004",
+      "topicId": "gi-development",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "The hindgut gives rise to the distal third of the transverse colon, the descending and sigmoid colon, the rectum, and the proximal anus. Which artery supplies these hindgut derivatives?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Celiac artery"
+        },
+        {
+          "label": "B",
+          "text": "Superior mesenteric artery"
+        },
+        {
+          "label": "C",
+          "text": "Inferior mesenteric artery"
+        },
+        {
+          "label": "D",
+          "text": "Internal iliac artery"
+        },
+        {
+          "label": "E",
+          "text": "Middle colic artery"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The hindgut is supplied by the inferior mesenteric artery.",
+        "whyCorrect": "Hindgut derivatives are vascularized by the IMA, mirroring the celiac (foregut) and SMA (midgut) pattern.",
+        "whyWrongByChoice": {
+          "A": "The celiac artery supplies the foregut.",
+          "B": "The superior mesenteric artery supplies the midgut.",
+          "D": "The internal iliac artery supplies the lower rectum and pelvis but is not the primary embryologic hindgut artery.",
+          "E": "The middle colic artery is an SMA branch supplying the midgut portion of the transverse colon."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hindgut",
+        "blood supply",
+        "IMA"
+      ]
+    },
+    {
+      "id": "gi-development-005",
+      "topicId": "gi-development",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "In the adult abdomen, the embryonic coelom (primitive body cavity) that separates the somatic and splanchnic mesoderm layers develops into which cavity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peritoneal cavity"
+        },
+        {
+          "label": "B",
+          "text": "Pleural cavity"
+        },
+        {
+          "label": "C",
+          "text": "Pericardial cavity"
+        },
+        {
+          "label": "D",
+          "text": "Amniotic cavity"
+        },
+        {
+          "label": "E",
+          "text": "Omental bursa only"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The coelom becomes the peritoneal cavity in the abdomen.",
+        "whyCorrect": "The coelom is the primitive body cavity between somatic and splanchnic mesoderm; in the abdomen it becomes the peritoneal cavity surrounding the intraperitoneal organs.",
+        "whyWrongByChoice": {
+          "B": "The pleural cavity forms in the thorax, not from the abdominal coelom.",
+          "C": "The pericardial cavity surrounds the heart in the thorax.",
+          "D": "The amniotic cavity is an extraembryonic fluid-filled sac, not derived from the intraembryonic coelom.",
+          "E": "The omental bursa is only a subdivision created by stomach rotation, not the entire peritoneal cavity."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "coelom",
+        "peritoneal cavity",
+        "body cavities"
+      ]
+    },
+    {
+      "id": "gi-development-006",
+      "topicId": "gi-development",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "An anatomist notes that one segment of bowel receives blood from branches of both the celiac artery and the superior mesenteric artery because it straddles a developmental junction. Which structure is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Esophagus"
+        },
+        {
+          "label": "B",
+          "text": "Stomach"
+        },
+        {
+          "label": "C",
+          "text": "Descending colon"
+        },
+        {
+          "label": "D",
+          "text": "Cecum"
+        },
+        {
+          "label": "E",
+          "text": "Duodenum"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The duodenum spans the foregut-midgut junction and has dual arterial supply.",
+        "whyCorrect": "The proximal duodenum is foregut (celiac supply) and the distal duodenum is midgut (SMA supply); the junction lies just distal to the common bile duct entrance.",
+        "whyWrongByChoice": {
+          "A": "The esophagus is entirely foregut, supplied by the celiac and thoracic branches, not dually with the SMA.",
+          "B": "The stomach is entirely foregut, celiac-supplied.",
+          "C": "The descending colon is entirely hindgut, IMA-supplied.",
+          "D": "The cecum is entirely midgut, SMA-supplied."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "duodenum",
+        "foregut",
+        "midgut",
+        "blood supply"
+      ]
+    },
+    {
+      "id": "gi-development-007",
+      "topicId": "gi-development",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "A term newborn does well on day 1, then develops abdominal distension and bilious vomiting. An abdominal x-ray shows dilated proximal small bowel loops with a distal narrowing consistent with jejunal stenosis. This narrowing is best explained by which developmental error?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complete failure of endodermal cell removal during recanalization"
+        },
+        {
+          "label": "B",
+          "text": "Persistence of the vitelline duct"
+        },
+        {
+          "label": "C",
+          "text": "Failure of the midgut loop to herniate into the umbilicus"
+        },
+        {
+          "label": "D",
+          "text": "Incomplete removal of luminal cells during recanalization"
+        },
+        {
+          "label": "E",
+          "text": "Incomplete rotation of the stomach"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Stenosis (narrowing) results from incomplete cell removal during recanalization.",
+        "whyCorrect": "During recanalization the endoderm fills the lumen and is then removed; incomplete removal leaves a narrowed (stenotic) lumen, whereas complete failure causes atresia.",
+        "whyWrongByChoice": {
+          "A": "Complete failure of cell removal produces atresia (full obstruction), not the partial narrowing described.",
+          "B": "A persistent vitelline duct causes Meckel diverticulum or fistula, not jejunal stenosis.",
+          "C": "Failed herniation relates to abdominal wall/rotation defects, not luminal narrowing.",
+          "E": "Incomplete stomach rotation affects gastric positioning, not jejunal luminal caliber."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "recanalization",
+        "stenosis",
+        "atresia",
+        "neonate"
+      ]
+    },
+    {
+      "id": "gi-development-008",
+      "topicId": "gi-development",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "During development the stomach undergoes a rotation that swings it into the left upper abdomen and creates a space directly posterior to it. What is this posterior space, and what movement creates it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lesser sac created by a 270-degree rotation of the midgut"
+        },
+        {
+          "label": "B",
+          "text": "Peritoneal cavity created by lateral folding"
+        },
+        {
+          "label": "C",
+          "text": "Omental bursa created by a 90-degree clockwise rotation of the stomach"
+        },
+        {
+          "label": "D",
+          "text": "Omental bursa created by fusion of the ventral mesentery"
+        },
+        {
+          "label": "E",
+          "text": "Retroperitoneal space created by mesenteric fusion"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The omental bursa forms behind the stomach as the stomach rotates 90 degrees clockwise.",
+        "whyCorrect": "The stomach rotates 90 degrees clockwise in the transverse plane, which moves it into the left upper quadrant and generates the omental bursa (lesser sac) posterior to it.",
+        "whyWrongByChoice": {
+          "A": "The 270-degree rotation applies to the midgut loop, not to the formation of the space behind the stomach.",
+          "B": "Lateral folding forms the whole peritoneal cavity, not the specific posterior gastric space.",
+          "D": "The ventral mesentery largely disappears; its fusion does not create the omental bursa.",
+          "E": "Mesenteric fusion produces secondarily retroperitoneal organs, not the omental bursa."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "stomach rotation",
+        "omental bursa",
+        "mesenteries"
+      ]
+    },
+    {
+      "id": "gi-development-009",
+      "topicId": "gi-development",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "The stomach develops an asymmetric shape with a long greater curvature and a short lesser curvature. Which developmental mechanism produces the greater curvature?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Faster proliferation of the dorsal wall of the stomach"
+        },
+        {
+          "label": "B",
+          "text": "Faster proliferation of the ventral wall of the stomach"
+        },
+        {
+          "label": "C",
+          "text": "Traction from the persisting ventral mesentery"
+        },
+        {
+          "label": "D",
+          "text": "Incomplete recanalization of the gastric lumen"
+        },
+        {
+          "label": "E",
+          "text": "Fusion of the dorsal mesentery to the body wall"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Accelerated dorsal wall growth forms the greater curvature.",
+        "whyCorrect": "The dorsal wall of the stomach grows faster than the ventral wall, forming the greater curvature; the shorter ventral wall becomes the lesser curvature.",
+        "whyWrongByChoice": {
+          "B": "The ventral wall grows more slowly and becomes the lesser (shorter) curvature.",
+          "C": "The ventral mesentery persists only around the liver and does not create the greater curvature by traction.",
+          "D": "Recanalization concerns luminal patency, not the external curvature shape.",
+          "E": "Dorsal mesentery fusion produces secondarily retroperitoneal positioning, not the greater curvature."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "stomach",
+        "greater curvature",
+        "dorsal wall"
+      ]
+    },
+    {
+      "id": "gi-development-010",
+      "topicId": "gi-development",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "The midgut elongates into a loop that herniates into the umbilicus during week 6 and returns to the abdomen during week 10. Through what total angle does this loop rotate around the axis of the superior mesenteric artery before retracting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "90 degrees"
+        },
+        {
+          "label": "B",
+          "text": "180 degrees"
+        },
+        {
+          "label": "C",
+          "text": "45 degrees"
+        },
+        {
+          "label": "D",
+          "text": "360 degrees"
+        },
+        {
+          "label": "E",
+          "text": "270 degrees"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The midgut loop rotates a total of 270 degrees.",
+        "whyCorrect": "The midgut loop rotates 270 degrees so its derivatives assume proper left/right positions when it returns to the abdomen in week 10.",
+        "whyWrongByChoice": {
+          "A": "90 degrees is the rotation of the stomach, not the midgut loop.",
+          "B": "180 degrees is incomplete for correct final intestinal positioning.",
+          "C": "45 degrees is far too little for proper gut positioning.",
+          "D": "A full 360 degrees would return the loop to its starting orientation, which does not occur."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "midgut rotation",
+        "herniation",
+        "270 degrees"
+      ]
+    },
+    {
+      "id": "gi-development-011",
+      "topicId": "gi-development",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "A 10-week fetus has an abnormally formed cloaca. The cloaca is normally divided by a partition into a ventral and a dorsal compartment. What is this partition, and what are the two resulting compartments?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Septum transversum dividing pleural and peritoneal cavities"
+        },
+        {
+          "label": "B",
+          "text": "Urorectal septum dividing a ventral urogenital sinus and a dorsal anorectal canal"
+        },
+        {
+          "label": "C",
+          "text": "Urorectal septum dividing a dorsal urogenital sinus and a ventral anorectal canal"
+        },
+        {
+          "label": "D",
+          "text": "Tracheoesophageal septum dividing esophagus and trachea"
+        },
+        {
+          "label": "E",
+          "text": "Dorsal mesentery dividing the peritoneal cavity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The urorectal septum divides the cloaca into a ventral urogenital sinus and a dorsal anorectal canal.",
+        "whyCorrect": "The cloaca is the widened caudal hindgut; the urorectal septum partitions it into a ventral urogenital sinus (bladder/urethra) and a dorsal anorectal canal (rectum/proximal anus).",
+        "whyWrongByChoice": {
+          "A": "The septum transversum forms the primitive diaphragm and liver scaffold, not cloacal division.",
+          "C": "The orientation is reversed: the urogenital sinus is ventral and the anorectal canal is dorsal.",
+          "D": "The tracheoesophageal septum divides the foregut into trachea and esophagus, not the cloaca.",
+          "E": "The dorsal mesentery anchors the gut; it does not divide the cloaca."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cloaca",
+        "urorectal septum",
+        "hindgut"
+      ]
+    },
+    {
+      "id": "gi-development-012",
+      "topicId": "gi-development",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "The anus develops from two sources, giving it two distinct blood and nerve supplies. The pectinate (dentate) line marks the junction between which two structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Foregut and midgut"
+        },
+        {
+          "label": "B",
+          "text": "Midgut and hindgut"
+        },
+        {
+          "label": "C",
+          "text": "Cloaca and urogenital sinus"
+        },
+        {
+          "label": "D",
+          "text": "Proximal anus and distal anus"
+        },
+        {
+          "label": "E",
+          "text": "Rectum and sigmoid colon"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The pectinate line is the junction of the hindgut-derived proximal anus and the anal-pit-derived distal anus.",
+        "whyCorrect": "The internal proximal anus arises from the hindgut/cloaca and the external distal anus from the anal pit; they meet at the pectinate line, explaining the dual supply.",
+        "whyWrongByChoice": {
+          "A": "The foregut-midgut junction is in the duodenum, not at the anus.",
+          "B": "The midgut-hindgut junction is at the distal transverse colon, not the anus.",
+          "C": "The cloaca is divided into the urogenital sinus and anorectal canal by the urorectal septum, but that is not the pectinate line.",
+          "E": "The rectosigmoid junction is proximal to the anal canal and is not the pectinate line."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pectinate line",
+        "anal pit",
+        "hindgut"
+      ]
+    },
+    {
+      "id": "gi-development-013",
+      "topicId": "gi-development",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "The hepatic diverticulum is an endodermal outgrowth from the ventral proximal duodenum. Its larger cranial portion grows along the septum transversum. What does this cranial portion become?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gallbladder"
+        },
+        {
+          "label": "B",
+          "text": "Cystic duct"
+        },
+        {
+          "label": "C",
+          "text": "Liver"
+        },
+        {
+          "label": "D",
+          "text": "Ventral pancreatic bud"
+        },
+        {
+          "label": "E",
+          "text": "Common bile duct"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The cranial hepatic diverticulum becomes the liver.",
+        "whyCorrect": "The cranial (larger) part of the hepatic diverticulum grows along the septum transversum to form the liver; the caudal part forms the gallbladder and cystic duct.",
+        "whyWrongByChoice": {
+          "A": "The gallbladder derives from the caudal part of the diverticulum, not the cranial part.",
+          "B": "The cystic duct also derives from the caudal part.",
+          "D": "The ventral pancreatic bud arises separately near the base of the diverticulum, not from its cranial part.",
+          "E": "The common bile duct forms from the stalk connecting the diverticulum to the gut, not the cranial part."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hepatic diverticulum",
+        "liver",
+        "septum transversum"
+      ]
+    },
+    {
+      "id": "gi-development-014",
+      "topicId": "gi-development",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "The definitive pancreas forms from fusion of a dorsal and a ventral pancreatic bud arising from the duodenum. The ventral pancreatic bud gives rise to which parts of the mature pancreas?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Head, body, and tail"
+        },
+        {
+          "label": "B",
+          "text": "Uncinate process and the main pancreatic duct"
+        },
+        {
+          "label": "C",
+          "text": "Accessory pancreatic duct only"
+        },
+        {
+          "label": "D",
+          "text": "Body and tail only"
+        },
+        {
+          "label": "E",
+          "text": "Entire ductal system and islets"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The ventral bud forms the uncinate process and the main pancreatic duct.",
+        "whyCorrect": "The ventral pancreatic bud contributes the uncinate process (part of the head) and the main pancreatic duct; the dorsal bud forms the head, body, tail, and accessory duct.",
+        "whyWrongByChoice": {
+          "A": "The head, body, and tail derive largely from the dorsal bud, not the ventral bud.",
+          "C": "The accessory pancreatic duct comes from the dorsal bud, not the ventral bud.",
+          "D": "The body and tail come from the dorsal bud.",
+          "E": "No single bud forms the entire ductal system; the ducts derive from both buds combined."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pancreatic buds",
+        "ventral bud",
+        "uncinate process"
+      ]
+    },
+    {
+      "id": "gi-development-015",
+      "topicId": "gi-development",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "Some abdominal organs begin development suspended intraperitoneally but later come to lie outside the peritoneal cavity when their dorsal mesentery fuses with the posterior body wall. Which set of organs best illustrates this 'secondarily retroperitoneal' fate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stomach and spleen"
+        },
+        {
+          "label": "B",
+          "text": "Kidneys, adrenal glands, and urinary bladder"
+        },
+        {
+          "label": "C",
+          "text": "Ascending colon, descending colon, duodenum, and pancreas"
+        },
+        {
+          "label": "D",
+          "text": "Liver and gallbladder"
+        },
+        {
+          "label": "E",
+          "text": "Jejunum and ileum"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ascending/descending colon, duodenum, and pancreas are secondarily retroperitoneal.",
+        "whyCorrect": "These organs start intraperitoneal, then their dorsal mesentery fuses with the posterior abdominal wall, leaving them behind the peritoneum (secondarily retroperitoneal).",
+        "whyWrongByChoice": {
+          "A": "The stomach and spleen remain intraperitoneal.",
+          "B": "The kidneys, adrenals, and bladder are primarily (originally) retroperitoneal, arising outside the peritoneal cavity, not secondarily.",
+          "D": "The liver and gallbladder remain intraperitoneal (the liver is invested by peritoneum).",
+          "E": "The jejunum and ileum remain intraperitoneal, suspended by mesentery."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "secondarily retroperitoneal",
+        "mesenteric fusion",
+        "peritoneum"
+      ]
+    },
+    {
+      "id": "gi-development-016",
+      "topicId": "gi-development",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "During development the two midline mesenteries have different fates. Which statement correctly describes the fate of the dorsal and ventral mesenteries?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The dorsal mesentery largely disappears; the ventral mesentery persists throughout the gut"
+        },
+        {
+          "label": "B",
+          "text": "Both mesenteries persist along the entire gut tube"
+        },
+        {
+          "label": "C",
+          "text": "Both mesenteries disappear completely"
+        },
+        {
+          "label": "D",
+          "text": "The dorsal mesentery largely persists; the ventral mesentery largely disappears except around the liver"
+        },
+        {
+          "label": "E",
+          "text": "The ventral mesentery persists along the entire gut; the dorsal disappears at the stomach"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The dorsal mesentery persists; the ventral mesentery mostly disappears except at the liver.",
+        "whyCorrect": "The dorsal mesentery persists to anchor the gut and carry its vessels and nerves, while the ventral mesentery largely disappears, being retained only around the liver.",
+        "whyWrongByChoice": {
+          "A": "This reverses the correct fates; the dorsal mesentery persists and the ventral largely disappears.",
+          "B": "The ventral mesentery does not persist along the entire gut; it mostly regresses.",
+          "C": "The dorsal mesentery does not disappear; it persists to suspend the gut.",
+          "E": "The ventral mesentery does not persist along the entire gut, and the dorsal mesentery persists rather than disappearing."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "mesenteries",
+        "dorsal mesentery",
+        "ventral mesentery"
+      ]
+    },
+    {
+      "id": "gi-development-017",
+      "topicId": "gi-development",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "After lateral folding, the wall of the primitive gut tube (its muscular and connective-tissue layers, but not the epithelial lining) is formed predominantly from which tissue?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Somatic (parietal) mesoderm"
+        },
+        {
+          "label": "B",
+          "text": "Splanchnic (visceral) mesoderm"
+        },
+        {
+          "label": "C",
+          "text": "Endoderm"
+        },
+        {
+          "label": "D",
+          "text": "Surface ectoderm"
+        },
+        {
+          "label": "E",
+          "text": "Paraxial mesoderm (somites)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The gut wall is formed from splanchnic mesoderm.",
+        "whyCorrect": "The GI tract tube is built from endoderm (lining) plus splanchnic mesoderm, which forms most of the wall (muscle and connective tissue).",
+        "whyWrongByChoice": {
+          "A": "Somatic mesoderm lines the body wall on the opposite side of the coelom, not the gut wall.",
+          "C": "Endoderm forms the epithelial lining, not the muscular/connective wall.",
+          "D": "Surface ectoderm forms epidermis, not the gut wall.",
+          "E": "Paraxial mesoderm (somites) forms axial skeleton and skeletal muscle, not the gut wall."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "splanchnic mesoderm",
+        "gut wall",
+        "lateral plate mesoderm"
+      ]
+    },
+    {
+      "id": "gi-development-018",
+      "topicId": "gi-development",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "A key event in gut development is physiologic herniation of the midgut loop into the umbilical cord because the loop temporarily outgrows the abdominal cavity. During which developmental week does this herniation begin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Week 3"
+        },
+        {
+          "label": "B",
+          "text": "Week 4"
+        },
+        {
+          "label": "C",
+          "text": "Week 12"
+        },
+        {
+          "label": "D",
+          "text": "Week 10"
+        },
+        {
+          "label": "E",
+          "text": "Week 6"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Midgut herniation into the umbilicus begins in week 6.",
+        "whyCorrect": "The midgut loop herniates into the umbilicus during week 6, rotates 270 degrees, and returns to the abdomen during week 10.",
+        "whyWrongByChoice": {
+          "A": "Week 3 is when the flat trilaminar embryonic disc forms.",
+          "B": "Week 4 is when lateral folding creates the body trunk and primitive gut tube.",
+          "C": "Week 12 is after the loop has already returned.",
+          "D": "Week 10 is when the midgut loop returns to the abdomen, not when it herniates."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "midgut herniation",
+        "timeline",
+        "week 6"
+      ]
+    },
+    {
+      "id": "gi-development-019",
+      "topicId": "gi-development",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "During fetal development, one abdominal organ arises from a mesodermal condensation in the dorsal mesentery of the stomach, rotates with the stomach into the left upper quadrant, and is a major site of blood cell formation (hematopoiesis) at other developmental stages. Which pairing is correct regarding these developmental facts?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The spleen forms in the dorsal mesentery; the liver is a major site of fetal hematopoiesis"
+        },
+        {
+          "label": "B",
+          "text": "The spleen forms from endoderm; the pancreas is the major site of fetal hematopoiesis"
+        },
+        {
+          "label": "C",
+          "text": "The spleen forms in the ventral mesentery; the spleen is the sole site of fetal hematopoiesis"
+        },
+        {
+          "label": "D",
+          "text": "The liver forms in the dorsal mesentery; the spleen is the major site of fetal hematopoiesis"
+        },
+        {
+          "label": "E",
+          "text": "The spleen is a foregut endodermal derivative; the gallbladder is a major site of fetal hematopoiesis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The spleen is a mesodermal derivative of the dorsal mesentery; the liver is a major fetal hematopoietic organ.",
+        "whyCorrect": "The spleen forms from a mesodermal condensation in the dorsal mesentery and rotates with the stomach to the left upper abdomen, while the liver serves as a major site of hematopoiesis during development.",
+        "whyWrongByChoice": {
+          "B": "The spleen is mesodermal, not endodermal, and the pancreas is not a major hematopoietic organ.",
+          "C": "The spleen forms in the dorsal (not ventral) mesentery, and the liver is a major hematopoietic site during development.",
+          "D": "The liver is an endodermal (hepatic diverticulum) derivative, not a dorsal mesentery structure, and the liver (not spleen) is the major fetal hematopoietic organ.",
+          "E": "The spleen is mesodermal, not a foregut endodermal derivative, and the gallbladder is not hematopoietic."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "spleen",
+        "dorsal mesentery",
+        "hematopoiesis",
+        "liver"
+      ]
+    },
+    {
+      "id": "gi-development-020",
+      "topicId": "gi-development",
+      "topicName": "Development of the Gastrointestinal System",
+      "stem": "A neonate is found to have complete duodenal atresia. In terms of the recanalization process of the gut tube, which sequence best explains how a normally patent lumen is produced and where this fetus's development failed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The lumen is always hollow; atresia results from failure of the tube to elongate"
+        },
+        {
+          "label": "B",
+          "text": "Endoderm proliferates and fills the lumen, then those cells are removed to reopen the tube; in atresia the cells are never removed"
+        },
+        {
+          "label": "C",
+          "text": "Splanchnic mesoderm fills the lumen, then is removed; in atresia the mesoderm never forms"
+        },
+        {
+          "label": "D",
+          "text": "The lumen forms by fusion of two solid rods; in atresia the rods fail to fuse"
+        },
+        {
+          "label": "E",
+          "text": "The lumen forms by apoptosis of the outer wall; in atresia the wall is retained"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Recanalization fills the lumen with proliferating endoderm then removes it; failure of removal causes atresia.",
+        "whyCorrect": "During recanalization the endodermal epithelium proliferates and occludes the lumen, and those cells are then removed to restore a patent tube; complete failure of cell removal produces atresia (full obstruction).",
+        "whyWrongByChoice": {
+          "A": "The lumen is not continuously hollow; it is transiently occluded by endodermal proliferation and then reopened, and atresia is a recanalization failure, not an elongation failure.",
+          "C": "It is endoderm, not splanchnic mesoderm, that fills the lumen during recanalization.",
+          "D": "The gut lumen is not formed by fusion of two solid rods.",
+          "E": "Recanalization removes luminal (inner) cells, not the outer wall, so this mechanism is incorrect."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "recanalization",
+        "atresia",
+        "duodenum",
+        "neonate"
+      ]
+    },
+    {
+      "id": "gi-congenital-disorders-001",
+      "topicId": "gi-congenital-disorders",
+      "topicName": "Congenital Disorders of the GI Tract",
+      "stem": "A 5-week-old first-born boy is brought to the emergency department because of forceful, projectile vomiting of undigested breast milk after every feeding for the past week. The vomitus is never green or yellow. He appears dehydrated and remains hungry immediately after emesis. On examination, a firm, olive-shaped mass is palpated in the right upper quadrant, and visible gastric peristalsis is noted. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypertrophic pyloric stenosis"
+        },
+        {
+          "label": "B",
+          "text": "Duodenal atresia"
+        },
+        {
+          "label": "C",
+          "text": "Malrotation with midgut volvulus"
+        },
+        {
+          "label": "D",
+          "text": "Hirschsprung disease"
+        },
+        {
+          "label": "E",
+          "text": "Esophageal atresia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Nonbilious projectile vomiting with a palpable olive-shaped mass in a first-born male infant is classic for hypertrophic pyloric stenosis.",
+        "whyCorrect": "Hypertrophy of the pyloric smooth muscle produces gastric outlet obstruction. Because the obstruction is proximal to the ampulla, vomiting is nonbilious and projectile; the hypertrophied pylorus is palpable as an olive in the RUQ with visible peristalsis, and the disorder classically affects first-born males aged 3-12 weeks.",
+        "whyWrongByChoice": {
+          "B": "Duodenal atresia presents within hours of birth with bilious vomiting, not at 5 weeks with nonbilious emesis.",
+          "C": "Midgut volvulus causes bilious vomiting and a sick, unstable infant, not nonbilious vomiting with an olive mass.",
+          "D": "Hirschsprung disease presents with failure to pass meconium and distal obstruction, not projectile gastric vomiting.",
+          "E": "Esophageal atresia presents at birth with drooling and inability to feed, not projectile vomiting weeks later."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "pyloric-stenosis",
+        "foregut",
+        "neonatal",
+        "presentation"
+      ]
+    },
+    {
+      "id": "gi-congenital-disorders-002",
+      "topicId": "gi-congenital-disorders",
+      "topicName": "Congenital Disorders of the GI Tract",
+      "stem": "A newborn with trisomy 21 develops bilious vomiting within the first hours of life. An abdominal radiograph shows two distinct gas-filled bubbles, one in the stomach and one in the proximal duodenum, with no distal bowel gas. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypertrophic pyloric stenosis"
+        },
+        {
+          "label": "B",
+          "text": "Duodenal atresia"
+        },
+        {
+          "label": "C",
+          "text": "Meckel's diverticulum"
+        },
+        {
+          "label": "D",
+          "text": "Meconium ileus"
+        },
+        {
+          "label": "E",
+          "text": "Imperforate anus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Bilious vomiting hours after birth with a double-bubble sign, especially in an infant with Down syndrome, indicates duodenal atresia.",
+        "whyCorrect": "Duodenal atresia results from failed recanalization of the duodenum. Gas distends the stomach and proximal duodenum proximal to the atretic segment, producing the double-bubble sign, and roughly one third of affected infants have Down syndrome.",
+        "whyWrongByChoice": {
+          "A": "Pyloric stenosis causes nonbilious vomiting at 3-12 weeks and shows a single gastric bubble, not a double bubble.",
+          "C": "Meckel's diverticulum classically causes painless lower GI bleeding in older infants, not neonatal proximal obstruction.",
+          "D": "Meconium ileus causes distal small-bowel obstruction with failure to pass meconium, not a proximal double bubble.",
+          "E": "Imperforate anus is diagnosed on physical exam by an absent anal opening, not by a double-bubble sign."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "duodenal-atresia",
+        "double-bubble",
+        "down-syndrome",
+        "foregut"
+      ]
+    },
+    {
+      "id": "gi-congenital-disorders-003",
+      "topicId": "gi-congenital-disorders",
+      "topicName": "Congenital Disorders of the GI Tract",
+      "stem": "A previously healthy, thriving 3-week-old infant suddenly develops bilious (green) vomiting and becomes irritable and lethargic over a few hours. The abdomen is initially soft but the infant appears increasingly unstable. Which of the following diagnoses is the most urgent consideration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gastroesophageal reflux"
+        },
+        {
+          "label": "B",
+          "text": "Hypertrophic pyloric stenosis"
+        },
+        {
+          "label": "C",
+          "text": "Malrotation with midgut volvulus"
+        },
+        {
+          "label": "D",
+          "text": "Meckel's diverticulum"
+        },
+        {
+          "label": "E",
+          "text": "Hirschsprung disease"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sudden bilious vomiting in a previously well infant is midgut volvulus until proven otherwise, a surgical emergency.",
+        "whyCorrect": "Malrotation leaves a narrow mesenteric base; once feeding challenges intestinal function, the bowel can twist (volvulus), occluding the superior mesenteric vessels and threatening necrosis of the entire small intestine. Bilious vomiting in an infant is an emergency until proven otherwise.",
+        "whyWrongByChoice": {
+          "A": "Reflux produces nonbilious spit-up in a comfortable infant and is not a surgical emergency.",
+          "B": "Pyloric stenosis causes nonbilious projectile vomiting, not the bilious emesis seen here.",
+          "D": "Meckel's diverticulum typically causes painless bleeding, not acute bilious vomiting with instability.",
+          "E": "Hirschsprung disease presents with failure to pass meconium and constipation, not acute bilious vomiting in a thriving infant."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "malrotation",
+        "volvulus",
+        "bilious-vomiting",
+        "emergency",
+        "midgut"
+      ]
+    },
+    {
+      "id": "gi-congenital-disorders-004",
+      "topicId": "gi-congenital-disorders",
+      "topicName": "Congenital Disorders of the GI Tract",
+      "stem": "A term newborn fails to pass meconium in the first 48 hours of life and develops abdominal distension. A suction rectal biopsy of the distal rectum demonstrates an absence of ganglion cells in the myenteric and submucosal plexuses. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Duodenal stenosis"
+        },
+        {
+          "label": "B",
+          "text": "Meconium ileus"
+        },
+        {
+          "label": "C",
+          "text": "Annular pancreas"
+        },
+        {
+          "label": "D",
+          "text": "Hirschsprung disease"
+        },
+        {
+          "label": "E",
+          "text": "Biliary atresia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Failure to pass meconium with aganglionosis on rectal biopsy defines Hirschsprung disease.",
+        "whyCorrect": "Hirschsprung disease results from failed craniocaudal migration of neural crest cells, leaving the distal bowel without ganglion cells. The aganglionic segment is permanently contracted, causing functional obstruction and delayed meconium passage; rectal biopsy showing absent ganglion cells is diagnostic.",
+        "whyWrongByChoice": {
+          "A": "Duodenal stenosis causes proximal obstruction with bilious vomiting, not distal aganglionosis or delayed meconium.",
+          "B": "Meconium ileus causes distal obstruction but biopsy shows normal ganglion cells; the problem is inspissated meconium, usually with cystic fibrosis.",
+          "C": "Annular pancreas encircles the duodenum causing proximal obstruction, unrelated to rectal ganglion cells.",
+          "E": "Biliary atresia presents with jaundice and acholic stools weeks later, not neonatal aganglionosis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hirschsprung",
+        "aganglionosis",
+        "neural-crest",
+        "hindgut",
+        "biopsy"
+      ]
+    },
+    {
+      "id": "gi-congenital-disorders-005",
+      "topicId": "gi-congenital-disorders",
+      "topicName": "Congenital Disorders of the GI Tract",
+      "stem": "Shortly after birth, a newborn has excessive drooling, coughing, and choking with attempts to feed, and becomes cyanotic. Nursing staff are unable to advance a nasogastric tube into the stomach; a radiograph shows the tube coiled in the upper esophageal pouch. The mother's pregnancy was complicated by polyhydramnios. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pyloric stenosis"
+        },
+        {
+          "label": "B",
+          "text": "Hirschsprung disease"
+        },
+        {
+          "label": "C",
+          "text": "Meconium ileus"
+        },
+        {
+          "label": "D",
+          "text": "Malrotation"
+        },
+        {
+          "label": "E",
+          "text": "Esophageal atresia with tracheoesophageal fistula"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Drooling, feeding intolerance, and a nasogastric tube coiling in a blind upper pouch after a polyhydramnios pregnancy indicate esophageal atresia, most commonly with a distal TEF.",
+        "whyCorrect": "Esophageal atresia results from failed recanalization of the foregut tube; the esophagus ends blindly, so an NG tube coils in the upper pouch and saliva pools, causing drooling and choking. Impaired fetal swallowing produces polyhydramnios. The most common form (Gross type C, ~86%) includes a distal tracheoesophageal fistula.",
+        "whyWrongByChoice": {
+          "A": "Pyloric stenosis presents at 3-12 weeks with projectile vomiting, not neonatal drooling or an obstructed NG tube.",
+          "B": "Hirschsprung disease presents with delayed meconium and distal obstruction, not inability to pass an NG tube into the stomach.",
+          "C": "Meconium ileus causes distal bowel obstruction, not an obstructed esophagus or drooling.",
+          "D": "Malrotation causes bilious vomiting from midgut obstruction, not a blind esophageal pouch."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "esophageal-atresia",
+        "TEF",
+        "polyhydramnios",
+        "foregut"
+      ]
+    },
+    {
+      "id": "gi-congenital-disorders-006",
+      "topicId": "gi-congenital-disorders",
+      "topicName": "Congenital Disorders of the GI Tract",
+      "stem": "A 4-week-old boy with a 10-day history of projectile nonbilious vomiting is dehydrated. Serum electrolytes are obtained. Which of the following laboratory patterns is most characteristic of his condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypokalemic, hypochloremic metabolic alkalosis"
+        },
+        {
+          "label": "B",
+          "text": "Hyperkalemic, hyperchloremic metabolic acidosis"
+        },
+        {
+          "label": "C",
+          "text": "Anion-gap metabolic acidosis with hyperlactatemia"
+        },
+        {
+          "label": "D",
+          "text": "Hypernatremic respiratory alkalosis"
+        },
+        {
+          "label": "E",
+          "text": "Normal anion-gap metabolic acidosis with hyperkalemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hypertrophic pyloric stenosis classically causes a hypokalemic, hypochloremic metabolic alkalosis with paradoxical aciduria.",
+        "whyCorrect": "Persistent vomiting of gastric contents loses hydrochloric acid and potassium, producing hypochloremic, hypokalemic metabolic alkalosis. Volume depletion drives renal sodium (and thus bicarbonate) retention, and to conserve sodium the kidney secretes hydrogen ions, causing paradoxically acidic urine despite systemic alkalosis.",
+        "whyWrongByChoice": {
+          "B": "A hyperkalemic, hyperchloremic acidosis is the opposite of the loss of acid and potassium seen with gastric vomiting.",
+          "C": "An anion-gap acidosis with hyperlactatemia suggests ischemia (e.g., volvulus), not uncomplicated pyloric stenosis.",
+          "D": "There is a metabolic alkalosis, not a respiratory process, and sodium is typically low from volume loss.",
+          "E": "A normal anion-gap acidosis with hyperkalemia does not match the alkalosis produced by loss of gastric acid."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pyloric-stenosis",
+        "metabolic-alkalosis",
+        "electrolytes",
+        "paradoxical-aciduria"
+      ]
+    },
+    {
+      "id": "gi-congenital-disorders-007",
+      "topicId": "gi-congenital-disorders",
+      "topicName": "Congenital Disorders of the GI Tract",
+      "stem": "A 2-year-old boy presents with painless passage of dark red blood per rectum. He is hemodynamically stable and has no abdominal pain. Surgical exploration reveals a true diverticulum arising from the antimesenteric border of the ileum. From which embryologic structure did this lesion most likely arise?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Persistent urachus"
+        },
+        {
+          "label": "B",
+          "text": "Persistent vitelline (omphalomesenteric) duct"
+        },
+        {
+          "label": "C",
+          "text": "Failed recanalization of the foregut"
+        },
+        {
+          "label": "D",
+          "text": "Failed neural crest cell migration"
+        },
+        {
+          "label": "E",
+          "text": "An in-utero mesenteric vascular accident"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A true ileal diverticulum causing painless bleeding is a Meckel's diverticulum from a persistent vitelline duct.",
+        "whyCorrect": "Meckel's diverticulum arises from incomplete obliteration of the vitelline (omphalomesenteric) duct, leaving a true diverticulum containing all bowel wall layers on the antimesenteric ileum. Ectopic gastric mucosa within it secretes acid, ulcerating adjacent ileum and causing painless lower GI bleeding, the leading cause in young children.",
+        "whyWrongByChoice": {
+          "A": "A persistent urachus connects the bladder to the umbilicus and causes urinary drainage, not ileal bleeding.",
+          "C": "Failed foregut recanalization produces esophageal or duodenal atresia, not an ileal diverticulum.",
+          "D": "Failed neural crest migration causes Hirschsprung disease, not a Meckel's diverticulum.",
+          "E": "An in-utero vascular accident is the proposed mechanism of jejunoileal atresia, not of a true diverticulum."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "meckel",
+        "vitelline-duct",
+        "painless-bleeding",
+        "embryology",
+        "midgut"
+      ]
+    },
+    {
+      "id": "gi-congenital-disorders-008",
+      "topicId": "gi-congenital-disorders",
+      "topicName": "Congenital Disorders of the GI Tract",
+      "stem": "A newborn develops abdominal distension and fails to pass meconium in the first 48 hours. Contrast enema shows a microcolon with inspissated meconium pellets obstructing the terminal ileum, and there is no evidence of aganglionosis. Which underlying disease is most strongly associated with this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "VACTERL association"
+        },
+        {
+          "label": "B",
+          "text": "Trisomy 21 (Down syndrome)"
+        },
+        {
+          "label": "C",
+          "text": "Cystic fibrosis"
+        },
+        {
+          "label": "D",
+          "text": "Turner syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Trisomy 18 (Edwards syndrome)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Meconium ileus with thick inspissated meconium obstructing the ileum is strongly associated with cystic fibrosis.",
+        "whyCorrect": "In meconium ileus, abnormally thick, inspissated meconium obstructs the distal small bowel. About 85% of cases are associated with cystic fibrosis, and meconium ileus may be its initial presentation. Non-operative management (contrast enema) is often successful.",
+        "whyWrongByChoice": {
+          "A": "VACTERL is associated with esophageal atresia/TEF and imperforate anus, not with inspissated meconium ileus.",
+          "B": "Down syndrome is associated with duodenal atresia and Hirschsprung disease, not classically meconium ileus.",
+          "D": "Turner syndrome is not the classic association of meconium ileus.",
+          "E": "Trisomy 18 is not the disease strongly linked to meconium ileus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "meconium-ileus",
+        "cystic-fibrosis",
+        "distal-obstruction",
+        "midgut"
+      ]
+    },
+    {
+      "id": "gi-congenital-disorders-009",
+      "topicId": "gi-congenital-disorders",
+      "topicName": "Congenital Disorders of the GI Tract",
+      "stem": "A 5-week-old infant presents with nonbilious projectile vomiting and a suspected palpable epigastric mass. Which of the following imaging studies is the confirmatory test of choice for the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CT scan of the abdomen"
+        },
+        {
+          "label": "B",
+          "text": "Barium enema"
+        },
+        {
+          "label": "C",
+          "text": "Technetium-99m pertechnetate (Meckel) scan"
+        },
+        {
+          "label": "D",
+          "text": "Abdominal ultrasound"
+        },
+        {
+          "label": "E",
+          "text": "Upper GI contrast series"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Ultrasound is the confirmatory test of choice for hypertrophic pyloric stenosis.",
+        "whyCorrect": "Ultrasound directly visualizes the hypertrophied pylorus, showing increased pyloric muscle thickness, length, and diameter (hypertrophic values roughly 22.5 mm length, 14 mm diameter, 6 mm muscle thickness versus normal ~12 mm length and 7 mm diameter). It is non-invasive and avoids radiation, making it the confirmatory test of choice.",
+        "whyWrongByChoice": {
+          "A": "CT delivers unnecessary radiation and is not used to confirm pyloric stenosis.",
+          "B": "Barium enema evaluates the colon (e.g., Hirschsprung), not the pylorus.",
+          "C": "A Meckel scan detects ectopic gastric mucosa in Meckel's diverticulum, not pyloric hypertrophy.",
+          "E": "An upper GI series is used for suspected malrotation; ultrasound is preferred to confirm pyloric stenosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pyloric-stenosis",
+        "ultrasound",
+        "diagnosis",
+        "imaging"
+      ]
+    },
+    {
+      "id": "gi-congenital-disorders-010",
+      "topicId": "gi-congenital-disorders",
+      "topicName": "Congenital Disorders of the GI Tract",
+      "stem": "A medical student is reviewing the embryologic tissue contributions to the gastrointestinal tract wall. The intrinsic innervation (enteric ganglia) of the gut is derived from which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endoderm"
+        },
+        {
+          "label": "B",
+          "text": "Splanchnic mesoderm"
+        },
+        {
+          "label": "C",
+          "text": "Notochord"
+        },
+        {
+          "label": "D",
+          "text": "Paraxial mesoderm"
+        },
+        {
+          "label": "E",
+          "text": "Neural crest cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The innervation of the GI tract is derived from neural crest cells.",
+        "whyCorrect": "During development, endoderm forms the lining epithelium and glands, mesoderm forms the smooth muscle and connective tissue, and neural crest cells (originating from the ectoderm) migrate craniocaudally to form the enteric ganglia. Failure of this migration causes Hirschsprung disease.",
+        "whyWrongByChoice": {
+          "A": "Endoderm gives rise to the lining epithelium and glands, not the neuronal innervation.",
+          "B": "Splanchnic mesoderm forms the smooth muscle and connective tissue of the gut wall, not the ganglia.",
+          "C": "The notochord induces neural tube formation but does not form gut innervation.",
+          "D": "Paraxial mesoderm forms somites (bone and skeletal muscle), not enteric ganglia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "embryology",
+        "neural-crest",
+        "innervation",
+        "development"
+      ]
+    },
+    {
+      "id": "gi-congenital-disorders-011",
+      "topicId": "gi-congenital-disorders",
+      "topicName": "Congenital Disorders of the GI Tract",
+      "stem": "A newborn has bilious vomiting and feeding intolerance. Imaging shows a ring of tissue encircling and narrowing the second part of the duodenum. This anomaly results from failure of which embryologic process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Failure of the ventral pancreatic bud to rotate normally, encircling the duodenum"
+        },
+        {
+          "label": "B",
+          "text": "Failure of the vitelline duct to obliterate"
+        },
+        {
+          "label": "C",
+          "text": "Failure of neural crest cells to migrate into the gut wall"
+        },
+        {
+          "label": "D",
+          "text": "Failure of the midgut to complete counterclockwise rotation"
+        },
+        {
+          "label": "E",
+          "text": "Failure of the foregut to separate from the trachea"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A ring of pancreatic tissue encircling the duodenum is an annular pancreas from abnormal rotation of the ventral pancreatic bud.",
+        "whyCorrect": "The pancreas develops from ventral and dorsal buds. Normally the ventral bud rotates posteriorly to fuse with the dorsal bud. If the ventral bud fails to rotate correctly, it encircles the second part of the duodenum as a ring of pancreatic tissue (annular pancreas), causing duodenal obstruction.",
+        "whyWrongByChoice": {
+          "B": "Failure of vitelline duct obliteration produces Meckel's diverticulum, not a pancreatic ring around the duodenum.",
+          "C": "Failed neural crest migration causes Hirschsprung disease of the colon, not annular pancreas.",
+          "D": "Incomplete midgut rotation causes malrotation with a short mesentery, not a ring of pancreatic tissue.",
+          "E": "Failed foregut separation from the trachea causes tracheoesophageal fistula, not an annular pancreas."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "annular-pancreas",
+        "ventral-bud",
+        "duodenal-obstruction",
+        "embryology",
+        "foregut"
+      ]
+    },
+    {
+      "id": "gi-congenital-disorders-012",
+      "topicId": "gi-congenital-disorders",
+      "topicName": "Congenital Disorders of the GI Tract",
+      "stem": "A newborn is diagnosed with esophageal atresia and a distal tracheoesophageal fistula. The neonatology team screens for additional anomalies. This combination is most commonly associated with which of the following groupings of congenital defects?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CHARGE syndrome"
+        },
+        {
+          "label": "B",
+          "text": "VACTERL association"
+        },
+        {
+          "label": "C",
+          "text": "Beckwith-Wiedemann syndrome"
+        },
+        {
+          "label": "D",
+          "text": "DiGeorge (22q11.2 deletion) syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Potter sequence"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Esophageal atresia and TEF are most commonly associated with the VACTERL association.",
+        "whyCorrect": "VACTERL denotes Vertebral, Anal (imperforate anus), Cardiac, Tracheo-Esophageal, Renal, and Limb anomalies. Esophageal atresia/TEF and imperforate anus are core components, so any infant with EA/TEF should be screened for the other VACTERL defects.",
+        "whyWrongByChoice": {
+          "A": "CHARGE syndrome is associated with coloboma and choanal atresia; EA/TEF is classically linked to VACTERL.",
+          "C": "Beckwith-Wiedemann features macrosomia, macroglossia, and omphalocele, not the EA/TEF cluster.",
+          "D": "DiGeorge syndrome involves thymic and parathyroid hypoplasia and conotruncal cardiac defects, not the defining EA/TEF association.",
+          "E": "Potter sequence results from oligohydramnios and renal agenesis, unrelated to esophageal atresia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "esophageal-atresia",
+        "TEF",
+        "VACTERL",
+        "associations"
+      ]
+    },
+    {
+      "id": "gi-congenital-disorders-013",
+      "topicId": "gi-congenital-disorders",
+      "topicName": "Congenital Disorders of the GI Tract",
+      "stem": "An infant with prolonged vomiting from gastric outlet obstruction is found to have alkalotic serum but urine that is paradoxically acidic. Which renal mechanism best explains the paradoxical aciduria in this setting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased renal bicarbonate excretion in response to alkalosis"
+        },
+        {
+          "label": "B",
+          "text": "Primary hyperaldosteronism causing potassium retention"
+        },
+        {
+          "label": "C",
+          "text": "Volume depletion driving sodium reabsorption at the expense of hydrogen ion secretion"
+        },
+        {
+          "label": "D",
+          "text": "Distal renal tubular acidosis impairing hydrogen ion secretion"
+        },
+        {
+          "label": "E",
+          "text": "Excess renal ammonia production from hepatic dysfunction"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Volume depletion forces avid renal sodium reabsorption; hydrogen ions are secreted to accompany it, acidifying the urine despite systemic alkalosis.",
+        "whyCorrect": "Ongoing vomiting causes volume depletion and hypokalemia. The kidney prioritizes sodium and volume conservation, activating aldosterone; in the collecting duct sodium is reabsorbed in exchange for secretion of hydrogen (and potassium) ions. This continued acid loss in the urine, alongside worsening hypokalemia, produces paradoxically acidic urine even though the plasma is alkalotic.",
+        "whyWrongByChoice": {
+          "A": "If the kidney simply excreted bicarbonate, the urine would be alkaline and the alkalosis would self-correct; that is not what happens here.",
+          "B": "This is secondary, volume-driven aldosterone activation, not a primary aldosterone-secreting tumor.",
+          "D": "Distal RTA causes a metabolic acidosis, not the metabolic alkalosis with aciduria described here.",
+          "E": "Hepatic dysfunction and ammonia handling do not explain the paradoxical aciduria of gastric fluid loss."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pyloric-stenosis",
+        "paradoxical-aciduria",
+        "physiology",
+        "electrolytes"
+      ]
+    },
+    {
+      "id": "gi-congenital-disorders-014",
+      "topicId": "gi-congenital-disorders",
+      "topicName": "Congenital Disorders of the GI Tract",
+      "stem": "A newborn has bilious vomiting and distension. At laparotomy, a segment of small bowel ends blindly with a corresponding gap in the mesentery, and the distal bowel is collapsed. The pathophysiology of this jejunoileal atresia is best explained by which of the following mechanisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Failure of the foregut tube to recanalize"
+        },
+        {
+          "label": "B",
+          "text": "Failure of neural crest cells to migrate"
+        },
+        {
+          "label": "C",
+          "text": "Persistence of the vitelline duct"
+        },
+        {
+          "label": "D",
+          "text": "An in-utero mesenteric vascular accident with resorption of ischemic bowel"
+        },
+        {
+          "label": "E",
+          "text": "Encirclement of the bowel by ectopic pancreatic tissue"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Jejunoileal atresia is thought to result from an in-utero mesenteric vascular accident.",
+        "whyCorrect": "Unlike duodenal atresia (a recanalization defect), jejunoileal atresia is attributed to an intrauterine vascular accident that compromises a segment of bowel; the ischemic segment is resorbed, leaving a blind-ending proximal bowel, a mesenteric gap, and collapsed distal bowel. Atresia can be solitary or multiple.",
+        "whyWrongByChoice": {
+          "A": "Failed foregut recanalization explains esophageal and duodenal atresia, not mid-small-bowel atresia with a mesenteric defect.",
+          "B": "Failed neural crest migration causes Hirschsprung disease, not a blind-ending atretic small bowel.",
+          "C": "A persistent vitelline duct produces Meckel's diverticulum, not jejunoileal atresia.",
+          "E": "Ectopic pancreatic tissue encircling bowel describes annular pancreas at the duodenum, not jejunoileal atresia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "jejunoileal-atresia",
+        "vascular-accident",
+        "midgut",
+        "embryology"
+      ]
+    },
+    {
+      "id": "gi-congenital-disorders-015",
+      "topicId": "gi-congenital-disorders",
+      "topicName": "Congenital Disorders of the GI Tract",
+      "stem": "A pediatrician is teaching about the most common congenital anomaly of the gastrointestinal tract, present in roughly 2% of the population and usually asymptomatic. Which of the following statements about this lesion is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is a false (pulsion) diverticulum containing only mucosa and submucosa"
+        },
+        {
+          "label": "B",
+          "text": "It most commonly arises from the sigmoid colon"
+        },
+        {
+          "label": "C",
+          "text": "It results from failed neural crest migration"
+        },
+        {
+          "label": "D",
+          "text": "It is diagnosed definitively by abdominal ultrasound of the pylorus"
+        },
+        {
+          "label": "E",
+          "text": "When symptomatic, it commonly bleeds due to acid secreted by ectopic gastric mucosa"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A Meckel's diverticulum, present in about 2% of people, bleeds when ectopic gastric mucosa secretes acid that ulcerates adjacent ileum.",
+        "whyCorrect": "Most Meckel's diverticula are asymptomatic (~98%). When symptomatic, ectopic gastric (or pancreatic) mucosa secretes acid that ulcerates the neighboring ileal mucosa, producing painless lower GI bleeding, the leading cause in young children.",
+        "whyWrongByChoice": {
+          "A": "Meckel's is a true diverticulum containing all layers of the bowel wall, not a false diverticulum.",
+          "B": "It arises from the antimesenteric ileum, not the sigmoid colon.",
+          "C": "Failed neural crest migration causes Hirschsprung disease; Meckel's is from a persistent vitelline duct.",
+          "D": "It is detected with a technetium-99m pertechnetate (Meckel) scan, not pyloric ultrasound."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "meckel",
+        "rule-of-2s",
+        "ectopic-gastric-mucosa",
+        "true-diverticulum"
+      ]
+    },
+    {
+      "id": "gi-congenital-disorders-016",
+      "topicId": "gi-congenital-disorders",
+      "topicName": "Congenital Disorders of the GI Tract",
+      "stem": "A neonate with delayed passage of meconium is suspected of having Hirschsprung disease. Given the embryology of the underlying defect, which portion of the bowel is guaranteed to be involved by the aganglionic segment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The rectum (most distal segment), with variable proximal extension"
+        },
+        {
+          "label": "B",
+          "text": "The cecum, with distal extension toward the rectum"
+        },
+        {
+          "label": "C",
+          "text": "An isolated mid-sigmoid segment sparing the rectum"
+        },
+        {
+          "label": "D",
+          "text": "The terminal ileum only"
+        },
+        {
+          "label": "E",
+          "text": "The transverse colon only"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Because neural crest cells migrate craniocaudally, the rectum is innervated last and is always the involved (aganglionic) segment.",
+        "whyCorrect": "Neural crest cells populate the gut in a cranial-to-caudal direction, so the rectum is the final segment to receive ganglion cells. If migration arrests, the rectum is always aganglionic, and the affected zone extends a variable distance proximally from there in a continuous fashion. This is why a distal rectal biopsy reliably captures the diagnosis.",
+        "whyWrongByChoice": {
+          "B": "Aganglionosis begins distally at the rectum and extends proximally, not from the cecum downward.",
+          "C": "The disease is continuous from the rectum; an isolated segment that spares the rectum does not occur.",
+          "D": "Hirschsprung involves the distal colon/rectum, not an isolated terminal ileum.",
+          "E": "An isolated transverse colon segment sparing the rectum is inconsistent with craniocaudal migration failure."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "hirschsprung",
+        "rectum",
+        "craniocaudal-migration",
+        "hindgut"
+      ]
+    },
+    {
+      "id": "gi-congenital-disorders-017",
+      "topicId": "gi-congenital-disorders",
+      "topicName": "Congenital Disorders of the GI Tract",
+      "stem": "During prenatal ultrasound, marked polyhydramnios is detected. Regarding congenital GI obstruction, which of the following best explains the relationship between the level of obstruction and the likelihood of developing polyhydramnios?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "More distal obstructions cause more polyhydramnios because gas cannot escape"
+        },
+        {
+          "label": "B",
+          "text": "More proximal obstructions cause more polyhydramnios because the fetus cannot swallow and clear amniotic fluid"
+        },
+        {
+          "label": "C",
+          "text": "Polyhydramnios is unrelated to the level of GI obstruction"
+        },
+        {
+          "label": "D",
+          "text": "Only colonic obstructions cause polyhydramnios"
+        },
+        {
+          "label": "E",
+          "text": "Polyhydramnios occurs only when there is an associated tracheoesophageal fistula"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The more proximal the fetal GI obstruction, the more likely polyhydramnios develops, because impaired swallowing reduces amniotic fluid clearance.",
+        "whyCorrect": "Normally the fetus swallows amniotic fluid, which is absorbed and cleared. A proximal obstruction (e.g., esophageal or duodenal atresia) prevents this swallowing/absorption, so fluid accumulates, causing polyhydramnios. The more proximal the block, the larger the un-cleared volume and the greater the polyhydramnios.",
+        "whyWrongByChoice": {
+          "A": "Distal obstructions leave a long segment of bowel available to absorb swallowed fluid, so they cause less polyhydramnios, not more.",
+          "C": "There is a clear relationship: proximal obstruction correlates with polyhydramnios.",
+          "D": "Colonic obstructions are distal and are less likely, not uniquely likely, to cause polyhydramnios.",
+          "E": "Polyhydramnios can occur with proximal atresia regardless of a fistula; a distal TEF may actually allow some fluid passage."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "polyhydramnios",
+        "proximal-obstruction",
+        "prenatal",
+        "physiology"
+      ]
+    },
+    {
+      "id": "gi-congenital-disorders-018",
+      "topicId": "gi-congenital-disorders",
+      "topicName": "Congenital Disorders of the GI Tract",
+      "stem": "Two infants arrive in the emergency department simultaneously. Infant 1 is a 5-week-old with a 1-week history of nonbilious projectile vomiting who is dehydrated but hemodynamically stable. Infant 2 is a 3-week-old, previously well, with sudden onset of bilious vomiting who now appears lethargic. Which of the following best describes the correct prioritization and management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Infant 1 requires emergent pyloromyotomy before Infant 2 is evaluated"
+        },
+        {
+          "label": "B",
+          "text": "Both infants require identical emergent laparotomy regardless of workup"
+        },
+        {
+          "label": "C",
+          "text": "Infant 2 is the higher-priority surgical emergency; Infant 1's operation follows correction of fluids and electrolytes"
+        },
+        {
+          "label": "D",
+          "text": "Infant 1 is the higher-priority emergency because dehydration is life-threatening"
+        },
+        {
+          "label": "E",
+          "text": "Neither infant needs urgent evaluation; both can be discharged with oral rehydration"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Bilious vomiting (Infant 2) signals possible midgut volvulus and is the higher-priority surgical emergency; pyloric stenosis surgery (Infant 1) is never emergent and follows fluid/electrolyte correction.",
+        "whyCorrect": "Bilious vomiting in an infant is an emergency until proven otherwise because it may reflect malrotation with midgut volvulus, which can necrose the entire small bowel; Infant 2 must be rapidly evaluated and taken to surgery if confirmed or unstable. Infant 1's likely pyloric stenosis is not a surgical emergency: pyloromyotomy is delayed until dehydration and the hypokalemic, hypochloremic alkalosis are corrected so anesthesia is tolerated.",
+        "whyWrongByChoice": {
+          "A": "Pyloromyotomy is never emergent and must follow electrolyte/fluid correction; Infant 1 does not preempt the bilious-vomiting infant.",
+          "B": "Management is not identical: only the bilious-vomiting infant represents a potential vascular emergency.",
+          "D": "Infant 1's dehydration is managed medically first; the bilious-vomiting infant carries the higher acute surgical risk.",
+          "E": "Both infants need urgent evaluation; discharge would be dangerous, especially for the bilious-vomiting infant."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "triage",
+        "bilious-vomiting",
+        "pyloric-stenosis",
+        "management",
+        "volvulus"
+      ]
+    },
+    {
+      "id": "gi-congenital-disorders-019",
+      "topicId": "gi-congenital-disorders",
+      "topicName": "Congenital Disorders of the GI Tract",
+      "stem": "On the initial newborn examination, an infant is found to have no patent anal opening. The infant is also noted to have a sacral vertebral anomaly and a heart murmur. Which of the following best characterizes this anorectal malformation and its embryologic and clinical context?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It results from persistence of the vitelline duct and is an isolated finding"
+        },
+        {
+          "label": "B",
+          "text": "It is caused by aganglionosis of the rectum and is diagnosed by rectal biopsy"
+        },
+        {
+          "label": "C",
+          "text": "It results from hypertrophy of anal sphincter muscle and is treated with myotomy"
+        },
+        {
+          "label": "D",
+          "text": "It results from failed recanalization/development of the caudal hindgut and is frequently part of the VACTERL association"
+        },
+        {
+          "label": "E",
+          "text": "It is caused by an in-utero mesenteric vascular accident affecting the colon"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Imperforate anus is a hindgut developmental/recanalization defect and is frequently part of the VACTERL association.",
+        "whyCorrect": "Imperforate anus (anal atresia) reflects failed development/recanalization of the caudal digestive tract, often with an associated fistula. It is commonly part of the VACTERL association, so the accompanying vertebral anomaly and cardiac murmur should prompt evaluation for the other VACTERL defects.",
+        "whyWrongByChoice": {
+          "A": "A persistent vitelline duct causes Meckel's diverticulum; imperforate anus is a caudal hindgut defect, and here it is clearly not isolated.",
+          "B": "Aganglionosis causes Hirschsprung disease; imperforate anus is an anatomic absence of the anal opening evident on exam.",
+          "C": "Sphincter muscle hypertrophy describes pyloric stenosis, not imperforate anus.",
+          "E": "A mesenteric vascular accident explains jejunoileal atresia, not an absent anal opening."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "imperforate-anus",
+        "anorectal-malformation",
+        "VACTERL",
+        "hindgut"
+      ]
+    },
+    {
+      "id": "gi-congenital-disorders-020",
+      "topicId": "gi-congenital-disorders",
+      "topicName": "Congenital Disorders of the GI Tract",
+      "stem": "A 3-year-old boy has recurrent episodes of painless rectal bleeding. Colonoscopy and upper endoscopy are unremarkable, and a bleeding scan is planned to localize ectopic tissue. Which radiotracer-based study is most appropriate to identify the suspected lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Barium enema"
+        },
+        {
+          "label": "B",
+          "text": "Abdominal ultrasound of the pylorus"
+        },
+        {
+          "label": "C",
+          "text": "Upper GI contrast series"
+        },
+        {
+          "label": "D",
+          "text": "CT angiography of the mesenteric vessels"
+        },
+        {
+          "label": "E",
+          "text": "Technetium-99m pertechnetate (Meckel) scan"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A technetium-99m pertechnetate (Meckel) scan identifies ectopic gastric mucosa within a Meckel's diverticulum.",
+        "whyCorrect": "Painless lower GI bleeding in a young child suggests a Meckel's diverticulum containing ectopic gastric mucosa. Technetium-99m pertechnetate is preferentially taken up by gastric mucosa, so a Meckel scan highlights the ectopic tissue and localizes the diverticulum.",
+        "whyWrongByChoice": {
+          "A": "A barium enema evaluates colonic anatomy and cannot detect ectopic gastric mucosa in the ileum.",
+          "B": "Pyloric ultrasound diagnoses hypertrophic pyloric stenosis, not a bleeding Meckel's diverticulum.",
+          "C": "An upper GI series assesses malrotation and proximal anatomy, not ectopic gastric mucosa causing lower GI bleeding.",
+          "D": "CT angiography may show active brisk bleeding but does not specifically identify the ectopic gastric mucosa of a Meckel's diverticulum."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "meckel",
+        "technetium-scan",
+        "ectopic-gastric-mucosa",
+        "diagnosis",
+        "imaging"
+      ]
+    },
+    {
+      "id": "oral-dysbiosis-001",
+      "topicId": "oral-dysbiosis",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "A 34-year-old man presents with two weeks of bleeding gums. Analysis of his subgingival plaque shows that anaerobic pathogens such as Porphyromonas gingivalis and Treponema denticola have joined a maturing biofilm originally dominated by viridans streptococci. Which organism most directly enables these late anaerobes to co-aggregate with the early colonizers?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fusobacterium nucleatum"
+        },
+        {
+          "label": "B",
+          "text": "Streptococcus mutans"
+        },
+        {
+          "label": "C",
+          "text": "Actinomyces israelii"
+        },
+        {
+          "label": "D",
+          "text": "Eikenella corrodens"
+        },
+        {
+          "label": "E",
+          "text": "Staphylococcus aureus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Fusobacterium nucleatum bridges early and late biofilm colonizers.",
+        "whyCorrect": "F. nucleatum physically co-aggregates with both early viridans streptococci and late anaerobes such as P. gingivalis and T. denticola, acting as the bridging organism that permits succession to a pathogenic, anaerobic community.",
+        "whyWrongByChoice": {
+          "B": "S. mutans is an early cariogenic colonizer that produces acid and dextrans; it is not the bridging organism linking to late anaerobes.",
+          "C": "A. israelii contributes to plaque maturation but is not the key bridging species between early and late colonizers.",
+          "D": "E. corrodens is the signature pathogen of human bite wounds, not a plaque bridging organism.",
+          "E": "S. aureus is associated with suppurative parotitis and skin flora, not biofilm bridging."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "biofilm",
+        "succession",
+        "Fusobacterium"
+      ]
+    },
+    {
+      "id": "oral-dysbiosis-002",
+      "topicId": "oral-dysbiosis",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "A 62-year-old woman using an inhaled corticosteroid for asthma develops white patches on her buccal mucosa. Which single bedside maneuver best distinguishes oral thrush from hairy leukoplakia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Checking whether the lesion fluoresces under Wood lamp"
+        },
+        {
+          "label": "B",
+          "text": "Attempting to scrape the plaque off with a tongue depressor"
+        },
+        {
+          "label": "C",
+          "text": "Palpating for cervical lymphadenopathy"
+        },
+        {
+          "label": "D",
+          "text": "Testing for pain on palpation"
+        },
+        {
+          "label": "E",
+          "text": "Noting whether the lesion is on the hard palate"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Scrapability separates Candida thrush from EBV hairy leukoplakia.",
+        "whyCorrect": "Candida thrush plaques scrape off to reveal an erythematous base, whereas hairy leukoplakia (EBV reactivation) forms non-scrapable corrugated patches, typically on the lateral tongue.",
+        "whyWrongByChoice": {
+          "A": "Wood lamp fluorescence is not a reliable way to distinguish these two oral lesions.",
+          "C": "Lymphadenopathy is nonspecific and does not reliably separate the two conditions.",
+          "D": "Pain is variable and not the discriminating feature between thrush and hairy leukoplakia.",
+          "E": "Location helps somewhat (hairy leukoplakia favors the lateral tongue), but scrapability is the single most useful distinguishing maneuver."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "candidiasis",
+        "hairy-leukoplakia",
+        "white-lesions"
+      ]
+    },
+    {
+      "id": "oral-dysbiosis-003",
+      "topicId": "oral-dysbiosis",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "A 48-year-old man with deep periodontal pockets, halitosis, and progressive loss of alveolar bone undergoes subgingival sampling. Which group of organisms is most responsible for driving his periodontitis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Streptococcus mutans and Streptococcus sanguinis"
+        },
+        {
+          "label": "B",
+          "text": "Candida albicans and Eikenella corrodens"
+        },
+        {
+          "label": "C",
+          "text": "Porphyromonas gingivalis, Treponema denticola, and Tannerella forsythia"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus aureus and Streptococcus pyogenes"
+        },
+        {
+          "label": "E",
+          "text": "Actinomyces israelii and Fusobacterium nucleatum"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The Red Complex drives periodontitis.",
+        "whyCorrect": "P. gingivalis, T. denticola, and T. forsythia constitute the Red Complex, anaerobic pathogens that colonize deep pockets, produce volatile sulfur compounds and proteases, and destroy periodontal ligament and alveolar bone.",
+        "whyWrongByChoice": {
+          "A": "These viridans streptococci are early colonizers and cariogenic/endocarditis-associated, not the periodontitis Red Complex.",
+          "B": "Candida causes thrush and Eikenella causes bite infections; neither defines periodontitis.",
+          "D": "These pyogenic cocci are not the classic periodontal Red Complex.",
+          "E": "Actinomyces and Fusobacterium participate in plaque maturation and abscesses but are not the defining Red Complex."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "periodontitis",
+        "red-complex",
+        "P-gingivalis"
+      ]
+    },
+    {
+      "id": "oral-dysbiosis-004",
+      "topicId": "oral-dysbiosis",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "A researcher studies how Streptococcus mutans initiates cariogenic plaque on enamel. What is the first step by which S. mutans establishes this sticky biofilm?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fermentation of glucose into lactic acid"
+        },
+        {
+          "label": "B",
+          "text": "Demineralization of enamel hydroxyapatite"
+        },
+        {
+          "label": "C",
+          "text": "Invasion of the dental pulp"
+        },
+        {
+          "label": "D",
+          "text": "Conversion of dietary sucrose into adhesive dextrans via glucosyltransferase"
+        },
+        {
+          "label": "E",
+          "text": "Secretion of proteases that degrade host complement"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "S. mutans first makes dextrans from sucrose to anchor the biofilm.",
+        "whyCorrect": "S. mutans uses glucosyltransferase to convert dietary sucrose into sticky extracellular dextrans (glucans), which anchor the cariogenic biofilm to enamel before acid production and demineralization occur.",
+        "whyWrongByChoice": {
+          "A": "Lactic acid fermentation follows biofilm attachment and demineralizes enamel; it is not the first adhesive step.",
+          "B": "Demineralization is a downstream consequence of acid, not the initiating adhesion event.",
+          "C": "Pulp invasion is a late complication after caries progress through dentin.",
+          "E": "Protease-mediated complement evasion characterizes P. gingivalis, not S. mutans caries initiation."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "caries",
+        "S-mutans",
+        "dextrans"
+      ]
+    },
+    {
+      "id": "oral-dysbiosis-005",
+      "topicId": "oral-dysbiosis",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "An ICU team wants to reduce the incidence of ventilator-associated pneumonia in intubated patients. Which intervention most directly lowers risk by decreasing the oral reservoir of pathogens that are micro-aspirated past the endotracheal cuff?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Systemic antifungal prophylaxis with fluconazole"
+        },
+        {
+          "label": "B",
+          "text": "Increasing the ventilator tidal volume"
+        },
+        {
+          "label": "C",
+          "text": "Daily nystatin swish and swallow"
+        },
+        {
+          "label": "D",
+          "text": "Empiric broad-spectrum intravenous antibiotics for all patients"
+        },
+        {
+          "label": "E",
+          "text": "Chlorhexidine-based oral care"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Chlorhexidine oral care lowers VAP by reducing oral colonization.",
+        "whyCorrect": "Chlorhexidine is a broad-spectrum antiseptic that reduces the oral load of Gram-negative rods and S. aureus, decreasing the micro-aspirated pathogen reservoir and thus VAP risk.",
+        "whyWrongByChoice": {
+          "A": "Fluconazole targets fungi, not the Gram-negative rods and S. aureus that cause VAP.",
+          "B": "Higher tidal volume risks lung injury and does not reduce oral pathogen burden.",
+          "C": "Nystatin is a topical antifungal and does not cover the bacterial pathogens driving VAP.",
+          "D": "Blanket IV antibiotics promote resistance and do not specifically address the oral reservoir like local chlorhexidine does."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "VAP",
+        "chlorhexidine",
+        "aspiration"
+      ]
+    },
+    {
+      "id": "oral-dysbiosis-006",
+      "topicId": "oral-dysbiosis",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "A 40-year-old man with acute necrotizing gingival infection and predominantly anaerobic flora (Prevotella and Fusobacterium species) requires targeted therapy. Which antimicrobial provides the best anaerobic coverage for this gingival infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Metronidazole"
+        },
+        {
+          "label": "B",
+          "text": "Nystatin"
+        },
+        {
+          "label": "C",
+          "text": "Fluconazole"
+        },
+        {
+          "label": "D",
+          "text": "Acyclovir"
+        },
+        {
+          "label": "E",
+          "text": "Ciprofloxacin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Metronidazole gives excellent anaerobic coverage for gingival infection.",
+        "whyCorrect": "Metronidazole has potent activity against obligate anaerobes such as Prevotella and Fusobacterium and is used for gingival infections and periodontitis.",
+        "whyWrongByChoice": {
+          "B": "Nystatin is a topical antifungal without antibacterial anaerobic activity.",
+          "C": "Fluconazole is an antifungal, ineffective against anaerobic bacteria.",
+          "D": "Acyclovir is an antiviral for herpetic disease, not anaerobic gingival infection.",
+          "E": "Ciprofloxacin has poor reliable coverage of oral anaerobes."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "metronidazole",
+        "anaerobes",
+        "therapy"
+      ]
+    },
+    {
+      "id": "oral-dysbiosis-007",
+      "topicId": "oral-dysbiosis",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "A 50-year-old man develops a firm, indurated jaw mass weeks after a dental extraction, with draining sinus tracts that exude yellow granules. Microscopy of a granule reveals tangled Gram-positive branching filaments. What is the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Suppurative parotitis"
+        },
+        {
+          "label": "B",
+          "text": "Cervicofacial actinomycosis"
+        },
+        {
+          "label": "C",
+          "text": "Ludwig angina"
+        },
+        {
+          "label": "D",
+          "text": "Oral candidiasis"
+        },
+        {
+          "label": "E",
+          "text": "Herpetic gingivostomatitis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sulfur granules with branching filaments indicate actinomycosis.",
+        "whyCorrect": "Cervicofacial actinomycosis (lumpy jaw) follows mucosal barrier breach and produces indurated masses with draining sinus tracts containing pathognomonic sulfur granules that are intertwined Actinomyces israelii filaments.",
+        "whyWrongByChoice": {
+          "A": "Suppurative parotitis is acute S. aureus glandular inflammation, without sulfur granules or branching filaments.",
+          "C": "Ludwig angina is a rapidly spreading submandibular cellulitis without sulfur granules.",
+          "D": "Candidiasis produces scrapable white plaques, not a draining jaw mass with granules.",
+          "E": "Herpetic gingivostomatitis presents with painful vesicles/ulcers, not indurated granule-forming masses."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "actinomycosis",
+        "sulfur-granules",
+        "lumpy-jaw"
+      ]
+    },
+    {
+      "id": "oral-dysbiosis-008",
+      "topicId": "oral-dysbiosis",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "A 55-year-old man with a bicuspid aortic valve develops subacute infective endocarditis two weeks after a dental cleaning. Blood cultures grow an alpha-hemolytic, catalase-negative Gram-positive coccus that is an early oral biofilm colonizer. Which organism is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Porphyromonas gingivalis"
+        },
+        {
+          "label": "B",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus sanguinis"
+        },
+        {
+          "label": "D",
+          "text": "Eikenella corrodens"
+        },
+        {
+          "label": "E",
+          "text": "Candida albicans"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Viridans streptococci like S. sanguinis seed damaged valves.",
+        "whyCorrect": "S. sanguinis (a viridans streptococcus and early plaque colonizer) can enter the bloodstream during dental manipulation and adhere to fibrin-platelet vegetations on damaged valves, causing subacute endocarditis.",
+        "whyWrongByChoice": {
+          "A": "P. gingivalis is an anaerobic periodontal pathogen, not the classic viridans streptococcal cause of post-dental subacute endocarditis.",
+          "B": "S. aureus causes acute endocarditis, is catalase-positive, and is not a viridans early colonizer.",
+          "D": "Eikenella (a HACEK organism) can cause endocarditis but is a Gram-negative rod, not an alpha-hemolytic coccus.",
+          "E": "Candida is a fungus, not a Gram-positive coccus, and is not the typical post-cleaning organism."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "endocarditis",
+        "viridans-streptococci",
+        "bacteremia"
+      ]
+    },
+    {
+      "id": "oral-dysbiosis-009",
+      "topicId": "oral-dysbiosis",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "A 28-year-old man sustains a laceration over his knuckle after punching another man in the mouth during a fight. The wound becomes infected, and culture grows an oxidase-positive Gram-negative rod with a bleach-like odor. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "B",
+          "text": "Streptococcus mutans"
+        },
+        {
+          "label": "C",
+          "text": "Pasteurella multocida"
+        },
+        {
+          "label": "D",
+          "text": "Eikenella corrodens"
+        },
+        {
+          "label": "E",
+          "text": "Porphyromonas gingivalis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Eikenella corrodens is the signature human bite pathogen.",
+        "whyCorrect": "A clenched-fist injury striking teeth is a classic human bite mechanism, and Eikenella corrodens, an oxidase-positive Gram-negative rod with a characteristic bleach-like odor, is its signature pathogen.",
+        "whyWrongByChoice": {
+          "A": "S. aureus can infect many wounds but is not the signature Gram-negative, bleach-odor organism of human bites.",
+          "B": "S. mutans causes dental caries, not bite wound infections.",
+          "C": "Pasteurella multocida is characteristic of cat and dog bites, not human bites.",
+          "E": "P. gingivalis is a periodontal anaerobe, not the classic human bite organism."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Eikenella",
+        "human-bite",
+        "clenched-fist"
+      ]
+    },
+    {
+      "id": "oral-dysbiosis-010",
+      "topicId": "oral-dysbiosis",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "A periodontist notes that bacteria organized within dental plaque are markedly more difficult to eradicate with antibiotics than the same species growing planktonically. Which pair of features best explains this resistance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Loss of the bacterial cell wall and conversion to L-forms"
+        },
+        {
+          "label": "B",
+          "text": "Uniformly rapid metabolism and obligate aerobic respiration"
+        },
+        {
+          "label": "C",
+          "text": "Universal plasmid-encoded carbapenemase production"
+        },
+        {
+          "label": "D",
+          "text": "Spore formation and endotoxin release"
+        },
+        {
+          "label": "E",
+          "text": "An extracellular polymeric matrix barrier plus metabolic dormancy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "EPM barrier and slow metabolism protect biofilm bacteria.",
+        "whyCorrect": "The extracellular polymeric matrix limits antibiotic penetration, while the slowed metabolism of deep biofilm bacteria reduces the efficacy of drugs that target active cellular processes.",
+        "whyWrongByChoice": {
+          "A": "Biofilm bacteria retain their cell walls; L-form conversion is not the mechanism of plaque resistance.",
+          "B": "Biofilm bacteria have slower, not uniformly rapid, metabolism, and many are anaerobic.",
+          "C": "Resistance here is structural and physiologic, not universally due to carbapenemases.",
+          "D": "Oral plaque pathogens are not defined by spore formation; the EPM and dormancy are key."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "biofilm",
+        "EPM",
+        "antibiotic-resistance"
+      ]
+    },
+    {
+      "id": "oral-dysbiosis-011",
+      "topicId": "oral-dysbiosis",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "A 3-year-old child presents with fever, refusal to eat, and vesicular ulcers on the posterior pharynx accompanied by a papulovesicular rash on the palms and soles. Which virus is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coxsackievirus A"
+        },
+        {
+          "label": "B",
+          "text": "Herpes simplex virus 1"
+        },
+        {
+          "label": "C",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "D",
+          "text": "Mumps virus"
+        },
+        {
+          "label": "E",
+          "text": "Cytomegalovirus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Coxsackievirus A causes hand-foot-mouth disease.",
+        "whyCorrect": "Coxsackievirus A causes hand-foot-mouth disease, characterized by vesicular oral/pharyngeal ulcers plus a papulovesicular rash on the hands and feet.",
+        "whyWrongByChoice": {
+          "B": "HSV-1 primary gingivostomatitis produces anterior oral vesicles and gingival involvement, without the hand and foot rash.",
+          "C": "EBV causes hairy leukoplakia and mononucleosis, not the palm-and-sole rash of HFMD.",
+          "D": "Mumps causes parotid swelling, not vesicular oral lesions with acral rash.",
+          "E": "CMV causes oral ulcers mainly in immunocompromised hosts and lacks the classic hand-foot distribution."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "Coxsackievirus",
+        "HFMD",
+        "viral"
+      ]
+    },
+    {
+      "id": "oral-dysbiosis-012",
+      "topicId": "oral-dysbiosis",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "A patient with a severe penicillin allergy develops an odontogenic infection with anaerobic and Gram-positive coccal flora and early involvement of the mandible. Which antimicrobial is preferred for its good bone and oral tissue penetration when beta-lactams cannot be used?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nystatin"
+        },
+        {
+          "label": "B",
+          "text": "Clindamycin"
+        },
+        {
+          "label": "C",
+          "text": "Fluconazole"
+        },
+        {
+          "label": "D",
+          "text": "Vancomycin"
+        },
+        {
+          "label": "E",
+          "text": "Acyclovir"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Clindamycin covers anaerobes/Gram-positives with good bone penetration.",
+        "whyCorrect": "Clindamycin penetrates bone and oral tissues well and covers anaerobes and Gram-positive cocci, making it a preferred choice for odontogenic infections when beta-lactams cannot be given.",
+        "whyWrongByChoice": {
+          "A": "Nystatin is a topical antifungal with no role in a bacterial odontogenic infection.",
+          "C": "Fluconazole is an antifungal, ineffective against the bacterial flora here.",
+          "D": "Vancomycin covers Gram-positives but has limited anaerobic activity and is not the standard oral-anaerobe/bone-penetrating choice in this setting.",
+          "E": "Acyclovir is an antiviral, irrelevant to a bacterial odontogenic infection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "clindamycin",
+        "bone-penetration",
+        "penicillin-allergy"
+      ]
+    },
+    {
+      "id": "oral-dysbiosis-013",
+      "topicId": "oral-dysbiosis",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "A 68-year-old woman with Sjogren syndrome develops rampant dental caries and recurrent oral candidiasis. Which underlying mechanism most directly explains her predisposition to oral dysbiosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Overproduction of secretory IgA saturating bacterial epitopes"
+        },
+        {
+          "label": "B",
+          "text": "Excessive bacteriocin production by commensals"
+        },
+        {
+          "label": "C",
+          "text": "Reduced salivary flow impairing oral clearance and antimicrobial defense"
+        },
+        {
+          "label": "D",
+          "text": "Alkalinization of the oral cavity by salivary bicarbonate excess"
+        },
+        {
+          "label": "E",
+          "text": "Increased colonization resistance from expanded commensal flora"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Xerostomia impairs oral defense and promotes dysbiosis.",
+        "whyCorrect": "Sjogren syndrome causes xerostomia; reduced salivary flow removes mechanical clearance, secretory IgA, and antimicrobial proteins, promoting caries and candidiasis through dysbiosis.",
+        "whyWrongByChoice": {
+          "A": "Sjogren reduces, not oversupplies, protective salivary secretory IgA.",
+          "B": "Bacteriocin overproduction would protect against pathogens, not predispose to disease.",
+          "D": "Xerostomia does not cause protective alkalinization; loss of saliva favors a cariogenic acidic environment.",
+          "E": "Xerostomia weakens rather than strengthens colonization resistance."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "xerostomia",
+        "Sjogren",
+        "saliva"
+      ]
+    },
+    {
+      "id": "oral-dysbiosis-014",
+      "topicId": "oral-dysbiosis",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "A dehydrated 75-year-old postoperative man develops acute, painful, erythematous swelling over the angle of the jaw with pus expressible from Stensen duct. Which organism is the most likely cause of this suppurative parotitis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mumps virus"
+        },
+        {
+          "label": "B",
+          "text": "Porphyromonas gingivalis"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus mutans"
+        },
+        {
+          "label": "D",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "E",
+          "text": "Candida albicans"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Staphylococcus aureus causes suppurative parotitis with salivary stasis.",
+        "whyCorrect": "Acute suppurative parotitis arises from salivary stasis (dehydration, postoperative state) and is primarily caused by Staphylococcus aureus, producing purulent drainage from Stensen duct.",
+        "whyWrongByChoice": {
+          "A": "Mumps causes bilateral non-suppurative viral parotitis without expressible pus.",
+          "B": "P. gingivalis is a periodontal pathogen, not a cause of acute bacterial parotitis.",
+          "C": "S. mutans causes dental caries, not suppurative parotitis.",
+          "E": "Candida causes thrush, not acute purulent parotid gland infection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "parotitis",
+        "S-aureus",
+        "salivary-stasis"
+      ]
+    },
+    {
+      "id": "oral-dysbiosis-015",
+      "topicId": "oral-dysbiosis",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "A 2-year-old child presents with fever, irritability, and clusters of painful vesicles and ulcers on the gingivae and anterior tongue with associated gingival swelling and bleeding. The lesions are expected to resolve within 1 to 2 weeks. Which pathogen is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coxsackievirus A"
+        },
+        {
+          "label": "B",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "C",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus mutans"
+        },
+        {
+          "label": "E",
+          "text": "Herpes simplex virus 1"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "HSV-1 causes primary herpetic gingivostomatitis in young children.",
+        "whyCorrect": "Primary HSV-1 infection causes herpetic gingivostomatitis, typically in children 6 months to 5 years, presenting with painful oral vesicles and ulcers plus gingival inflammation that resolve in 1 to 2 weeks.",
+        "whyWrongByChoice": {
+          "A": "Coxsackievirus A causes HFMD with posterior pharyngeal lesions and a hand/foot rash, not anterior gingivostomatitis.",
+          "B": "Candida produces scrapable white plaques, not painful vesicular ulcers with gingival bleeding.",
+          "C": "EBV causes hairy leukoplakia and mononucleosis, not primary vesicular gingivostomatitis.",
+          "D": "S. mutans causes caries, not an acute vesicular oral eruption."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "HSV-1",
+        "gingivostomatitis",
+        "viral"
+      ]
+    },
+    {
+      "id": "oral-dysbiosis-016",
+      "topicId": "oral-dysbiosis",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "Porphyromonas gingivalis is unusually effective at persisting in periodontal pockets despite a robust host response. Which virulence strategy best explains its ability to evade host immunity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Secretion of proteases (gingipains) that degrade host immune proteins"
+        },
+        {
+          "label": "B",
+          "text": "Production of glucosyltransferase to build a dextran capsule"
+        },
+        {
+          "label": "C",
+          "text": "Formation of heat-stable spores resistant to phagocytosis"
+        },
+        {
+          "label": "D",
+          "text": "Elaboration of a bleach-like odor that repels neutrophils"
+        },
+        {
+          "label": "E",
+          "text": "Conversion of lactic acid to demineralize surrounding bone directly"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "P. gingivalis proteases degrade immune proteins and evade complement.",
+        "whyCorrect": "P. gingivalis produces proteases (gingipains) that degrade host immune proteins and disrupt complement, allowing it to evade clearance and drive chronic periodontal inflammation.",
+        "whyWrongByChoice": {
+          "B": "Glucosyltransferase-driven dextran synthesis is a virulence feature of cariogenic S. mutans, not P. gingivalis immune evasion.",
+          "C": "P. gingivalis does not form spores; its evasion is protease-mediated.",
+          "D": "The bleach-like odor is a clue to Eikenella corrodens and does not repel neutrophils.",
+          "E": "Direct lactic acid bone demineralization is not the mechanism; alveolar destruction results from proteases and host inflammation."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "P-gingivalis",
+        "virulence",
+        "complement-evasion"
+      ]
+    },
+    {
+      "id": "oral-dysbiosis-017",
+      "topicId": "oral-dysbiosis",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "A 30-year-old woman with red, swollen, bleeding gums but no attachment loss on probing is told her condition is fully reversible with improved oral hygiene. Which statement best explains why her diagnosis differs prognostically from periodontitis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gingivitis has already destroyed the periodontal ligament"
+        },
+        {
+          "label": "B",
+          "text": "Gingivitis is confined to soft gingival tissue and spares alveolar bone and ligament"
+        },
+        {
+          "label": "C",
+          "text": "Gingivitis irreversibly resorbs alveolar bone but spares the gingiva"
+        },
+        {
+          "label": "D",
+          "text": "Gingivitis is a fungal rather than bacterial process"
+        },
+        {
+          "label": "E",
+          "text": "Gingivitis is caused by the Red Complex whereas periodontitis is not"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Gingivitis is reversible soft-tissue inflammation; periodontitis destroys support.",
+        "whyCorrect": "Gingivitis is inflammation confined to the soft gingival tissue and is fully reversible, whereas periodontitis destroys the periodontal ligament and alveolar bone, producing irreversible attachment loss.",
+        "whyWrongByChoice": {
+          "A": "Ligament destruction defines periodontitis, not reversible gingivitis.",
+          "C": "Gingivitis does not resorb alveolar bone; that is periodontitis.",
+          "D": "Gingivitis is a bacterial/dysbiotic plaque process, not fungal.",
+          "E": "The Red Complex drives periodontitis; gingivitis is not distinguished by being Red Complex-caused."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gingivitis",
+        "periodontitis",
+        "reversibility"
+      ]
+    },
+    {
+      "id": "oral-dysbiosis-018",
+      "topicId": "oral-dysbiosis",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "A dental student is asked to describe the earliest event in dental biofilm formation on a freshly cleaned tooth surface. Which event occurs first?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fusobacterium nucleatum bridges early and late colonizers"
+        },
+        {
+          "label": "B",
+          "text": "Porphyromonas gingivalis colonizes the subgingival pocket"
+        },
+        {
+          "label": "C",
+          "text": "A salivary pellicle of proteins and glycoproteins coats the enamel"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus mutans ferments sucrose into lactic acid"
+        },
+        {
+          "label": "E",
+          "text": "Actinomyces israelii matures the established plaque"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The salivary pellicle coats enamel first.",
+        "whyCorrect": "Immediately after a tooth is cleaned, a thin acellular salivary pellicle of proteins and glycoproteins coats the enamel and mediates the subsequent attachment of early bacterial colonizers.",
+        "whyWrongByChoice": {
+          "A": "F. nucleatum bridging occurs later, after early colonizers are established.",
+          "B": "P. gingivalis is a late anaerobic colonizer of mature plaque.",
+          "D": "S. mutans acid production follows attachment and biofilm buildup.",
+          "E": "Actinomyces contributes to plaque maturation, which is after pellicle formation and early colonization."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pellicle",
+        "biofilm-formation",
+        "sequence"
+      ]
+    },
+    {
+      "id": "oral-dysbiosis-019",
+      "topicId": "oral-dysbiosis",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "A patient with localized oral thrush is prescribed nystatin swish-and-swish therapy, while a second patient with extensive esophageal candidiasis is prescribed oral fluconazole. Which principle best explains this difference in agent selection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nystatin is bactericidal whereas fluconazole is bacteriostatic"
+        },
+        {
+          "label": "B",
+          "text": "Nystatin is broad-spectrum antiviral coverage; fluconazole is not"
+        },
+        {
+          "label": "C",
+          "text": "Nystatin requires renal dosing whereas fluconazole does not"
+        },
+        {
+          "label": "D",
+          "text": "Nystatin acts locally on the mucosal surface, whereas fluconazole is absorbed systemically"
+        },
+        {
+          "label": "E",
+          "text": "Nystatin penetrates bone well, making it ideal for deep infection"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Nystatin is topical/local; fluconazole is systemic for extensive disease.",
+        "whyCorrect": "Nystatin acts locally on fungal cell membranes at the mucosal surface and is poorly absorbed, so it treats superficial thrush; fluconazole is absorbed systemically and reaches deeper or extensive candidiasis such as esophageal disease.",
+        "whyWrongByChoice": {
+          "A": "Both are antifungals, not antibacterials; the bactericidal/bacteriostatic framing is incorrect.",
+          "B": "Neither drug is an antiviral; both target fungi.",
+          "C": "The selection is based on local versus systemic distribution, not renal dosing of nystatin.",
+          "E": "Nystatin is not used for deep or bony infection; it stays superficial because it is minimally absorbed."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "nystatin",
+        "fluconazole",
+        "candidiasis-therapy"
+      ]
+    },
+    {
+      "id": "oral-dysbiosis-020",
+      "topicId": "oral-dysbiosis",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "A patient completes a prolonged course of broad-spectrum antibiotics for a systemic infection and subsequently develops oral candidiasis. Which mechanism best explains how disrupting commensal bacteria led to fungal overgrowth?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibiotics directly stimulated Candida hyphal growth as a carbon source"
+        },
+        {
+          "label": "B",
+          "text": "Antibiotics increased salivary secretory IgA against fungi"
+        },
+        {
+          "label": "C",
+          "text": "Antibiotics enhanced bacteriocin production by surviving commensals"
+        },
+        {
+          "label": "D",
+          "text": "Antibiotics acidified the oral cavity to inhibit Candida"
+        },
+        {
+          "label": "E",
+          "text": "Antibiotics suppressed commensal bacteria, removing colonization resistance"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Loss of colonization resistance permits Candida overgrowth.",
+        "whyCorrect": "Commensal bacteria provide colonization resistance by competing for nutrients and attachment sites; broad-spectrum antibiotics suppress this flora, allowing opportunistic Candida to overgrow and cause thrush.",
+        "whyWrongByChoice": {
+          "A": "Antibiotics do not serve as a growth substrate that directly drives Candida hyphae; overgrowth is due to lost bacterial competition.",
+          "B": "Antibiotics do not boost antifungal secretory IgA; if anything, defenses are unchanged while competition is lost.",
+          "C": "Suppressing commensals reduces, not enhances, protective bacteriocin production.",
+          "D": "Antibiotic-related dysbiosis does not protectively acidify the mouth against Candida."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "colonization-resistance",
+        "antibiotics",
+        "candidiasis"
+      ]
+    },
+    {
+      "id": "sjogren-syndrome-001",
+      "topicId": "sjogren-syndrome",
+      "topicName": "Sjögren Syndrome",
+      "stem": "A 54-year-old woman reports a 14-month history of gritty, dry eyes and a persistently dry mouth that makes swallowing dry food difficult. She has needed multiple new dental fillings in the past year. Examination shows bilateral parotid enlargement. Laboratory studies reveal an elevated ANA titer and positive anti-SSA/Ro antibodies. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Systemic lupus erythematosus"
+        },
+        {
+          "label": "B",
+          "text": "Sjögren syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Rheumatoid arthritis"
+        },
+        {
+          "label": "D",
+          "text": "Systemic sclerosis"
+        },
+        {
+          "label": "E",
+          "text": "Sarcoidosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The combination of sicca symptoms, parotid enlargement, and anti-SSA/Ro positivity is classic for Sjögren syndrome.",
+        "whyCorrect": "Dry eyes and dry mouth (sicca), accelerated dental caries, parotid enlargement, elevated ANA, and positive anti-SSA/Ro together define the classic presentation of Sjögren syndrome, a chronic autoimmune exocrinopathy.",
+        "whyWrongByChoice": {
+          "A": "SLE typically shows anti-dsDNA and glomerulonephritis; anti-dsDNA is characteristically absent in Sjögren syndrome.",
+          "C": "Rheumatoid arthritis causes erosive symmetric polyarthritis, not prominent sicca symptoms with parotid enlargement as the leading feature.",
+          "D": "Systemic sclerosis features skin thickening and anti-Scl-70/anticentromere antibodies rather than sicca-dominant disease with anti-SSA/Ro.",
+          "E": "Sarcoidosis can cause parotid enlargement but would show noncaseating granulomas and is not associated with anti-SSA/Ro seropositivity."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "diagnosis",
+        "sicca",
+        "clinical-presentation"
+      ]
+    },
+    {
+      "id": "sjogren-syndrome-002",
+      "topicId": "sjogren-syndrome",
+      "topicName": "Sjögren Syndrome",
+      "stem": "A rheumatologist is evaluating a 49-year-old woman with suspected primary Sjögren syndrome. She wants to order the single most clinically important serologic marker to support the diagnosis. Which autoantibody is present in approximately two-thirds of patients and is the key diagnostic antibody?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-SSA/Ro"
+        },
+        {
+          "label": "B",
+          "text": "Anti-dsDNA"
+        },
+        {
+          "label": "C",
+          "text": "Anti-Scl-70"
+        },
+        {
+          "label": "D",
+          "text": "Anti-Jo-1"
+        },
+        {
+          "label": "E",
+          "text": "Anti-centromere"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Anti-SSA/Ro is the most clinically important autoantibody in Sjögren syndrome, found in roughly two-thirds of patients.",
+        "whyCorrect": "Anti-SSA/Ro targets an RNA-binding protein and is present in about two-thirds of Sjögren patients, making it the key serologic marker used in diagnostic criteria.",
+        "whyWrongByChoice": {
+          "B": "Anti-dsDNA is a marker of SLE and is characteristically absent in Sjögren syndrome.",
+          "C": "Anti-Scl-70 is associated with diffuse systemic sclerosis, not Sjögren syndrome.",
+          "D": "Anti-Jo-1 is seen in the antisynthetase syndrome of inflammatory myopathies.",
+          "E": "Anti-centromere antibodies are associated with limited systemic sclerosis (CREST)."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "serology",
+        "autoantibody",
+        "anti-SSA"
+      ]
+    },
+    {
+      "id": "sjogren-syndrome-003",
+      "topicId": "sjogren-syndrome",
+      "topicName": "Sjögren Syndrome",
+      "stem": "A 60-year-old woman with long-standing Sjögren syndrome undergoes serologic testing. In addition to anti-SSA/Ro, a second hallmark antibody that frequently co-occurs and adds diagnostic specificity is detected. Which antibody is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rheumatoid factor"
+        },
+        {
+          "label": "B",
+          "text": "Anti-smith"
+        },
+        {
+          "label": "C",
+          "text": "Anti-SSB/La"
+        },
+        {
+          "label": "D",
+          "text": "Anti-mitochondrial antibody"
+        },
+        {
+          "label": "E",
+          "text": "Anti-histone antibody"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Anti-SSB/La is the second hallmark Sjögren antibody that co-occurs with anti-SSA/Ro and adds specificity.",
+        "whyCorrect": "Anti-SSB/La targets an RNA-binding protein and frequently accompanies anti-SSA/Ro; its presence increases the specificity of a Sjögren diagnosis.",
+        "whyWrongByChoice": {
+          "A": "Rheumatoid factor is positive in about half of patients but is nonspecific and not a hallmark defining antibody.",
+          "B": "Anti-Smith is highly specific for SLE, not Sjögren syndrome.",
+          "D": "Anti-mitochondrial antibody is characteristic of primary biliary cholangitis.",
+          "E": "Anti-histone antibodies are associated with drug-induced lupus."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "serology",
+        "autoantibody",
+        "anti-SSB"
+      ]
+    },
+    {
+      "id": "sjogren-syndrome-004",
+      "topicId": "sjogren-syndrome",
+      "topicName": "Sjögren Syndrome",
+      "stem": "A 45-year-old woman presents with sicca symptoms, arthralgia, and a positive ANA. The clinician must distinguish primary Sjögren syndrome from systemic lupus erythematosus. The absence of which antibody most helps favor Sjögren syndrome over SLE?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-SSA/Ro"
+        },
+        {
+          "label": "B",
+          "text": "Anti-SSB/La"
+        },
+        {
+          "label": "C",
+          "text": "Antinuclear antibody"
+        },
+        {
+          "label": "D",
+          "text": "Anti-dsDNA"
+        },
+        {
+          "label": "E",
+          "text": "Rheumatoid factor"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Anti-dsDNA is typically absent in Sjögren syndrome but common in SLE, helping distinguish the two.",
+        "whyCorrect": "Anti-dsDNA antibodies are a hallmark of SLE and are characteristically absent in Sjögren syndrome, so their absence supports Sjögren over lupus.",
+        "whyWrongByChoice": {
+          "A": "Anti-SSA/Ro is present in most Sjögren patients but also occurs in SLE, so it does not distinguish them.",
+          "B": "Anti-SSB/La is a Sjögren-associated antibody and its presence, not absence, favors Sjögren.",
+          "C": "ANA is positive in both conditions and is nonspecific.",
+          "E": "Rheumatoid factor is positive in about half of Sjögren patients and does not discriminate from SLE."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "serology",
+        "differential",
+        "SLE"
+      ]
+    },
+    {
+      "id": "sjogren-syndrome-005",
+      "topicId": "sjogren-syndrome",
+      "topicName": "Sjögren Syndrome",
+      "stem": "A 52-year-old woman with Sjögren syndrome is found to have a serum bicarbonate of 16 mEq/L, a normal anion gap, hypokalemia, and a urine pH of 6.5 despite acidemia. Which renal lesion best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Membranous glomerulonephritis with nephrotic syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Type I distal renal tubular acidosis"
+        },
+        {
+          "label": "C",
+          "text": "Renal artery stenosis"
+        },
+        {
+          "label": "D",
+          "text": "Acute tubular necrosis"
+        },
+        {
+          "label": "E",
+          "text": "Minimal change disease"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sjögren renal disease is interstitial nephritis producing type I distal RTA with non-anion gap metabolic acidosis.",
+        "whyCorrect": "Lymphocytic interstitial nephritis in Sjögren syndrome impairs distal hydrogen ion secretion, producing type I distal RTA characterized by hypokalemic non-anion gap metabolic acidosis with an inappropriately high urine pH.",
+        "whyWrongByChoice": {
+          "A": "Membranous glomerulonephritis causes proteinuria and nephrotic syndrome, and glomerular disease is more typical of SLE than Sjögren.",
+          "C": "Renal artery stenosis causes renovascular hypertension, not a non-anion gap acidosis.",
+          "D": "Acute tubular necrosis causes acute kidney injury with granular casts, not chronic distal RTA.",
+          "E": "Minimal change disease causes nephrotic-range proteinuria without acidosis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "renal",
+        "distal-RTA",
+        "extraglandular"
+      ]
+    },
+    {
+      "id": "sjogren-syndrome-006",
+      "topicId": "sjogren-syndrome",
+      "topicName": "Sjögren Syndrome",
+      "stem": "A 58-year-old woman with a 12-year history of Sjögren syndrome develops persistent, firm parotid enlargement and new cervical lymphadenopathy. Biopsy of the parotid mass is most likely to demonstrate which malignancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diffuse large B-cell lymphoma"
+        },
+        {
+          "label": "B",
+          "text": "Hodgkin lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Marginal zone B-cell (MALT) lymphoma"
+        },
+        {
+          "label": "D",
+          "text": "Burkitt lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Mucoepidermoid carcinoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "MALT lymphoma is the most common lymphoma arising in Sjögren glandular tissue.",
+        "whyCorrect": "Chronic B-cell stimulation within salivary tissue in Sjögren syndrome predisposes to marginal zone B-cell (MALT) lymphoma, the most common subtype in this disease.",
+        "whyWrongByChoice": {
+          "A": "Diffuse large B-cell lymphoma can occur, sometimes via transformation of MALT, but is not the most common initial subtype.",
+          "B": "Hodgkin lymphoma is not the characteristic lymphoma associated with Sjögren syndrome.",
+          "D": "Burkitt lymphoma is associated with EBV and MYC translocation, not Sjögren-related glandular stimulation.",
+          "E": "Mucoepidermoid carcinoma is a salivary gland epithelial malignancy, not the lymphoid neoplasm characteristic of Sjögren."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lymphoma",
+        "MALT",
+        "complication"
+      ]
+    },
+    {
+      "id": "sjogren-syndrome-007",
+      "topicId": "sjogren-syndrome",
+      "topicName": "Sjögren Syndrome",
+      "stem": "During counseling, a patient with newly diagnosed primary Sjögren syndrome asks how much her risk of lymphoma is elevated compared with the general population. Which estimate is most accurate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No increased risk"
+        },
+        {
+          "label": "B",
+          "text": "About 2-fold increased risk"
+        },
+        {
+          "label": "C",
+          "text": "About 15-20 fold increased risk"
+        },
+        {
+          "label": "D",
+          "text": "About 100-fold increased risk"
+        },
+        {
+          "label": "E",
+          "text": "Decreased risk"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sjögren syndrome carries roughly a 15-20 fold increased lymphoma risk.",
+        "whyCorrect": "Sustained B-cell hyperactivation drives a 15-20 fold increased relative risk of lymphoma, corresponding to a 5-10% lifetime risk, most often MALT lymphoma.",
+        "whyWrongByChoice": {
+          "A": "Sjögren syndrome clearly increases lymphoma risk; it is not neutral.",
+          "B": "A 2-fold estimate substantially underestimates the well-documented risk.",
+          "D": "A 100-fold estimate overstates the risk, which is generally cited as 15-20 fold.",
+          "E": "Sjögren syndrome increases rather than decreases lymphoma risk."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "lymphoma",
+        "epidemiology",
+        "risk"
+      ]
+    },
+    {
+      "id": "sjogren-syndrome-008",
+      "topicId": "sjogren-syndrome",
+      "topicName": "Sjögren Syndrome",
+      "stem": "A 55-year-old woman with Sjögren syndrome has palpable purpura, low C4, and a positive serum cryoglobulin assay. Which of these findings is the strongest predictor of her developing lymphoma, conferring roughly an 11-fold increased hazard?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Positive ANA"
+        },
+        {
+          "label": "B",
+          "text": "Severe xerostomia"
+        },
+        {
+          "label": "C",
+          "text": "Positive anti-SSA/Ro"
+        },
+        {
+          "label": "D",
+          "text": "Cryoglobulinemia"
+        },
+        {
+          "label": "E",
+          "text": "Elevated rheumatoid factor alone"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cryoglobulinemia is a particularly strong lymphoma predictor in Sjögren syndrome, with about an 11-fold increased hazard.",
+        "whyCorrect": "Cryoglobulinemia reflects intense clonal B-cell activity and confers roughly an 11-fold increased lymphoma hazard, making it one of the strongest predictors.",
+        "whyWrongByChoice": {
+          "A": "A positive ANA is nonspecific and not a strong lymphoma predictor.",
+          "B": "Severe dry mouth reflects glandular burden but does not strongly predict lymphoma transformation.",
+          "C": "Anti-SSA/Ro is diagnostic but is not the strongest lymphoma predictor.",
+          "E": "Rheumatoid factor positivity is common and, by itself, a weaker predictor than cryoglobulinemia."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "lymphoma",
+        "cryoglobulinemia",
+        "prognosis"
+      ]
+    },
+    {
+      "id": "sjogren-syndrome-009",
+      "topicId": "sjogren-syndrome",
+      "topicName": "Sjögren Syndrome",
+      "stem": "Researchers studying the immunopathogenesis of Sjögren syndrome identify a cytokine that is overexpressed, promotes B-cell survival, sustains autoantibody production, and contributes to lymphoma risk. Which factor best fits this description?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "B-cell activating factor (BAFF)"
+        },
+        {
+          "label": "B",
+          "text": "Tumor necrosis factor-alpha"
+        },
+        {
+          "label": "C",
+          "text": "Interleukin-5"
+        },
+        {
+          "label": "D",
+          "text": "Transforming growth factor-beta"
+        },
+        {
+          "label": "E",
+          "text": "Erythropoietin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "BAFF overexpression drives B-cell survival, autoantibody production, and lymphoma risk in Sjögren syndrome.",
+        "whyCorrect": "BAFF (B-cell activating factor) is overexpressed in Sjögren syndrome, sustaining chronic B-cell hyperactivation, autoantibody production, and the elevated risk of MALT lymphoma.",
+        "whyWrongByChoice": {
+          "B": "TNF-alpha contributes to inflammation broadly but is not the key B-cell survival factor emphasized in Sjögren pathogenesis.",
+          "C": "IL-5 primarily drives eosinophil differentiation, not the B-cell hyperactivation of Sjögren.",
+          "D": "TGF-beta is generally immunoregulatory and fibrogenic, not a driver of B-cell survival here.",
+          "E": "Erythropoietin regulates red cell production and has no role in this pathway."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pathophysiology",
+        "BAFF",
+        "B-cell"
+      ]
+    },
+    {
+      "id": "sjogren-syndrome-010",
+      "topicId": "sjogren-syndrome",
+      "topicName": "Sjögren Syndrome",
+      "stem": "A 50-year-old woman with dry, gritty eyes undergoes an objective test in which filter paper strips are placed in the lower conjunctival sac for 5 minutes. Which result is considered abnormal and consistent with deficient tear production in Sjögren syndrome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "≤5 mm of wetting in 5 minutes"
+        },
+        {
+          "label": "B",
+          "text": "≥15 mm of wetting in 5 minutes"
+        },
+        {
+          "label": "C",
+          "text": "≥20 mm of wetting in 5 minutes"
+        },
+        {
+          "label": "D",
+          "text": "10 mm of wetting in 1 minute"
+        },
+        {
+          "label": "E",
+          "text": "Any measurable tear production"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A Schirmer test showing ≤5 mm of wetting in 5 minutes is abnormal.",
+        "whyCorrect": "The Schirmer test measures aqueous tear production; ≤5 mm of strip wetting over 5 minutes indicates deficient tear production consistent with Sjögren-related keratoconjunctivitis sicca.",
+        "whyWrongByChoice": {
+          "B": "≥15 mm indicates normal, adequate tear production.",
+          "C": "≥20 mm of wetting is a robustly normal result.",
+          "D": "The standard Schirmer test is read over 5 minutes, and 10 mm at 1 minute is not the defined abnormal threshold.",
+          "E": "Any tear production is not the criterion; the abnormal cutoff is ≤5 mm in 5 minutes."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "diagnosis",
+        "Schirmer",
+        "ocular"
+      ]
+    },
+    {
+      "id": "sjogren-syndrome-011",
+      "topicId": "sjogren-syndrome",
+      "topicName": "Sjögren Syndrome",
+      "stem": "A minor salivary gland labial biopsy is performed to evaluate a 47-year-old woman for Sjögren syndrome. Which histopathologic finding is the characteristic hallmark supporting the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Noncaseating granulomas"
+        },
+        {
+          "label": "B",
+          "text": "Focal lymphocytic sialadenitis with a focus score ≥1"
+        },
+        {
+          "label": "C",
+          "text": "Amyloid deposition on Congo red staining"
+        },
+        {
+          "label": "D",
+          "text": "Diffuse neutrophilic infiltration with microabscesses"
+        },
+        {
+          "label": "E",
+          "text": "Storiform fibrosis with IgG4-positive plasma cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Focal lymphocytic sialadenitis with a focus score ≥1 is the histologic hallmark of Sjögren syndrome.",
+        "whyCorrect": "The characteristic finding is focal lymphocytic sialadenitis, defined as one or more foci of ≥50 lymphocytes per 4 mm² of glandular tissue (focus score ≥1), reflecting organized CD4+ T-cell and B-cell aggregates.",
+        "whyWrongByChoice": {
+          "A": "Noncaseating granulomas indicate sarcoidosis, a mimic that must be excluded.",
+          "C": "Amyloid deposition indicates amyloidosis, not Sjögren.",
+          "D": "Neutrophilic microabscesses suggest acute bacterial sialadenitis, not the lymphocytic infiltrate of Sjögren.",
+          "E": "Storiform fibrosis with IgG4-positive plasma cells indicates IgG4-related disease, another mimic to exclude."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "biopsy",
+        "histology",
+        "focus-score"
+      ]
+    },
+    {
+      "id": "sjogren-syndrome-012",
+      "topicId": "sjogren-syndrome",
+      "topicName": "Sjögren Syndrome",
+      "stem": "A 62-year-old woman with long-standing rheumatoid arthritis develops dry eyes and dry mouth with positive anti-SSA/Ro. How is her Sjögren syndrome best classified?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primary Sjögren syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Drug-induced Sjögren syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Paraneoplastic Sjögren syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Secondary Sjögren syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Congenital Sjögren syndrome"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Sjögren occurring with another systemic autoimmune disease such as RA is classified as secondary.",
+        "whyCorrect": "Secondary Sjögren syndrome develops in association with another systemic autoimmune disorder such as rheumatoid arthritis, SLE, systemic sclerosis, or dermatomyositis.",
+        "whyWrongByChoice": {
+          "A": "Primary Sjögren syndrome occurs independently, without an accompanying systemic autoimmune disease.",
+          "B": "Sjögren syndrome is not a drug-induced entity in this context.",
+          "C": "Although lymphoma risk is increased, Sjögren itself is not classified as paraneoplastic.",
+          "E": "Sjögren syndrome is an acquired autoimmune disease, not a congenital condition."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "classification",
+        "secondary",
+        "rheumatoid-arthritis"
+      ]
+    },
+    {
+      "id": "sjogren-syndrome-013",
+      "topicId": "sjogren-syndrome",
+      "topicName": "Sjögren Syndrome",
+      "stem": "A medical student reviews the epidemiology of Sjögren syndrome. Which demographic pattern is most characteristic of the disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Male predominance with peak onset in adolescence"
+        },
+        {
+          "label": "B",
+          "text": "Equal sex distribution with childhood onset"
+        },
+        {
+          "label": "C",
+          "text": "Female-to-male ratio near 9:1 with peak onset around age 50"
+        },
+        {
+          "label": "D",
+          "text": "Female predominance with peak onset before age 20"
+        },
+        {
+          "label": "E",
+          "text": "Male predominance with onset after age 70"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sjögren syndrome predominantly affects middle-aged women, with a female-to-male ratio near 9:1 and peak onset around age 50.",
+        "whyCorrect": "Sjögren syndrome shows a strong female predominance (about 9:1) and typically presents in middle age, with peak incidence around age 50.",
+        "whyWrongByChoice": {
+          "A": "Sjögren is female-predominant and does not peak in adolescence.",
+          "B": "The sex distribution is markedly unequal and onset is in middle age, not childhood.",
+          "D": "Although female-predominant, onset is around age 50, not before age 20.",
+          "E": "The disease is female-predominant with peak onset near 50, not male-predominant late onset."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "epidemiology",
+        "demographics"
+      ]
+    },
+    {
+      "id": "sjogren-syndrome-014",
+      "topicId": "sjogren-syndrome",
+      "topicName": "Sjögren Syndrome",
+      "stem": "A 56-year-old woman with Sjögren syndrome has persistent xerostomia and difficulty eating despite artificial saliva. The physician prescribes an oral agent that stimulates residual glandular secretion. Which drug and mechanism is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pilocarpine, a muscarinic receptor agonist"
+        },
+        {
+          "label": "B",
+          "text": "Lifitegrast, an LFA-1 antagonist"
+        },
+        {
+          "label": "C",
+          "text": "Hydroxychloroquine, a Toll-like receptor modulator"
+        },
+        {
+          "label": "D",
+          "text": "Cyclosporine, a calcineurin inhibitor"
+        },
+        {
+          "label": "E",
+          "text": "Fluconazole, an ergosterol synthesis inhibitor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pilocarpine is a muscarinic agonist secretagogue used for xerostomia in Sjögren syndrome.",
+        "whyCorrect": "Pilocarpine (and cevimeline) are muscarinic receptor agonists that stimulate residual salivary and lacrimal secretion, directly relieving dry mouth.",
+        "whyWrongByChoice": {
+          "B": "Lifitegrast is a topical LFA-1 antagonist for dry eye, not an oral secretagogue for xerostomia.",
+          "C": "Hydroxychloroquine modulates systemic disease (arthralgia, fatigue) and does not directly stimulate secretion.",
+          "D": "Cyclosporine is a calcineurin inhibitor used topically for dry eye, not an oral muscarinic secretagogue.",
+          "E": "Fluconazole treats oral candidiasis by inhibiting ergosterol synthesis and does not stimulate secretion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "secretagogue",
+        "xerostomia"
+      ]
+    },
+    {
+      "id": "sjogren-syndrome-015",
+      "topicId": "sjogren-syndrome",
+      "topicName": "Sjögren Syndrome",
+      "stem": "A 51-year-old woman with Sjögren-related dry eye is started on a topical agent that competitively binds LFA-1 to block its interaction with ICAM-1, thereby reducing T-cell activation on the ocular surface. Which drug has this mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pilocarpine"
+        },
+        {
+          "label": "B",
+          "text": "Cevimeline"
+        },
+        {
+          "label": "C",
+          "text": "Hydroxychloroquine"
+        },
+        {
+          "label": "D",
+          "text": "Lifitegrast"
+        },
+        {
+          "label": "E",
+          "text": "Nystatin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Lifitegrast competitively binds LFA-1 to block ICAM-1 binding, reducing ocular T-cell activation.",
+        "whyCorrect": "Lifitegrast is a topical LFA-1 antagonist that blocks the LFA-1/ICAM-1 interaction, decreasing T-cell activation and inflammation on corneal and conjunctival cells to improve dry eye.",
+        "whyWrongByChoice": {
+          "A": "Pilocarpine is a muscarinic agonist secretagogue, not an LFA-1 antagonist.",
+          "B": "Cevimeline is also a muscarinic agonist, acting by stimulating secretion rather than blocking LFA-1.",
+          "C": "Hydroxychloroquine modulates systemic immune activity and does not target LFA-1/ICAM-1.",
+          "E": "Nystatin is an antifungal that binds ergosterol and treats oral candidiasis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "lifitegrast",
+        "dry-eye"
+      ]
+    },
+    {
+      "id": "sjogren-syndrome-016",
+      "topicId": "sjogren-syndrome",
+      "topicName": "Sjögren Syndrome",
+      "stem": "A 48-year-old woman newly diagnosed with Sjögren syndrome reports mild dry eye discomfort. Which first-line therapy is most appropriate for initial symptomatic relief of her ocular dryness?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Systemic corticosteroids"
+        },
+        {
+          "label": "B",
+          "text": "Artificial tears"
+        },
+        {
+          "label": "C",
+          "text": "Rituximab infusion"
+        },
+        {
+          "label": "D",
+          "text": "Oral cyclophosphamide"
+        },
+        {
+          "label": "E",
+          "text": "Nystatin suspension"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Artificial tears are the first-line therapy for the dry eye symptoms of Sjögren syndrome.",
+        "whyCorrect": "Artificial tears such as carboxymethylcellulose or polyethylene glycol replace the deficient aqueous layer and reduce evaporation, making them first-line for mild ocular dryness.",
+        "whyWrongByChoice": {
+          "A": "Systemic corticosteroids are reserved for significant organ involvement, not mild sicca.",
+          "C": "Rituximab is used for severe systemic or refractory disease, not initial mild dry eye.",
+          "D": "Cyclophosphamide is for severe extraglandular disease and carries substantial toxicity.",
+          "E": "Nystatin treats oral candidiasis and has no role in relieving dry eye."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "artificial-tears",
+        "first-line"
+      ]
+    },
+    {
+      "id": "sjogren-syndrome-017",
+      "topicId": "sjogren-syndrome",
+      "topicName": "Sjögren Syndrome",
+      "stem": "A 53-year-old woman with Sjögren syndrome presents with a profoundly dry tongue, angular cheilitis, and rampant caries near the gumline. Which explanation best links her salivary dysfunction to these oral findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Excess salivary amylase digesting enamel"
+        },
+        {
+          "label": "B",
+          "text": "Granulomatous destruction of the dental pulp"
+        },
+        {
+          "label": "C",
+          "text": "Autoantibody deposition directly eroding tooth enamel"
+        },
+        {
+          "label": "D",
+          "text": "Hypersalivation causing acid reflux onto the teeth"
+        },
+        {
+          "label": "E",
+          "text": "Loss of salivary antimicrobial and buffering function"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Reduced saliva removes antimicrobial and buffering protection, promoting caries and oral candidiasis.",
+        "whyCorrect": "Saliva normally buffers oral pH and provides antimicrobial protection; its loss in Sjögren syndrome accelerates dental caries and permits Candida overgrowth, producing xerostomia-related caries and angular cheilitis.",
+        "whyWrongByChoice": {
+          "A": "Salivary flow is reduced, not increased, and amylase does not digest enamel.",
+          "B": "The oral disease results from loss of salivary protection, not granulomatous pulp destruction.",
+          "C": "Autoantibodies target glandular tissue, not tooth enamel directly.",
+          "D": "Sjögren causes hyposalivation, not hypersalivation; reduced saliva is the problem."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "oral",
+        "xerostomia",
+        "candidiasis"
+      ]
+    },
+    {
+      "id": "sjogren-syndrome-018",
+      "topicId": "sjogren-syndrome",
+      "topicName": "Sjögren Syndrome",
+      "stem": "A 46-year-old woman with primary Sjögren syndrome has bothersome fatigue and non-erosive arthralgias without major organ involvement. Which systemic agent is most appropriate for these mild systemic manifestations?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nystatin"
+        },
+        {
+          "label": "B",
+          "text": "High-dose intravenous cyclophosphamide"
+        },
+        {
+          "label": "C",
+          "text": "Artificial tears"
+        },
+        {
+          "label": "D",
+          "text": "Pilocarpine"
+        },
+        {
+          "label": "E",
+          "text": "Hydroxychloroquine"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hydroxychloroquine is used for mild systemic disease such as fatigue and arthralgia in Sjögren syndrome.",
+        "whyCorrect": "Hydroxychloroquine is the preferred agent for mild systemic manifestations like fatigue and non-erosive arthralgia, while corticosteroids and immunosuppressants are reserved for significant organ involvement.",
+        "whyWrongByChoice": {
+          "A": "Nystatin is an antifungal for oral candidiasis with no role in systemic disease.",
+          "B": "High-dose cyclophosphamide is reserved for severe organ-threatening disease, not mild arthralgia and fatigue.",
+          "C": "Artificial tears address ocular dryness, not systemic arthralgia and fatigue.",
+          "D": "Pilocarpine treats xerostomia by stimulating secretion, not systemic joint symptoms."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "treatment",
+        "hydroxychloroquine",
+        "systemic"
+      ]
+    },
+    {
+      "id": "sjogren-syndrome-019",
+      "topicId": "sjogren-syndrome",
+      "topicName": "Sjögren Syndrome",
+      "stem": "A 44-year-old woman presents with bilateral parotid enlargement and sicca symptoms. Before diagnosing Sjögren syndrome, the clinician wants to exclude conditions that can mimic it. Which of the following is an important mimic to rule out?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "B",
+          "text": "Osteoarthritis"
+        },
+        {
+          "label": "C",
+          "text": "Essential hypertension"
+        },
+        {
+          "label": "D",
+          "text": "Gastroesophageal reflux disease"
+        },
+        {
+          "label": "E",
+          "text": "Hepatitis C virus infection"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hepatitis C is a recognized mimic of Sjögren syndrome that must be excluded.",
+        "whyCorrect": "Hepatitis C virus infection can cause sicca symptoms and salivary gland involvement mimicking Sjögren syndrome, so it must be excluded along with prior head/neck radiation, sarcoidosis, and IgG4-related disease.",
+        "whyWrongByChoice": {
+          "A": "Iron deficiency anemia does not reproduce the sicca and parotid enlargement picture of Sjögren.",
+          "B": "Osteoarthritis is a degenerative joint disease without sicca or glandular features.",
+          "C": "Essential hypertension is unrelated to exocrine gland dysfunction.",
+          "D": "GERD is a distinct upper GI disorder and not a mimic of Sjögren sicca."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "differential",
+        "mimics",
+        "hepatitis-C"
+      ]
+    },
+    {
+      "id": "sjogren-syndrome-020",
+      "topicId": "sjogren-syndrome",
+      "topicName": "Sjögren Syndrome",
+      "stem": "A researcher studying salivary tissue in Sjögren syndrome describes an early event in which mucosal epithelial cells become activated, possibly by a viral trigger, leading to recruitment of innate and adaptive immune responses and overexpression of a cytokine that amplifies BAFF and glandular inflammation. Which cytokine is most directly implicated in this interferon signature?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Interleukin-10"
+        },
+        {
+          "label": "B",
+          "text": "Interleukin-8"
+        },
+        {
+          "label": "C",
+          "text": "Interleukin-4"
+        },
+        {
+          "label": "D",
+          "text": "Granulocyte colony-stimulating factor"
+        },
+        {
+          "label": "E",
+          "text": "Interferon-alpha"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Interferon-alpha drives the interferon signature that amplifies BAFF expression and glandular inflammation.",
+        "whyCorrect": "Interferon-alpha produces the type I interferon signature in Sjögren syndrome, amplifying BAFF expression and glandular inflammation after epithelial activation and immune recruitment.",
+        "whyWrongByChoice": {
+          "A": "IL-10 is largely anti-inflammatory and does not drive the interferon-BAFF axis here.",
+          "B": "IL-8 is a neutrophil chemoattractant, not the type I interferon driving BAFF overexpression.",
+          "C": "IL-4 promotes Th2/IgE responses and is not the cytokine central to the Sjögren interferon signature.",
+          "D": "G-CSF stimulates neutrophil production and is unrelated to this pathway."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pathophysiology",
+        "interferon-alpha",
+        "BAFF"
+      ]
+    }
+  ]
+}

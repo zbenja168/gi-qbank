@@ -1,0 +1,1566 @@
+{
+  "categoryId": "w4s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "luminal-fat-digestion-and-absorption-001",
+      "topicId": "luminal-fat-digestion-and-absorption",
+      "topicName": "Luminal Fat Digestion and Absorption",
+      "stem": "A researcher examines how large, water-immiscible dietary fat droplets are prepared for efficient enzymatic breakdown in the small-intestinal lumen. Which of the following best describes the primary role of bile salts in this process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydrolyze triglyceride ester bonds directly"
+        },
+        {
+          "label": "B",
+          "text": "Emulsify fat droplets and form mixed micelles"
+        },
+        {
+          "label": "C",
+          "text": "Activate pancreatic digestive proenzymes"
+        },
+        {
+          "label": "D",
+          "text": "Transport lipids across the enterocyte membrane"
+        },
+        {
+          "label": "E",
+          "text": "Re-esterify fatty acids into triglycerides"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Bile salts are amphipathic molecules that emulsify fat and form mixed micelles to solubilize lipolytic products.",
+        "whyCorrect": "Bile salts orient their hydrophobic face into lipid droplets and their hydrophilic face toward the lumen, lowering surface tension to emulsify fat, then form mixed micelles that carry lipid products to the epithelium.",
+        "whyWrongByChoice": {
+          "A": "Triglyceride ester bonds are cleaved by pancreatic lipase, not by bile salts, which have no catalytic activity.",
+          "C": "Proenzyme activation is performed by trypsin/enteropeptidase, not bile salts.",
+          "D": "Lipid uptake across the brush border is by diffusion and transporters (FATP4, CD36), not bile salts.",
+          "E": "Re-esterification occurs intracellularly via acyltransferases, unrelated to bile salt function."
+        }
+      }
+    },
+    {
+      "id": "luminal-fat-digestion-and-absorption-002",
+      "topicId": "luminal-fat-digestion-and-absorption",
+      "topicName": "Luminal Fat Digestion and Absorption",
+      "stem": "At high luminal concentrations, bile salts paradoxically displace pancreatic lipase from the surface of lipid droplets, reducing hydrolysis. Which molecule anchors lipase to the droplet and restores its activity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Colipase"
+        },
+        {
+          "label": "B",
+          "text": "Cholecystokinin"
+        },
+        {
+          "label": "C",
+          "text": "Phospholipase A2"
+        },
+        {
+          "label": "D",
+          "text": "Enteropeptidase"
+        },
+        {
+          "label": "E",
+          "text": "Secretin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Colipase anchors pancreatic lipase to the bile salt-coated droplet surface, restoring lipase activity.",
+        "whyCorrect": "Colipase (secreted as procolipase, activated by trypsin) binds the lipid droplet and provides a platform that re-tethers lipase at the interface despite bile salts.",
+        "whyWrongByChoice": {
+          "B": "Cholecystokinin triggers enzyme and bile release but does not physically anchor lipase.",
+          "C": "Phospholipase A2 digests phospholipids; it does not restore lipase binding.",
+          "D": "Enteropeptidase activates trypsinogen; it plays no role at the lipid interface.",
+          "E": "Secretin stimulates bicarbonate secretion, not lipase anchoring."
+        }
+      }
+    },
+    {
+      "id": "luminal-fat-digestion-and-absorption-003",
+      "topicId": "luminal-fat-digestion-and-absorption",
+      "topicName": "Luminal Fat Digestion and Absorption",
+      "stem": "Pancreatic lipase acts at the surface of an emulsified dietary triglyceride droplet in the duodenum. Which set of products is generated per triglyceride molecule?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Three fatty acids and glycerol"
+        },
+        {
+          "label": "B",
+          "text": "One fatty acid and one diglyceride"
+        },
+        {
+          "label": "C",
+          "text": "Two 2-monoglycerides and one fatty acid"
+        },
+        {
+          "label": "D",
+          "text": "Glycerol and three monoglycerides"
+        },
+        {
+          "label": "E",
+          "text": "Two fatty acids and one 2-monoglyceride"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Pancreatic lipase cleaves the sn-1 and sn-3 ester bonds, yielding two free fatty acids and one 2-monoglyceride.",
+        "whyCorrect": "The enzyme is positionally specific for the sn-1 and sn-3 positions, leaving the sn-2 fatty acid on the glycerol backbone as a 2-monoglyceride.",
+        "whyWrongByChoice": {
+          "A": "Complete hydrolysis to glycerol plus three fatty acids does not occur; the sn-2 position is spared.",
+          "B": "A single cleavage yielding a diglyceride understates lipase action on both outer positions.",
+          "C": "This stoichiometry is not produced; only one 2-monoglyceride results per triglyceride.",
+          "D": "Free glycerol and three monoglycerides is not a chemically valid product set."
+        }
+      }
+    },
+    {
+      "id": "luminal-fat-digestion-and-absorption-004",
+      "topicId": "luminal-fat-digestion-and-absorption",
+      "topicName": "Luminal Fat Digestion and Absorption",
+      "stem": "A patient with long-standing cholestatic liver disease and steatorrhea is found to have a prolonged prothrombin time that corrects after parenteral vitamin administration. Deficiency of which vitamin is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitamin A"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin K"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin C"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin B12"
+        },
+        {
+          "label": "E",
+          "text": "Folate"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Fat malabsorption from bile salt deficiency causes fat-soluble vitamin K deficiency and coagulopathy.",
+        "whyCorrect": "Vitamin K is fat-soluble and micelle-dependent; its deficiency impairs synthesis of clotting factors, prolonging the PT, which corrects with supplementation.",
+        "whyWrongByChoice": {
+          "A": "Vitamin A deficiency causes night blindness, not prolonged PT.",
+          "C": "Vitamin C is water-soluble and unaffected by fat malabsorption; deficiency causes scurvy.",
+          "D": "B12 is water-soluble; its deficiency causes megaloblastic anemia, not coagulopathy.",
+          "E": "Folate deficiency causes megaloblastic anemia, not a prolonged prothrombin time."
+        }
+      }
+    },
+    {
+      "id": "luminal-fat-digestion-and-absorption-005",
+      "topicId": "luminal-fat-digestion-and-absorption",
+      "topicName": "Luminal Fat Digestion and Absorption",
+      "stem": "Within the enterocyte, newly re-synthesized triglycerides are packaged for export as chylomicrons. Which apolipoprotein is essential for chylomicron assembly?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apolipoprotein A-I"
+        },
+        {
+          "label": "B",
+          "text": "Apolipoprotein A-IV"
+        },
+        {
+          "label": "C",
+          "text": "Apolipoprotein B-100"
+        },
+        {
+          "label": "D",
+          "text": "Apolipoprotein E"
+        },
+        {
+          "label": "E",
+          "text": "Apolipoprotein B-48"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "ApoB-48, synthesized exclusively in enterocytes, is the essential structural apolipoprotein of chylomicrons.",
+        "whyCorrect": "MTP loads lipids onto apoB-48 to form the primordial particle; without apoB-48, chylomicron assembly fails and severe fat malabsorption results.",
+        "whyWrongByChoice": {
+          "A": "ApoA-I is a surface component but not essential for the assembly scaffold.",
+          "B": "ApoA-IV is present on chylomicrons but is not the required structural core protein.",
+          "C": "ApoB-100 is the hepatic isoform used for VLDL/LDL, not intestinal chylomicrons.",
+          "D": "ApoE mediates receptor clearance later but is not required for assembly."
+        }
+      }
+    },
+    {
+      "id": "luminal-fat-digestion-and-absorption-006",
+      "topicId": "luminal-fat-digestion-and-absorption",
+      "topicName": "Luminal Fat Digestion and Absorption",
+      "stem": "After secretion from the basolateral surface of enterocytes, chylomicrons enter lacteals rather than the adjacent blood capillaries. What best explains this routing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Their large size prevents capillary entry"
+        },
+        {
+          "label": "B",
+          "text": "They are water-soluble particles"
+        },
+        {
+          "label": "C",
+          "text": "Apolipoprotein B-48 directs them to lymph"
+        },
+        {
+          "label": "D",
+          "text": "Portal venous pressure excludes them"
+        },
+        {
+          "label": "E",
+          "text": "They carry fat-soluble vitamins"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chylomicrons (75-1200 nm) are too large for the ~60-80 nm capillary fenestrae and enter the more permeable lacteals.",
+        "whyCorrect": "Capillary fenestrae are far too small for chylomicrons, whereas lacteals have discontinuous endothelium with large gaps that admit chylomicron-sized particles.",
+        "whyWrongByChoice": {
+          "B": "Chylomicrons are lipid-rich and not water-soluble; solubility is not the routing basis.",
+          "C": "ApoB-48 is structural; it does not actively steer particles toward lymphatics.",
+          "D": "Portal pressure does not selectively exclude chylomicrons; size is the barrier.",
+          "E": "Carrying vitamins is unrelated to which vessel a particle can physically enter."
+        }
+      }
+    },
+    {
+      "id": "luminal-fat-digestion-and-absorption-007",
+      "topicId": "luminal-fat-digestion-and-absorption",
+      "topicName": "Luminal Fat Digestion and Absorption",
+      "stem": "Bile salts delivered to the small intestine are conserved by active reabsorption at a specific site before returning to the liver. Where does this active reabsorption occur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Duodenum"
+        },
+        {
+          "label": "B",
+          "text": "Terminal ileum"
+        },
+        {
+          "label": "C",
+          "text": "Jejunum"
+        },
+        {
+          "label": "D",
+          "text": "Proximal colon"
+        },
+        {
+          "label": "E",
+          "text": "Stomach"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The terminal ileum is the exclusive site of active (ASBT-mediated) bile salt reabsorption.",
+        "whyCorrect": "The apical sodium-dependent bile acid transporter in the terminal ileum recovers ~95% of bile salts for enterohepatic recycling.",
+        "whyWrongByChoice": {
+          "A": "The duodenum delivers bile but is not the active reabsorption site.",
+          "C": "The jejunum absorbs many nutrients but not bile salts by active transport.",
+          "D": "The colon receives bile salts that escape reabsorption but does not actively recover them.",
+          "E": "The stomach has no role in bile salt reabsorption."
+        }
+      }
+    },
+    {
+      "id": "luminal-fat-digestion-and-absorption-008",
+      "topicId": "luminal-fat-digestion-and-absorption",
+      "topicName": "Luminal Fat Digestion and Absorption",
+      "stem": "A patient with Crohn disease undergoes terminal ileal resection. Which change in stool composition is most likely to result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased hepatic bile salt synthesis"
+        },
+        {
+          "label": "B",
+          "text": "Impaired pancreatic lipase secretion"
+        },
+        {
+          "label": "C",
+          "text": "Enhanced absorption of dietary cholesterol"
+        },
+        {
+          "label": "D",
+          "text": "Steatorrhea from reduced micelle formation"
+        },
+        {
+          "label": "E",
+          "text": "Portal hypertension with ascites"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Loss of ileal reabsorption depletes the bile salt pool below the CMC, impairing micelles and causing steatorrhea.",
+        "whyCorrect": "Without ASBT-mediated recovery, fecal bile salt loss outpaces hepatic synthesis; the pool shrinks, micelle formation fails, and unabsorbed fat produces steatorrhea.",
+        "whyWrongByChoice": {
+          "A": "Hepatic synthesis is upregulated but cannot fully compensate and is not itself a stool finding.",
+          "B": "Pancreatic lipase secretion is unaffected by ileal resection.",
+          "C": "Cholesterol absorption declines, not improves, with bile salt depletion.",
+          "E": "Portal hypertension with ascites is a hepatic/vascular problem unrelated to ileal bile salt handling."
+        }
+      }
+    },
+    {
+      "id": "luminal-fat-digestion-and-absorption-009",
+      "topicId": "luminal-fat-digestion-and-absorption",
+      "topicName": "Luminal Fat Digestion and Absorption",
+      "stem": "A patient with fat malabsorption is placed on medium-chain triglyceride supplements to preserve caloric intake. Why are medium-chain fatty acids absorbed despite impaired micelle formation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They require bile salt micelles for uptake"
+        },
+        {
+          "label": "B",
+          "text": "They are packaged into chylomicrons"
+        },
+        {
+          "label": "C",
+          "text": "They stimulate pancreatic lipase secretion"
+        },
+        {
+          "label": "D",
+          "text": "They enhance de novo bile salt synthesis"
+        },
+        {
+          "label": "E",
+          "text": "They enter portal blood without micelles"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Short- and medium-chain fatty acids are water-soluble enough to diffuse into the portal circulation, bypassing the micelle-chylomicron pathway.",
+        "whyCorrect": "MCFAs do not need bile salt micelles or chylomicron packaging; they diffuse across the enterocyte and pass directly into portal blood, preserving caloric absorption.",
+        "whyWrongByChoice": {
+          "A": "The opposite is true: MCFAs are absorbed independent of micelles.",
+          "B": "MCFAs bypass chylomicron assembly entirely; only long-chain fats are packaged.",
+          "C": "MCFAs do not act by stimulating pancreatic lipase.",
+          "D": "MCFA absorption does not depend on or increase bile salt synthesis."
+        }
+      }
+    },
+    {
+      "id": "luminal-fat-digestion-and-absorption-010",
+      "topicId": "luminal-fat-digestion-and-absorption",
+      "topicName": "Luminal Fat Digestion and Absorption",
+      "stem": "A cholesterol-lowering drug competitively blocks the enterocyte brush-border transporter responsible for uptake of both dietary and biliary cholesterol. Which transporter does it inhibit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "FATP4"
+        },
+        {
+          "label": "B",
+          "text": "FAT/CD36"
+        },
+        {
+          "label": "C",
+          "text": "NPC1L1"
+        },
+        {
+          "label": "D",
+          "text": "ASBT"
+        },
+        {
+          "label": "E",
+          "text": "MTP"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ezetimibe competitively inhibits NPC1L1, the enterocyte cholesterol uptake transporter.",
+        "whyCorrect": "NPC1L1 mediates apical uptake of dietary and recycled biliary cholesterol and is the direct molecular target of ezetimibe.",
+        "whyWrongByChoice": {
+          "A": "FATP4 transports long-chain fatty acids, not cholesterol.",
+          "B": "FAT/CD36 is a scavenger receptor for fatty acid uptake, not the ezetimibe target.",
+          "D": "ASBT transports bile salts in the ileum, not cholesterol at the brush border.",
+          "E": "MTP is an intracellular lipid-loading chaperone, not a membrane cholesterol transporter."
+        }
+      }
+    },
+    {
+      "id": "luminal-fat-digestion-and-absorption-011",
+      "topicId": "luminal-fat-digestion-and-absorption",
+      "topicName": "Luminal Fat Digestion and Absorption",
+      "stem": "Lipolytic products must cross the unstirred water layer overlying the brush border to reach absorptive enterocytes. By what mechanism are they carried across this layer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Active transport by a membrane ATPase"
+        },
+        {
+          "label": "B",
+          "text": "Receptor-mediated endocytosis of droplets"
+        },
+        {
+          "label": "C",
+          "text": "Transport packaged in chylomicrons"
+        },
+        {
+          "label": "D",
+          "text": "Binding to luminal albumin"
+        },
+        {
+          "label": "E",
+          "text": "Diffusion within mixed micelles"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Mixed micelles are water-soluble carriers that diffuse across the unstirred water layer and deliver lipid products to the apical membrane.",
+        "whyCorrect": "Because micelles are water-soluble particles ~3-10 nm across, they diffuse efficiently through the aqueous unstirred layer and release their lipid cargo at the enterocyte surface.",
+        "whyWrongByChoice": {
+          "A": "No ATPase actively pumps micellar lipids across the unstirred layer.",
+          "B": "Enterocytes do not endocytose intact luminal fat droplets for this step.",
+          "C": "Chylomicrons are formed inside the enterocyte for export, not for luminal delivery.",
+          "D": "Albumin does not shuttle lipids across the intestinal unstirred water layer."
+        }
+      }
+    },
+    {
+      "id": "luminal-fat-digestion-and-absorption-012",
+      "topicId": "luminal-fat-digestion-and-absorption",
+      "topicName": "Luminal Fat Digestion and Absorption",
+      "stem": "Inside the enterocyte smooth endoplasmic reticulum, a chaperone loads triglycerides, cholesterol esters, and fat-soluble vitamins onto apolipoprotein B-48. Which protein performs this function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Long-chain fatty acyl-CoA synthetase"
+        },
+        {
+          "label": "B",
+          "text": "Diacylglycerol acyltransferase"
+        },
+        {
+          "label": "C",
+          "text": "Microsomal triglyceride transfer protein"
+        },
+        {
+          "label": "D",
+          "text": "Acyl-CoA cholesterol acyltransferase 2"
+        },
+        {
+          "label": "E",
+          "text": "Endothelial capillary lipoprotein lipase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Microsomal triglyceride transfer protein (MTP) loads lipids onto apoB-48 to form the primordial chylomicron.",
+        "whyCorrect": "MTP is the chaperone in the SER that transfers TGs, cholesterol esters, phospholipids, and vitamins onto apoB-48; its loss causes abetalipoproteinemia.",
+        "whyWrongByChoice": {
+          "A": "Fatty acyl-CoA synthetase activates fatty acids to acyl-CoA; it does not load apoB-48.",
+          "B": "DGAT catalyzes the final step of TG resynthesis, not lipoprotein loading.",
+          "D": "ACAT2 esterifies cholesterol; it does not assemble the particle onto apoB-48.",
+          "E": "Lipoprotein lipase hydrolyzes circulating triglycerides at capillary endothelium, not in enterocytes."
+        }
+      }
+    },
+    {
+      "id": "luminal-fat-digestion-and-absorption-013",
+      "topicId": "luminal-fat-digestion-and-absorption",
+      "topicName": "Luminal Fat Digestion and Absorption",
+      "stem": "Absorbed macronutrients diverge into two transport routes after crossing the enterocyte. Which absorbed nutrients travel directly to the liver via the portal vein?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucose and amino acids"
+        },
+        {
+          "label": "B",
+          "text": "Long-chain fatty acids"
+        },
+        {
+          "label": "C",
+          "text": "Nascent chylomicron particles"
+        },
+        {
+          "label": "D",
+          "text": "Dietary fat-soluble vitamins"
+        },
+        {
+          "label": "E",
+          "text": "Dietary cholesterol esters"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Water-soluble glucose and amino acids drain into intestinal capillaries and the portal vein to reach the liver first.",
+        "whyCorrect": "Monosaccharides and amino acids are small and water-soluble, entering capillaries and traveling via the portal vein for first-pass hepatic processing.",
+        "whyWrongByChoice": {
+          "B": "Long-chain fatty acids are re-esterified and exported in chylomicrons via lymph, not the portal vein.",
+          "C": "Nascent chylomicron particles enter lacteals and the lymphatic system, bypassing the portal route.",
+          "D": "Fat-soluble vitamins follow the chylomicron/lymphatic route.",
+          "E": "Cholesterol esters are incorporated into chylomicrons and travel via lymph."
+        }
+      }
+    },
+    {
+      "id": "luminal-fat-digestion-and-absorption-014",
+      "topicId": "luminal-fat-digestion-and-absorption",
+      "topicName": "Luminal Fat Digestion and Absorption",
+      "stem": "The bile salt pool is small yet supports the large daily requirement for fat digestion because of enterohepatic recycling. Approximately what fraction of secreted bile salts is normally reabsorbed and recycled?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5%"
+        },
+        {
+          "label": "B",
+          "text": "25%"
+        },
+        {
+          "label": "C",
+          "text": "50%"
+        },
+        {
+          "label": "D",
+          "text": "95%"
+        },
+        {
+          "label": "E",
+          "text": "75%"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The enterohepatic circulation recycles approximately 95% of bile salts via ileal active reabsorption.",
+        "whyCorrect": "Efficient ASBT-mediated reabsorption in the terminal ileum recovers ~95% of bile salts, allowing a small pool to meet large daily digestive needs.",
+        "whyWrongByChoice": {
+          "A": "Only about 5% is lost in feces, not reabsorbed; this figure is inverted.",
+          "B": "25% recovery would leave the pool unable to sustain digestion.",
+          "C": "50% is far below the actual high recycling efficiency.",
+          "E": "75% understates the ~95% normally reabsorbed."
+        }
+      }
+    },
+    {
+      "id": "luminal-fat-digestion-and-absorption-015",
+      "topicId": "luminal-fat-digestion-and-absorption",
+      "topicName": "Luminal Fat Digestion and Absorption",
+      "stem": "Colipase is secreted by the pancreas as an inactive precursor, procolipase, that must be cleaved to become functional. Which enzyme activates it in the duodenum?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gastric pepsin"
+        },
+        {
+          "label": "B",
+          "text": "Bile salt-stimulated lipase"
+        },
+        {
+          "label": "C",
+          "text": "Trypsin"
+        },
+        {
+          "label": "D",
+          "text": "Pancreatic amylase"
+        },
+        {
+          "label": "E",
+          "text": "Secretin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Trypsin cleaves procolipase to active colipase in the duodenal lumen.",
+        "whyCorrect": "Like several pancreatic proenzymes, procolipase is activated by trypsin, which is itself generated from trypsinogen by enteropeptidase.",
+        "whyWrongByChoice": {
+          "A": "Pepsin is a gastric protease that does not activate procolipase.",
+          "B": "Bile salt-stimulated lipase hydrolyzes cholesterol esters; it does not activate colipase.",
+          "D": "Amylase digests starch and has no proteolytic activation role.",
+          "E": "Secretin is a hormone, not a proteolytic activator."
+        }
+      }
+    },
+    {
+      "id": "luminal-fat-digestion-and-absorption-016",
+      "topicId": "luminal-fat-digestion-and-absorption",
+      "topicName": "Luminal Fat Digestion and Absorption",
+      "stem": "Within the enterocyte, absorbed 2-monoglycerides are re-acylated to triglycerides using sequential transfer of fatty acyl groups. Which pathway predominates for this triglyceride resynthesis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glycerol-3-phosphate pathway"
+        },
+        {
+          "label": "B",
+          "text": "Monoglyceride pathway"
+        },
+        {
+          "label": "C",
+          "text": "De novo lipogenesis"
+        },
+        {
+          "label": "D",
+          "text": "Beta-oxidation pathway"
+        },
+        {
+          "label": "E",
+          "text": "Phosphatidic acid pathway"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The monoglyceride pathway, using MGAT and DGAT, is the predominant route for enterocyte TG resynthesis.",
+        "whyCorrect": "2-Monoglyceride is sequentially acylated by MGAT then DGAT to form diacylglycerol and triglyceride, reusing the absorbed glycerol backbone and bypassing de novo glycerol synthesis.",
+        "whyWrongByChoice": {
+          "A": "The glycerol-3-phosphate pathway is minor in enterocytes after a fatty meal.",
+          "C": "De novo lipogenesis synthesizes fatty acids from scratch, not the main resynthesis route here.",
+          "D": "Beta-oxidation degrades fatty acids rather than building triglycerides.",
+          "E": "The phosphatidic acid pathway is not the predominant enterocyte TG-resynthesis route."
+        }
+      }
+    },
+    {
+      "id": "luminal-fat-digestion-and-absorption-017",
+      "topicId": "luminal-fat-digestion-and-absorption",
+      "topicName": "Luminal Fat Digestion and Absorption",
+      "stem": "An infant has fat malabsorption, spiky erythrocytes (acanthocytes) on peripheral smear, and markedly low circulating LDL due to an autosomal recessive defect in lipid loading onto apolipoprotein B. Which condition is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Celiac disease"
+        },
+        {
+          "label": "B",
+          "text": "Cystic fibrosis"
+        },
+        {
+          "label": "C",
+          "text": "Crohn disease"
+        },
+        {
+          "label": "D",
+          "text": "Abetalipoproteinemia"
+        },
+        {
+          "label": "E",
+          "text": "Chronic pancreatitis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Abetalipoproteinemia is an autosomal recessive MTP defect causing failed chylomicron/VLDL assembly, low LDL, and acanthocytes.",
+        "whyCorrect": "Loss of MTP prevents lipid loading onto apoB, so chylomicron and VLDL assembly fail, producing fat malabsorption, very low LDL, acanthocytes, and vitamin E deficiency.",
+        "whyWrongByChoice": {
+          "A": "Celiac disease causes villous atrophy but not low LDL or acanthocytes.",
+          "B": "Cystic fibrosis causes pancreatic insufficiency, not defective apoB loading or acanthocytes.",
+          "C": "Crohn disease affects the bowel wall but does not cause this apoB-loading defect.",
+          "E": "Chronic pancreatitis causes enzyme deficiency, not markedly reduced LDL with acanthocytes."
+        }
+      }
+    },
+    {
+      "id": "luminal-fat-digestion-and-absorption-018",
+      "topicId": "luminal-fat-digestion-and-absorption",
+      "topicName": "Luminal Fat Digestion and Absorption",
+      "stem": "A young adult has fat, iron, and folate malabsorption with duodenal villous atrophy and positive anti-tissue transglutaminase IgA, despite normal pancreatic and biliary secretion. Which condition is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abetalipoproteinemia"
+        },
+        {
+          "label": "B",
+          "text": "Chronic pancreatitis"
+        },
+        {
+          "label": "C",
+          "text": "Bile salt deficiency"
+        },
+        {
+          "label": "D",
+          "text": "Celiac disease"
+        },
+        {
+          "label": "E",
+          "text": "Short bowel syndrome"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Celiac disease is an immune-mediated absorptive defect with villous atrophy and positive anti-tTG IgA despite intact luminal digestion.",
+        "whyCorrect": "Gluten-triggered immune injury damages duodenal/jejunal mucosa, reducing absorptive surface and brush-border enzymes; luminal digestion is intact, and anti-tTG IgA is the serologic hallmark.",
+        "whyWrongByChoice": {
+          "A": "Abetalipoproteinemia shows low LDL and acanthocytes, not positive anti-tTG serology.",
+          "B": "Chronic pancreatitis impairs luminal enzyme secretion, which is normal here.",
+          "C": "Bile salt deficiency impairs micelles but does not cause villous atrophy or positive anti-tTG.",
+          "E": "Short bowel syndrome follows resection, not immune villous atrophy with anti-tTG antibodies."
+        }
+      }
+    },
+    {
+      "id": "luminal-fat-digestion-and-absorption-019",
+      "topicId": "luminal-fat-digestion-and-absorption",
+      "topicName": "Luminal Fat Digestion and Absorption",
+      "stem": "A pediatric patient with recurrent pulmonary infections and bulky, greasy stools is found to have pancreatic exocrine insufficiency from viscous secretions blocking enzyme delivery. Which condition is the most common inherited cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cystic fibrosis"
+        },
+        {
+          "label": "B",
+          "text": "Celiac disease"
+        },
+        {
+          "label": "C",
+          "text": "Crohn disease"
+        },
+        {
+          "label": "D",
+          "text": "Abetalipoproteinemia"
+        },
+        {
+          "label": "E",
+          "text": "Chronic pancreatitis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cystic fibrosis is the most common inherited cause of pancreatic exocrine insufficiency.",
+        "whyCorrect": "The CFTR defect produces viscous pancreatic secretions that plug ducts and block lipase delivery, causing steatorrhea; recurrent lung infection reflects the same channel defect.",
+        "whyWrongByChoice": {
+          "B": "Celiac disease is an absorptive mucosal disorder, not a cause of pancreatic insufficiency.",
+          "C": "Crohn disease affects the bowel wall, not pancreatic enzyme secretion primarily.",
+          "D": "Abetalipoproteinemia is a lipoprotein-assembly defect, not pancreatic insufficiency.",
+          "E": "Chronic pancreatitis causes acquired insufficiency but is not the common inherited cause in children."
+        }
+      }
+    },
+    {
+      "id": "luminal-fat-digestion-and-absorption-020",
+      "topicId": "luminal-fat-digestion-and-absorption",
+      "topicName": "Luminal Fat Digestion and Absorption",
+      "stem": "An enzyme secreted as an inactive proenzyme cleaves the sn-2 ester bond of biliary phosphatidylcholine, yielding a lysophospholipid and a free fatty acid that join mixed micelles. Which enzyme is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pancreatic lipase"
+        },
+        {
+          "label": "B",
+          "text": "Colipase"
+        },
+        {
+          "label": "C",
+          "text": "Phospholipase A2"
+        },
+        {
+          "label": "D",
+          "text": "Cholesterol esterase"
+        },
+        {
+          "label": "E",
+          "text": "Pancreatic amylase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pancreatic phospholipase A2 cleaves the sn-2 bond of phosphatidylcholine to release a lysophospholipid and a fatty acid.",
+        "whyCorrect": "Phospholipase A2, activated by trypsin, acts on biliary phosphatidylcholine at the sn-2 position; both products enter mixed micelles, explaining the prominence of lysophospholipids there.",
+        "whyWrongByChoice": {
+          "A": "Pancreatic lipase cleaves triglyceride sn-1/sn-3 bonds, not phospholipid sn-2 bonds.",
+          "B": "Colipase anchors lipase; it has no phospholipase activity.",
+          "D": "Cholesterol esterase hydrolyzes cholesterol esters, not phosphatidylcholine.",
+          "E": "Amylase digests carbohydrate and has no phospholipid activity."
+        }
+      }
+    },
+    {
+      "id": "intestinal-nutrient-transporter-mechanisms-001",
+      "topicId": "intestinal-nutrient-transporter-mechanisms",
+      "topicName": "Intestinal Nutrient Transporter Mechanisms",
+      "stem": "A physiologist perfuses the small-intestinal lumen with a glucose solution and observes that glucose accumulates inside enterocytes even when luminal glucose is lower than intracellular glucose. This uphill movement at the apical membrane is accomplished by which transporter?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "GLUT2"
+        },
+        {
+          "label": "B",
+          "text": "GLUT5"
+        },
+        {
+          "label": "C",
+          "text": "SGLT1"
+        },
+        {
+          "label": "D",
+          "text": "PepT1"
+        },
+        {
+          "label": "E",
+          "text": "Na+/K+-ATPase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "SGLT1 is the apical secondary active cotransporter for glucose and galactose.",
+        "whyCorrect": "SGLT1 couples two Na+ ions to each glucose (or galactose) molecule, using the inward Na+ gradient to concentrate sugar inside the enterocyte against its concentration gradient.",
+        "whyWrongByChoice": {
+          "A": "GLUT2 is a basolateral facilitative exporter that moves sugars down their gradient and cannot concentrate them.",
+          "B": "GLUT5 is the apical facilitative fructose transporter with no ion coupling, so it cannot move sugar uphill.",
+          "D": "PepT1 is the H+-coupled di- and tripeptide transporter, not a sugar transporter.",
+          "E": "Na+/K+-ATPase is the basolateral pump that maintains the Na+ gradient but does not itself transport glucose."
+        }
+      }
+    },
+    {
+      "id": "intestinal-nutrient-transporter-mechanisms-002",
+      "topicId": "intestinal-nutrient-transporter-mechanisms",
+      "topicName": "Intestinal Nutrient Transporter Mechanisms",
+      "stem": "A transporter on the apical enterocyte membrane moves fructose into the cell down its concentration gradient without coupling to any ion. Which transporter is described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "SGLT1"
+        },
+        {
+          "label": "B",
+          "text": "GLUT2"
+        },
+        {
+          "label": "C",
+          "text": "DMT1"
+        },
+        {
+          "label": "D",
+          "text": "GLUT5"
+        },
+        {
+          "label": "E",
+          "text": "PepT1"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "GLUT5 is the apical, ion-independent fructose transporter.",
+        "whyCorrect": "GLUT5 mediates facilitated diffusion of fructose across the apical membrane with no sodium or proton coupling.",
+        "whyWrongByChoice": {
+          "A": "SGLT1 is Na+-coupled and handles glucose and galactose, not fructose.",
+          "B": "GLUT2 is the basolateral exporter for all three sugars, not an apical fructose uptake transporter.",
+          "C": "DMT1 transports ferrous iron, not sugars.",
+          "E": "PepT1 transports di- and tripeptides."
+        }
+      }
+    },
+    {
+      "id": "intestinal-nutrient-transporter-mechanisms-003",
+      "topicId": "intestinal-nutrient-transporter-mechanisms",
+      "topicName": "Intestinal Nutrient Transporter Mechanisms",
+      "stem": "After glucose, galactose, and fructose accumulate within the enterocyte, all three exit across the basolateral membrane into the portal blood through a single high-capacity, low-affinity facilitative transporter. Which one?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "SGLT1"
+        },
+        {
+          "label": "B",
+          "text": "PepT1"
+        },
+        {
+          "label": "C",
+          "text": "GLUT2"
+        },
+        {
+          "label": "D",
+          "text": "GLUT5"
+        },
+        {
+          "label": "E",
+          "text": "ENaC"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "GLUT2 exports all three monosaccharides at the basolateral membrane.",
+        "whyCorrect": "GLUT2 is a high-capacity, low-affinity facilitative transporter that moves glucose, galactose, and fructose down their gradient into portal blood.",
+        "whyWrongByChoice": {
+          "A": "SGLT1 is an apical uptake transporter, not a basolateral exporter.",
+          "B": "PepT1 transports peptides, not sugars.",
+          "D": "GLUT5 mediates apical fructose uptake, not basolateral export of all sugars.",
+          "E": "ENaC is a colonic sodium channel, unrelated to sugar export."
+        }
+      }
+    },
+    {
+      "id": "intestinal-nutrient-transporter-mechanisms-004",
+      "topicId": "intestinal-nutrient-transporter-mechanisms",
+      "topicName": "Intestinal Nutrient Transporter Mechanisms",
+      "stem": "The inward sodium electrochemical gradient that powers apical sugar and amino acid cotransport is continuously maintained by which basolateral membrane protein?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "GLUT2 uniporter"
+        },
+        {
+          "label": "B",
+          "text": "Na+/K+-ATPase"
+        },
+        {
+          "label": "C",
+          "text": "DMT1 cotransporter"
+        },
+        {
+          "label": "D",
+          "text": "Basolateral ferroportin"
+        },
+        {
+          "label": "E",
+          "text": "H+/K+-ATPase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The basolateral Na+/K+-ATPase maintains the low intracellular Na+ that drives secondary active transport.",
+        "whyCorrect": "By pumping 3 Na+ out and 2 K+ in, the Na+/K+-ATPase keeps intracellular Na+ low, sustaining the inward Na+ gradient that powers SGLT1 and Na+-dependent amino acid transporters.",
+        "whyWrongByChoice": {
+          "A": "GLUT2 exports sugars and does not establish an ion gradient.",
+          "C": "DMT1 cotransports iron and does not maintain the Na+ gradient.",
+          "D": "Ferroportin exports iron at the basolateral membrane.",
+          "E": "The H+/K+-ATPase handles potassium/proton transport in the colon and stomach, not the intestinal Na+ gradient."
+        }
+      }
+    },
+    {
+      "id": "intestinal-nutrient-transporter-mechanisms-005",
+      "topicId": "intestinal-nutrient-transporter-mechanisms",
+      "topicName": "Intestinal Nutrient Transporter Mechanisms",
+      "stem": "Pancreatic proteases are secreted as inactive zymogens. In the duodenum, trypsinogen is converted to active trypsin by a brush-border enzyme, after which trypsin activates the remaining zymogens. Which enzyme initiates this cascade?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aminopeptidase"
+        },
+        {
+          "label": "B",
+          "text": "Chymotrypsin"
+        },
+        {
+          "label": "C",
+          "text": "Elastase"
+        },
+        {
+          "label": "D",
+          "text": "Carbonic anhydrase"
+        },
+        {
+          "label": "E",
+          "text": "Enteropeptidase"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Brush-border enteropeptidase converts trypsinogen to trypsin.",
+        "whyCorrect": "Enteropeptidase (enterokinase) on the brush border cleaves trypsinogen to trypsin, and trypsin then activates chymotrypsinogen, proelastase, and additional trypsinogen.",
+        "whyWrongByChoice": {
+          "A": "Aminopeptidase cleaves N-terminal amino acids from oligopeptides; it does not activate zymogens.",
+          "B": "Chymotrypsin is itself a zymogen activated downstream by trypsin.",
+          "C": "Elastase is also activated by trypsin, not the initiator.",
+          "D": "Carbonic anhydrase generates H+ and HCO3- and has no proteolytic role."
+        }
+      }
+    },
+    {
+      "id": "intestinal-nutrient-transporter-mechanisms-006",
+      "topicId": "intestinal-nutrient-transporter-mechanisms",
+      "topicName": "Intestinal Nutrient Transporter Mechanisms",
+      "stem": "Di- and tripeptides generated at the brush border are absorbed intact across the apical membrane. Their uptake is mediated by which transporter?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PepT1"
+        },
+        {
+          "label": "B",
+          "text": "SGLT1"
+        },
+        {
+          "label": "C",
+          "text": "Na+-dependent amino acid transporter"
+        },
+        {
+          "label": "D",
+          "text": "GLUT2"
+        },
+        {
+          "label": "E",
+          "text": "DRA"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "PepT1 absorbs intact di- and tripeptides.",
+        "whyCorrect": "PepT1 is the H+-coupled oligopeptide transporter that takes up di- and tripeptides using the inward proton gradient.",
+        "whyWrongByChoice": {
+          "B": "SGLT1 transports glucose and galactose.",
+          "C": "Na+-dependent amino acid transporters carry free amino acids, not intact peptides.",
+          "D": "GLUT2 exports sugars at the basolateral membrane.",
+          "E": "DRA is the Cl-/HCO3- exchanger, unrelated to peptide uptake."
+        }
+      }
+    },
+    {
+      "id": "intestinal-nutrient-transporter-mechanisms-007",
+      "topicId": "intestinal-nutrient-transporter-mechanisms",
+      "topicName": "Intestinal Nutrient Transporter Mechanisms",
+      "stem": "Free neutral amino acids are absorbed across the apical membrane even when luminal amino acid concentrations are low. This uptake most directly depends on which mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Na+-dependent cotransport"
+        },
+        {
+          "label": "B",
+          "text": "H+-dependent cotransport"
+        },
+        {
+          "label": "C",
+          "text": "Facilitated diffusion"
+        },
+        {
+          "label": "D",
+          "text": "Passive paracellular diffusion"
+        },
+        {
+          "label": "E",
+          "text": "Primary active ATP hydrolysis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Free amino acids use Na+-dependent secondary active cotransport.",
+        "whyCorrect": "Apical amino acid transporters harness the inward Na+ gradient (like SGLT1) to concentrate free amino acids inside the enterocyte even at low luminal concentrations.",
+        "whyWrongByChoice": {
+          "B": "H+-dependent cotransport describes PepT1 for peptides, not free amino acids.",
+          "C": "Facilitated diffusion cannot concentrate amino acids against a gradient.",
+          "D": "The paracellular route mainly carries water and potassium, not amino acids.",
+          "E": "These are secondary active transporters; they do not directly hydrolyze ATP."
+        }
+      }
+    },
+    {
+      "id": "intestinal-nutrient-transporter-mechanisms-008",
+      "topicId": "intestinal-nutrient-transporter-mechanisms",
+      "topicName": "Intestinal Nutrient Transporter Mechanisms",
+      "stem": "In the small intestine, an apical exchanger absorbs luminal Na+ in exchange for intracellular H+, contributing to electroneutral sodium absorption. Which transporter is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ENaC"
+        },
+        {
+          "label": "B",
+          "text": "NHE3"
+        },
+        {
+          "label": "C",
+          "text": "SGLT1"
+        },
+        {
+          "label": "D",
+          "text": "CFTR"
+        },
+        {
+          "label": "E",
+          "text": "DRA"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "NHE3 is the electroneutral Na+/H+ exchanger.",
+        "whyCorrect": "NHE3 exchanges luminal Na+ for intracellular H+, mediating electroneutral sodium absorption and generating the proton gradient used by PepT1.",
+        "whyWrongByChoice": {
+          "A": "ENaC is an electrogenic Na+ channel in the colon, not an exchanger.",
+          "C": "SGLT1 couples Na+ to glucose, not to H+ efflux.",
+          "D": "CFTR is a chloride channel that mediates secretion.",
+          "E": "DRA is the Cl-/HCO3- exchanger."
+        }
+      }
+    },
+    {
+      "id": "intestinal-nutrient-transporter-mechanisms-009",
+      "topicId": "intestinal-nutrient-transporter-mechanisms",
+      "topicName": "Intestinal Nutrient Transporter Mechanisms",
+      "stem": "Chloride absorption in the ileum is coupled to bicarbonate secretion through an apical anion exchanger encoded by SLC26A3. Which transporter is described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "NHE3"
+        },
+        {
+          "label": "B",
+          "text": "CFTR"
+        },
+        {
+          "label": "C",
+          "text": "ENaC"
+        },
+        {
+          "label": "D",
+          "text": "DRA"
+        },
+        {
+          "label": "E",
+          "text": "DMT1"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "DRA (SLC26A3) is the Cl-/HCO3- exchanger.",
+        "whyCorrect": "DRA exports intracellular HCO3- in exchange for luminal Cl-; paired with NHE3 it produces net electroneutral NaCl absorption.",
+        "whyWrongByChoice": {
+          "A": "NHE3 exchanges Na+ for H+, not Cl- for HCO3-.",
+          "B": "CFTR secretes chloride rather than absorbing it.",
+          "C": "ENaC is a sodium channel.",
+          "E": "DMT1 transports iron."
+        }
+      }
+    },
+    {
+      "id": "intestinal-nutrient-transporter-mechanisms-010",
+      "topicId": "intestinal-nutrient-transporter-mechanisms",
+      "topicName": "Intestinal Nutrient Transporter Mechanisms",
+      "stem": "In the colon, electrogenic sodium absorption occurs through an apical channel whose activity is upregulated by aldosterone. Which channel mediates this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "NHE3"
+        },
+        {
+          "label": "B",
+          "text": "SGLT1"
+        },
+        {
+          "label": "C",
+          "text": "DRA"
+        },
+        {
+          "label": "D",
+          "text": "PepT1"
+        },
+        {
+          "label": "E",
+          "text": "ENaC"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "ENaC mediates electrogenic, aldosterone-regulated colonic Na+ absorption.",
+        "whyCorrect": "The epithelial sodium channel (ENaC) allows electrogenic Na+ entry in the colon and is upregulated by aldosterone.",
+        "whyWrongByChoice": {
+          "A": "NHE3 mediates electroneutral Na+ absorption in the small intestine.",
+          "B": "SGLT1 is a nutrient-coupled cotransporter, not an aldosterone-regulated channel.",
+          "C": "DRA handles chloride/bicarbonate exchange.",
+          "D": "PepT1 transports peptides."
+        }
+      }
+    },
+    {
+      "id": "intestinal-nutrient-transporter-mechanisms-011",
+      "topicId": "intestinal-nutrient-transporter-mechanisms",
+      "topicName": "Intestinal Nutrient Transporter Mechanisms",
+      "stem": "A patient develops watery diarrhea and bloating only after consuming dairy, and the diarrhea stops completely when he fasts. Which category of diarrhea does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Osmotic diarrhea"
+        },
+        {
+          "label": "B",
+          "text": "Secretory diarrhea"
+        },
+        {
+          "label": "C",
+          "text": "Inflammatory diarrhea"
+        },
+        {
+          "label": "D",
+          "text": "Motility-related diarrhea"
+        },
+        {
+          "label": "E",
+          "text": "Steatorrhea"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Lactose intolerance produces osmotic diarrhea that resolves with fasting.",
+        "whyCorrect": "Undigested lactose is osmotically active and retains water in the lumen; removing the offending solute by fasting eliminates the osmotic load and the diarrhea.",
+        "whyWrongByChoice": {
+          "B": "Secretory diarrhea persists during fasting because it results from active ion secretion.",
+          "C": "Inflammatory diarrhea features blood or pus and does not resolve with fasting.",
+          "D": "Motility-related diarrhea is not driven by an unabsorbed solute.",
+          "E": "Steatorrhea is fat malabsorption producing greasy, foul stools, not lactose-driven watery diarrhea."
+        }
+      }
+    },
+    {
+      "id": "intestinal-nutrient-transporter-mechanisms-012",
+      "topicId": "intestinal-nutrient-transporter-mechanisms",
+      "topicName": "Intestinal Nutrient Transporter Mechanisms",
+      "stem": "Cholera toxin raises enterocyte cAMP, which activates CFTR and inhibits NHE3. Which resulting change best explains the large-volume watery stool?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reduced chloride secretion"
+        },
+        {
+          "label": "B",
+          "text": "Enhanced sodium absorption"
+        },
+        {
+          "label": "C",
+          "text": "Massive chloride secretion"
+        },
+        {
+          "label": "D",
+          "text": "Increased potassium reabsorption"
+        },
+        {
+          "label": "E",
+          "text": "Bicarbonate retention"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "CFTR activation drives massive luminal chloride secretion.",
+        "whyCorrect": "Activated CFTR secretes large amounts of Cl- into the lumen with Na+ and water following osmotically, while NHE3 inhibition blocks Na+ (and thus water) reabsorption.",
+        "whyWrongByChoice": {
+          "A": "Chloride secretion increases, not decreases.",
+          "B": "NHE3 inhibition reduces sodium absorption rather than enhancing it.",
+          "D": "Increased potassium reabsorption is not the mechanism of the fluid loss.",
+          "E": "Bicarbonate retention does not explain the secretory fluid loss."
+        }
+      }
+    },
+    {
+      "id": "intestinal-nutrient-transporter-mechanisms-013",
+      "topicId": "intestinal-nutrient-transporter-mechanisms",
+      "topicName": "Intestinal Nutrient Transporter Mechanisms",
+      "stem": "During a cholera outbreak, patients are treated with a solution containing both glucose and sodium. Which transporter property makes this therapy effective?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "GLUT5 absorbs fructose independent of sodium"
+        },
+        {
+          "label": "B",
+          "text": "ENaC drives small-intestinal sodium absorption"
+        },
+        {
+          "label": "C",
+          "text": "CFTR reabsorbs chloride when stimulated"
+        },
+        {
+          "label": "D",
+          "text": "NHE3 is upregulated by cAMP"
+        },
+        {
+          "label": "E",
+          "text": "SGLT1 couples glucose and sodium absorption"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Oral rehydration works because SGLT1-mediated glucose-sodium cotransport remains intact.",
+        "whyCorrect": "Cholera toxin does not disable SGLT1; co-administered glucose drives Na+ absorption through SGLT1, and water follows osmotically, restoring fluid balance.",
+        "whyWrongByChoice": {
+          "A": "Fructose uptake via GLUT5 is not sodium-coupled and provides no absorptive driving force.",
+          "B": "ENaC operates in the colon and is not the basis for oral rehydration.",
+          "C": "CFTR secretes chloride; it does not reabsorb it.",
+          "D": "NHE3 is inhibited by cAMP in cholera, not upregulated."
+        }
+      }
+    },
+    {
+      "id": "intestinal-nutrient-transporter-mechanisms-014",
+      "topicId": "intestinal-nutrient-transporter-mechanisms",
+      "topicName": "Intestinal Nutrient Transporter Mechanisms",
+      "stem": "Fat-soluble vitamins are incorporated into chylomicrons within the enterocyte. By which route do these chylomicrons enter the circulation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Portal venous blood directly"
+        },
+        {
+          "label": "B",
+          "text": "Bile canaliculi"
+        },
+        {
+          "label": "C",
+          "text": "Pancreatic duct"
+        },
+        {
+          "label": "D",
+          "text": "Renal circulation"
+        },
+        {
+          "label": "E",
+          "text": "Intestinal lymphatics"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Chylomicrons carrying fat-soluble vitamins enter the intestinal lymphatics.",
+        "whyCorrect": "Fat-soluble vitamins are packaged into chylomicrons with triglycerides and exocytosed into lacteals (intestinal lymphatics), bypassing the portal circulation.",
+        "whyWrongByChoice": {
+          "A": "The portal vein is the route for absorbed monosaccharides and amino acids, not chylomicrons.",
+          "B": "Bile canaliculi carry bile into the gut, not absorbed vitamins into blood.",
+          "C": "The pancreatic duct carries digestive secretions, not absorbed nutrients.",
+          "D": "The renal circulation plays no role in dietary vitamin absorption."
+        }
+      }
+    },
+    {
+      "id": "intestinal-nutrient-transporter-mechanisms-015",
+      "topicId": "intestinal-nutrient-transporter-mechanisms",
+      "topicName": "Intestinal Nutrient Transporter Mechanisms",
+      "stem": "A patient with chronic cholestasis develops easy bruising and a prolonged prothrombin time. Deficiency of which fat-soluble vitamin is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitamin A"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin D"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin E"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin K"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin B12"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cholestasis impairs vitamin K absorption, causing coagulopathy.",
+        "whyCorrect": "Vitamin K is required for synthesis of clotting factors; its deficiency prolongs the prothrombin time and produces easy bruising and bleeding.",
+        "whyWrongByChoice": {
+          "A": "Vitamin A deficiency causes night blindness and xerophthalmia.",
+          "B": "Vitamin D deficiency causes rickets or osteomalacia.",
+          "C": "Vitamin E deficiency causes hemolytic anemia and neuropathy.",
+          "E": "Vitamin B12 is water-soluble and not affected by cholestatic fat malabsorption."
+        }
+      }
+    },
+    {
+      "id": "intestinal-nutrient-transporter-mechanisms-016",
+      "topicId": "intestinal-nutrient-transporter-mechanisms",
+      "topicName": "Intestinal Nutrient Transporter Mechanisms",
+      "stem": "Vitamin B12 must bind intrinsic factor to be absorbed. Intrinsic factor is secreted by which cell type?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gastric chief cells"
+        },
+        {
+          "label": "B",
+          "text": "Pancreatic acinar cells"
+        },
+        {
+          "label": "C",
+          "text": "Ileal enterocytes"
+        },
+        {
+          "label": "D",
+          "text": "Gastric parietal cells"
+        },
+        {
+          "label": "E",
+          "text": "Salivary glands"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Gastric parietal cells secrete intrinsic factor.",
+        "whyCorrect": "Parietal cells of the gastric mucosa secrete both hydrochloric acid and intrinsic factor, the glycoprotein required for B12 absorption.",
+        "whyWrongByChoice": {
+          "A": "Chief cells secrete pepsinogen, not intrinsic factor.",
+          "B": "Pancreatic acinar cells secrete digestive enzymes.",
+          "C": "Ileal enterocytes absorb the B12-IF complex but do not make intrinsic factor.",
+          "E": "Salivary glands secrete haptocorrin (R-protein), not intrinsic factor."
+        }
+      }
+    },
+    {
+      "id": "intestinal-nutrient-transporter-mechanisms-017",
+      "topicId": "intestinal-nutrient-transporter-mechanisms",
+      "topicName": "Intestinal Nutrient Transporter Mechanisms",
+      "stem": "The B12-intrinsic factor complex is absorbed by receptor-mediated endocytosis at a specific intestinal site. Where does this occur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Duodenum"
+        },
+        {
+          "label": "B",
+          "text": "Proximal jejunum"
+        },
+        {
+          "label": "C",
+          "text": "Terminal ileum"
+        },
+        {
+          "label": "D",
+          "text": "Stomach"
+        },
+        {
+          "label": "E",
+          "text": "Colon"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The terminal ileum absorbs the B12-IF complex via the cubilin receptor.",
+        "whyCorrect": "The cubilin-amnionless receptor complex expressed in the terminal ileum binds and endocytoses the B12-intrinsic factor complex.",
+        "whyWrongByChoice": {
+          "A": "The duodenum absorbs iron and does not have the cubilin receptor for B12-IF.",
+          "B": "The proximal jejunum absorbs most water-soluble vitamins but not the B12-IF complex.",
+          "D": "The stomach is where intrinsic factor is secreted, not where B12 is absorbed.",
+          "E": "The colon has no role in B12 absorption."
+        }
+      }
+    },
+    {
+      "id": "intestinal-nutrient-transporter-mechanisms-018",
+      "topicId": "intestinal-nutrient-transporter-mechanisms",
+      "topicName": "Intestinal Nutrient Transporter Mechanisms",
+      "stem": "Dietary non-heme iron is largely in the ferric (Fe3+) state and must be reduced to ferrous (Fe2+) before apical uptake. Which brush-border enzyme performs this reduction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basolateral hephaestin"
+        },
+        {
+          "label": "B",
+          "text": "Duodenal cytochrome b"
+        },
+        {
+          "label": "C",
+          "text": "Heme oxygenase-1"
+        },
+        {
+          "label": "D",
+          "text": "Basolateral ferroportin"
+        },
+        {
+          "label": "E",
+          "text": "Carbonic anhydrase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Duodenal cytochrome b (Dcytb) reduces Fe3+ to Fe2+ at the brush border.",
+        "whyCorrect": "Dcytb is the brush-border ferrireductase that converts ferric to ferrous iron so it can be taken up by DMT1.",
+        "whyWrongByChoice": {
+          "A": "Hephaestin is a basolateral ferroxidase that oxidizes Fe2+ to Fe3+ during export.",
+          "C": "Heme oxygenase-1 releases iron from absorbed heme intracellularly.",
+          "D": "Ferroportin exports iron at the basolateral membrane.",
+          "E": "Carbonic anhydrase generates H+ and HCO3- and has no role in iron reduction."
+        }
+      }
+    },
+    {
+      "id": "intestinal-nutrient-transporter-mechanisms-019",
+      "topicId": "intestinal-nutrient-transporter-mechanisms",
+      "topicName": "Intestinal Nutrient Transporter Mechanisms",
+      "stem": "After reduction to the ferrous form, iron crosses the apical enterocyte membrane using the acidic duodenal microenvironment as a driving force. Which transporter mediates this H+-coupled uptake?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ferroportin"
+        },
+        {
+          "label": "B",
+          "text": "DMT1"
+        },
+        {
+          "label": "C",
+          "text": "Transferrin"
+        },
+        {
+          "label": "D",
+          "text": "Cubilin"
+        },
+        {
+          "label": "E",
+          "text": "SGLT1"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "DMT1 is the apical H+-coupled ferrous iron transporter.",
+        "whyCorrect": "Divalent metal transporter 1 (DMT1) uses the acidic duodenal microenvironment to drive Fe2+ uptake across the apical membrane.",
+        "whyWrongByChoice": {
+          "A": "Ferroportin exports iron at the basolateral membrane, not apical uptake.",
+          "C": "Transferrin is a plasma iron carrier, not a membrane transporter.",
+          "D": "Cubilin is the ileal receptor for the B12-intrinsic factor complex.",
+          "E": "SGLT1 transports glucose and galactose."
+        }
+      }
+    },
+    {
+      "id": "intestinal-nutrient-transporter-mechanisms-020",
+      "topicId": "intestinal-nutrient-transporter-mechanisms",
+      "topicName": "Intestinal Nutrient Transporter Mechanisms",
+      "stem": "When body iron stores are high, the liver hormone hepcidin reduces intestinal iron absorption. Hepcidin accomplishes this by which action on ferroportin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Binding ferroportin and degrading it"
+        },
+        {
+          "label": "B",
+          "text": "Upregulating ferroportin expression"
+        },
+        {
+          "label": "C",
+          "text": "Phosphorylating ferroportin to activate it"
+        },
+        {
+          "label": "D",
+          "text": "Oxidizing iron bound to ferroportin"
+        },
+        {
+          "label": "E",
+          "text": "Coupling ferroportin to sodium ions"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hepcidin binds ferroportin and causes its internalization and degradation.",
+        "whyCorrect": "By binding ferroportin and triggering its degradation, hepcidin blocks basolateral iron export, trapping iron in enterocytes and reducing absorption.",
+        "whyWrongByChoice": {
+          "B": "Hepcidin decreases, not increases, ferroportin availability.",
+          "C": "Hepcidin does not activate ferroportin by phosphorylation.",
+          "D": "Iron oxidation during export is performed by hephaestin, not hepcidin.",
+          "E": "Ferroportin is not a sodium-coupled transporter."
+        }
+      }
+    }
+  ]
+}

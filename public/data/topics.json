@@ -1,8 +1,8 @@
 {
   "categories": [
     {
-      "id": "gi-week-1",
-      "name": "Week 1 | Foundations, Anatomy & Upper GI",
+      "id": "w1s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "gi-foundations-overview",
@@ -28,7 +28,16 @@
           "id": "gi-tract-anatomy",
           "name": "Anatomy of the Gastrointestinal Tract",
           "questionCount": 20
-        },
+        }
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w1s2",
+      "name": "Session 2",
+      "topics": [
         {
           "id": "gi-development",
           "name": "Development of the Gastrointestinal System",
@@ -48,7 +57,16 @@
           "id": "sjogren-syndrome",
           "name": "Sjögren Syndrome",
           "questionCount": 20
-        },
+        }
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w1s3",
+      "name": "Session 3",
+      "topics": [
         {
           "id": "benign-esophageal-disorders",
           "name": "Benign Esophageal Disorders: GERD, Esophagitis, and Structural Disorders",
@@ -69,11 +87,14 @@
           "name": "Gastric Neoplasms",
           "questionCount": 20
         }
-      ]
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
     },
     {
-      "id": "gi-week-2",
-      "name": "Week 2 | Hepatobiliary Anatomy & Liver Disease",
+      "id": "w2s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "liver-biliary-pancreas-anatomy",
@@ -94,7 +115,16 @@
           "id": "liver-function-regeneration",
           "name": "Liver Function and Regeneration",
           "questionCount": 20
-        },
+        }
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w2s2",
+      "name": "Session 2",
+      "topics": [
         {
           "id": "porphyrins-iron-homeostasis",
           "name": "Porphyrins and Iron Homeostasis",
@@ -104,7 +134,16 @@
           "id": "benign-liver-disease",
           "name": "Benign Liver Disease",
           "questionCount": 20
-        },
+        }
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w2s3",
+      "name": "Session 3",
+      "topics": [
         {
           "id": "masld",
           "name": "Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD)",
@@ -130,11 +169,14 @@
           "name": "Cirrhosis and Portal Hypertension",
           "questionCount": 20
         }
-      ]
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
     },
     {
-      "id": "gi-week-3",
-      "name": "Week 3 | Hepatitis, Biliary Disease & Pancreas",
+      "id": "w3s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "viral-hepatitis-clinical",
@@ -150,7 +192,16 @@
           "id": "hepatitis-bc-drugs",
           "name": "Drugs to Treat Hepatitis B and C Infections",
           "questionCount": 20
-        },
+        }
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w3s2",
+      "name": "Session 2",
+      "topics": [
         {
           "id": "biliary-noninfectious",
           "name": "Noninfectious Disorders of the Biliary System",
@@ -165,7 +216,16 @@
           "id": "peritonitis",
           "name": "Peritonitis",
           "questionCount": 20
-        },
+        }
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w3s3",
+      "name": "Session 3",
+      "topics": [
         {
           "id": "pancreatitis",
           "name": "Acute and Chronic Pancreatitis",
@@ -176,11 +236,14 @@
           "name": "Pancreatic Carcinoma",
           "questionCount": 20
         }
-      ]
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
     },
     {
-      "id": "gi-week-4",
-      "name": "Week 4 | GI Physiology",
+      "id": "w4s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "digestive-motility",
@@ -196,7 +259,16 @@
           "id": "gastric-secretion-and-the-parietal-cell",
           "name": "Gastric Secretion and the Parietal Cell",
           "questionCount": 20
-        },
+        }
+      ],
+      "week": 4,
+      "weekName": "Week 4",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w4s2",
+      "name": "Session 2",
+      "topics": [
         {
           "id": "gi-hormones-the-intestinal-phase-of-digestion",
           "name": "GI Hormones & the Intestinal Phase of Digestion",
@@ -216,7 +288,16 @@
           "id": "laxatives-and-antidiarrheals",
           "name": "Laxatives and Antidiarrheals",
           "questionCount": 20
-        },
+        }
+      ],
+      "week": 4,
+      "weekName": "Week 4",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w4s3",
+      "name": "Session 3",
+      "topics": [
         {
           "id": "luminal-fat-digestion-and-absorption",
           "name": "Luminal Fat Digestion and Absorption",
@@ -227,11 +308,14 @@
           "name": "Intestinal Nutrient Transporter Mechanisms",
           "questionCount": 20
         }
-      ]
+      ],
+      "week": 4,
+      "weekName": "Week 4",
+      "weekSubtitle": ""
     },
     {
-      "id": "gi-week-5",
-      "name": "Week 5 | Flora, Infection & Inflammatory Disease",
+      "id": "w5s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "normal-gi-flora",
@@ -247,7 +331,16 @@
           "id": "antibiotic-spectrum-for-gi-infections",
           "name": "Antibiotic Spectrum for GI Infections",
           "questionCount": 20
-        },
+        }
+      ],
+      "week": 5,
+      "weekName": "Week 5",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w5s2",
+      "name": "Session 2",
+      "topics": [
         {
           "id": "bacterial-infectious-diarrhea",
           "name": "Bacterial Infectious Diarrhea",
@@ -262,7 +355,16 @@
           "id": "key-gi-parasites-and-amoebas",
           "name": "Key GI Parasites and Amoebas",
           "questionCount": 20
-        },
+        }
+      ],
+      "week": 5,
+      "weekName": "Week 5",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w5s3",
+      "name": "Session 3",
+      "topics": [
         {
           "id": "inflammatory-bowel-disease",
           "name": "Inflammatory Bowel Disease",
@@ -278,11 +380,14 @@
           "name": "Traumatic and Mechanical GI Injuries",
           "questionCount": 20
         }
-      ]
+      ],
+      "week": 5,
+      "weekName": "Week 5",
+      "weekSubtitle": ""
     },
     {
-      "id": "gi-week-6",
-      "name": "Week 6 | Intestinal Disorders, Neoplasia & Anorectal Disease",
+      "id": "w6s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "small-intestine-disorders",
@@ -328,7 +433,16 @@
           "id": "hernias-types-management",
           "name": "Hernias: Types, Risk Factors and Management",
           "questionCount": 20
-        },
+        }
+      ],
+      "week": 6,
+      "weekName": "Week 6",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "w6s2",
+      "name": "Session 2",
+      "topics": [
         {
           "id": "anorectal-anatomy-hemorrhoids",
           "name": "Anorectal Anatomy and Hemorrhoids",
@@ -354,7 +468,10 @@
           "name": "Defecation and Continence",
           "questionCount": 20
         }
-      ]
+      ],
+      "week": 6,
+      "weekName": "Week 6",
+      "weekSubtitle": ""
     }
   ],
   "totalQuestions": 1282

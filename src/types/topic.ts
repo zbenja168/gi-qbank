@@ -7,6 +7,10 @@ export interface Topic {
 export interface Category {
   id: string;
   name: string;
+  /** Teaching week this category belongs to; the picker groups by it. */
+  week?: number;
+  weekName?: string;
+  weekSubtitle?: string;
   topics: Topic[];
 }
 

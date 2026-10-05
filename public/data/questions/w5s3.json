@@ -1,0 +1,2346 @@
+{
+  "categoryId": "w5s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "inflammatory-bowel-disease-001",
+      "topicId": "inflammatory-bowel-disease",
+      "topicName": "Inflammatory Bowel Disease",
+      "stem": "A 24-year-old man reports 3 months of crampy abdominal pain, low-grade fevers, weight loss, and nonbloody diarrhea. Colonoscopy shows inflamed segments of terminal ileum and ascending colon separated by normal-appearing mucosa, and the rectum is spared. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Celiac disease"
+        },
+        {
+          "label": "B",
+          "text": "Ischemic colitis"
+        },
+        {
+          "label": "C",
+          "text": "Microscopic colitis"
+        },
+        {
+          "label": "D",
+          "text": "Crohn disease"
+        },
+        {
+          "label": "E",
+          "text": "Ulcerative colitis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Patchy transmural inflammation with skip areas, terminal ileal involvement, and rectal sparing is characteristic of Crohn disease.",
+        "whyCorrect": "Crohn disease is typically patchy ('skip lesions'), can involve any segment from mouth to anus, favors the terminal ileum, and characteristically spares the rectum, matching this presentation.",
+        "whyWrongByChoice": {
+          "A": "Celiac disease causes small-bowel malabsorption but does not produce patchy colonic inflammation with rectal sparing on colonoscopy.",
+          "B": "Ischemic colitis usually occurs in older patients at watershed areas with sudden pain and bleeding, not months of skip-pattern ileocolic inflammation.",
+          "C": "Microscopic colitis causes chronic watery diarrhea with a normal-appearing mucosa and is diagnosed only on biopsy.",
+          "E": "Ulcerative colitis is continuous from the rectum and spares the small intestine, the opposite of the pattern here."
+        }
+      }
+    },
+    {
+      "id": "inflammatory-bowel-disease-002",
+      "topicId": "inflammatory-bowel-disease",
+      "topicName": "Inflammatory Bowel Disease",
+      "stem": "A 26-year-old woman has 6 weeks of small, frequent, bloody stools with tenesmus and lower abdominal cramping. Colonoscopy reveals continuous mucosal inflammation beginning at the rectum and extending proximally, with the small intestine spared. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ulcerative colitis"
+        },
+        {
+          "label": "B",
+          "text": "Crohn disease"
+        },
+        {
+          "label": "C",
+          "text": "Diverticulitis"
+        },
+        {
+          "label": "D",
+          "text": "Infectious colitis"
+        },
+        {
+          "label": "E",
+          "text": "Ischemic colitis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Continuous inflammation starting at the rectum with bloody diarrhea and tenesmus is classic for ulcerative colitis.",
+        "whyCorrect": "By definition UC begins in the rectum and ascends continuously through the colon, sparing the small intestine, and typically presents with bloody diarrhea, tenesmus, and small frequent stools.",
+        "whyWrongByChoice": {
+          "B": "Crohn disease is patchy with skip lesions, often spares the rectum, and produces bloody diarrhea less often than UC.",
+          "C": "Diverticulitis presents with focal left-lower-quadrant pain and fever, not continuous rectal-based colitis.",
+          "D": "Infectious colitis is usually acute and self-limited with an identifiable exposure, not a 6-week continuous colitis pattern.",
+          "E": "Ischemic colitis typically affects older patients at watershed zones with sudden onset, not gradual rectal-based inflammation."
+        }
+      }
+    },
+    {
+      "id": "inflammatory-bowel-disease-003",
+      "topicId": "inflammatory-bowel-disease",
+      "topicName": "Inflammatory Bowel Disease",
+      "stem": "A 30-year-old man with Crohn disease develops recurrent urinary tract infections and reports passing gas during urination. Which of the following complications best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anal fissure"
+        },
+        {
+          "label": "B",
+          "text": "Enterocutaneous fistula"
+        },
+        {
+          "label": "C",
+          "text": "Enterovesical fistula"
+        },
+        {
+          "label": "D",
+          "text": "Enterovaginal fistula"
+        },
+        {
+          "label": "E",
+          "text": "Perirectal abscess"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pneumaturia and recurrent UTIs indicate an abnormal connection between bowel and bladder (enterovesical fistula).",
+        "whyCorrect": "Transmural Crohn inflammation forms sinus tracts that can create an enterovesical fistula, allowing gas and enteric bacteria to enter the bladder and cause pneumaturia and recurrent UTIs.",
+        "whyWrongByChoice": {
+          "A": "An anal fissure causes perianal pain, not communication with the urinary tract.",
+          "B": "An enterocutaneous fistula drains bowel contents to the skin surface, not into the bladder.",
+          "D": "An enterovaginal fistula causes passage of stool or gas through the vagina, not urinary symptoms.",
+          "E": "A perirectal abscess causes perianal pain, fever, and purulent drainage, not pneumaturia."
+        }
+      }
+    },
+    {
+      "id": "inflammatory-bowel-disease-004",
+      "topicId": "inflammatory-bowel-disease",
+      "topicName": "Inflammatory Bowel Disease",
+      "stem": "A full-thickness biopsy from an inflamed bowel segment shows transmural chronic lymphocytic inflammation with scattered noncaseating granulomas. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Celiac disease"
+        },
+        {
+          "label": "B",
+          "text": "Crohn disease"
+        },
+        {
+          "label": "C",
+          "text": "Intestinal tuberculosis"
+        },
+        {
+          "label": "D",
+          "text": "Ischemic colitis"
+        },
+        {
+          "label": "E",
+          "text": "Ulcerative colitis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Transmural inflammation with noncaseating granulomas is characteristic (though not required) for Crohn disease.",
+        "whyCorrect": "Crohn disease shows full-thickness (transmural) chronic inflammation and noncaseating granulomas; these granulomas are pathognomonic when present but are not required for diagnosis.",
+        "whyWrongByChoice": {
+          "A": "Celiac disease shows villous atrophy and intraepithelial lymphocytes in the small bowel, not transmural granulomas.",
+          "C": "Intestinal tuberculosis produces caseating (necrotizing) granulomas, not noncaseating ones.",
+          "D": "Ischemic colitis shows coagulative mucosal necrosis, not transmural granulomatous inflammation.",
+          "E": "Ulcerative colitis is limited to the mucosa/superficial submucosa and does not form granulomas."
+        }
+      }
+    },
+    {
+      "id": "inflammatory-bowel-disease-005",
+      "topicId": "inflammatory-bowel-disease",
+      "topicName": "Inflammatory Bowel Disease",
+      "stem": "A 22-year-old with active ulcerative colitis undergoes biopsy showing collections of neutrophils within the lumens of colonic glands. Which of the following terms best describes this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Noncaseating granuloma"
+        },
+        {
+          "label": "B",
+          "text": "Pseudopolyp"
+        },
+        {
+          "label": "C",
+          "text": "Skip lesion"
+        },
+        {
+          "label": "D",
+          "text": "Crypt abscess"
+        },
+        {
+          "label": "E",
+          "text": "Transmural inflammation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Neutrophils within gland lumens define a crypt abscess, a marker of active IBD inflammation.",
+        "whyCorrect": "During active disease, both Crohn and UC can show crypt abscesses, defined as neutrophils within the lumen of glands (crypts).",
+        "whyWrongByChoice": {
+          "A": "A noncaseating granuloma is an organized collection of macrophages, characteristic of Crohn, not neutrophils in glands.",
+          "B": "A pseudopolyp is regenerating mucosa bulging into the lumen, a gross/architectural finding, not neutrophils in a crypt.",
+          "C": "A skip lesion is a gross pattern of discontinuous involvement, not a microscopic gland finding.",
+          "E": "Transmural inflammation refers to full-thickness wall involvement, not neutrophils within crypt lumens."
+        }
+      }
+    },
+    {
+      "id": "inflammatory-bowel-disease-006",
+      "topicId": "inflammatory-bowel-disease",
+      "topicName": "Inflammatory Bowel Disease",
+      "stem": "A 28-year-old woman with ulcerative colitis has fever, abdominal distension, and appears toxic. Abdominal radiograph shows colonic dilation of 11 cm. Which of the following complications is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Colonic stricture"
+        },
+        {
+          "label": "B",
+          "text": "Toxic megacolon"
+        },
+        {
+          "label": "C",
+          "text": "Enterovesical fistula"
+        },
+        {
+          "label": "D",
+          "text": "Primary sclerosing cholangitis"
+        },
+        {
+          "label": "E",
+          "text": "Diverticular abscess"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A toxic patient with marked colonic dilation (>9 cm cecum or >6 cm elsewhere) has toxic megacolon.",
+        "whyCorrect": "Toxic megacolon is massive colonic distension (>9 cm cecum or >6 cm remaining colon) with systemic toxicity; it carries the greatest risk of perforation in UC and mandates urgent surgery.",
+        "whyWrongByChoice": {
+          "A": "Strictures cause obstruction and are far more typical of Crohn disease than UC and do not produce diffuse dilation with toxicity.",
+          "C": "Enterovesical fistula is a transmural Crohn complication causing urinary symptoms, not colonic dilation.",
+          "D": "Primary sclerosing cholangitis is a hepatobiliary complication, unrelated to acute colonic dilation.",
+          "E": "A diverticular abscess causes focal pain and a walled-off collection, not diffuse toxic dilation of the colon."
+        }
+      }
+    },
+    {
+      "id": "inflammatory-bowel-disease-007",
+      "topicId": "inflammatory-bowel-disease",
+      "topicName": "Inflammatory Bowel Disease",
+      "stem": "A 25-year-old with inflammatory bowel disease develops several tender, red, raised nodules on the anterior shins. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cellulitis"
+        },
+        {
+          "label": "B",
+          "text": "Dermatitis herpetiformis"
+        },
+        {
+          "label": "C",
+          "text": "Erythema nodosum"
+        },
+        {
+          "label": "D",
+          "text": "Livedo reticularis"
+        },
+        {
+          "label": "E",
+          "text": "Pyoderma gangrenosum"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Painful red nodules on the shins in IBD are erythema nodosum.",
+        "whyCorrect": "Both Crohn disease and UC can cause erythema nodosum, painful red nodules typically located on the shins.",
+        "whyWrongByChoice": {
+          "A": "Cellulitis is a spreading warm, erythematous infection, usually solitary and not multiple tender pretibial nodules.",
+          "B": "Dermatitis herpetiformis is a pruritic vesicular eruption on extensor surfaces associated with celiac disease.",
+          "D": "Livedo reticularis is a lacy, mottled vascular pattern, not tender nodules.",
+          "E": "Pyoderma gangrenosum presents as painful purulent ulcers, not raised nodules on the shins."
+        }
+      }
+    },
+    {
+      "id": "inflammatory-bowel-disease-008",
+      "topicId": "inflammatory-bowel-disease",
+      "topicName": "Inflammatory Bowel Disease",
+      "stem": "A 35-year-old man with ulcerative colitis is found to have an isolated elevation in alkaline phosphatase; cholangiography shows a beaded, fibrotic biliary tree. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primary sclerosing cholangitis"
+        },
+        {
+          "label": "B",
+          "text": "Acute calculous cholecystitis"
+        },
+        {
+          "label": "C",
+          "text": "Obstructing choledocholithiasis"
+        },
+        {
+          "label": "D",
+          "text": "Primary biliary cholangitis"
+        },
+        {
+          "label": "E",
+          "text": "Intrahepatic cholangiocarcinoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Fibrosis of the biliary tree with isolated ALP elevation in a UC patient is primary sclerosing cholangitis.",
+        "whyCorrect": "PSC causes fibrosis of the biliary tree (beaded ducts), is strongly associated with UC, and is often identified only by an isolated elevation in alkaline phosphatase.",
+        "whyWrongByChoice": {
+          "B": "Acute calculous cholecystitis presents with RUQ pain, fever, and a positive Murphy sign, not diffuse biliary fibrosis.",
+          "C": "Obstructing choledocholithiasis causes a discrete obstructing stone, not a diffusely beaded, fibrotic tree.",
+          "D": "Primary biliary cholangitis is a small-duct autoimmune disease with antimitochondrial antibodies, not the large-duct beading seen here and not linked to UC.",
+          "E": "Intrahepatic cholangiocarcinoma produces a focal mass or stricture, not the diffuse beaded fibrosis characteristic of PSC."
+        }
+      }
+    },
+    {
+      "id": "inflammatory-bowel-disease-009",
+      "topicId": "inflammatory-bowel-disease",
+      "topicName": "Inflammatory Bowel Disease",
+      "stem": "A 32-year-old man with long-standing Crohn disease limited to the terminal ileum is evaluated for fatigue. Deficiency of which of the following nutrients is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Folate (vitamin B9)"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin B12 (cobalamin)"
+        },
+        {
+          "label": "C",
+          "text": "Iron (nonheme form)"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin C (ascorbic acid)"
+        },
+        {
+          "label": "E",
+          "text": "Zinc (trace mineral)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The terminal ileum absorbs vitamin B12, so ileal Crohn disease predisposes to B12 deficiency.",
+        "whyCorrect": "The terminal ileum is the primary site of vitamin B12 absorption; when this segment is diseased or resected in Crohn, B12 deficiency develops.",
+        "whyWrongByChoice": {
+          "A": "Folate is absorbed mainly in the proximal jejunum and is not specifically tied to terminal ileal disease.",
+          "C": "Iron is absorbed in the duodenum; iron deficiency is more characteristic of colonic blood loss in UC.",
+          "D": "Vitamin C deficiency is a dietary problem not specifically caused by terminal ileal involvement.",
+          "E": "Zinc deficiency is not the characteristic consequence of terminal ileal Crohn disease."
+        }
+      }
+    },
+    {
+      "id": "inflammatory-bowel-disease-010",
+      "topicId": "inflammatory-bowel-disease",
+      "topicName": "Inflammatory Bowel Disease",
+      "stem": "A 33-year-old man with Crohn disease of the ileum develops flank pain and hematuria; a passed stone is analyzed. Which of the following is the most likely stone composition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcium phosphate"
+        },
+        {
+          "label": "B",
+          "text": "Cystine"
+        },
+        {
+          "label": "C",
+          "text": "Struvite"
+        },
+        {
+          "label": "D",
+          "text": "Calcium oxalate"
+        },
+        {
+          "label": "E",
+          "text": "Uric acid"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Crohn-related fat malabsorption promotes calcium oxalate stone formation.",
+        "whyCorrect": "In Crohn disease, unabsorbed fat binds luminal calcium, leaving free oxalate to be absorbed and deposited in the kidney, forming calcium oxalate stones.",
+        "whyWrongByChoice": {
+          "A": "Calcium phosphate stones are associated with alkaline urine and renal tubular acidosis, not fat malabsorption.",
+          "B": "Cystine stones result from a hereditary transport defect (cystinuria), unrelated to Crohn.",
+          "C": "Struvite stones form with urea-splitting organism infections, not enteric hyperoxaluria.",
+          "E": "Uric acid stones form in acidic urine with hyperuricemia, not from bile acid/fat malabsorption."
+        }
+      }
+    },
+    {
+      "id": "inflammatory-bowel-disease-011",
+      "topicId": "inflammatory-bowel-disease",
+      "topicName": "Inflammatory Bowel Disease",
+      "stem": "A physician wants a noninvasive test to help distinguish inflammatory bowel disease from irritable bowel syndrome and to monitor disease activity. Which of the following is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Serum ASCA antibody titer"
+        },
+        {
+          "label": "B",
+          "text": "Serum C-reactive protein"
+        },
+        {
+          "label": "C",
+          "text": "Serum p-ANCA antibody titer"
+        },
+        {
+          "label": "D",
+          "text": "Fecal calprotectin level"
+        },
+        {
+          "label": "E",
+          "text": "Colonoscopy with biopsy"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Fecal calprotectin is a noninvasive stool marker used to differentiate IBD from IBS and to monitor activity.",
+        "whyCorrect": "Fecal calprotectin measures protein released into the gut during inflammation; it helps separate inflammatory IBD from non-inflammatory IBS and is used to follow disease activity.",
+        "whyWrongByChoice": {
+          "A": "ASCA is a serologic marker that supports Crohn disease but is not the general test used to distinguish IBD from IBS or monitor activity.",
+          "B": "CRP is nonspecific and elevated in many inflammatory states, so it is less useful for this specific purpose.",
+          "C": "p-ANCA supports UC but does not reliably separate IBD from IBS or track activity noninvasively.",
+          "E": "Colonoscopy with biopsy is diagnostic but invasive, so it is not the noninvasive monitoring test being sought."
+        }
+      }
+    },
+    {
+      "id": "inflammatory-bowel-disease-012",
+      "topicId": "inflammatory-bowel-disease",
+      "topicName": "Inflammatory Bowel Disease",
+      "stem": "A 29-year-old man with suspected Crohn disease undergoes serologic testing. Which of the following antibodies is most likely to be positive?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Myeloperoxidase-ANCA antibodies"
+        },
+        {
+          "label": "B",
+          "text": "Anti-tissue transglutaminase IgA antibodies"
+        },
+        {
+          "label": "C",
+          "text": "Anti-Saccharomyces cerevisiae antibodies"
+        },
+        {
+          "label": "D",
+          "text": "Antimitochondrial antibodies (AMA)"
+        },
+        {
+          "label": "E",
+          "text": "Perinuclear (p-ANCA) antibodies"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Crohn disease is associated with anti-Saccharomyces cerevisiae antibodies (ASCA).",
+        "whyCorrect": "Patients with Crohn disease may test positive for ASCA, whereas UC is more often associated with p-ANCA.",
+        "whyWrongByChoice": {
+          "A": "MPO-ANCA/p-ANCA positivity is associated with ulcerative colitis, not Crohn disease.",
+          "B": "Anti-tissue transglutaminase IgA antibodies indicate celiac disease.",
+          "D": "Antimitochondrial antibodies indicate primary biliary cholangitis.",
+          "E": "Perinuclear ANCA (p-ANCA) is associated with ulcerative colitis rather than Crohn."
+        }
+      }
+    },
+    {
+      "id": "inflammatory-bowel-disease-013",
+      "topicId": "inflammatory-bowel-disease",
+      "topicName": "Inflammatory Bowel Disease",
+      "stem": "A 30-year-old man is newly diagnosed with ulcerative colitis. Regarding colorectal cancer surveillance, screening colonoscopy is generally recommended to begin at which of the following times?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "At age 50"
+        },
+        {
+          "label": "B",
+          "text": "Immediately and yearly"
+        },
+        {
+          "label": "C",
+          "text": "5 years after diagnosis"
+        },
+        {
+          "label": "D",
+          "text": "10 years after diagnosis"
+        },
+        {
+          "label": "E",
+          "text": "8 years after diagnosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Patients with UC or colonic Crohn should begin surveillance colonoscopy about 8 years after diagnosis or symptom onset.",
+        "whyCorrect": "Because of prolonged inflammation, screening colonoscopy is recommended starting 8 years after diagnosis or symptom onset, with repeat exams every 1-3 years to detect dysplasia.",
+        "whyWrongByChoice": {
+          "A": "Age 50 applies to average-risk general-population screening, not IBD-specific surveillance.",
+          "B": "Immediate yearly screening from diagnosis is more aggressive than the recommended 8-year start.",
+          "C": "Screening at 5 years is earlier than the guideline threshold in the brick.",
+          "D": "Waiting 10 years is later than the recommended 8-year start."
+        }
+      }
+    },
+    {
+      "id": "inflammatory-bowel-disease-014",
+      "topicId": "inflammatory-bowel-disease",
+      "topicName": "Inflammatory Bowel Disease",
+      "stem": "A 40-year-old with chronic bloody diarrhea undergoes barium enema showing a smooth, tubular colon with loss of the normal haustral markings ('lead pipe' appearance). Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Crohn ileocolitis"
+        },
+        {
+          "label": "B",
+          "text": "Ulcerative colitis"
+        },
+        {
+          "label": "C",
+          "text": "Colonic diverticulosis"
+        },
+        {
+          "label": "D",
+          "text": "Ischemic colitis"
+        },
+        {
+          "label": "E",
+          "text": "Colorectal carcinoma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Loss of haustra producing a 'lead pipe' colon is characteristic of chronic ulcerative colitis.",
+        "whyCorrect": "UC can cause loss of colonic haustra, giving a smooth 'lead pipe' appearance on imaging.",
+        "whyWrongByChoice": {
+          "A": "Crohn ileocolitis more typically shows skip lesions, strictures, and a string sign, not diffuse haustral loss.",
+          "C": "Colonic diverticulosis shows outpouchings of the colonic wall, not a featureless lead-pipe colon.",
+          "D": "Ischemic colitis shows thumbprinting from submucosal edema, not chronic haustral loss.",
+          "E": "Colorectal carcinoma produces a focal 'apple-core' lesion, not diffuse loss of haustra."
+        }
+      }
+    },
+    {
+      "id": "inflammatory-bowel-disease-015",
+      "topicId": "inflammatory-bowel-disease",
+      "topicName": "Inflammatory Bowel Disease",
+      "stem": "A 27-year-old man with suspected Crohn disease undergoes a barium study showing a markedly narrowed segment of terminal ileum through which contrast passes as a thin line ('string sign'). This finding most directly indicates which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pseudopolyp"
+        },
+        {
+          "label": "B",
+          "text": "Toxic megacolon"
+        },
+        {
+          "label": "C",
+          "text": "Stricture"
+        },
+        {
+          "label": "D",
+          "text": "Fistula"
+        },
+        {
+          "label": "E",
+          "text": "Perforation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The string sign reflects passage of contrast through a narrowed, strictured lumen in Crohn disease.",
+        "whyCorrect": "When strictures are present, they can produce a 'string sign' on barium study, signifying passage of contrast through a narrowed lumen.",
+        "whyWrongByChoice": {
+          "A": "A pseudopolyp is regenerating mucosa bulging into the lumen, not luminal narrowing.",
+          "B": "Toxic megacolon is colonic dilation, the opposite of a narrowed string-like lumen.",
+          "D": "A fistula is an abnormal tract between structures, not a narrowed lumen producing a string sign.",
+          "E": "Perforation causes free air/leak of contrast, not a thin string of contrast through a narrowed segment."
+        }
+      }
+    },
+    {
+      "id": "inflammatory-bowel-disease-016",
+      "topicId": "inflammatory-bowel-disease",
+      "topicName": "Inflammatory Bowel Disease",
+      "stem": "On colonoscopy, a patient's Crohn disease shows discontinuous involvement, with inflamed bowel segments separated by intervening normal-appearing mucosa. Which of the following terms best describes this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cobblestoning"
+        },
+        {
+          "label": "B",
+          "text": "Lead pipe colon"
+        },
+        {
+          "label": "C",
+          "text": "Pseudopolyps"
+        },
+        {
+          "label": "D",
+          "text": "Creeping fat"
+        },
+        {
+          "label": "E",
+          "text": "Skip lesions"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Discontinuous involvement with intervening normal bowel is termed skip lesions, typical of Crohn disease.",
+        "whyCorrect": "Crohn disease is often patchy, with 'skip lesions' referring to discontinuous segments of diseased bowel separated by normal mucosa.",
+        "whyWrongByChoice": {
+          "A": "Cobblestoning describes nodular mucosa from ulceration around edematous islands, not the discontinuous distribution.",
+          "B": "Lead pipe colon describes loss of haustra in UC, not patchy involvement.",
+          "C": "Pseudopolyps are islands of regenerating mucosa, not a distribution pattern.",
+          "D": "Creeping fat is mesenteric fat wrapping around bowel, not a mucosal distribution pattern."
+        }
+      }
+    },
+    {
+      "id": "inflammatory-bowel-disease-017",
+      "topicId": "inflammatory-bowel-disease",
+      "topicName": "Inflammatory Bowel Disease",
+      "stem": "A physician is reviewing modifiable risk factors for inflammatory bowel disease. Which of the following increases the risk of Crohn disease but may be protective in ulcerative colitis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cigarette smoking"
+        },
+        {
+          "label": "B",
+          "text": "Prior appendectomy"
+        },
+        {
+          "label": "C",
+          "text": "High-fiber dietary intake"
+        },
+        {
+          "label": "D",
+          "text": "Chronic NSAID use"
+        },
+        {
+          "label": "E",
+          "text": "Regular aerobic exercise"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Smoking increases the risk of Crohn disease but does not increase, and may protect against, ulcerative colitis.",
+        "whyCorrect": "The brick states that smoking increases the risk of Crohn disease but does not increase the risk of, and may be protective in, UC.",
+        "whyWrongByChoice": {
+          "B": "Prior appendectomy is not identified in this brick as the factor that raises Crohn risk while protecting in UC.",
+          "C": "A high-fiber dietary intake is associated with decreased risk of Crohn disease, not increased risk.",
+          "D": "Chronic NSAID use is implicated in triggering IBD generally but is not the smoking-like factor with opposite effects in the two diseases.",
+          "E": "Regular aerobic exercise is associated with a decreased risk of Crohn disease, not increased risk."
+        }
+      }
+    },
+    {
+      "id": "inflammatory-bowel-disease-018",
+      "topicId": "inflammatory-bowel-disease",
+      "topicName": "Inflammatory Bowel Disease",
+      "stem": "A 24-year-old woman with inflammatory bowel disease develops a red, painful eye with photophobia. Which of the following is the most common ocular manifestation of IBD?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cataract"
+        },
+        {
+          "label": "B",
+          "text": "Conjunctivitis"
+        },
+        {
+          "label": "C",
+          "text": "Glaucoma"
+        },
+        {
+          "label": "D",
+          "text": "Retinal detachment"
+        },
+        {
+          "label": "E",
+          "text": "Episcleritis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Episcleritis is the most common ocular manifestation of IBD.",
+        "whyCorrect": "Patients with IBD may develop uveitis, iritis, and episcleritis; episcleritis is the most common ocular manifestation.",
+        "whyWrongByChoice": {
+          "A": "Cataract is lens opacification and is not the characteristic inflammatory ocular manifestation of IBD.",
+          "B": "Conjunctivitis is not listed as the characteristic IBD-associated ocular condition.",
+          "C": "Glaucoma is elevated intraocular pressure, not an inflammatory IBD manifestation.",
+          "D": "Retinal detachment is a mechanical/vascular event unrelated to IBD inflammation."
+        }
+      }
+    },
+    {
+      "id": "inflammatory-bowel-disease-019",
+      "topicId": "inflammatory-bowel-disease",
+      "topicName": "Inflammatory Bowel Disease",
+      "stem": "A 48-year-old woman with inflammatory bowel disease develops a rapidly enlarging, painful skin ulcer with a purulent base on her leg. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pyoderma gangrenosum"
+        },
+        {
+          "label": "B",
+          "text": "Erythema nodosum"
+        },
+        {
+          "label": "C",
+          "text": "Erythema multiforme"
+        },
+        {
+          "label": "D",
+          "text": "Necrotizing fasciitis"
+        },
+        {
+          "label": "E",
+          "text": "Stasis ulcer"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A painful purulent ulcer in a middle-aged woman with IBD is pyoderma gangrenosum.",
+        "whyCorrect": "Pyoderma gangrenosum is an inflammatory skin disorder associated with IBD, more common in middle-aged women, that presents as painful, purulent ulcers.",
+        "whyWrongByChoice": {
+          "B": "Erythema nodosum presents as tender red nodules on the shins, not purulent ulcers.",
+          "C": "Erythema multiforme is a target-lesion hypersensitivity eruption, not a purulent ulcer.",
+          "D": "Necrotizing fasciitis is a rapidly progressive infection with systemic toxicity and crepitus, not an IBD-associated inflammatory ulcer.",
+          "E": "A stasis ulcer occurs over the medial malleolus from venous insufficiency, not the IBD-associated neutrophilic ulcer described."
+        }
+      }
+    },
+    {
+      "id": "inflammatory-bowel-disease-020",
+      "topicId": "inflammatory-bowel-disease",
+      "topicName": "Inflammatory Bowel Disease",
+      "stem": "A 26-year-old man with ulcerative colitis is hospitalized with more than 10 bloody stools per day, fever, abdominal distension, and anorexia; he appears acutely ill and toxic. Which of the following terms best describes this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Microscopic colitis"
+        },
+        {
+          "label": "B",
+          "text": "Pseudomembranous colitis"
+        },
+        {
+          "label": "C",
+          "text": "Diversion colitis"
+        },
+        {
+          "label": "D",
+          "text": "Collagenous colitis"
+        },
+        {
+          "label": "E",
+          "text": "Fulminant colitis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "More than 10 stools/day with bleeding, distension, fever, and a toxic appearance describes fulminant colitis.",
+        "whyCorrect": "Fulminant colitis is a complication of UC with more than 10 stools a day, bleeding, abdominal pain and distension, and a toxic appearance with fever and anorexia.",
+        "whyWrongByChoice": {
+          "A": "Microscopic colitis causes chronic watery (nonbloody) diarrhea with normal endoscopy, not a toxic fulminant picture.",
+          "B": "Pseudomembranous colitis is caused by C. difficile with pseudomembranes, a distinct entity from a UC flare.",
+          "C": "Diversion colitis occurs in defunctioned bowel segments after surgery, not this acute toxic flare.",
+          "D": "Collagenous colitis is a form of microscopic colitis with watery diarrhea, not a fulminant bloody presentation."
+        }
+      }
+    },
+    {
+      "id": "pharmacologic-agents-for-inflammatory-bowel-disease-001",
+      "topicId": "pharmacologic-agents-for-inflammatory-bowel-disease",
+      "topicName": "Pharmacologic Agents for Inflammatory Bowel Disease",
+      "stem": "A 24-year-old man with mild ulcerative colitis is started on oral mesalamine. His symptoms improve and repeat colonic biopsies show reduced mucosal inflammation. Which molecular action best accounts for this agent's anti-inflammatory effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inhibition of nuclear factor kappa B signaling"
+        },
+        {
+          "label": "B",
+          "text": "Activation of nuclear factor kappa B in enterocytes"
+        },
+        {
+          "label": "C",
+          "text": "Blockade of the α4β7 integrin on lymphocytes"
+        },
+        {
+          "label": "D",
+          "text": "Neutralization of tumor necrosis factor-alpha"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of dihydrofolate reductase in immune cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "5-aminosalicylic acid works locally on the intestinal mucosa, chiefly by inhibiting NF-kB signaling and reducing pro-inflammatory cytokine transcription.",
+        "whyCorrect": "The active moiety 5-ASA inhibits the NF-kB pathway in the mucosa, decreasing transcription of IL-1, TNF-alpha, and IL-6, which reduces inflammation and promotes epithelial healing.",
+        "whyWrongByChoice": {
+          "B": "5-ASA inhibits, rather than activates, NF-kB; activation would worsen inflammation.",
+          "C": "Blocking α4β7 integrin is the mechanism of vedolizumab, not an aminosalicylate.",
+          "D": "Neutralizing TNF-alpha describes anti-TNF biologics such as infliximab.",
+          "E": "Inhibiting dihydrofolate reductase is the mechanism of methotrexate."
+        }
+      }
+    },
+    {
+      "id": "pharmacologic-agents-for-inflammatory-bowel-disease-002",
+      "topicId": "pharmacologic-agents-for-inflammatory-bowel-disease",
+      "topicName": "Pharmacologic Agents for Inflammatory Bowel Disease",
+      "stem": "A patient with ulcerative colitis takes an oral aminosalicylate in which two moieties remain chemically bound until the drug reaches the colon, where the active component is liberated for local effect. Which process is responsible for releasing the drug at this site?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Colonic bacterial azoreductase cleavage"
+        },
+        {
+          "label": "B",
+          "text": "Gastric acid hydrolysis of the compound"
+        },
+        {
+          "label": "C",
+          "text": "Pancreatic lipase digestion of the drug"
+        },
+        {
+          "label": "D",
+          "text": "Hepatic CYP3A4 oxidative metabolism"
+        },
+        {
+          "label": "E",
+          "text": "Brush-border peptidase activity"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Sulfasalazine's azo (N=N) bond is cleaved by colonic bacterial azoreductases, releasing 5-ASA locally in the colon.",
+        "whyCorrect": "The azo linkage prevents absorption in the stomach and small intestine; colonic bacterial azoreductases cleave the bond, freeing 5-ASA and sulfapyridine for local action.",
+        "whyWrongByChoice": {
+          "B": "Gastric acid does not cleave the azo bond; the linkage specifically survives the stomach.",
+          "C": "Pancreatic lipase digests fats, not the diazo bond of the drug.",
+          "D": "Hepatic CYP3A4 metabolism is relevant to budesonide, not azo-bond cleavage.",
+          "E": "Brush-border peptidases act on peptides and do not liberate 5-ASA from the azo compound."
+        }
+      }
+    },
+    {
+      "id": "pharmacologic-agents-for-inflammatory-bowel-disease-003",
+      "topicId": "pharmacologic-agents-for-inflammatory-bowel-disease",
+      "topicName": "Pharmacologic Agents for Inflammatory Bowel Disease",
+      "stem": "A woman with ulcerative colitis maintained on long-term sulfasalazine develops fatigue and a macrocytic anemia. Supplementation with which agent is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitamin B12 (cobalamin)"
+        },
+        {
+          "label": "B",
+          "text": "Iron"
+        },
+        {
+          "label": "C",
+          "text": "Folic acid"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin D"
+        },
+        {
+          "label": "E",
+          "text": "Thiamine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sulfasalazine impairs folate handling and can cause folate deficiency, which is corrected with folic acid.",
+        "whyCorrect": "Sulfasalazine is associated with folate deficiency and a resulting macrocytic anemia; folic acid supplementation is the appropriate treatment.",
+        "whyWrongByChoice": {
+          "A": "Sulfasalazine causes folate, not B12, deficiency; B12 deficiency is not a described effect.",
+          "B": "Iron deficiency causes a microcytic, not macrocytic, anemia.",
+          "D": "Vitamin D deficiency does not produce macrocytic anemia and is not caused by sulfasalazine.",
+          "E": "Thiamine deficiency causes neurologic/cardiac disease, not this drug-related macrocytic anemia."
+        }
+      }
+    },
+    {
+      "id": "pharmacologic-agents-for-inflammatory-bowel-disease-004",
+      "topicId": "pharmacologic-agents-for-inflammatory-bowel-disease",
+      "topicName": "Pharmacologic Agents for Inflammatory Bowel Disease",
+      "stem": "A patient experiencing an acute inflammatory bowel disease flare is treated with prednisone. Which mechanism best explains its broad anti-inflammatory effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Binding cell-surface cytokine receptors to block downstream signaling"
+        },
+        {
+          "label": "B",
+          "text": "Binding intracellular glucocorticoid receptors to alter transcription"
+        },
+        {
+          "label": "C",
+          "text": "Selective blockade of the α4β7 integrin on lymphocytes"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of Janus kinase-STAT signal transduction"
+        },
+        {
+          "label": "E",
+          "text": "Neutralization of soluble and membrane-bound tumor necrosis factor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Corticosteroids bind intracellular glucocorticoid receptors; the complex enters the nucleus and suppresses transcription of many inflammatory mediators.",
+        "whyCorrect": "The glucocorticoid-receptor complex translocates to the nucleus and modulates gene transcription, suppressing cytokines, chemokines, and adhesion molecules.",
+        "whyWrongByChoice": {
+          "A": "Glucocorticoid receptors are intracellular, not cell-surface cytokine receptors.",
+          "C": "α4β7 blockade is the vedolizumab mechanism, not that of corticosteroids.",
+          "D": "JAK-STAT inhibition describes tofacitinib.",
+          "E": "TNF neutralization describes anti-TNF biologics."
+        }
+      }
+    },
+    {
+      "id": "pharmacologic-agents-for-inflammatory-bowel-disease-005",
+      "topicId": "pharmacologic-agents-for-inflammatory-bowel-disease",
+      "topicName": "Pharmacologic Agents for Inflammatory Bowel Disease",
+      "stem": "Compared with prednisone, budesonide produces markedly fewer systemic adverse effects when used for inflammatory bowel disease flares. Which property best explains this difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lack of glucocorticoid receptor binding affinity"
+        },
+        {
+          "label": "B",
+          "text": "Extensive first-pass hepatic metabolism"
+        },
+        {
+          "label": "C",
+          "text": "Renal elimination without hepatic metabolism"
+        },
+        {
+          "label": "D",
+          "text": "Selective colonic bacterial activation of the drug"
+        },
+        {
+          "label": "E",
+          "text": "Irreversible inhibition of calcineurin activity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Budesonide undergoes high first-pass hepatic metabolism via CYP3A4, limiting systemic exposure.",
+        "whyCorrect": "Its extensive first-pass hepatic metabolism limits systemic drug levels, reducing systemic glucocorticoid adverse effects while retaining local potency.",
+        "whyWrongByChoice": {
+          "A": "Budesonide is a potent glucocorticoid-receptor agonist; it clearly binds the receptor.",
+          "C": "It is metabolized hepatically rather than eliminated unchanged by the kidneys.",
+          "D": "Budesonide is not dependent on colonic bacterial activation like sulfasalazine.",
+          "E": "Calcineurin inhibition is the mechanism of cyclosporine, not budesonide."
+        }
+      }
+    },
+    {
+      "id": "pharmacologic-agents-for-inflammatory-bowel-disease-006",
+      "topicId": "pharmacologic-agents-for-inflammatory-bowel-disease",
+      "topicName": "Pharmacologic Agents for Inflammatory Bowel Disease",
+      "stem": "A patient with inflammatory bowel disease has been maintained on systemic corticosteroids for many months. This treatment places the patient at greatest risk for which adverse effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nephrotoxicity"
+        },
+        {
+          "label": "B",
+          "text": "Osteoporosis"
+        },
+        {
+          "label": "C",
+          "text": "Myelosuppression"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary fibrosis"
+        },
+        {
+          "label": "E",
+          "text": "Peripheral neuropathy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Long-term corticosteroid use causes metabolic and endocrine effects including reduced bone density (osteoporosis), a reason they are avoided for maintenance.",
+        "whyCorrect": "Chronic glucocorticoids cause Cushingoid changes and reduced bone density; osteoporosis is a hallmark long-term complication prompting bone-density monitoring.",
+        "whyWrongByChoice": {
+          "A": "Nephrotoxicity is characteristic of cyclosporine and monitored with aminosalicylates, not a hallmark of steroids.",
+          "C": "Myelosuppression is the key thiopurine toxicity, not a corticosteroid effect.",
+          "D": "Pulmonary fibrosis/pneumonitis is associated with methotrexate.",
+          "E": "Peripheral neuropathy is associated with cyclosporine, not corticosteroids."
+        }
+      }
+    },
+    {
+      "id": "pharmacologic-agents-for-inflammatory-bowel-disease-007",
+      "topicId": "pharmacologic-agents-for-inflammatory-bowel-disease",
+      "topicName": "Pharmacologic Agents for Inflammatory Bowel Disease",
+      "stem": "A patient with Crohn disease is treated with azathioprine, a prodrug. Its therapeutic effect is mediated primarily by which active metabolite that inhibits purine synthesis and induces apoptosis of activated T lymphocytes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "6-thiouric acid"
+        },
+        {
+          "label": "B",
+          "text": "6-methyl-mercaptopurine"
+        },
+        {
+          "label": "C",
+          "text": "5-aminosalicylic acid"
+        },
+        {
+          "label": "D",
+          "text": "6-thioguanine nucleotides"
+        },
+        {
+          "label": "E",
+          "text": "N5-formyl-tetrahydrofolate"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Thiopurines are converted to 6-thioguanine nucleotides (6-TGN), the active metabolites that impair purine synthesis and induce lymphocyte apoptosis.",
+        "whyCorrect": "6-TGN incorporate into DNA and RNA, inhibiting purine synthesis and inducing apoptosis of activated T cells, reducing intestinal inflammation.",
+        "whyWrongByChoice": {
+          "A": "6-thiouric acid is the inactive product of xanthine oxidase metabolism.",
+          "B": "6-methyl-mercaptopurine is a TPMT-generated metabolite, not the principal active nucleotide.",
+          "C": "5-ASA is the aminosalicylate active moiety, unrelated to thiopurine metabolism.",
+          "E": "N5-formyl-tetrahydrofolate (leucovorin) is a folate rescue agent, not a thiopurine metabolite."
+        }
+      }
+    },
+    {
+      "id": "pharmacologic-agents-for-inflammatory-bowel-disease-008",
+      "topicId": "pharmacologic-agents-for-inflammatory-bowel-disease",
+      "topicName": "Pharmacologic Agents for Inflammatory Bowel Disease",
+      "stem": "Before initiating a thiopurine in a patient with inflammatory bowel disease, a physician orders testing of thiopurine methyltransferase (TPMT) activity. This test identifies patients at increased risk for which complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Interstitial nephritis"
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary fibrosis"
+        },
+        {
+          "label": "C",
+          "text": "Bone marrow suppression"
+        },
+        {
+          "label": "D",
+          "text": "Latent tuberculosis reactivation"
+        },
+        {
+          "label": "E",
+          "text": "Peripheral neuropathy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Low TPMT activity leads to accumulation of toxic 6-TGN and dose-dependent bone marrow suppression, so TPMT testing precedes thiopurine therapy.",
+        "whyCorrect": "Patients with low TPMT accumulate toxic 6-TGN, causing dose-dependent myelosuppression; TPMT testing before initiation identifies this risk.",
+        "whyWrongByChoice": {
+          "A": "Interstitial nephritis is a monitoring concern for aminosalicylates, not TPMT-related.",
+          "B": "Pulmonary fibrosis is associated with methotrexate, unrelated to TPMT status.",
+          "D": "Latent TB reactivation is a risk of anti-TNF biologics, not thiopurines.",
+          "E": "Peripheral neuropathy is a cyclosporine effect, not related to TPMT."
+        }
+      }
+    },
+    {
+      "id": "pharmacologic-agents-for-inflammatory-bowel-disease-009",
+      "topicId": "pharmacologic-agents-for-inflammatory-bowel-disease",
+      "topicName": "Pharmacologic Agents for Inflammatory Bowel Disease",
+      "stem": "A patient stable on azathioprine for Crohn disease is prescribed allopurinol for recurrent gout and soon develops severe pancytopenia. This drug combination should be avoided because allopurinol does what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Induces methyltransferase, lowering active metabolite levels"
+        },
+        {
+          "label": "B",
+          "text": "Displaces the drug from plasma protein binding sites"
+        },
+        {
+          "label": "C",
+          "text": "Impairs renal excretion of the inactive thiouric acid"
+        },
+        {
+          "label": "D",
+          "text": "Blocks the colonic bacterial activation of the prodrug"
+        },
+        {
+          "label": "E",
+          "text": "Inhibits xanthine oxidase, raising toxic metabolite levels"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Allopurinol inhibits xanthine oxidase, diverting 6-mercaptopurine toward more active toxic metabolites and precipitating myelosuppression.",
+        "whyCorrect": "Xanthine oxidase normally inactivates mercaptopurine to thiouric acid; allopurinol inhibits this enzyme, shunting the drug to active 6-TGN and causing marrow toxicity.",
+        "whyWrongByChoice": {
+          "A": "Allopurinol does not induce TPMT; the problem is increased, not decreased, active metabolite.",
+          "B": "Protein-binding displacement is not the described interaction mechanism.",
+          "C": "The toxicity arises from more active metabolite, not from retained inactive thiouric acid.",
+          "D": "Colonic bacterial activation applies to sulfasalazine, not thiopurines."
+        }
+      }
+    },
+    {
+      "id": "pharmacologic-agents-for-inflammatory-bowel-disease-010",
+      "topicId": "pharmacologic-agents-for-inflammatory-bowel-disease",
+      "topicName": "Pharmacologic Agents for Inflammatory Bowel Disease",
+      "stem": "A patient with Crohn disease receives weekly methotrexate as an immunomodulator. Which enzyme does this drug inhibit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dihydrofolate reductase"
+        },
+        {
+          "label": "B",
+          "text": "Xanthine oxidase enzyme"
+        },
+        {
+          "label": "C",
+          "text": "Calcineurin phosphatase"
+        },
+        {
+          "label": "D",
+          "text": "Cyclooxygenase (COX)"
+        },
+        {
+          "label": "E",
+          "text": "Janus kinase (JAK)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Methotrexate inhibits dihydrofolate reductase, depleting folate needed for nucleotide synthesis in rapidly dividing cells.",
+        "whyCorrect": "By inhibiting dihydrofolate reductase, methotrexate impairs folate metabolism and nucleotide synthesis, reducing proliferation of immune cells and cytokine production.",
+        "whyWrongByChoice": {
+          "B": "Xanthine oxidase is the target of allopurinol and metabolizes thiopurines.",
+          "C": "Calcineurin is inhibited by cyclosporine.",
+          "D": "Cyclooxygenase is inhibited by 5-ASAs and NSAIDs, not methotrexate.",
+          "E": "Janus kinase is inhibited by tofacitinib."
+        }
+      }
+    },
+    {
+      "id": "pharmacologic-agents-for-inflammatory-bowel-disease-011",
+      "topicId": "pharmacologic-agents-for-inflammatory-bowel-disease",
+      "topicName": "Pharmacologic Agents for Inflammatory Bowel Disease",
+      "stem": "A patient taking methotrexate for inflammatory bowel disease is routinely co-prescribed folic acid. This supplementation is given primarily to reduce which adverse effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nephrotoxicity"
+        },
+        {
+          "label": "B",
+          "text": "Hypertension"
+        },
+        {
+          "label": "C",
+          "text": "Osteoporosis"
+        },
+        {
+          "label": "D",
+          "text": "Latent tuberculosis reactivation"
+        },
+        {
+          "label": "E",
+          "text": "Mucositis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Methotrexate depletes folate in rapidly dividing mucosal cells, causing mucositis; folic acid reduces this GI toxicity.",
+        "whyCorrect": "DHFR inhibition depletes folate in rapidly dividing mucosal epithelium, producing mucositis; folic acid supplementation lowers its incidence.",
+        "whyWrongByChoice": {
+          "A": "Nephrotoxicity is a cyclosporine effect, not the reason for folate supplementation.",
+          "B": "Hypertension is associated with cyclosporine, not methotrexate.",
+          "C": "Osteoporosis is a corticosteroid effect, not reduced by folic acid.",
+          "D": "Latent TB reactivation is a biologic risk unaffected by folate supplementation."
+        }
+      }
+    },
+    {
+      "id": "pharmacologic-agents-for-inflammatory-bowel-disease-012",
+      "topicId": "pharmacologic-agents-for-inflammatory-bowel-disease",
+      "topicName": "Pharmacologic Agents for Inflammatory Bowel Disease",
+      "stem": "A patient on long-term methotrexate for Crohn disease develops a dry cough and progressive dyspnea. Which adverse effect is most consistent with this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Interstitial nephritis"
+        },
+        {
+          "label": "B",
+          "text": "Pneumonitis"
+        },
+        {
+          "label": "C",
+          "text": "Myelosuppression"
+        },
+        {
+          "label": "D",
+          "text": "Cushingoid features"
+        },
+        {
+          "label": "E",
+          "text": "Peripheral neuropathy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Methotrexate can cause pulmonary toxicity (pneumonitis), presenting with cough and dyspnea.",
+        "whyCorrect": "Pneumonitis is a recognized methotrexate toxicity; monitoring pulmonary function is recommended, and it fits the dry cough and dyspnea.",
+        "whyWrongByChoice": {
+          "A": "Interstitial nephritis is an aminosalicylate concern and would present with renal, not pulmonary, findings.",
+          "C": "Myelosuppression causes cytopenias, not cough and dyspnea.",
+          "D": "Cushingoid features are a corticosteroid effect and are not respiratory.",
+          "E": "Peripheral neuropathy is a cyclosporine effect and does not cause pulmonary symptoms."
+        }
+      }
+    },
+    {
+      "id": "pharmacologic-agents-for-inflammatory-bowel-disease-013",
+      "topicId": "pharmacologic-agents-for-inflammatory-bowel-disease",
+      "topicName": "Pharmacologic Agents for Inflammatory Bowel Disease",
+      "stem": "A patient with Crohn disease is treated with infliximab. Which best describes its mechanism of action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blockade of the α4β7 integrin on lymphocytes"
+        },
+        {
+          "label": "B",
+          "text": "Inhibition of dihydrofolate reductase enzyme"
+        },
+        {
+          "label": "C",
+          "text": "Targeting the p40 subunit of IL-12 and IL-23"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of calcineurin via cyclophilin binding"
+        },
+        {
+          "label": "E",
+          "text": "Neutralization of soluble and membrane-bound TNF"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Infliximab is an anti-TNF monoclonal antibody that neutralizes soluble and membrane-bound TNF-alpha.",
+        "whyCorrect": "By binding both soluble and membrane-bound TNF-alpha, infliximab interrupts downstream NF-kB activation and reduces pro-inflammatory mediators, promoting mucosal healing.",
+        "whyWrongByChoice": {
+          "A": "α4β7 integrin blockade is the vedolizumab mechanism.",
+          "B": "DHFR inhibition is methotrexate's mechanism.",
+          "C": "Targeting the IL-12/23 p40 subunit describes ustekinumab.",
+          "D": "Calcineurin inhibition via cyclophilin describes cyclosporine."
+        }
+      }
+    },
+    {
+      "id": "pharmacologic-agents-for-inflammatory-bowel-disease-014",
+      "topicId": "pharmacologic-agents-for-inflammatory-bowel-disease",
+      "topicName": "Pharmacologic Agents for Inflammatory Bowel Disease",
+      "stem": "Before initiating an anti-TNF biologic in a patient with Crohn disease, screening for latent tuberculosis and which other infection is mandatory?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatitis A"
+        },
+        {
+          "label": "B",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "C",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "D",
+          "text": "Hepatitis B"
+        },
+        {
+          "label": "E",
+          "text": "Herpes simplex virus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Anti-TNF therapy risks reactivation of latent infections; screening for latent TB and hepatitis B is mandatory before starting.",
+        "whyCorrect": "Because anti-TNF agents can reactivate latent infections, hepatitis B serology (along with TB screening) is required before initiating therapy.",
+        "whyWrongByChoice": {
+          "A": "Hepatitis A is an acute self-limited infection without a latent reactivation risk requiring pre-biologic screening.",
+          "B": "Routine CMV screening is not the mandated pre-anti-TNF test in this brick.",
+          "C": "EBV screening is not the required pre-treatment step described.",
+          "E": "HSV screening is not part of the mandatory pre-biologic workup."
+        }
+      }
+    },
+    {
+      "id": "pharmacologic-agents-for-inflammatory-bowel-disease-015",
+      "topicId": "pharmacologic-agents-for-inflammatory-bowel-disease",
+      "topicName": "Pharmacologic Agents for Inflammatory Bowel Disease",
+      "stem": "A patient with inflammatory bowel disease receives vedolizumab. This agent reduces intestinal inflammation by blocking which target?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tumor necrosis factor-alpha"
+        },
+        {
+          "label": "B",
+          "text": "Dihydrofolate reductase"
+        },
+        {
+          "label": "C",
+          "text": "IL-12/23 p40 subunit"
+        },
+        {
+          "label": "D",
+          "text": "Janus kinase"
+        },
+        {
+          "label": "E",
+          "text": "α4β7 integrin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Vedolizumab selectively blocks the α4β7 integrin, preventing lymphocyte binding to MAdCAM-1 on gut endothelium.",
+        "whyCorrect": "By blocking α4β7 integrin on lymphocytes, vedolizumab prevents their binding to gut MAdCAM-1, reducing intestinal infiltration in a gut-selective manner.",
+        "whyWrongByChoice": {
+          "A": "TNF-alpha is the target of anti-TNF biologics, not vedolizumab.",
+          "B": "DHFR is inhibited by methotrexate.",
+          "C": "The IL-12/23 p40 subunit is targeted by ustekinumab.",
+          "D": "Janus kinase is inhibited by tofacitinib."
+        }
+      }
+    },
+    {
+      "id": "pharmacologic-agents-for-inflammatory-bowel-disease-016",
+      "topicId": "pharmacologic-agents-for-inflammatory-bowel-disease",
+      "topicName": "Pharmacologic Agents for Inflammatory Bowel Disease",
+      "stem": "Natalizumab is an anti-integrin antibody that is contraindicated in immunosuppressed patients because they are at risk for a fatal CNS demyelinating disease caused by reactivation of which virus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatitis B virus (HBV)"
+        },
+        {
+          "label": "B",
+          "text": "Cytomegalovirus (CMV)"
+        },
+        {
+          "label": "C",
+          "text": "JC virus (polyomavirus)"
+        },
+        {
+          "label": "D",
+          "text": "Epstein-Barr virus (EBV)"
+        },
+        {
+          "label": "E",
+          "text": "Herpes simplex virus (HSV)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Natalizumab is associated with progressive multifocal leukoencephalopathy (PML) from reactivation of JC (John Cunningham) virus.",
+        "whyCorrect": "PML is a rare, often fatal demyelinating CNS disease caused by JC virus reactivation in patients with impaired cell-mediated immunity, limiting natalizumab use.",
+        "whyWrongByChoice": {
+          "A": "Hepatitis B reactivation is an anti-TNF concern and causes hepatitis, not PML.",
+          "B": "CMV causes retinitis/colitis in immunocompromise, not the PML associated with natalizumab.",
+          "D": "EBV is linked to lymphoproliferative disease, not PML.",
+          "E": "HSV causes encephalitis but is not the cause of PML."
+        }
+      }
+    },
+    {
+      "id": "pharmacologic-agents-for-inflammatory-bowel-disease-017",
+      "topicId": "pharmacologic-agents-for-inflammatory-bowel-disease",
+      "topicName": "Pharmacologic Agents for Inflammatory Bowel Disease",
+      "stem": "A patient with Crohn disease is treated with ustekinumab. Which cytokine target best explains its therapeutic effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tumor necrosis factor-alpha (TNF-α)"
+        },
+        {
+          "label": "B",
+          "text": "α4β7 integrin adhesion molecule"
+        },
+        {
+          "label": "C",
+          "text": "Janus kinase signaling enzyme"
+        },
+        {
+          "label": "D",
+          "text": "Shared p40 subunit of IL-12/IL-23"
+        },
+        {
+          "label": "E",
+          "text": "Calcineurin phosphatase activity"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Ustekinumab targets the shared p40 subunit of IL-12 and IL-23, inhibiting Th1 and Th17 differentiation.",
+        "whyCorrect": "By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab blocks Th1 and Th17 differentiation, pathways implicated in Crohn disease.",
+        "whyWrongByChoice": {
+          "A": "TNF-alpha is the target of anti-TNF biologics, not ustekinumab.",
+          "B": "α4β7 integrin is targeted by vedolizumab.",
+          "C": "Janus kinase is inhibited by tofacitinib.",
+          "E": "Calcineurin is inhibited by cyclosporine."
+        }
+      }
+    },
+    {
+      "id": "pharmacologic-agents-for-inflammatory-bowel-disease-018",
+      "topicId": "pharmacologic-agents-for-inflammatory-bowel-disease",
+      "topicName": "Pharmacologic Agents for Inflammatory Bowel Disease",
+      "stem": "A patient with ulcerative colitis is started on tofacitinib, an orally administered small-molecule agent. Which signaling pathway does it inhibit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcineurin-NF-AT signaling"
+        },
+        {
+          "label": "B",
+          "text": "Colonic azoreductase activation"
+        },
+        {
+          "label": "C",
+          "text": "Janus kinase-STAT signaling"
+        },
+        {
+          "label": "D",
+          "text": "α4β7 integrin adhesion"
+        },
+        {
+          "label": "E",
+          "text": "Xanthine oxidase metabolism"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Tofacitinib is a small-molecule JAK inhibitor that blocks Janus kinase-STAT signaling required for cytokine receptor signal transduction.",
+        "whyCorrect": "Tofacitinib blocks JAK signaling, interrupting the JAK-STAT pathway needed for cytokine receptor signal transduction and broadly suppressing cytokine-driven inflammation.",
+        "whyWrongByChoice": {
+          "A": "Calcineurin-NF-AT signaling is inhibited by cyclosporine.",
+          "B": "Colonic azoreductase activation applies to sulfasalazine.",
+          "D": "α4β7 integrin adhesion is blocked by vedolizumab.",
+          "E": "Xanthine oxidase is inhibited by allopurinol."
+        }
+      }
+    },
+    {
+      "id": "pharmacologic-agents-for-inflammatory-bowel-disease-019",
+      "topicId": "pharmacologic-agents-for-inflammatory-bowel-disease",
+      "topicName": "Pharmacologic Agents for Inflammatory Bowel Disease",
+      "stem": "Cyclosporine is used in specific cases of severe inflammatory bowel disease. After binding cyclophilin, it exerts its immunosuppressive effect by inhibiting which enzyme?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dihydrofolate reductase"
+        },
+        {
+          "label": "B",
+          "text": "Xanthine oxidase"
+        },
+        {
+          "label": "C",
+          "text": "Janus kinase"
+        },
+        {
+          "label": "D",
+          "text": "Calcineurin"
+        },
+        {
+          "label": "E",
+          "text": "Cyclooxygenase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cyclosporine binds cyclophilin and inhibits calcineurin, blocking NF-AT-dependent T-cell activation.",
+        "whyCorrect": "The cyclosporine-cyclophilin complex inhibits calcineurin, preventing dephosphorylation of NF-AT and reducing transcription of IL-2 and other T-cell activation genes.",
+        "whyWrongByChoice": {
+          "A": "Dihydrofolate reductase is inhibited by methotrexate.",
+          "B": "Xanthine oxidase is inhibited by allopurinol.",
+          "C": "Janus kinase is inhibited by tofacitinib.",
+          "E": "Cyclooxygenase is inhibited by 5-ASAs and NSAIDs."
+        }
+      }
+    },
+    {
+      "id": "pharmacologic-agents-for-inflammatory-bowel-disease-020",
+      "topicId": "pharmacologic-agents-for-inflammatory-bowel-disease",
+      "topicName": "Pharmacologic Agents for Inflammatory Bowel Disease",
+      "stem": "A 30-year-old patient with newly diagnosed mild-to-moderate ulcerative colitis requires first-line therapy. Which class of agents is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aminosalicylates"
+        },
+        {
+          "label": "B",
+          "text": "Anti-TNF biologics"
+        },
+        {
+          "label": "C",
+          "text": "Calcineurin inhibitors"
+        },
+        {
+          "label": "D",
+          "text": "Systemic corticosteroids"
+        },
+        {
+          "label": "E",
+          "text": "Anti-integrin biologics"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Aminosalicylates (5-ASAs) are first-line therapy for mild-to-moderate ulcerative colitis.",
+        "whyCorrect": "5-ASAs act locally on the colonic mucosa and are the recommended first-line therapy for mild-to-moderate ulcerative colitis.",
+        "whyWrongByChoice": {
+          "B": "Anti-TNF biologics are reserved for moderate-to-severe or refractory disease, not first-line mild disease.",
+          "C": "Calcineurin inhibitors are reserved for specific severe cases owing to their toxicity.",
+          "D": "Systemic corticosteroids are used for flares/induction, not first-line maintenance in mild disease.",
+          "E": "Anti-integrin biologics are used in moderate-to-severe disease, not first-line for mild colitis."
+        }
+      }
+    },
+    {
+      "id": "traumatic-and-mechanical-gi-injuries-001",
+      "topicId": "traumatic-and-mechanical-gi-injuries",
+      "topicName": "Traumatic and Mechanical GI Injuries",
+      "stem": "A 24-year-old man is brought to the emergency department after falling from a ladder and striking his left flank. Radiographs show fractures of the left 10th and 11th ribs. He complains of pain at the tip of the left shoulder despite no injury to the shoulder or arm. Which abdominal organ is most likely injured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Liver"
+        },
+        {
+          "label": "B",
+          "text": "Pancreas"
+        },
+        {
+          "label": "C",
+          "text": "Left kidney"
+        },
+        {
+          "label": "D",
+          "text": "Spleen"
+        },
+        {
+          "label": "E",
+          "text": "Stomach"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Left lower rib fractures with referred left shoulder (Kehr) pain classically indicate splenic rupture.",
+        "whyCorrect": "The spleen has fragile parenchyma and a thin capsule, making it highly prone to rupture with left lower rib fractures. Subdiaphragmatic blood irritates the diaphragm, producing the referred left shoulder pain known as Kehr sign.",
+        "whyWrongByChoice": {
+          "A": "Liver injury occupies the right upper quadrant, is associated with right lower rib fractures, and refers pain to the right shoulder.",
+          "B": "The pancreas is retroperitoneal, produces midepigastric pain, and is not linked to left rib fractures or shoulder pain.",
+          "C": "Renal injury is retroperitoneal and presents with flank pain or hematuria, not referred shoulder pain.",
+          "E": "Isolated gastric blunt injury is uncommon and is not associated with left rib fractures or the Kehr sign."
+        }
+      }
+    },
+    {
+      "id": "traumatic-and-mechanical-gi-injuries-002",
+      "topicId": "traumatic-and-mechanical-gi-injuries",
+      "topicName": "Traumatic and Mechanical GI Injuries",
+      "stem": "A 30-year-old restrained driver sustains a rapid-deceleration injury in a high-speed collision. The teaching point is that blunt bowel injury concentrates at fixed anchoring points. At which site is the small bowel most vulnerable to shearing forces?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ileocecal valve"
+        },
+        {
+          "label": "B",
+          "text": "Gastroesophageal junction"
+        },
+        {
+          "label": "C",
+          "text": "Ligament of Treitz"
+        },
+        {
+          "label": "D",
+          "text": "Hepatic flexure"
+        },
+        {
+          "label": "E",
+          "text": "Splenic flexure"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The small bowel is most vulnerable to shearing at fixed points such as the ligament of Treitz.",
+        "whyCorrect": "The small bowel is otherwise mobile, so deceleration shearing forces concentrate at fixed anchor points; the ligament of Treitz (duodenojejunal junction) is the classic vulnerable site emphasized in the brick.",
+        "whyWrongByChoice": {
+          "A": "The ileocecal region is not the fixed shearing point highlighted for small bowel deceleration injury.",
+          "B": "The gastroesophageal junction is an esophagogastric landmark, not a small bowel shearing site.",
+          "D": "The hepatic flexure is part of the colon, not the small bowel.",
+          "E": "The splenic flexure is a colonic segment and not the small bowel anchor point described."
+        }
+      }
+    },
+    {
+      "id": "traumatic-and-mechanical-gi-injuries-003",
+      "topicId": "traumatic-and-mechanical-gi-injuries",
+      "topicName": "Traumatic and Mechanical GI Injuries",
+      "stem": "A 3-year-old child swallows a household drain cleaner containing lye and develops drooling and oral burns. Endoscopy reveals deep, penetrating esophageal ulceration. Which type of tissue necrosis best explains this injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coagulative necrosis"
+        },
+        {
+          "label": "B",
+          "text": "Caseous necrosis"
+        },
+        {
+          "label": "C",
+          "text": "Fibrinoid necrosis"
+        },
+        {
+          "label": "D",
+          "text": "Liquefactive necrosis"
+        },
+        {
+          "label": "E",
+          "text": "Fat (enzymatic) necrosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Alkali (lye) ingestion causes liquefactive necrosis with deep, full-thickness penetration.",
+        "whyCorrect": "Alkalis such as lye produce liquefactive necrosis, which penetrates deeply and can lead to full-thickness esophageal or gastric perforation, as described in the brick.",
+        "whyWrongByChoice": {
+          "A": "Coagulative necrosis is caused by acid ingestion, which forms a superficial protective eschar.",
+          "B": "Caseous necrosis is characteristic of granulomatous infections such as tuberculosis.",
+          "C": "Fibrinoid necrosis occurs in vascular walls in immune-mediated injury, not caustic ingestion.",
+          "E": "Fat necrosis is seen with pancreatic enzyme release or trauma to adipose tissue."
+        }
+      }
+    },
+    {
+      "id": "traumatic-and-mechanical-gi-injuries-004",
+      "topicId": "traumatic-and-mechanical-gi-injuries",
+      "topicName": "Traumatic and Mechanical GI Injuries",
+      "stem": "A 45-year-old man ingests a sulfuric-acid drain product in a suicide attempt. Endoscopy shows a firm, brownish-black eschar over the gastric mucosa. Which process limits the depth of this injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Liquefactive necrosis"
+        },
+        {
+          "label": "B",
+          "text": "Granulation tissue"
+        },
+        {
+          "label": "C",
+          "text": "Coagulative necrosis"
+        },
+        {
+          "label": "D",
+          "text": "Caseating granuloma"
+        },
+        {
+          "label": "E",
+          "text": "Fibrinoid necrosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Acid ingestion produces coagulative necrosis, forming a protective eschar that limits penetration depth.",
+        "whyCorrect": "Acids cause coagulative necrosis, generating a protective eschar that somewhat limits the depth of penetration, though severe injury can still occur.",
+        "whyWrongByChoice": {
+          "A": "Liquefactive necrosis is caused by alkalis and penetrates deeply rather than limiting depth.",
+          "B": "Granulation tissue is part of later wound healing, not the acute limiting eschar.",
+          "D": "Caseating granulomas occur in infections such as tuberculosis, not caustic injury.",
+          "E": "Fibrinoid necrosis affects vessel walls in immune-mediated disease."
+        }
+      }
+    },
+    {
+      "id": "traumatic-and-mechanical-gi-injuries-005",
+      "topicId": "traumatic-and-mechanical-gi-injuries",
+      "topicName": "Traumatic and Mechanical GI Injuries",
+      "stem": "A 40-year-old man with abdominal trauma has an upright chest radiograph showing a thin crescent of lucency beneath the right hemidiaphragm. This finding most strongly indicates which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Massive hemoperitoneum"
+        },
+        {
+          "label": "B",
+          "text": "Splenic capsular laceration"
+        },
+        {
+          "label": "C",
+          "text": "Hollow viscus perforation"
+        },
+        {
+          "label": "D",
+          "text": "Retroperitoneal hematoma"
+        },
+        {
+          "label": "E",
+          "text": "Reflex paralytic ileus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Free air beneath the diaphragm (pneumoperitoneum) indicates perforation of a hollow viscus.",
+        "whyCorrect": "Pneumoperitoneum results from perforation of a hollow viscus; free air rises by buoyancy to beneath the diaphragm, appearing as a crescent of lucency on upright chest radiography.",
+        "whyWrongByChoice": {
+          "A": "Hemoperitoneum is intraperitoneal fluid (blood), not free air.",
+          "B": "Splenic laceration causes solid-organ bleeding and hemoperitoneum, not free air.",
+          "D": "Retroperitoneal hematoma is suggested by loss of the psoas shadow, not subdiaphragmatic air.",
+          "E": "Paralytic ileus produces dilated bowel gas patterns, not free intraperitoneal air."
+        }
+      }
+    },
+    {
+      "id": "traumatic-and-mechanical-gi-injuries-006",
+      "topicId": "traumatic-and-mechanical-gi-injuries",
+      "topicName": "Traumatic and Mechanical GI Injuries",
+      "stem": "A 28-year-old woman is hemodynamically stable after blunt abdominal trauma with a seatbelt sign. Which imaging modality is the gold standard for evaluating her abdomen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Focused bedside ultrasound"
+        },
+        {
+          "label": "B",
+          "text": "Upright chest radiography"
+        },
+        {
+          "label": "C",
+          "text": "Diagnostic peritoneal lavage"
+        },
+        {
+          "label": "D",
+          "text": "IV-contrast abdominal CT"
+        },
+        {
+          "label": "E",
+          "text": "Left lateral decubitus film"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "CT of the abdomen and pelvis with IV contrast is the gold standard for stable trauma patients.",
+        "whyCorrect": "In hemodynamically stable patients, contrast-enhanced CT is the gold standard, identifying free air, free fluid, solid organ injuries, and mesenteric or vascular injuries.",
+        "whyWrongByChoice": {
+          "A": "FAST ultrasound is preferred for unstable patients as a rapid bedside screen, not the definitive study.",
+          "B": "Upright chest radiography is an initial screening tool with limited sensitivity for many injuries.",
+          "C": "Diagnostic peritoneal lavage has largely been replaced by CT and ultrasound.",
+          "E": "The left lateral decubitus film is used only to detect free air when a patient cannot stand."
+        }
+      }
+    },
+    {
+      "id": "traumatic-and-mechanical-gi-injuries-007",
+      "topicId": "traumatic-and-mechanical-gi-injuries",
+      "topicName": "Traumatic and Mechanical GI Injuries",
+      "stem": "A 35-year-old man remains hypotensive and tachycardic after a motorcycle crash despite fluid resuscitation. Which imaging is most appropriate for immediate bedside evaluation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Contrast-enhanced CT"
+        },
+        {
+          "label": "B",
+          "text": "Upright chest radiograph"
+        },
+        {
+          "label": "C",
+          "text": "Magnetic resonance imaging"
+        },
+        {
+          "label": "D",
+          "text": "Barium contrast study"
+        },
+        {
+          "label": "E",
+          "text": "FAST ultrasound"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "FAST ultrasound is the preferred rapid assessment in hemodynamically unstable trauma patients.",
+        "whyCorrect": "FAST is a rapid bedside protocol performed in under 5 minutes without patient transport; it detects free fluid (blood) and a positive result in an unstable patient warrants immediate surgical exploration.",
+        "whyWrongByChoice": {
+          "A": "Contrast-enhanced CT requires a hemodynamically stable patient and transport out of the resuscitation area.",
+          "B": "Upright chest radiography is a screening tool with limited sensitivity for intra-abdominal injury.",
+          "C": "MRI is too slow and impractical for an unstable trauma patient.",
+          "D": "Barium contrast studies are contraindicated when perforation is suspected."
+        }
+      }
+    },
+    {
+      "id": "traumatic-and-mechanical-gi-injuries-008",
+      "topicId": "traumatic-and-mechanical-gi-injuries",
+      "topicName": "Traumatic and Mechanical GI Injuries",
+      "stem": "A trauma sonographer evaluates a patient for perihepatic blood after a liver injury. Which potential space is the key target for detecting this fluid?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left subphrenic space"
+        },
+        {
+          "label": "B",
+          "text": "Hepatorenal recess"
+        },
+        {
+          "label": "C",
+          "text": "Lesser sac"
+        },
+        {
+          "label": "D",
+          "text": "Rectovesical pouch"
+        },
+        {
+          "label": "E",
+          "text": "Right paracolic gutter"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The hepatorenal recess (Morison pouch) is the FAST target for perihepatic/liver bleeding.",
+        "whyCorrect": "The hepatorenal recess (Morison pouch) is the dependent space where liver bleeding collects and is a primary FAST examination target.",
+        "whyWrongByChoice": {
+          "A": "The left subphrenic/peri-splenic space is the target for splenic, not perihepatic, bleeding.",
+          "C": "The lesser sac is not a primary FAST window for perihepatic blood.",
+          "D": "The rectovesical pouch is a pelvic dependent space, not the perihepatic target.",
+          "E": "The right paracolic gutter is a secondary tracking pathway, not the key perihepatic space."
+        }
+      }
+    },
+    {
+      "id": "traumatic-and-mechanical-gi-injuries-009",
+      "topicId": "traumatic-and-mechanical-gi-injuries",
+      "topicName": "Traumatic and Mechanical GI Injuries",
+      "stem": "A 60-year-old develops abdominal pain and free air on imaging after a screening colonoscopy. At which site is perforation during colonoscopy most likely to occur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cecum"
+        },
+        {
+          "label": "B",
+          "text": "Ascending colon"
+        },
+        {
+          "label": "C",
+          "text": "Transverse colon"
+        },
+        {
+          "label": "D",
+          "text": "Rectum"
+        },
+        {
+          "label": "E",
+          "text": "Sigmoid colon"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Colonoscopic perforation most commonly occurs at the sigmoid colon.",
+        "whyCorrect": "The sigmoid colon is the most common site of colonoscopic perforation because of its angulation and susceptibility from diverticular disease.",
+        "whyWrongByChoice": {
+          "A": "The cecum is thin-walled but is not the most common site of scope perforation.",
+          "B": "The ascending colon is not the typical location for colonoscopic perforation.",
+          "C": "The transverse colon is not the predominant perforation site.",
+          "D": "The rectum is not the usual site of colonoscopic perforation."
+        }
+      }
+    },
+    {
+      "id": "traumatic-and-mechanical-gi-injuries-010",
+      "topicId": "traumatic-and-mechanical-gi-injuries",
+      "topicName": "Traumatic and Mechanical GI Injuries",
+      "stem": "A surgeon notes that GI perforations vary in contamination severity by location. Which site releases luminal contents with the highest bacterial load?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stomach"
+        },
+        {
+          "label": "B",
+          "text": "Colon"
+        },
+        {
+          "label": "C",
+          "text": "Duodenum"
+        },
+        {
+          "label": "D",
+          "text": "Jejunum"
+        },
+        {
+          "label": "E",
+          "text": "Ileum"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Colonic injuries carry the highest bacterial load and greatest contamination risk.",
+        "whyCorrect": "The brick specifies that colonic injuries carry a higher bacterial load, producing the most severe peritoneal contamination when perforated.",
+        "whyWrongByChoice": {
+          "A": "The stomach is acidic and relatively low in bacterial content.",
+          "C": "The duodenum has a low bacterial burden compared with the colon.",
+          "D": "The jejunum carries a moderate but lower load than the colon.",
+          "E": "The ileum has increasing flora but still far less than the colon."
+        }
+      }
+    },
+    {
+      "id": "traumatic-and-mechanical-gi-injuries-011",
+      "topicId": "traumatic-and-mechanical-gi-injuries",
+      "topicName": "Traumatic and Mechanical GI Injuries",
+      "stem": "A trauma patient has pain that worsens when the examiner suddenly releases pressure on the abdomen. Which physical sign is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abdominal rigidity"
+        },
+        {
+          "label": "B",
+          "text": "Rebound tenderness"
+        },
+        {
+          "label": "C",
+          "text": "Abdominal distension"
+        },
+        {
+          "label": "D",
+          "text": "Costovertebral tenderness"
+        },
+        {
+          "label": "E",
+          "text": "Referred shoulder pain"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pain on release of pressure is rebound tenderness, indicating peritoneal inflammation.",
+        "whyCorrect": "Rebound tenderness is pain worsening upon release of pressure and reflects peritoneal inflammation from irritation by free air, blood, or luminal contents.",
+        "whyWrongByChoice": {
+          "A": "Abdominal rigidity is involuntary guarding from reflex muscle spasm, not release pain.",
+          "C": "Distension is visible or palpable abdominal enlargement from accumulated air, blood, or fluid.",
+          "D": "Costovertebral tenderness localizes to the renal angle and suggests renal pathology.",
+          "E": "Referred shoulder pain (Kehr sign) indicates diaphragmatic irritation, not release pain."
+        }
+      }
+    },
+    {
+      "id": "traumatic-and-mechanical-gi-injuries-012",
+      "topicId": "traumatic-and-mechanical-gi-injuries",
+      "topicName": "Traumatic and Mechanical GI Injuries",
+      "stem": "An unstable patient with multiple bowel injuries and ongoing bleeding undergoes an abbreviated laparotomy. What is the primary goal of this initial operation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Perform definitive bowel anastomosis"
+        },
+        {
+          "label": "B",
+          "text": "Control hemorrhage and contamination"
+        },
+        {
+          "label": "C",
+          "text": "Establish enteral feeding access"
+        },
+        {
+          "label": "D",
+          "text": "Complete abdominal wall reconstruction"
+        },
+        {
+          "label": "E",
+          "text": "Resect all devitalized mesentery"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Damage control surgery focuses first on hemorrhage and contamination control.",
+        "whyCorrect": "Damage control surgery is an abbreviated initial operation focused on controlling hemorrhage and contamination, followed by temporary closure, ICU resuscitation, and planned definitive repair.",
+        "whyWrongByChoice": {
+          "A": "Definitive anastomosis is deferred to a planned second operation after stabilization.",
+          "C": "Establishing feeding access is not the priority of the initial damage control operation.",
+          "D": "Abdominal wall reconstruction is a later, definitive step, not the initial goal.",
+          "E": "Extensive mesenteric resection is not the focus of the abbreviated initial surgery."
+        }
+      }
+    },
+    {
+      "id": "traumatic-and-mechanical-gi-injuries-013",
+      "topicId": "traumatic-and-mechanical-gi-injuries",
+      "topicName": "Traumatic and Mechanical GI Injuries",
+      "stem": "A patient with a colonic perforation and peritoneal contamination is started on empiric antibiotics. Coverage should target which group of organisms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gram-negatives and anaerobes"
+        },
+        {
+          "label": "B",
+          "text": "Gram-positive cocci exclusively"
+        },
+        {
+          "label": "C",
+          "text": "Fungal species exclusively"
+        },
+        {
+          "label": "D",
+          "text": "Atypical intracellular bacteria"
+        },
+        {
+          "label": "E",
+          "text": "Viral and protozoal pathogens"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Suspected GI perforation requires broad-spectrum coverage of gram-negative and anaerobic organisms.",
+        "whyCorrect": "Broad-spectrum antibiotics covering gram-negative and anaerobic organisms should be administered early when GI perforation or contamination is suspected, reducing infectious morbidity.",
+        "whyWrongByChoice": {
+          "B": "Gram-positive-only coverage misses the predominant enteric gram-negative flora.",
+          "C": "Fungal-only coverage is inadequate for enteric bacterial contamination.",
+          "D": "Atypical intracellular bacteria are not the organisms of concern in bowel perforation.",
+          "E": "Viral and protozoal pathogens are not the target of empiric perforation coverage."
+        }
+      }
+    },
+    {
+      "id": "traumatic-and-mechanical-gi-injuries-014",
+      "topicId": "traumatic-and-mechanical-gi-injuries",
+      "topicName": "Traumatic and Mechanical GI Injuries",
+      "stem": "On postoperative day 5 after a bowel repair, a patient develops fever, tachycardia, and worsening abdominal pain. Which complication is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anastomotic leak"
+        },
+        {
+          "label": "B",
+          "text": "Surgical site infection"
+        },
+        {
+          "label": "C",
+          "text": "Paralytic ileus"
+        },
+        {
+          "label": "D",
+          "text": "Venous thromboembolism"
+        },
+        {
+          "label": "E",
+          "text": "Incisional hernia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Fever, tachycardia, and abdominal pain on postoperative days 3-7 suggest an anastomotic leak.",
+        "whyCorrect": "Anastomotic leak, the breakdown of the surgically joined bowel junction, typically presents on postoperative days 3-7 with fever, tachycardia, and abdominal pain, and is confirmed by CT with oral contrast.",
+        "whyWrongByChoice": {
+          "B": "Surgical site infection presents at the wound rather than as diffuse peritoneal signs.",
+          "C": "Paralytic ileus causes distension and lack of bowel function without fever or peritonitis.",
+          "D": "Venous thromboembolism presents with leg swelling or respiratory symptoms, not peritoneal signs.",
+          "E": "Incisional hernia is a late complication and does not cause acute fever."
+        }
+      }
+    },
+    {
+      "id": "traumatic-and-mechanical-gi-injuries-015",
+      "topicId": "traumatic-and-mechanical-gi-injuries",
+      "topicName": "Traumatic and Mechanical GI Injuries",
+      "stem": "Damage control surgery is chosen to prevent physiologic deterioration in critically injured patients undergoing prolonged operations. Which triad does this approach aim to avoid?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fever, leukocytosis, hyperlactatemia"
+        },
+        {
+          "label": "B",
+          "text": "Hypertension, bradycardia, apnea"
+        },
+        {
+          "label": "C",
+          "text": "Hyperkalemia, uremia, acidosis"
+        },
+        {
+          "label": "D",
+          "text": "Hypoxemia, hypercapnia, edema"
+        },
+        {
+          "label": "E",
+          "text": "Hypothermia, acidosis, coagulopathy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Damage control surgery avoids the lethal triad of hypothermia, acidosis, and coagulopathy.",
+        "whyCorrect": "The lethal triad of hypothermia, acidosis, and coagulopathy develops during prolonged surgery in critically ill patients; damage control surgery shortens the operation to prevent it.",
+        "whyWrongByChoice": {
+          "A": "Fever, leukocytosis, and hyperlactatemia are systemic inflammatory signs, not the surgical lethal triad.",
+          "B": "Hypertension, bradycardia, and apnea describe the Cushing reflex of raised intracranial pressure.",
+          "C": "Hyperkalemia, uremia, and acidosis describe renal failure, not the trauma lethal triad.",
+          "D": "Hypoxemia, hypercapnia, and edema are respiratory findings, not the lethal triad."
+        }
+      }
+    },
+    {
+      "id": "traumatic-and-mechanical-gi-injuries-016",
+      "topicId": "traumatic-and-mechanical-gi-injuries",
+      "topicName": "Traumatic and Mechanical GI Injuries",
+      "stem": "A patient treated with pelvic radiation for cervical cancer develops progressive mucosal damage, fibrosis, and stricture of the bowel. Which diagnosis best fits this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ischemic colitis"
+        },
+        {
+          "label": "B",
+          "text": "Caustic esophagitis"
+        },
+        {
+          "label": "C",
+          "text": "Crohn disease"
+        },
+        {
+          "label": "D",
+          "text": "Diverticulitis"
+        },
+        {
+          "label": "E",
+          "text": "Radiation enteritis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Radiation therapy causes radiation enteritis with progressive mucosal damage, fibrosis, and stricture.",
+        "whyCorrect": "Radiation targeting abdominal or pelvic malignancy causes radiation enteritis, characterized by progressive mucosal damage, fibrosis, and eventual stricture or perforation.",
+        "whyWrongByChoice": {
+          "A": "Ischemic colitis results from vascular compromise, not radiation exposure.",
+          "B": "Caustic esophagitis follows ingestion of acids or alkalis, not radiation.",
+          "C": "Crohn disease is an idiopathic transmural inflammatory bowel disease, unrelated to radiation history.",
+          "D": "Diverticulitis is inflammation of colonic diverticula, not radiation-induced fibrosis."
+        }
+      }
+    },
+    {
+      "id": "traumatic-and-mechanical-gi-injuries-017",
+      "topicId": "traumatic-and-mechanical-gi-injuries",
+      "topicName": "Traumatic and Mechanical GI Injuries",
+      "stem": "A plain abdominal radiograph obtained after trauma shows loss of the psoas shadow. This finding most strongly suggests which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Retroperitoneal bleeding"
+        },
+        {
+          "label": "B",
+          "text": "Hollow viscus perforation"
+        },
+        {
+          "label": "C",
+          "text": "Splenic capsular rupture"
+        },
+        {
+          "label": "D",
+          "text": "Reflex paralytic ileus"
+        },
+        {
+          "label": "E",
+          "text": "Massive pneumoperitoneum"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Loss of the psoas shadow on plain film suggests retroperitoneal hemorrhage.",
+        "whyCorrect": "Loss of the psoas shadow indicates retroperitoneal hemorrhage, a plain-film sign the brick lists as suggestive of GI/retroperitoneal injury.",
+        "whyWrongByChoice": {
+          "B": "Hollow viscus perforation is indicated by free intraperitoneal air, not loss of the psoas shadow.",
+          "C": "Splenic capsular rupture produces hemoperitoneum and the Kehr sign, not loss of the psoas shadow.",
+          "D": "Paralytic ileus produces abnormal bowel gas patterns rather than psoas shadow loss.",
+          "E": "Pneumoperitoneum appears as free air under the diaphragm, not as loss of the psoas shadow."
+        }
+      }
+    },
+    {
+      "id": "traumatic-and-mechanical-gi-injuries-018",
+      "topicId": "traumatic-and-mechanical-gi-injuries",
+      "topicName": "Traumatic and Mechanical GI Injuries",
+      "stem": "A patient in hemorrhagic shock after blunt abdominal trauma is found to have significant hemoperitoneum. Which organ is the most common source of this bleeding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Kidney"
+        },
+        {
+          "label": "B",
+          "text": "Pancreas"
+        },
+        {
+          "label": "C",
+          "text": "Spleen"
+        },
+        {
+          "label": "D",
+          "text": "Small bowel"
+        },
+        {
+          "label": "E",
+          "text": "Bladder"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In blunt abdominal trauma, the spleen (and liver) are the most common sources of significant hemorrhage.",
+        "whyCorrect": "The brick states that in blunt abdominal trauma the spleen and liver are the most common sources of significant hemorrhage; the spleen's thin capsule and fragile parenchyma make it especially prone to rupture.",
+        "whyWrongByChoice": {
+          "A": "The kidney is retroperitoneal and less commonly a source of major intraperitoneal hemorrhage.",
+          "B": "The pancreas is retroperitoneal and rarely causes large-volume hemoperitoneum.",
+          "D": "Small bowel injury more often causes perforation and contamination than major bleeding.",
+          "E": "The bladder is a pelvic organ and not a common source of hemoperitoneum."
+        }
+      }
+    },
+    {
+      "id": "traumatic-and-mechanical-gi-injuries-019",
+      "topicId": "traumatic-and-mechanical-gi-injuries",
+      "topicName": "Traumatic and Mechanical GI Injuries",
+      "stem": "A trauma surgeon explains why gunshot wounds cause more extensive GI injury than stab wounds. Which mechanism accounts for this difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chemical necrosis of tissue"
+        },
+        {
+          "label": "B",
+          "text": "Delayed bacterial colonization"
+        },
+        {
+          "label": "C",
+          "text": "Thermal coagulation of vessels"
+        },
+        {
+          "label": "D",
+          "text": "Cavitation and energy transfer"
+        },
+        {
+          "label": "E",
+          "text": "Reflex vasoconstriction of bowel"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Gunshot wounds carry a higher injury burden due to cavitation and energy transfer.",
+        "whyCorrect": "The brick notes that gunshot wounds carry a higher injury burden than stab wounds because of cavitation effects and energy transfer along the projectile path.",
+        "whyWrongByChoice": {
+          "A": "Chemical necrosis is a mechanism of caustic ingestion, not ballistic injury.",
+          "B": "Delayed bacterial colonization does not explain the acute severity difference.",
+          "C": "Thermal coagulation is not the primary mechanism of gunshot tissue injury.",
+          "E": "Reflex vasoconstriction does not account for the greater tissue destruction of gunshot wounds."
+        }
+      }
+    },
+    {
+      "id": "traumatic-and-mechanical-gi-injuries-020",
+      "topicId": "traumatic-and-mechanical-gi-injuries",
+      "topicName": "Traumatic and Mechanical GI Injuries",
+      "stem": "A trauma patient who cannot stand needs evaluation for free intraperitoneal air. Which radiographic view is most appropriate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left lateral decubitus film"
+        },
+        {
+          "label": "B",
+          "text": "Supine abdominal film"
+        },
+        {
+          "label": "C",
+          "text": "Upright chest film"
+        },
+        {
+          "label": "D",
+          "text": "Prone abdominal film"
+        },
+        {
+          "label": "E",
+          "text": "Right lateral decubitus film"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A left lateral decubitus film detects free air in patients who cannot stand.",
+        "whyCorrect": "In patients who cannot stand, a left lateral decubitus abdominal film reveals free air between the liver and the right lateral abdominal wall.",
+        "whyWrongByChoice": {
+          "B": "On a supine film, free air layers anteriorly and is difficult to detect.",
+          "C": "An upright chest film requires the patient to stand, which this patient cannot do.",
+          "D": "A prone film is not a standard view for detecting free intraperitoneal air.",
+          "E": "On a right lateral decubitus film, air rises over the liver and is obscured rather than highlighted."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,2346 @@
+{
+  "categoryId": "w4s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "digestive-motility-001",
+      "topicId": "digestive-motility",
+      "topicName": "Digestive Motility",
+      "stem": "A physiologist records muscle activity at the lower esophageal sphincter of a resting subject and observes steady tension that persists for minutes to hours without rhythmic relaxation. This pattern of contraction primarily serves which function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Maintaining a closed barrier between regions"
+        },
+        {
+          "label": "B",
+          "text": "Propelling a bolus aborally toward the rectum"
+        },
+        {
+          "label": "C",
+          "text": "Mixing chyme with digestive secretions"
+        },
+        {
+          "label": "D",
+          "text": "Generating rhythmic segmentation waves"
+        },
+        {
+          "label": "E",
+          "text": "Accelerating gastric emptying of chyme"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Tonic contractions are sustained (minutes to hours) contractions that maintain steady tension, ideally suited to sphincters that must remain closed to regulate compartmental flow.",
+        "whyCorrect": "The brick states tonic contractions persist without significant relaxation and are concentrated at sphincters to maintain a baseline closed state, providing barrier maintenance between GI compartments.",
+        "whyWrongByChoice": {
+          "B": "Propelling a bolus aborally is a role of phasic contractions (peristalsis), not sustained tonic tone.",
+          "C": "Mixing chyme with secretions is achieved by phasic segmentation, not by sustained tonic contraction.",
+          "D": "Segmentation waves are rhythmic phasic contractions driven by discrete electrical events, the opposite of sustained tonic tone.",
+          "E": "Accelerating gastric emptying requires phasic antral contractions; tonic sphincter tone actually restrains flow."
+        }
+      }
+    },
+    {
+      "id": "digestive-motility-002",
+      "topicId": "digestive-motility",
+      "topicName": "Digestive Motility",
+      "stem": "In a segment of small intestine, an investigator records rhythmic, intermittent contractions that are each driven by discrete bursts of electrical activity. This contraction pattern is best suited for which functional role?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sustained closure of a sphincter"
+        },
+        {
+          "label": "B",
+          "text": "Maintaining reservoir tone in the fundus"
+        },
+        {
+          "label": "C",
+          "text": "Preventing retrograde flow while at rest"
+        },
+        {
+          "label": "D",
+          "text": "Propelling and mixing luminal contents"
+        },
+        {
+          "label": "E",
+          "text": "Holding steady tension for hours"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Phasic contractions are rhythmic, intermittent contractions driven by discrete electrical events and are specialized for propelling and mixing luminal contents.",
+        "whyCorrect": "The brick defines phasic contractions as rhythmic and intermittent, well-suited for propelling or mixing luminal contents, and locates them in the esophageal body, caudad stomach, small intestine, and colon.",
+        "whyWrongByChoice": {
+          "A": "Sustained sphincter closure is a tonic function, not a rhythmic phasic one.",
+          "B": "Reservoir tone of the orad stomach (fundus) is maintained by tonic contraction, not phasic activity.",
+          "C": "Preventing retrograde flow at rest is achieved by resting tonic sphincter tone.",
+          "E": "Holding steady tension for hours describes tonic, not phasic, contraction."
+        }
+      }
+    },
+    {
+      "id": "digestive-motility-003",
+      "topicId": "digestive-motility",
+      "topicName": "Digestive Motility",
+      "stem": "When a person swallows, the lower esophageal sphincter relaxes to allow the bolus to pass into the stomach. Which pair of neurotransmitters released by vagal inhibitory neurons mediates this relaxation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetylcholine and the tachykinin substance P"
+        },
+        {
+          "label": "B",
+          "text": "Norepinephrine and sympathetic neuropeptide Y"
+        },
+        {
+          "label": "C",
+          "text": "Serotonin and mast-cell-derived histamine"
+        },
+        {
+          "label": "D",
+          "text": "Dopamine and hypothalamic somatostatin"
+        },
+        {
+          "label": "E",
+          "text": "Nitric oxide and vasoactive intestinal peptide"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Swallow-induced LES relaxation is mediated by vagal inhibitory (NANC) neurons that release nitric oxide (NO) and vasoactive intestinal peptide (VIP).",
+        "whyCorrect": "The brick states the LES relaxes in response to swallowing via vagal inhibitory neurons that release nitric oxide and vasoactive intestinal peptide, allowing food into the stomach.",
+        "whyWrongByChoice": {
+          "A": "Acetylcholine and the tachykinin substance P are excitatory transmitters that contract, rather than relax, GI smooth muscle.",
+          "B": "Norepinephrine hyperpolarizes muscle but is a sympathetic transmitter (with neuropeptide Y), not the vagal mediator of swallow-induced LES relaxation described here.",
+          "C": "Serotonin enhances motility broadly and mast-cell histamine is not the mediator of LES relaxation.",
+          "D": "Dopamine and somatostatin are not the neurotransmitters responsible for swallow-triggered LES relaxation."
+        }
+      }
+    },
+    {
+      "id": "digestive-motility-004",
+      "topicId": "digestive-motility",
+      "topicName": "Digestive Motility",
+      "stem": "A 45-year-old man has progressive difficulty swallowing both solids and liquids. Manometry shows incomplete lower esophageal sphincter relaxation with elevated resting pressure, and a barium swallow demonstrates 'bird's beak' tapering. Which mechanism best explains his findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Excessively frequent transient LES relaxations"
+        },
+        {
+          "label": "B",
+          "text": "Loss of myenteric neurons that release NO and VIP"
+        },
+        {
+          "label": "C",
+          "text": "Autoimmune destruction of gastric parietal cells"
+        },
+        {
+          "label": "D",
+          "text": "Fibrotic stricture from long-standing acid reflux"
+        },
+        {
+          "label": "E",
+          "text": "Hypertrophy of the pyloric sphincter muscle"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Achalasia results from loss of inhibitory NANC myenteric neurons that normally release NO and VIP, so the LES cannot relax during swallowing.",
+        "whyCorrect": "The brick attributes achalasia to loss of inhibitory NANC neurons in the myenteric plexus that release NO and VIP; without this signal the LES fails to relax, producing dysphagia to solids and liquids, elevated resting pressure, and 'bird's beak' tapering.",
+        "whyWrongByChoice": {
+          "A": "Frequent transient LES relaxations underlie GERD, which causes reflux, not failure of relaxation with dysphagia.",
+          "C": "Parietal cell destruction causes achlorhydria/pernicious anemia, not impaired LES relaxation.",
+          "D": "A peptic stricture from reflux causes mechanical narrowing but not the incomplete relaxation/elevated pressure pattern of loss of inhibitory neurons.",
+          "E": "Pyloric hypertrophy affects gastric outlet, not lower esophageal sphincter relaxation."
+        }
+      }
+    },
+    {
+      "id": "digestive-motility-005",
+      "topicId": "digestive-motility",
+      "topicName": "Digestive Motility",
+      "stem": "A patient experiences frequent episodes of acid reflux that occur without any swallowing. Resting lower esophageal sphincter pressure is measured and found to be normal. Which mechanism best accounts for the reflux?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Failure of LES relaxation during swallowing"
+        },
+        {
+          "label": "B",
+          "text": "Inappropriate transient LES relaxations"
+        },
+        {
+          "label": "C",
+          "text": "Loss of NANC inhibitory myenteric neurons"
+        },
+        {
+          "label": "D",
+          "text": "Chronically low resting LES tone since birth"
+        },
+        {
+          "label": "E",
+          "text": "Absent primary peristalsis in the esophagus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "GERD results from abnormally frequent transient LES relaxations (TLESRs), which permit reflux without a swallowing trigger, rather than from chronically low resting tone.",
+        "whyCorrect": "The brick states GERD results from abnormally frequent transient LES relaxations, not from chronically low resting tone, allowing acid reflux without a swallowing trigger.",
+        "whyWrongByChoice": {
+          "A": "Failure of LES relaxation during swallowing describes achalasia, which impairs bolus passage, not reflux.",
+          "C": "Loss of NANC inhibitory neurons produces achalasia, the opposite functional problem.",
+          "D": "The brick explicitly notes GERD is not from chronically low resting tone, and resting pressure here is normal.",
+          "E": "Absent primary peristalsis is not the described mechanism; the defect is inappropriate transient relaxation of the LES."
+        }
+      }
+    },
+    {
+      "id": "digestive-motility-006",
+      "topicId": "digestive-motility",
+      "topicName": "Digestive Motility",
+      "stem": "GI smooth muscle exhibits spontaneous rhythmic electrical activity even without direct neural stimulation. Which specialized cells generate the slow-wave oscillations that set the basal tempo of phasic contractions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mucosal enterochromaffin cells"
+        },
+        {
+          "label": "B",
+          "text": "Acid-secreting parietal cells"
+        },
+        {
+          "label": "C",
+          "text": "Mucus-secreting goblet cells"
+        },
+        {
+          "label": "D",
+          "text": "Somatic alpha motor neurons"
+        },
+        {
+          "label": "E",
+          "text": "Interstitial cells of Cajal"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Interstitial cells of Cajal (ICCs) are the pacemaker cells that generate slow waves (the basic electrical rhythm) setting the tempo of GI phasic contractions.",
+        "whyCorrect": "The brick identifies ICCs, located in the myenteric plexus and smooth muscle layers, as the pacemaker cells generating slow waves that set the tempo of phasic contractions throughout the gut.",
+        "whyWrongByChoice": {
+          "A": "Mucosal enterochromaffin cells secrete serotonin; they do not generate the pacemaker slow waves.",
+          "B": "Acid-secreting parietal cells produce gastric acid and have no pacemaker role.",
+          "C": "Mucus-secreting goblet cells are unrelated to electrical rhythm generation.",
+          "D": "Somatic alpha motor neurons drive skeletal muscle at the neuromuscular junction, not GI smooth-muscle pacemaking."
+        }
+      }
+    },
+    {
+      "id": "digestive-motility-007",
+      "topicId": "digestive-motility",
+      "topicName": "Digestive Motility",
+      "stem": "In the gastric corpus, ICC-generated slow waves alone produce only weak contractions. According to the gating model of GI smooth muscle, a strong phasic contraction requires which additional event?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Loss of gap junction coupling"
+        },
+        {
+          "label": "B",
+          "text": "Sympathetic nerve stimulation"
+        },
+        {
+          "label": "C",
+          "text": "Increased chloride ion efflux"
+        },
+        {
+          "label": "D",
+          "text": "Relaxation of nearby sphincters"
+        },
+        {
+          "label": "E",
+          "text": "Superimposed action potentials"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Slow waves set the ceiling frequency and gate firing, but strong contractions require action potentials (spikes) superimposed on the slow-wave plateau.",
+        "whyCorrect": "The brick states slow waves alone may produce only weak contractions and that strong phasic contractions require superimposed action potentials, which the slow wave gates.",
+        "whyWrongByChoice": {
+          "A": "Gap junctions are needed for coordinated spread; losing them would impair, not strengthen, contraction.",
+          "B": "Sympathetic input hyperpolarizes and decreases contraction, moving the slow wave away from threshold.",
+          "C": "Chloride flux participates in generating slow waves themselves, not in driving the additional spikes needed for strong contraction.",
+          "D": "Sphincter relaxation is a separate event and does not generate contractile force in the corpus."
+        }
+      }
+    },
+    {
+      "id": "digestive-motility-008",
+      "topicId": "digestive-motility",
+      "topicName": "Digestive Motility",
+      "stem": "An investigator records the basic electrical rhythm from the stomach of a healthy subject and finds it sets the pace of gastric peristalsis. Approximately how many slow waves per minute do gastric ICCs generate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "12 slow waves per minute"
+        },
+        {
+          "label": "B",
+          "text": "8 slow waves per minute"
+        },
+        {
+          "label": "C",
+          "text": "20 slow waves per minute"
+        },
+        {
+          "label": "D",
+          "text": "3 slow waves per minute"
+        },
+        {
+          "label": "E",
+          "text": "1 slow wave per minute"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In the stomach, ICCs generate approximately 3 slow waves per minute, setting the pace for gastric peristalsis.",
+        "whyCorrect": "The brick states ICCs in the stomach generate approximately 3 slow waves per minute, versus about 12/min in the duodenum and 8/min in the ileum.",
+        "whyWrongByChoice": {
+          "A": "About 12/min is the duodenal slow-wave frequency, not gastric.",
+          "B": "About 8/min is the ileal slow-wave frequency, not gastric.",
+          "C": "20/min exceeds any normal GI slow-wave rate described in the brick.",
+          "E": "1/min is below the stated gastric rate of about 3/min."
+        }
+      }
+    },
+    {
+      "id": "digestive-motility-009",
+      "topicId": "digestive-motility",
+      "topicName": "Digestive Motility",
+      "stem": "When the wall of the small intestine is distended by a bolus, the enteric nervous system contracts the circular muscle oral to the bolus and relaxes the circular muscle anal to it, propelling content aborally. This coordinated response is known as which reflex?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The peristaltic reflex"
+        },
+        {
+          "label": "B",
+          "text": "Segmentation"
+        },
+        {
+          "label": "C",
+          "text": "Haustration"
+        },
+        {
+          "label": "D",
+          "text": "Mass movement"
+        },
+        {
+          "label": "E",
+          "text": "The migrating motor complex"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The peristaltic reflex (law of the intestine) uses ascending excitation oral to the bolus and descending inhibition anal to it to propel content aborally.",
+        "whyCorrect": "The brick describes exactly this pattern—ascending excitatory contraction oral to the bolus and descending inhibitory relaxation anal to it—as the peristaltic reflex, also called the law of the intestine.",
+        "whyWrongByChoice": {
+          "B": "Segmentation is non-propagating localized mixing without directional coordination.",
+          "C": "Haustration is the non-propagating colonic mixing pattern, not the directional propulsive reflex.",
+          "D": "Mass movements are infrequent high-amplitude propagating colonic contractions, not the local distension reflex described.",
+          "E": "The migrating motor complex is the interdigestive fasting housekeeping program, not the bolus-triggered reflex."
+        }
+      }
+    },
+    {
+      "id": "digestive-motility-010",
+      "topicId": "digestive-motility",
+      "topicName": "Digestive Motility",
+      "stem": "During the postprandial state, the small intestine displays localized, non-propagating contractions at multiple points that repeatedly divide and mix the chyme without net forward movement. What is the primary functional purpose of this activity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rapid aboral propulsion of content"
+        },
+        {
+          "label": "B",
+          "text": "Interdigestive housekeeping of the lumen"
+        },
+        {
+          "label": "C",
+          "text": "Maintenance of a compartmental barrier"
+        },
+        {
+          "label": "D",
+          "text": "Expulsion of feces from the rectum"
+        },
+        {
+          "label": "E",
+          "text": "Digestion and absorption via mixing"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Segmentation maximizes contact between chyme and the mucosa, serving digestion and absorption during the postprandial phase.",
+        "whyCorrect": "The brick states segmentation serves digestion and absorption by maximizing contact between chyme and the intestinal mucosa, and predominates postprandially to slow transit for absorption.",
+        "whyWrongByChoice": {
+          "A": "Rapid aboral propulsion is the role of peristalsis, not non-directional segmentation.",
+          "B": "Barrier maintenance is a tonic sphincter function, unrelated to segmentation.",
+          "C": "Compartmental barriers are held by tonic contraction, not by mixing segments.",
+          "D": "Fecal expulsion involves colonic mass movements and the defecation reflex, not small-bowel segmentation."
+        }
+      }
+    },
+    {
+      "id": "digestive-motility-011",
+      "topicId": "digestive-motility",
+      "topicName": "Digestive Motility",
+      "stem": "In the colon, localized non-propagating contractions of the circular muscle occur within the sacculations formed by the teniae coli, mixing contents and facilitating water absorption without net directionality. These are termed which contractions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mass movements"
+        },
+        {
+          "label": "B",
+          "text": "Haustral contractions"
+        },
+        {
+          "label": "C",
+          "text": "Peristaltic waves"
+        },
+        {
+          "label": "D",
+          "text": "The migrating motor complex"
+        },
+        {
+          "label": "E",
+          "text": "Segmentation of the ileum"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Haustral contractions are the colon's non-propagating mixing contractions within the haustra, facilitating water absorption.",
+        "whyCorrect": "The brick describes haustral contractions as localized, non-propagating contractions within the sacculations that mix and expose colonic contents to the mucosa for water absorption, with no net directionality.",
+        "whyWrongByChoice": {
+          "A": "Mass movements are the infrequent high-amplitude propagating (propulsive) colonic contractions, the opposite of haustral mixing.",
+          "C": "Peristaltic waves are directional propulsive contractions, not the non-propagating haustral pattern.",
+          "D": "The migrating motor complex is an interdigestive fasting program of the stomach and small intestine.",
+          "E": "The described pattern is colonic haustration, not ileal segmentation."
+        }
+      }
+    },
+    {
+      "id": "digestive-motility-012",
+      "topicId": "digestive-motility",
+      "topicName": "Digestive Motility",
+      "stem": "A physiologist studies which colonic motor pattern accomplishes forward propulsion of stool. Which pattern provides this propulsive role through infrequent, high-amplitude propagating contractions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Haustral contractions"
+        },
+        {
+          "label": "B",
+          "text": "Tonic contractions"
+        },
+        {
+          "label": "C",
+          "text": "Mass movements"
+        },
+        {
+          "label": "D",
+          "text": "Segmentation contractions"
+        },
+        {
+          "label": "E",
+          "text": "Phase I quiescence"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Mass movements are infrequent, high-amplitude propagating contractions that serve the propulsive role in the colon.",
+        "whyCorrect": "The brick defines mass movements as infrequent, high-amplitude propagating contractions that serve the propulsive role in the colon and are distinct from haustral contractions.",
+        "whyWrongByChoice": {
+          "A": "Haustral contractions are non-propagating and mix rather than propel.",
+          "B": "Tonic contractions maintain sustained tension (e.g., sphincters), not propulsion.",
+          "D": "Segmentation mixes content without net forward movement.",
+          "E": "Phase I quiescence is a phase of the MMC with minimal activity, not colonic propulsion."
+        }
+      }
+    },
+    {
+      "id": "digestive-motility-013",
+      "topicId": "digestive-motility",
+      "topicName": "Digestive Motility",
+      "stem": "A patient on chronic oral opioids for pain develops constipation with hard stools and no evidence of mechanical obstruction. Activation of mu-opioid receptors on myenteric neurons produces this effect primarily by which action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increasing acetylcholine release from neurons"
+        },
+        {
+          "label": "B",
+          "text": "Stimulating the descending inhibitory motor pathway"
+        },
+        {
+          "label": "C",
+          "text": "Suppressing acetylcholine release from neurons"
+        },
+        {
+          "label": "D",
+          "text": "Enhancing propulsive colonic mass movements"
+        },
+        {
+          "label": "E",
+          "text": "Blocking water reabsorption in the colon"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Mu-opioid receptors on myenteric neurons suppress acetylcholine release, blunting the ascending excitatory limb of the peristaltic reflex and slowing transit.",
+        "whyCorrect": "The brick states mu-opioid receptors on myenteric neurons suppress acetylcholine release, blunting the ascending excitatory limb of the peristaltic reflex, producing slowed transit, increased water reabsorption, and constipation.",
+        "whyWrongByChoice": {
+          "A": "Opioids suppress, not increase, acetylcholine release from these neurons.",
+          "B": "Stimulating descending inhibition is not the described mechanism; opioids blunt the ascending excitatory limb.",
+          "D": "Opioids reduce propulsive motility; they do not enhance mass movements.",
+          "E": "Slowed transit increases water reabsorption; opioids do not block colonic water reabsorption."
+        }
+      }
+    },
+    {
+      "id": "digestive-motility-014",
+      "topicId": "digestive-motility",
+      "topicName": "Digestive Motility",
+      "stem": "A drug is given to a patient with opioid-induced constipation and relieves the constipation while leaving the patient's pain control intact. This agent belongs to which class?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Prokinetic dopamine D2 antagonist"
+        },
+        {
+          "label": "B",
+          "text": "Motilin receptor agonist agent"
+        },
+        {
+          "label": "C",
+          "text": "Non-absorbable luminal antibiotic"
+        },
+        {
+          "label": "D",
+          "text": "Peripheral mu-opioid antagonist"
+        },
+        {
+          "label": "E",
+          "text": "Serotonin 5-HT4 receptor agonist"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Methylnaltrexone is a peripherally acting mu-opioid receptor antagonist (PAMORA) that reverses GI opioid effects without reversing central analgesia.",
+        "whyCorrect": "The brick states that because the relevant receptors are peripheral (ENS), PAMORAs such as methylnaltrexone reverse GI opioid effects without reversing analgesia.",
+        "whyWrongByChoice": {
+          "A": "A D2 antagonist (metoclopramide) is a prokinetic for gastroparesis, not the agent that spares analgesia in opioid constipation.",
+          "B": "A motilin agonist (erythromycin) stimulates gastric emptying but is not the described opioid-reversal agent.",
+          "C": "A non-absorbable antibiotic (rifaximin) treats bacterial overgrowth, not opioid constipation.",
+          "E": "A 5-HT4 agonist is a prokinetic but not the peripheral opioid antagonist described."
+        }
+      }
+    },
+    {
+      "id": "digestive-motility-015",
+      "topicId": "digestive-motility",
+      "topicName": "Digestive Motility",
+      "stem": "A patient with long-standing diabetes develops postprandial nausea, vomiting, and early satiety, and gastric emptying is delayed without any mechanical obstruction. Which cellular change most likely underlies this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypertrophy of pyloric smooth muscle"
+        },
+        {
+          "label": "B",
+          "text": "Excess secretion of motilin hormone"
+        },
+        {
+          "label": "C",
+          "text": "Autoimmune destruction of parietal cells"
+        },
+        {
+          "label": "D",
+          "text": "Loss of interstitial cells of Cajal"
+        },
+        {
+          "label": "E",
+          "text": "Increased gastric slow-wave frequency"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Diabetic gastroparesis results from chronic hyperglycemia damaging ICCs in the gastric antrum, disrupting slow-wave generation and delaying emptying without obstruction.",
+        "whyCorrect": "The brick states chronic hyperglycemia damages ICCs in the gastric antrum, disrupting slow wave generation and producing delayed gastric emptying without mechanical obstruction.",
+        "whyWrongByChoice": {
+          "A": "Pyloric hypertrophy causes mechanical outlet obstruction, which is explicitly absent here.",
+          "B": "Gastroparesis reflects impaired pacemaking, not excess motilin; motilin agonists are in fact used to treat it.",
+          "C": "Parietal cell loss affects acid secretion, not gastric pacemaker-driven emptying.",
+          "E": "ICC loss reduces or disorganizes slow-wave activity; it does not increase slow-wave frequency."
+        }
+      }
+    },
+    {
+      "id": "digestive-motility-016",
+      "topicId": "digestive-motility",
+      "topicName": "Digestive Motility",
+      "stem": "A patient with diabetic gastroparesis is started on a first-line prokinetic agent to accelerate gastric emptying. By which mechanism does this drug act?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Motilin receptor agonism"
+        },
+        {
+          "label": "B",
+          "text": "Peripheral mu-opioid antagonism"
+        },
+        {
+          "label": "C",
+          "text": "Dopamine D2 receptor antagonism"
+        },
+        {
+          "label": "D",
+          "text": "Muscarinic receptor blockade"
+        },
+        {
+          "label": "E",
+          "text": "Chloride channel activation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Metoclopramide, a D2 receptor antagonist with prokinetic action, is the first-line pharmacologic management for diabetic gastroparesis.",
+        "whyCorrect": "The brick names metoclopramide, a D2 receptor antagonist with prokinetic action that accelerates gastric emptying, as first-line pharmacologic management of diabetic gastroparesis.",
+        "whyWrongByChoice": {
+          "A": "Motilin receptor agonism describes erythromycin, an alternative agent, not the first-line D2 antagonist.",
+          "B": "Peripheral mu-opioid antagonism describes methylnaltrexone for opioid constipation.",
+          "D": "Muscarinic blockade would reduce, not enhance, GI motility.",
+          "E": "Chloride channel activation is not the mechanism of the first-line prokinetic described."
+        }
+      }
+    },
+    {
+      "id": "digestive-motility-017",
+      "topicId": "digestive-motility",
+      "topicName": "Digestive Motility",
+      "stem": "Between meals in a fasting individual, a distinct cyclical pattern of motor activity sweeps through the stomach and small intestine, clearing residual content and preventing bacterial overgrowth. This 'housekeeper' pattern is called what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The migrating motor complex"
+        },
+        {
+          "label": "B",
+          "text": "The gastrocolic reflex response"
+        },
+        {
+          "label": "C",
+          "text": "The local peristaltic reflex"
+        },
+        {
+          "label": "D",
+          "text": "Postprandial segmentation"
+        },
+        {
+          "label": "E",
+          "text": "Colonic haustral shuttling"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The migrating motor complex (MMC) is the interdigestive 'housekeeper' that sweeps the stomach and small intestine during fasting, preventing bacterial overgrowth.",
+        "whyCorrect": "The brick describes the MMC as a cyclical interdigestive pattern that sweeps the lumen clean between meals, serving as the gut's housekeeper and preventing bacterial overgrowth.",
+        "whyWrongByChoice": {
+          "B": "The gastrocolic reflex links gastric filling to colonic activity and is not the fasting housekeeping sweep.",
+          "C": "The peristaltic reflex is a local distension-triggered propulsive response, not the cyclical fasting program.",
+          "D": "Segmentation predominates postprandially for absorption, whereas the MMC operates during fasting.",
+          "E": "Haustral shuttling is a colonic mixing pattern, not the interdigestive sweep of the stomach and small intestine."
+        }
+      }
+    },
+    {
+      "id": "digestive-motility-018",
+      "topicId": "digestive-motility",
+      "topicName": "Digestive Motility",
+      "stem": "During the migrating motor complex, one phase consists of intense, regular contractions occurring at maximum slow-wave frequency that propagate aborally, sweeping the lumen clean. Which phase is this defining feature of the MMC?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Phase III activity front"
+        },
+        {
+          "label": "B",
+          "text": "Phase I quiescence"
+        },
+        {
+          "label": "C",
+          "text": "Phase II irregular activity"
+        },
+        {
+          "label": "D",
+          "text": "Phase IV transition"
+        },
+        {
+          "label": "E",
+          "text": "The postprandial phase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Phase III (the activity front) is the defining feature of the MMC: intense, regular contractions at maximum slow-wave frequency that propagate aborally.",
+        "whyCorrect": "The brick states Phase III consists of intense, regular contractions at maximum slow wave frequency propagating aborally, lasting 5–10 minutes, and is the defining and most clinically significant feature of the MMC.",
+        "whyWrongByChoice": {
+          "B": "Phase I is quiescence with minimal or no contractile activity.",
+          "C": "Phase II shows intermittent, irregular contractions, not the intense regular activity front.",
+          "D": "Phase IV is a brief transition back to Phase I.",
+          "E": "The postprandial phase is the fed pattern of segmentation and peristalsis, not an MMC phase."
+        }
+      }
+    },
+    {
+      "id": "digestive-motility-019",
+      "topicId": "digestive-motility",
+      "topicName": "Digestive Motility",
+      "stem": "The hormone that peaks during fasting and initiates the intense contractile activity front of the migrating motor complex is secreted by which cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Parietal cells of the gastric body"
+        },
+        {
+          "label": "B",
+          "text": "Mo cells of the duodenum and jejunum"
+        },
+        {
+          "label": "C",
+          "text": "Chief cells of the gastric glands"
+        },
+        {
+          "label": "D",
+          "text": "Enterochromaffin-like cells of the stomach"
+        },
+        {
+          "label": "E",
+          "text": "Beta cells of the pancreatic islets"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Motilin, which triggers MMC Phase III, is secreted by Mo cells (enteroendocrine cells) in the duodenum and jejunum.",
+        "whyCorrect": "The brick states motilin is secreted by Mo cells in the duodenum and jejunum, released cyclically during fasting with peak secretion coinciding with the onset of Phase III.",
+        "whyWrongByChoice": {
+          "A": "Parietal cells secrete gastric acid and intrinsic factor, not motilin.",
+          "C": "Chief cells secrete pepsinogen, not motilin.",
+          "D": "Enterochromaffin-like cells secrete histamine to stimulate acid, not motilin.",
+          "E": "Pancreatic beta cells secrete insulin, not the MMC-triggering hormone."
+        }
+      }
+    },
+    {
+      "id": "digestive-motility-020",
+      "topicId": "digestive-motility",
+      "topicName": "Digestive Motility",
+      "stem": "A macrolide antibiotic is used clinically as a prokinetic agent to stimulate gastric emptying in patients with gastroparesis. It accomplishes this by acting as an agonist at which receptor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dopamine D2 receptor"
+        },
+        {
+          "label": "B",
+          "text": "Mu-opioid receptor"
+        },
+        {
+          "label": "C",
+          "text": "Motilin receptor"
+        },
+        {
+          "label": "D",
+          "text": "Muscarinic M3 receptor"
+        },
+        {
+          "label": "E",
+          "text": "Serotonin 5-HT4 receptor"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Erythromycin, a macrolide antibiotic, is a motilin receptor agonist used as a prokinetic to stimulate gastric emptying.",
+        "whyCorrect": "The brick states erythromycin, a macrolide antibiotic, is a well-known motilin receptor agonist used clinically as a prokinetic agent in gastroparesis.",
+        "whyWrongByChoice": {
+          "A": "D2 receptor action describes metoclopramide (an antagonist), not the macrolide agonist.",
+          "B": "Mu-opioid receptor activity relates to opioids and PAMORAs, not erythromycin's prokinetic effect.",
+          "D": "Erythromycin's prokinetic effect is via motilin receptors, not direct muscarinic agonism.",
+          "E": "5-HT4 agonism describes other prokinetics; erythromycin acts at the motilin receptor."
+        }
+      }
+    },
+    {
+      "id": "neural-control-of-the-gi-system-enteric-nervous-system-001",
+      "topicId": "neural-control-of-the-gi-system-enteric-nervous-system",
+      "topicName": "Neural Control of the GI System (Enteric Nervous System)",
+      "stem": "A researcher examining a segment of intestinal wall identifies a ganglionated nerve network situated between the longitudinal and circular smooth muscle layers. This network serves as the primary regulator of which gastrointestinal function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mucosal water and electrolyte secretion"
+        },
+        {
+          "label": "B",
+          "text": "Local mucosal blood flow regulation"
+        },
+        {
+          "label": "C",
+          "text": "Epithelial nutrient absorption"
+        },
+        {
+          "label": "D",
+          "text": "Gut hormone release into blood"
+        },
+        {
+          "label": "E",
+          "text": "Propulsive motility and peristalsis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The myenteric (Auerbach's) plexus lies between the longitudinal and circular muscle layers and is the primary regulator of GI motility.",
+        "whyCorrect": "Its position between the two muscle layers allows it to coordinate contraction and relaxation of smooth muscle, producing peristalsis and segmentation.",
+        "whyWrongByChoice": {
+          "A": "Mucosal secretion is regulated by the submucosal plexus, not the myenteric plexus.",
+          "B": "Local blood flow is controlled by the submucosal plexus, which lies in the submucosa.",
+          "C": "Nutrient absorption is a function of enterocytes, not of a nerve plexus.",
+          "D": "Hormone release into blood is the role of enteroendocrine cells, not the myenteric plexus."
+        }
+      }
+    },
+    {
+      "id": "neural-control-of-the-gi-system-enteric-nervous-system-002",
+      "topicId": "neural-control-of-the-gi-system-enteric-nervous-system",
+      "topicName": "Neural Control of the GI System (Enteric Nervous System)",
+      "stem": "Neurons of a plexus located in the submucosa innervate secretory glands, goblet cells, and enterocytes, modulating release of water, electrolytes, and mucus into the lumen. This plexus is primarily responsible for which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coordinated peristaltic contractions"
+        },
+        {
+          "label": "B",
+          "text": "Mucosal secretion and local blood flow"
+        },
+        {
+          "label": "C",
+          "text": "Relaxation of the lower esophageal sphincter"
+        },
+        {
+          "label": "D",
+          "text": "Segmentation of luminal contents"
+        },
+        {
+          "label": "E",
+          "text": "Contraction of the muscularis externa"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The submucosal (Meissner's) plexus regulates mucosal secretion, epithelial transport, and local blood flow rather than motility.",
+        "whyCorrect": "Because it sits in the submucosa and innervates glands and epithelial cells, it governs secretory and vascular responses of the mucosa.",
+        "whyWrongByChoice": {
+          "A": "Peristalsis is coordinated by the myenteric plexus.",
+          "C": "Sphincter relaxation is a motility function of the myenteric plexus.",
+          "D": "Segmentation is a motility pattern controlled by the myenteric plexus.",
+          "E": "Contraction of the muscularis externa is driven by the myenteric plexus."
+        }
+      }
+    },
+    {
+      "id": "neural-control-of-the-gi-system-enteric-nervous-system-003",
+      "topicId": "neural-control-of-the-gi-system-enteric-nervous-system",
+      "topicName": "Neural Control of the GI System (Enteric Nervous System)",
+      "stem": "A term neonate fails to pass meconium within the first 48 hours of life and develops bilious vomiting and abdominal distension. Rectal suction biopsy shows absent ganglion cells in the distal colon. Which mechanism best explains the obstruction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absent inhibitory neurons preventing relaxation"
+        },
+        {
+          "label": "B",
+          "text": "Excessive parasympathetic stimulation causing spasm"
+        },
+        {
+          "label": "C",
+          "text": "Hypertrophy of the circular muscle layer"
+        },
+        {
+          "label": "D",
+          "text": "Overproduction of serotonin by enteric EC cells"
+        },
+        {
+          "label": "E",
+          "text": "Failure of the internal anal sphincter to contract"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hirschsprung disease results from an aganglionic distal segment that lacks inhibitory motor neurons, so it cannot relax.",
+        "whyCorrect": "Without enteric inhibitory neurons, the aganglionic segment remains tonically contracted, producing functional obstruction and proximal dilation (megacolon).",
+        "whyWrongByChoice": {
+          "B": "The segment lacks neurons entirely; there is no excess parasympathetic drive causing spasm.",
+          "C": "Hypertrophy of the circular muscle describes pyloric stenosis, not Hirschsprung disease.",
+          "D": "Serotonin overproduction by enteric EC cells characterizes carcinoid syndrome, not aganglionosis.",
+          "E": "The problem is failure of the aganglionic segment to relax, not a failure to contract."
+        }
+      }
+    },
+    {
+      "id": "neural-control-of-the-gi-system-enteric-nervous-system-004",
+      "topicId": "neural-control-of-the-gi-system-enteric-nervous-system",
+      "topicName": "Neural Control of the GI System (Enteric Nervous System)",
+      "stem": "A neonate with failure to pass meconium is found to have an aganglionic distal colonic segment. This condition results from failure of which developmental process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Recanalization of the duodenal lumen"
+        },
+        {
+          "label": "B",
+          "text": "Rotation of the midgut around the superior mesenteric artery"
+        },
+        {
+          "label": "C",
+          "text": "Neural crest cell migration to the distal colon"
+        },
+        {
+          "label": "D",
+          "text": "Fusion of the dorsal and ventral pancreatic buds"
+        },
+        {
+          "label": "E",
+          "text": "Regression of the vitelline duct"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hirschsprung disease is caused by failure of neural crest cell migration, leaving the distal colon without ganglia.",
+        "whyCorrect": "Enteric ganglia derive from neural crest cells that migrate craniocaudally; arrest of this migration leaves the distal (rectosigmoid) colon aganglionic.",
+        "whyWrongByChoice": {
+          "A": "Failed duodenal recanalization causes duodenal atresia.",
+          "B": "Abnormal midgut rotation produces malrotation and predisposes to volvulus.",
+          "D": "Abnormal pancreatic bud fusion produces annular pancreas or pancreas divisum.",
+          "E": "Persistence of the vitelline duct produces a Meckel diverticulum."
+        }
+      }
+    },
+    {
+      "id": "neural-control-of-the-gi-system-enteric-nervous-system-005",
+      "topicId": "neural-control-of-the-gi-system-enteric-nervous-system",
+      "topicName": "Neural Control of the GI System (Enteric Nervous System)",
+      "stem": "Distension of the small intestinal wall triggers a reflex contained entirely within the enteric nervous system. Which sequence correctly describes this reflex arc?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intrinsic sensory neuron then interneuron then motor neuron"
+        },
+        {
+          "label": "B",
+          "text": "Motor neuron then interneuron then intrinsic sensory neuron"
+        },
+        {
+          "label": "C",
+          "text": "Intrinsic sensory neuron then motor neuron then interneuron"
+        },
+        {
+          "label": "D",
+          "text": "Interneuron then intrinsic sensory neuron then motor neuron"
+        },
+        {
+          "label": "E",
+          "text": "Preganglionic neuron then spinal cord then motor neuron"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The ENS short-loop reflex flows from intrinsic sensory neurons (IPANs) to interneurons to motor neurons.",
+        "whyCorrect": "IPANs detect the stimulus, interneurons integrate and distribute the signal, and motor neurons drive the effector response, all within the gut wall.",
+        "whyWrongByChoice": {
+          "B": "This reverses the arc; sensory neurons detect the stimulus first, not last.",
+          "C": "Interneurons integrate signals before motor output; motor neurons do not precede interneurons.",
+          "D": "Interneurons cannot begin the arc; sensory detection must come first.",
+          "E": "A pathway routed through the spinal cord is a long-loop reflex, not the short-loop ENS reflex."
+        }
+      }
+    },
+    {
+      "id": "neural-control-of-the-gi-system-enteric-nervous-system-006",
+      "topicId": "neural-control-of-the-gi-system-enteric-nervous-system",
+      "topicName": "Neural Control of the GI System (Enteric Nervous System)",
+      "stem": "Intrinsic primary afferent neurons detect luminal distension and transmit signals to downstream enteric neurons. Which neurotransmitter do these sensory neurons most notably release?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Norepinephrine"
+        },
+        {
+          "label": "B",
+          "text": "Vasoactive intestinal peptide"
+        },
+        {
+          "label": "C",
+          "text": "Nitric oxide"
+        },
+        {
+          "label": "D",
+          "text": "Acetylcholine"
+        },
+        {
+          "label": "E",
+          "text": "Somatostatin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "IPANs release acetylcholine (along with substance P) onto interneurons and motor neurons.",
+        "whyCorrect": "The brick identifies acetylcholine as the most notable neurotransmitter released by activated IPANs.",
+        "whyWrongByChoice": {
+          "A": "Norepinephrine is released by sympathetic postganglionic fibers, not intrinsic sensory neurons.",
+          "B": "VIP is used by descending interneurons and inhibitory motor neurons.",
+          "C": "Nitric oxide is released by inhibitory motor neurons to cause relaxation.",
+          "E": "Somatostatin is not the primary transmitter of IPANs."
+        }
+      }
+    },
+    {
+      "id": "neural-control-of-the-gi-system-enteric-nervous-system-007",
+      "topicId": "neural-control-of-the-gi-system-enteric-nervous-system",
+      "topicName": "Neural Control of the GI System (Enteric Nervous System)",
+      "stem": "Mechanical distension and luminal chemicals stimulate the most abundant enteroendocrine cell subtype to release a mediator from its basolateral surface that activates intrinsic primary afferent neurons. Which mediator is released?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gastrin"
+        },
+        {
+          "label": "B",
+          "text": "Histamine"
+        },
+        {
+          "label": "C",
+          "text": "Serotonin"
+        },
+        {
+          "label": "D",
+          "text": "Cholecystokinin"
+        },
+        {
+          "label": "E",
+          "text": "Secretin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Enterochromaffin (EC) cells, the most abundant EEC subtype, release serotonin (5-HT) that acts on IPANs.",
+        "whyCorrect": "EC cells detect mechanical and chemical stimuli and release 5-HT basolaterally onto IPANs to initiate peristaltic and secretomotor reflexes.",
+        "whyWrongByChoice": {
+          "A": "Gastrin is released by antral G cells, not EC cells.",
+          "B": "Histamine is released by enterochromaffin-like (ECL) cells to amplify acid secretion.",
+          "D": "CCK is released by duodenal I cells and acts mainly on pancreas, gallbladder, and vagal afferents.",
+          "E": "Secretin is released by duodenal S cells in response to acid."
+        }
+      }
+    },
+    {
+      "id": "neural-control-of-the-gi-system-enteric-nervous-system-008",
+      "topicId": "neural-control-of-the-gi-system-enteric-nervous-system",
+      "topicName": "Neural Control of the GI System (Enteric Nervous System)",
+      "stem": "Ahead of an advancing bolus, inhibitory enteric motor neurons produce smooth muscle relaxation. Which combination of neurotransmitters mediates this relaxation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nitric oxide and VIP"
+        },
+        {
+          "label": "B",
+          "text": "Acetylcholine and substance P"
+        },
+        {
+          "label": "C",
+          "text": "Norepinephrine and epinephrine"
+        },
+        {
+          "label": "D",
+          "text": "Serotonin and histamine"
+        },
+        {
+          "label": "E",
+          "text": "Gastrin and cholecystokinin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Inhibitory motor neurons release nitric oxide, VIP (and ATP) to relax smooth muscle ahead of the bolus.",
+        "whyCorrect": "These transmitters produce receptive relaxation aboral to the bolus, complementing ascending excitation during the peristaltic reflex.",
+        "whyWrongByChoice": {
+          "B": "Acetylcholine and substance P are released by excitatory motor neurons to cause contraction.",
+          "C": "Norepinephrine and epinephrine are catecholamines of the sympathetic system, not enteric motor transmitters.",
+          "D": "Serotonin and histamine are not the relaxation transmitters of enteric motor neurons.",
+          "E": "Gastrin and CCK are gut hormones, not enteric motor neuron transmitters."
+        }
+      }
+    },
+    {
+      "id": "neural-control-of-the-gi-system-enteric-nervous-system-009",
+      "topicId": "neural-control-of-the-gi-system-enteric-nervous-system",
+      "topicName": "Neural Control of the GI System (Enteric Nervous System)",
+      "stem": "During peristalsis, the segment oral to a bolus contracts while the segment aboral to it relaxes. This coordination reflects which arrangement of enteric interneuron activity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ascending inhibition and descending excitation"
+        },
+        {
+          "label": "B",
+          "text": "Bilateral excitation without inhibition"
+        },
+        {
+          "label": "C",
+          "text": "Ascending excitation and descending inhibition"
+        },
+        {
+          "label": "D",
+          "text": "Bilateral inhibition without excitation"
+        },
+        {
+          "label": "E",
+          "text": "Descending excitation and ascending inhibition"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The peristaltic reflex is built on ascending excitation (contraction behind the bolus) and descending inhibition (relaxation ahead of it).",
+        "whyCorrect": "Ascending interneurons drive excitatory motor neurons orally, and descending interneurons activate inhibitory motor neurons aborally, propelling contents forward.",
+        "whyWrongByChoice": {
+          "A": "This reverses the pattern; contraction occurs orally and relaxation aborally.",
+          "B": "Without descending inhibition the gut ahead of the bolus could not relax to receive it.",
+          "D": "Without ascending excitation there would be no propulsive contraction.",
+          "E": "This reverses the correct direction of excitation and inhibition."
+        }
+      }
+    },
+    {
+      "id": "neural-control-of-the-gi-system-enteric-nervous-system-010",
+      "topicId": "neural-control-of-the-gi-system-enteric-nervous-system",
+      "topicName": "Neural Control of the GI System (Enteric Nervous System)",
+      "stem": "During a fight-or-flight response, sympathetic fibers release norepinephrine onto enteric neurons. What is the expected net effect on the GI tract?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased motility and secretion"
+        },
+        {
+          "label": "B",
+          "text": "Increased motility with sphincter relaxation"
+        },
+        {
+          "label": "C",
+          "text": "Decreased secretion with sphincter relaxation"
+        },
+        {
+          "label": "D",
+          "text": "Increased secretion with unchanged motility"
+        },
+        {
+          "label": "E",
+          "text": "Decreased motility with sphincter contraction"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Sympathetic activation is net inhibitory: it decreases motility, reduces secretion, and contracts sphincters.",
+        "whyCorrect": "Norepinephrine suppresses excitatory ENS output, slowing propulsion and closing sphincters as blood is redirected away from the gut.",
+        "whyWrongByChoice": {
+          "A": "Increased motility and secretion is the parasympathetic (rest-and-digest) effect.",
+          "B": "Sympathetic activity contracts, not relaxes, sphincters.",
+          "C": "Sympathetic activity does reduce secretion but contracts sphincters rather than relaxing them.",
+          "D": "Sympathetic activity reduces secretion but also reduces motility rather than leaving it unchanged."
+        }
+      }
+    },
+    {
+      "id": "neural-control-of-the-gi-system-enteric-nervous-system-011",
+      "topicId": "neural-control-of-the-gi-system-enteric-nervous-system",
+      "topicName": "Neural Control of the GI System (Enteric Nervous System)",
+      "stem": "Preganglionic sympathetic fibers to the GI tract originate in the thoracolumbar spinal cord and synapse before reaching the gut wall. Where do these fibers synapse?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dorsal root sensory ganglia"
+        },
+        {
+          "label": "B",
+          "text": "Myenteric (Auerbach) plexus ganglia"
+        },
+        {
+          "label": "C",
+          "text": "Submucosal (Meissner) plexus ganglia"
+        },
+        {
+          "label": "D",
+          "text": "Prevertebral (collateral) ganglia"
+        },
+        {
+          "label": "E",
+          "text": "Nodose ganglion of the vagus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Sympathetic preganglionic fibers (T5-L2) synapse in prevertebral ganglia (celiac, superior and inferior mesenteric).",
+        "whyCorrect": "Postganglionic fibers then project from these prevertebral ganglia to the ENS, where they release norepinephrine.",
+        "whyWrongByChoice": {
+          "A": "Dorsal root ganglia contain somatic sensory cell bodies, not sympathetic synapses.",
+          "B": "The myenteric plexus is a target of postganglionic fibers, not the preganglionic synapse site.",
+          "C": "The submucosal plexus is likewise a target, not the site of the preganglionic synapse.",
+          "E": "The nodose ganglion contains vagal (parasympathetic) afferent cell bodies."
+        }
+      }
+    },
+    {
+      "id": "neural-control-of-the-gi-system-enteric-nervous-system-012",
+      "topicId": "neural-control-of-the-gi-system-enteric-nervous-system",
+      "topicName": "Neural Control of the GI System (Enteric Nervous System)",
+      "stem": "Norepinephrine released by sympathetic fibers suppresses acetylcholine release from enteric neurons, producing a 'braking' effect on motility. This effect is mediated primarily by which receptor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alpha-2 adrenergic receptor"
+        },
+        {
+          "label": "B",
+          "text": "Beta-2 adrenergic receptor"
+        },
+        {
+          "label": "C",
+          "text": "Muscarinic M3 receptor"
+        },
+        {
+          "label": "D",
+          "text": "Nicotinic cholinergic receptor"
+        },
+        {
+          "label": "E",
+          "text": "Histaminergic H2 receptor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Norepinephrine acts on alpha-2 adrenergic receptors on ENS neurons to suppress excitatory transmitter release.",
+        "whyCorrect": "Alpha-2 receptors on enteric neurons inhibit acetylcholine release, decreasing motility and secretion.",
+        "whyWrongByChoice": {
+          "B": "Beta-2 receptors are not the receptor mediating the sympathetic braking of the ENS described here.",
+          "C": "M3 muscarinic receptors mediate excitatory cholinergic effects, not sympathetic inhibition.",
+          "D": "Nicotinic cholinergic receptors mediate fast excitatory transmission at ganglia, including parasympathetic input.",
+          "E": "Histaminergic H2 receptors mediate gastric acid secretion, unrelated to adrenergic braking."
+        }
+      }
+    },
+    {
+      "id": "neural-control-of-the-gi-system-enteric-nervous-system-013",
+      "topicId": "neural-control-of-the-gi-system-enteric-nervous-system",
+      "topicName": "Neural Control of the GI System (Enteric Nervous System)",
+      "stem": "The distal colon, rectum, and internal anal sphincter receive parasympathetic innervation from which source?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vagus nerve (CN X)"
+        },
+        {
+          "label": "B",
+          "text": "Greater splanchnic nerve"
+        },
+        {
+          "label": "C",
+          "text": "Superior mesenteric ganglion"
+        },
+        {
+          "label": "D",
+          "text": "Phrenic nerve (C3-C5)"
+        },
+        {
+          "label": "E",
+          "text": "Pelvic splanchnic nerves"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The distal colon, rectum, and internal anal sphincter receive parasympathetic input from the pelvic splanchnic nerves (S2-S4).",
+        "whyCorrect": "Vagal supply reaches only to the proximal colon; the hindgut-derived distal structures are supplied by sacral parasympathetic (pelvic splanchnic) fibers.",
+        "whyWrongByChoice": {
+          "A": "The vagus supplies the esophagus, stomach, small intestine, and proximal colon only.",
+          "B": "The greater splanchnic nerve carries sympathetic, not parasympathetic, fibers.",
+          "C": "The superior mesenteric ganglion is a sympathetic prevertebral ganglion.",
+          "D": "The phrenic nerve innervates the diaphragm, not the distal colon."
+        }
+      }
+    },
+    {
+      "id": "neural-control-of-the-gi-system-enteric-nervous-system-014",
+      "topicId": "neural-control-of-the-gi-system-enteric-nervous-system",
+      "topicName": "Neural Control of the GI System (Enteric Nervous System)",
+      "stem": "Vagal parasympathetic fibers synapse on enteric neurons and release acetylcholine onto nicotinic receptors. Activation of this pathway produces which effect on the GI tract?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reduced motility with tonic sphincter contraction"
+        },
+        {
+          "label": "B",
+          "text": "Reduced secretion with increased motility"
+        },
+        {
+          "label": "C",
+          "text": "Sphincter contraction with increased mucus secretion"
+        },
+        {
+          "label": "D",
+          "text": "Increased motility, secretion, sphincter relaxation"
+        },
+        {
+          "label": "E",
+          "text": "Reduced motility with sphincter relaxation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Parasympathetic activation is broadly excitatory: increased motility, increased secretion, and sphincter relaxation.",
+        "whyCorrect": "Vagal input amplifies intrinsic ENS circuits, enhancing propulsion and secretion while relaxing sphincters to allow passage of contents.",
+        "whyWrongByChoice": {
+          "A": "Reduced motility with tonic sphincter contraction describes the sympathetic effect.",
+          "B": "Parasympathetic activity increases, not reduces, secretion.",
+          "C": "Parasympathetic activity relaxes rather than contracts sphincters.",
+          "E": "Parasympathetic activity increases rather than reduces motility."
+        }
+      }
+    },
+    {
+      "id": "neural-control-of-the-gi-system-enteric-nervous-system-015",
+      "topicId": "neural-control-of-the-gi-system-enteric-nervous-system",
+      "topicName": "Neural Control of the GI System (Enteric Nervous System)",
+      "stem": "A patient historically undergoes surgical cutting of the vagus nerve to treat peptic ulcer disease. Which effect on gastric physiology is expected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased acid secretion and motility"
+        },
+        {
+          "label": "B",
+          "text": "Reduced acid secretion and motility"
+        },
+        {
+          "label": "C",
+          "text": "Increased mucus with reduced acid"
+        },
+        {
+          "label": "D",
+          "text": "Unchanged acid with increased motility"
+        },
+        {
+          "label": "E",
+          "text": "Increased gastrin with reduced acid"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Vagotomy reduces gastric acid secretion and motility by removing parasympathetic excitatory input.",
+        "whyCorrect": "The vagus drives parietal cell acid output and gastric motility; cutting it lowers both, which is why it was used to treat ulcers.",
+        "whyWrongByChoice": {
+          "A": "Vagotomy decreases, not increases, acid and motility.",
+          "C": "Reduced acid is expected, but vagotomy does not primarily increase mucus secretion.",
+          "D": "Acid is reduced and motility decreased, not unchanged and increased.",
+          "E": "Vagal stimulation normally raises gastrin; vagotomy would reduce vagal-driven gastrin release."
+        }
+      }
+    },
+    {
+      "id": "neural-control-of-the-gi-system-enteric-nervous-system-016",
+      "topicId": "neural-control-of-the-gi-system-enteric-nervous-system",
+      "topicName": "Neural Control of the GI System (Enteric Nervous System)",
+      "stem": "Before food reaches the stomach, the sight and smell of a meal initiate gastric acid secretion. Which pathway mediates this preparatory phase?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sympathetic fibers acting directly on parietal cells"
+        },
+        {
+          "label": "B",
+          "text": "Circulating secretin from duodenal S cells"
+        },
+        {
+          "label": "C",
+          "text": "Gastrin alone acting without neural input"
+        },
+        {
+          "label": "D",
+          "text": "Cholecystokinin released from the duodenum"
+        },
+        {
+          "label": "E",
+          "text": "Vagus activating enteric neurons and parietal cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The cephalic phase is neural and vagally mediated: the vagus activates ENS neurons and parietal cells to secrete acid.",
+        "whyCorrect": "Sensory stimuli activate the dorsal motor nucleus of the vagus, which drives ENS neurons, parietal cells, and G cells before food arrives.",
+        "whyWrongByChoice": {
+          "A": "Sympathetic input inhibits, rather than initiates, gastric secretion.",
+          "B": "Secretin acts during the intestinal phase and inhibits gastric acid.",
+          "C": "Gastrin contributes, but the cephalic phase requires vagal neural input, not gastrin alone.",
+          "D": "CCK is an intestinal-phase hormone, not the initiator of the cephalic phase."
+        }
+      }
+    },
+    {
+      "id": "neural-control-of-the-gi-system-enteric-nervous-system-017",
+      "topicId": "neural-control-of-the-gi-system-enteric-nervous-system",
+      "topicName": "Neural Control of the GI System (Enteric Nervous System)",
+      "stem": "Sham-feeding experiments, in which subjects chew and spit food without swallowing, are used to study cephalic-phase acid secretion. This secretion is abolished by which intervention?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Proton pump inhibitor therapy"
+        },
+        {
+          "label": "B",
+          "text": "Truncal vagotomy"
+        },
+        {
+          "label": "C",
+          "text": "Antrectomy"
+        },
+        {
+          "label": "D",
+          "text": "Somatostatin infusion"
+        },
+        {
+          "label": "E",
+          "text": "H2 receptor blockade"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cephalic-phase acid secretion is entirely vagally mediated and is abolished by vagotomy.",
+        "whyCorrect": "Sham feeding confirms the cephalic phase depends on vagal outflow; cutting the vagus eliminates it.",
+        "whyWrongByChoice": {
+          "A": "PPIs reduce acid output in all phases but do not abolish the cephalic neural drive itself.",
+          "C": "Antrectomy removes the gastrin source but does not eliminate the vagal cephalic pathway.",
+          "D": "Somatostatin broadly suppresses secretion but is not the intervention shown to abolish the cephalic phase.",
+          "E": "H2 blockade reduces histamine-driven acid downstream but does not abolish vagal cephalic signaling."
+        }
+      }
+    },
+    {
+      "id": "neural-control-of-the-gi-system-enteric-nervous-system-018",
+      "topicId": "neural-control-of-the-gi-system-enteric-nervous-system",
+      "topicName": "Neural Control of the GI System (Enteric Nervous System)",
+      "stem": "During the cephalic phase, vagally activated enteric neurons in the gastric antrum release a peptide that stimulates G cells to secrete gastrin. Which peptide is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vasoactive intestinal peptide"
+        },
+        {
+          "label": "B",
+          "text": "Gastrin-releasing peptide"
+        },
+        {
+          "label": "C",
+          "text": "Somatostatin"
+        },
+        {
+          "label": "D",
+          "text": "Secretin"
+        },
+        {
+          "label": "E",
+          "text": "Substance P"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "ENS neurons release gastrin-releasing peptide (GRP) onto antral G cells to stimulate gastrin secretion.",
+        "whyCorrect": "The vagal activation to ENS GRP to gastrin loop is a potent neuro-hormonal stimulus for acid secretion during the cephalic phase.",
+        "whyWrongByChoice": {
+          "A": "VIP is an inhibitory transmitter that relaxes smooth muscle, not a stimulus for gastrin.",
+          "C": "Somatostatin inhibits gastrin release rather than stimulating it.",
+          "D": "Secretin is released by duodenal S cells and inhibits gastric acid.",
+          "E": "Substance P is an excitatory motor transmitter, not the G-cell stimulating peptide."
+        }
+      }
+    },
+    {
+      "id": "neural-control-of-the-gi-system-enteric-nervous-system-019",
+      "topicId": "neural-control-of-the-gi-system-enteric-nervous-system",
+      "topicName": "Neural Control of the GI System (Enteric Nervous System)",
+      "stem": "Specialized epithelial cells scattered throughout the GI mucosa express chemosensory receptors on their apical surface and release hormones in response to luminal nutrients. What is the primary role of these cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Drive smooth muscle contraction"
+        },
+        {
+          "label": "B",
+          "text": "Generate slow-wave electrical activity"
+        },
+        {
+          "label": "C",
+          "text": "Detect luminal nutrients and release hormones"
+        },
+        {
+          "label": "D",
+          "text": "Absorb the bulk of dietary nutrients"
+        },
+        {
+          "label": "E",
+          "text": "Provide structural support to intestinal villi"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Enteroendocrine cells act as luminal sensory transducers, detecting nutrients and releasing hormones.",
+        "whyCorrect": "Apical chemosensory GPCRs let EECs sense chyme composition and translate it into neural and hormonal signals coordinating digestion.",
+        "whyWrongByChoice": {
+          "A": "Smooth muscle contraction is driven by excitatory motor neurons, not EECs.",
+          "B": "Slow-wave pacemaker activity is generated by interstitial cells of Cajal.",
+          "D": "Bulk nutrient absorption is performed by enterocytes.",
+          "E": "Structural support is not the function of enteroendocrine cells."
+        }
+      }
+    },
+    {
+      "id": "neural-control-of-the-gi-system-enteric-nervous-system-020",
+      "topicId": "neural-control-of-the-gi-system-enteric-nervous-system",
+      "topicName": "Neural Control of the GI System (Enteric Nervous System)",
+      "stem": "Excitatory enteric motor neurons act on gastrointestinal smooth muscle to produce contraction. Which neurotransmitters do these neurons release?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nitric oxide and ATP"
+        },
+        {
+          "label": "B",
+          "text": "Vasoactive intestinal peptide and nitric oxide"
+        },
+        {
+          "label": "C",
+          "text": "Norepinephrine and neuropeptide Y"
+        },
+        {
+          "label": "D",
+          "text": "Acetylcholine and substance P"
+        },
+        {
+          "label": "E",
+          "text": "Serotonin and cholecystokinin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Excitatory motor neurons release acetylcholine and substance P onto smooth muscle to cause contraction.",
+        "whyCorrect": "These are the classic excitatory transmitters that increase the contractile state of gut smooth muscle.",
+        "whyWrongByChoice": {
+          "A": "Nitric oxide and ATP are released by inhibitory motor neurons to cause relaxation.",
+          "B": "VIP and nitric oxide mediate relaxation, not contraction.",
+          "C": "Norepinephrine and neuropeptide Y are sympathetic transmitters, not enteric excitatory motor transmitters.",
+          "E": "Serotonin and CCK are signaling mediators, not the transmitters of excitatory motor neurons."
+        }
+      }
+    },
+    {
+      "id": "gastric-secretion-and-the-parietal-cell-001",
+      "topicId": "gastric-secretion-and-the-parietal-cell",
+      "topicName": "Gastric Secretion and the Parietal Cell",
+      "stem": "A 40-year-old woman undergoes upper endoscopy with biopsy of the gastric body. Histology highlights large eosinophilic cells within the oxyntic glands that secrete hydrochloric acid and a glycoprotein required for vitamin B12 uptake. Which cell type is described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chief cell"
+        },
+        {
+          "label": "B",
+          "text": "ECL cell"
+        },
+        {
+          "label": "C",
+          "text": "G cell"
+        },
+        {
+          "label": "D",
+          "text": "Parietal cell"
+        },
+        {
+          "label": "E",
+          "text": "D cell"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Parietal (oxyntic) cells secrete both HCl and intrinsic factor.",
+        "whyCorrect": "Parietal cells are the only gastric cell that secretes hydrochloric acid and intrinsic factor; the glycoprotein needed for vitamin B12 absorption in the terminal ileum is intrinsic factor.",
+        "whyWrongByChoice": {
+          "A": "Chief cells secrete pepsinogen and gastric lipase, not acid or intrinsic factor.",
+          "B": "ECL cells secrete histamine, a paracrine stimulant of acid secretion.",
+          "C": "G cells secrete gastrin, an endocrine hormone released into blood.",
+          "E": "D cells secrete somatostatin, an inhibitory paracrine peptide."
+        }
+      }
+    },
+    {
+      "id": "gastric-secretion-and-the-parietal-cell-002",
+      "topicId": "gastric-secretion-and-the-parietal-cell",
+      "topicName": "Gastric Secretion and the Parietal Cell",
+      "stem": "A patient who has undergone total gastrectomy can no longer produce intrinsic factor. Absorption of which nutrient is most impaired as a result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Folate (vitamin B9)"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin C (ascorbate)"
+        },
+        {
+          "label": "C",
+          "text": "Calcium (Ca2+)"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin K (phylloquinone)"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin B12 (cobalamin)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Intrinsic factor is required for vitamin B12 absorption in the terminal ileum.",
+        "whyCorrect": "Intrinsic factor secreted by parietal cells binds vitamin B12 and is required for its absorption in the terminal ileum; its loss causes B12 deficiency.",
+        "whyWrongByChoice": {
+          "A": "Folate absorption does not depend on intrinsic factor.",
+          "B": "Vitamin C is absorbed independently of gastric intrinsic factor.",
+          "C": "Calcium absorption is not intrinsic factor-dependent, though gastric acid aids solubility.",
+          "D": "Vitamin K absorption relies on bile and does not require intrinsic factor."
+        }
+      }
+    },
+    {
+      "id": "gastric-secretion-and-the-parietal-cell-003",
+      "topicId": "gastric-secretion-and-the-parietal-cell",
+      "topicName": "Gastric Secretion and the Parietal Cell",
+      "stem": "Biopsy of the gastric fundus shows basophilic cells at the base of the oxyntic glands filled with apical zymogen granules. Which product do these cells secrete?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Histamine"
+        },
+        {
+          "label": "B",
+          "text": "Gastrin"
+        },
+        {
+          "label": "C",
+          "text": "Somatostatin"
+        },
+        {
+          "label": "D",
+          "text": "Intrinsic factor"
+        },
+        {
+          "label": "E",
+          "text": "Pepsinogen"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Chief (zymogenic) cells store and secrete pepsinogen in apical granules.",
+        "whyCorrect": "Chief cells located in the base of oxyntic glands store pepsinogen and gastric lipase in apical secretory granules; pepsinogen is the inactive precursor of pepsin.",
+        "whyWrongByChoice": {
+          "A": "Histamine is secreted by ECL cells, not zymogen-granule-containing chief cells.",
+          "B": "Gastrin is secreted by antral G cells into the bloodstream.",
+          "C": "Somatostatin is secreted by D cells.",
+          "D": "Intrinsic factor is secreted by parietal cells."
+        }
+      }
+    },
+    {
+      "id": "gastric-secretion-and-the-parietal-cell-004",
+      "topicId": "gastric-secretion-and-the-parietal-cell",
+      "topicName": "Gastric Secretion and the Parietal Cell",
+      "stem": "Antral mucosal biopsy identifies enteroendocrine cells that sense luminal peptides and release a hormone into the blood that stimulates gastric acid secretion. Which cell type is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Parietal cell"
+        },
+        {
+          "label": "B",
+          "text": "Chief cell"
+        },
+        {
+          "label": "C",
+          "text": "ECL cell"
+        },
+        {
+          "label": "D",
+          "text": "D cell"
+        },
+        {
+          "label": "E",
+          "text": "G cell"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Antral G cells sense luminal peptides/amino acids and release gastrin into the blood.",
+        "whyCorrect": "G cells are enteroendocrine cells concentrated in the antrum that sense luminal peptides and amino acids and release gastrin into the bloodstream to stimulate parietal cell acid secretion.",
+        "whyWrongByChoice": {
+          "A": "Parietal cells respond to gastrin but secrete acid, not a blood-borne stimulatory hormone.",
+          "B": "Chief cells secrete pepsinogen, not gastrin.",
+          "C": "ECL cells release histamine as a paracrine, not endocrine, signal.",
+          "D": "D cells release somatostatin, which inhibits acid secretion."
+        }
+      }
+    },
+    {
+      "id": "gastric-secretion-and-the-parietal-cell-005",
+      "topicId": "gastric-secretion-and-the-parietal-cell",
+      "topicName": "Gastric Secretion and the Parietal Cell",
+      "stem": "In the gastric body, one cell type releases the dominant paracrine stimulant that drives parietal cell acid secretion. Which cell type secretes this substance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chief cell"
+        },
+        {
+          "label": "B",
+          "text": "G cell"
+        },
+        {
+          "label": "C",
+          "text": "D cell"
+        },
+        {
+          "label": "D",
+          "text": "ECL cell"
+        },
+        {
+          "label": "E",
+          "text": "Mucous neck cell"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Enterochromaffin-like (ECL) cells secrete histamine, the dominant paracrine stimulant of parietal cells.",
+        "whyCorrect": "ECL cells in the gastric body/fundus release histamine, which the brick identifies as the dominant paracrine stimulant of parietal cell acid secretion.",
+        "whyWrongByChoice": {
+          "A": "Chief cells secrete pepsinogen and gastric lipase, not histamine.",
+          "B": "G cells secrete gastrin, an endocrine hormone, not the dominant paracrine drive.",
+          "C": "D cells secrete somatostatin, which inhibits rather than stimulates acid secretion.",
+          "E": "Mucous neck cells secrete mucus and bicarbonate for protection."
+        }
+      }
+    },
+    {
+      "id": "gastric-secretion-and-the-parietal-cell-006",
+      "topicId": "gastric-secretion-and-the-parietal-cell",
+      "topicName": "Gastric Secretion and the Parietal Cell",
+      "stem": "A paracrine cell located in both the gastric antrum and body releases a peptide that inhibits gastrin release and acid secretion, especially when luminal pH falls. Which product does this cell secrete?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Somatostatin"
+        },
+        {
+          "label": "B",
+          "text": "Histamine"
+        },
+        {
+          "label": "C",
+          "text": "Gastrin"
+        },
+        {
+          "label": "D",
+          "text": "Pepsinogen"
+        },
+        {
+          "label": "E",
+          "text": "Intrinsic factor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "D cells secrete somatostatin, an inhibitor of gastrin release and acid secretion.",
+        "whyCorrect": "Somatostatin from D cells suppresses gastrin release from G cells and directly inhibits parietal cell acid secretion; it is released in response to low luminal pH.",
+        "whyWrongByChoice": {
+          "B": "Histamine stimulates, rather than inhibits, acid secretion.",
+          "C": "Gastrin stimulates acid secretion and is the target of somatostatin's inhibition.",
+          "D": "Pepsinogen is a digestive zymogen, not an inhibitory paracrine signal.",
+          "E": "Intrinsic factor supports B12 absorption and does not regulate acid secretion."
+        }
+      }
+    },
+    {
+      "id": "gastric-secretion-and-the-parietal-cell-007",
+      "topicId": "gastric-secretion-and-the-parietal-cell",
+      "topicName": "Gastric Secretion and the Parietal Cell",
+      "stem": "The apical H+/K+-ATPase of the parietal cell couples ATP hydrolysis to ion movement across the luminal membrane. Which function does this pump directly perform?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carbonic anhydrase activity"
+        },
+        {
+          "label": "B",
+          "text": "Apical H+ secretion"
+        },
+        {
+          "label": "C",
+          "text": "Basolateral Cl- entry"
+        },
+        {
+          "label": "D",
+          "text": "Basolateral HCO3- export"
+        },
+        {
+          "label": "E",
+          "text": "Apical K+ recycling"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The H+/K+-ATPase exchanges intracellular H+ for luminal K+, secreting H+ into the lumen.",
+        "whyCorrect": "The apical proton pump uses ATP to exchange intracellular H+ for luminal K+ in a 1:1 ratio, directly secreting H+ into the gastric lumen to generate the acidic environment.",
+        "whyWrongByChoice": {
+          "A": "Carbonic anhydrase generates H+ intracellularly but is a separate enzyme, not the pump.",
+          "C": "Basolateral Cl- entry occurs via the Cl-/HCO3- exchanger, not the proton pump.",
+          "D": "HCO3- export is performed by the basolateral Cl-/HCO3- antiporter.",
+          "E": "K+ recycling occurs through apical K+ channels, not the ATPase itself."
+        }
+      }
+    },
+    {
+      "id": "gastric-secretion-and-the-parietal-cell-008",
+      "topicId": "gastric-secretion-and-the-parietal-cell",
+      "topicName": "Gastric Secretion and the Parietal Cell",
+      "stem": "Shortly after a large meal, a healthy person shows a transient rise in venous blood and urine pH. Which parietal cell transport event most directly generates this alkaline load?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apical H+/K+ exchange"
+        },
+        {
+          "label": "B",
+          "text": "Apical Cl- efflux"
+        },
+        {
+          "label": "C",
+          "text": "Basolateral HCO3- export"
+        },
+        {
+          "label": "D",
+          "text": "Apical K+ recycling"
+        },
+        {
+          "label": "E",
+          "text": "Carbonic anhydrase inhibition"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The alkaline tide results from basolateral HCO3- efflux via the Cl-/HCO3- exchanger.",
+        "whyCorrect": "Carbonic anhydrase generates H+ and HCO3-; while H+ is secreted apically, HCO3- is exported into the blood via the basolateral Cl-/HCO3- antiporter, producing the postprandial alkaline tide.",
+        "whyWrongByChoice": {
+          "A": "Apical H+/K+ exchange secretes acid into the lumen, not base into the blood.",
+          "B": "Apical Cl- efflux contributes to luminal HCl formation, not blood alkalinization.",
+          "D": "K+ recycling maintains pump substrate and does not alter blood pH.",
+          "E": "Carbonic anhydrase is active, not inhibited, and supplies the HCO3- that is exported."
+        }
+      }
+    },
+    {
+      "id": "gastric-secretion-and-the-parietal-cell-009",
+      "topicId": "gastric-secretion-and-the-parietal-cell",
+      "topicName": "Gastric Secretion and the Parietal Cell",
+      "stem": "Histamine stimulates parietal cell acid secretion by binding an H2 receptor that activates adenylyl cyclase. Which intracellular second messenger mediates this effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "cAMP"
+        },
+        {
+          "label": "B",
+          "text": "IP3"
+        },
+        {
+          "label": "C",
+          "text": "Diacylglycerol"
+        },
+        {
+          "label": "D",
+          "text": "Intracellular Ca2+"
+        },
+        {
+          "label": "E",
+          "text": "cGMP"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The H2 receptor is a Gs-coupled GPCR that raises cAMP.",
+        "whyCorrect": "Histamine binding the H2 receptor activates adenylyl cyclase, increasing cAMP, which activates PKA and drives H+/K+-ATPase translocation to the apical membrane.",
+        "whyWrongByChoice": {
+          "B": "IP3 is generated by the Gq/M3 and CCK-B pathways, not the H2 receptor.",
+          "C": "Diacylglycerol arises from PLC activation, characteristic of M3/gastrin signaling.",
+          "D": "Elevated Ca2+ is the mediator for ACh and gastrin, not for histamine.",
+          "E": "cGMP is not the second messenger for the H2 receptor."
+        }
+      }
+    },
+    {
+      "id": "gastric-secretion-and-the-parietal-cell-010",
+      "topicId": "gastric-secretion-and-the-parietal-cell",
+      "topicName": "Gastric Secretion and the Parietal Cell",
+      "stem": "Acetylcholine released from enteric neurons binds M3 muscarinic receptors on parietal cells, increasing acid output. Which second messenger mediates this response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cyclic AMP (cAMP)"
+        },
+        {
+          "label": "B",
+          "text": "Cyclic GMP (cGMP)"
+        },
+        {
+          "label": "C",
+          "text": "Cytosolic Ca2+"
+        },
+        {
+          "label": "D",
+          "text": "Nitric oxide (NO)"
+        },
+        {
+          "label": "E",
+          "text": "Adenosine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "M3 receptors activate PLC, raising IP3/DAG and intracellular Ca2+.",
+        "whyCorrect": "ACh binding M3 receptors activates phospholipase C, generating IP3 and DAG and elevating intracellular Ca2+ (and PKC), which stimulates acid secretion.",
+        "whyWrongByChoice": {
+          "A": "cAMP is the messenger for the histamine H2 pathway, not M3.",
+          "B": "cGMP is not involved in M3 parietal cell signaling.",
+          "D": "Nitric oxide is not the second messenger for muscarinic acid stimulation.",
+          "E": "Adenosine is not part of the M3 acid-secretory pathway."
+        }
+      }
+    },
+    {
+      "id": "gastric-secretion-and-the-parietal-cell-011",
+      "topicId": "gastric-secretion-and-the-parietal-cell",
+      "topicName": "Gastric Secretion and the Parietal Cell",
+      "stem": "A gastrin analogue is used experimentally to stimulate parietal cell acid secretion. Gastrin exerts this effect by binding which receptor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CCK-B receptor"
+        },
+        {
+          "label": "B",
+          "text": "H2 receptor"
+        },
+        {
+          "label": "C",
+          "text": "M3 receptor"
+        },
+        {
+          "label": "D",
+          "text": "GRP receptor"
+        },
+        {
+          "label": "E",
+          "text": "Gi-coupled receptor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Gastrin acts on CCK-B receptors on parietal and ECL cells.",
+        "whyCorrect": "Gastrin binds CCK-B receptors on parietal cells (direct stimulation) and ECL cells (triggering histamine release), signaling via increased intracellular Ca2+.",
+        "whyWrongByChoice": {
+          "B": "The H2 receptor is the target of histamine, not gastrin.",
+          "C": "The M3 receptor mediates acetylcholine, not gastrin, signaling.",
+          "D": "GRP receptors are on G cells and mediate vagal stimulation of gastrin release.",
+          "E": "Gi-coupled receptors mediate somatostatin's inhibitory effect, not gastrin."
+        }
+      }
+    },
+    {
+      "id": "gastric-secretion-and-the-parietal-cell-012",
+      "topicId": "gastric-secretion-and-the-parietal-cell",
+      "topicName": "Gastric Secretion and the Parietal Cell",
+      "stem": "In the gastric antrum, D cells increase secretion of their inhibitory peptide in response to a specific luminal change that provides negative feedback on acid production. Which change triggers this release?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rising luminal pH"
+        },
+        {
+          "label": "B",
+          "text": "Increased luminal peptides"
+        },
+        {
+          "label": "C",
+          "text": "Antral distension"
+        },
+        {
+          "label": "D",
+          "text": "Falling luminal pH"
+        },
+        {
+          "label": "E",
+          "text": "Vagal acetylcholine"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "D cells release somatostatin in response to low (falling) luminal pH.",
+        "whyCorrect": "Somatostatin release from D cells is triggered by low luminal pH, forming a negative feedback loop that suppresses gastrin release and acid secretion when the stomach becomes acidic.",
+        "whyWrongByChoice": {
+          "A": "A rising (less acidic) pH removes the stimulus for somatostatin release.",
+          "B": "Luminal peptides stimulate G-cell gastrin release, not D-cell somatostatin.",
+          "C": "Antral distension favors gastrin/acid responses rather than somatostatin.",
+          "E": "Acetylcholine inhibits somatostatin release from D cells."
+        }
+      }
+    },
+    {
+      "id": "gastric-secretion-and-the-parietal-cell-013",
+      "topicId": "gastric-secretion-and-the-parietal-cell",
+      "topicName": "Gastric Secretion and the Parietal Cell",
+      "stem": "During the cephalic phase, the CNS initiates gastric acid secretion mainly through vagal release of a peptide that acts on antral G cells and is not blocked by atropine. Which peptide is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetylcholine (ACh)"
+        },
+        {
+          "label": "B",
+          "text": "Gastrin-releasing peptide"
+        },
+        {
+          "label": "C",
+          "text": "Secretin (S cells)"
+        },
+        {
+          "label": "D",
+          "text": "Somatostatin (D cells)"
+        },
+        {
+          "label": "E",
+          "text": "Cholecystokinin (I cells)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "GRP is the vagal, non-muscarinic mediator of gastrin release in the cephalic phase.",
+        "whyCorrect": "Gastrin-releasing peptide (GRP) is released by antral enteric neurons under vagal input, binds GRP receptors on G cells, and triggers gastrin secretion; because it is non-muscarinic, its effect is not blocked by atropine.",
+        "whyWrongByChoice": {
+          "A": "Acetylcholine acts through muscarinic receptors and is blocked by atropine.",
+          "C": "Secretin inhibits gastric acid secretion and is a duodenal signal.",
+          "D": "Somatostatin inhibits gastrin and acid secretion.",
+          "E": "Cholecystokinin is a duodenal hormone not central to cephalic-phase gastrin release."
+        }
+      }
+    },
+    {
+      "id": "gastric-secretion-and-the-parietal-cell-014",
+      "topicId": "gastric-secretion-and-the-parietal-cell",
+      "topicName": "Gastric Secretion and the Parietal Cell",
+      "stem": "Pepsinogen secreted by chief cells must be converted to active pepsin before protein digestion can begin. Which luminal condition triggers this activation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alkaline pH above 7"
+        },
+        {
+          "label": "B",
+          "text": "Low pH below 5"
+        },
+        {
+          "label": "C",
+          "text": "Presence of bile salts"
+        },
+        {
+          "label": "D",
+          "text": "Elevated luminal K+"
+        },
+        {
+          "label": "E",
+          "text": "Bicarbonate secretion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Low luminal pH (below 5) cleaves pepsinogen to active pepsin.",
+        "whyCorrect": "At luminal pH below 5 (optimally 1.8-3.5), H+ cleaves an inhibitory peptide from pepsinogen, exposing the active site; pepsin then autocatalytically activates additional pepsinogen.",
+        "whyWrongByChoice": {
+          "A": "Alkaline pH above 7 inactivates pepsin rather than activating pepsinogen.",
+          "C": "Bile salts are duodenal and do not activate pepsinogen.",
+          "D": "Elevated luminal K+ does not trigger pepsinogen activation.",
+          "E": "Bicarbonate secretion raises pH and would oppose activation."
+        }
+      }
+    },
+    {
+      "id": "gastric-secretion-and-the-parietal-cell-015",
+      "topicId": "gastric-secretion-and-the-parietal-cell",
+      "topicName": "Gastric Secretion and the Parietal Cell",
+      "stem": "As chyme passes from the stomach into the duodenum, pepsin activity is irreversibly lost. Which condition is responsible for this inactivation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Luminal pH falling below 2"
+        },
+        {
+          "label": "B",
+          "text": "Luminal pH rising above 7"
+        },
+        {
+          "label": "C",
+          "text": "Increased pancreatic lipase"
+        },
+        {
+          "label": "D",
+          "text": "Bile acid binding"
+        },
+        {
+          "label": "E",
+          "text": "Loss of intrinsic factor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pepsin is irreversibly inactivated at pH above 7 in the alkaline duodenum.",
+        "whyCorrect": "Pepsin activity is irreversibly lost at pH above 7, which occurs as acidic chyme is neutralized upon entering the alkaline duodenum, confining pepsin's proteolysis to the stomach.",
+        "whyWrongByChoice": {
+          "A": "Very low pH favors pepsin activity, not inactivation.",
+          "C": "Pancreatic lipase digests fat and does not inactivate pepsin.",
+          "D": "Bile acid binding does not account for irreversible pepsin inactivation.",
+          "E": "Intrinsic factor relates to B12 absorption, not pepsin activity."
+        }
+      }
+    },
+    {
+      "id": "gastric-secretion-and-the-parietal-cell-016",
+      "topicId": "gastric-secretion-and-the-parietal-cell",
+      "topicName": "Gastric Secretion and the Parietal Cell",
+      "stem": "Chief cells secrete an acid-stable enzyme, active at pH 3-6, that begins fat digestion within the stomach. Which reaction does this enzyme catalyze?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cleavage of peptide bonds"
+        },
+        {
+          "label": "B",
+          "text": "Hydrolysis of dietary starch"
+        },
+        {
+          "label": "C",
+          "text": "Emulsification of bile"
+        },
+        {
+          "label": "D",
+          "text": "Hydrolysis of triglycerides"
+        },
+        {
+          "label": "E",
+          "text": "Denaturation of proteins"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Gastric lipase hydrolyzes triglycerides into fatty acids and diglycerides.",
+        "whyCorrect": "Gastric lipase, an acid-stable lipase active at pH 3-6, cleaves triglycerides into fatty acids and diglycerides, accounting for roughly 10-30% of total fat digestion.",
+        "whyWrongByChoice": {
+          "A": "Peptide bond cleavage is performed by pepsin, not gastric lipase.",
+          "B": "Starch hydrolysis is carried out by amylases, not gastric lipase.",
+          "C": "Emulsification is a function of bile salts, not a gastric enzyme.",
+          "E": "Protein denaturation is driven by luminal acid, not by lipase."
+        }
+      }
+    },
+    {
+      "id": "gastric-secretion-and-the-parietal-cell-017",
+      "topicId": "gastric-secretion-and-the-parietal-cell",
+      "topicName": "Gastric Secretion and the Parietal Cell",
+      "stem": "A patient with achlorhydria has markedly impaired gastric-phase protein digestion. What is the most direct cause of this impairment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reduced pancreatic enzyme output"
+        },
+        {
+          "label": "B",
+          "text": "Loss of intrinsic factor secretion"
+        },
+        {
+          "label": "C",
+          "text": "Failure of pepsinogen activation"
+        },
+        {
+          "label": "D",
+          "text": "Decreased gastric lipase release"
+        },
+        {
+          "label": "E",
+          "text": "Increased somatostatin signaling"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Without acid, pepsinogen cannot be activated, eliminating the gastric phase of protein digestion.",
+        "whyCorrect": "Achlorhydria removes the acidic environment needed to cleave pepsinogen into pepsin, so the gastric phase of protein digestion is lost; the small intestine only partially compensates via pancreatic proteases.",
+        "whyWrongByChoice": {
+          "A": "Pancreatic enzyme output is not primarily reduced by achlorhydria and actually helps compensate.",
+          "B": "Loss of intrinsic factor affects B12 absorption, not protein digestion.",
+          "D": "Reduced lipase affects fat, not protein, digestion.",
+          "E": "Somatostatin changes regulate acid secretion but do not directly block protein digestion."
+        }
+      }
+    },
+    {
+      "id": "gastric-secretion-and-the-parietal-cell-018",
+      "topicId": "gastric-secretion-and-the-parietal-cell",
+      "topicName": "Gastric Secretion and the Parietal Cell",
+      "stem": "A patient develops autoantibodies that progressively destroy gastric parietal cells. Deficiency of which vitamin is most likely to result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitamin C (ascorbate)"
+        },
+        {
+          "label": "B",
+          "text": "Folate (vitamin B9)"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin D (calciferol)"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin K (phylloquinone)"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin B12 (cobalamin)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Parietal cell destruction removes intrinsic factor, causing B12 malabsorption (pernicious anemia).",
+        "whyCorrect": "Autoantibody destruction of parietal cells eliminates intrinsic factor secretion, causing vitamin B12 malabsorption and pernicious anemia, along with achlorhydria that impairs non-heme iron absorption.",
+        "whyWrongByChoice": {
+          "A": "Vitamin C absorption does not depend on parietal cell function.",
+          "B": "Folate absorption is independent of intrinsic factor.",
+          "C": "Vitamin D absorption is not tied to parietal cell secretion.",
+          "D": "Vitamin K absorption depends on bile, not intrinsic factor."
+        }
+      }
+    },
+    {
+      "id": "gastric-secretion-and-the-parietal-cell-019",
+      "topicId": "gastric-secretion-and-the-parietal-cell",
+      "topicName": "Gastric Secretion and the Parietal Cell",
+      "stem": "The gastric epithelium is continuously exposed to concentrated HCl and pepsin yet is normally protected. Which mechanism is the primary defense layer against luminal acid?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tight junction sealing"
+        },
+        {
+          "label": "B",
+          "text": "Epithelial cell restitution"
+        },
+        {
+          "label": "C",
+          "text": "Mucus-bicarbonate barrier"
+        },
+        {
+          "label": "D",
+          "text": "Gastric mucosal blood flow"
+        },
+        {
+          "label": "E",
+          "text": "Mast cell degranulation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The mucus-bicarbonate barrier is the primary gastric mucosal defense.",
+        "whyCorrect": "Surface mucous cells secrete an adherent mucus gel that traps bicarbonate, establishing a pH gradient from ~2 at the lumen to ~7 at the epithelial surface; this is the primary defense layer.",
+        "whyWrongByChoice": {
+          "A": "Tight junctions prevent H+ back-diffusion but are a supporting, not primary, layer.",
+          "B": "Epithelial cell restitution reseals breaches after injury as a third-line mechanism.",
+          "D": "Gastric mucosal blood flow supports defense but is not the primary barrier to acid.",
+          "E": "Mast cell degranulation aggravates injury rather than protecting the mucosa."
+        }
+      }
+    },
+    {
+      "id": "gastric-secretion-and-the-parietal-cell-020",
+      "topicId": "gastric-secretion-and-the-parietal-cell",
+      "topicName": "Gastric Secretion and the Parietal Cell",
+      "stem": "Chronic NSAID use predisposes to gastric ulcers by inhibiting COX-1 in the gastric mucosa. Reduction of which protective function is most directly responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PGE2-driven mucus and bicarbonate secretion"
+        },
+        {
+          "label": "B",
+          "text": "Proton pump-driven parietal acid secretion"
+        },
+        {
+          "label": "C",
+          "text": "Gastrin-driven parietal cell stimulation"
+        },
+        {
+          "label": "D",
+          "text": "Chief cell-driven pepsinogen secretion"
+        },
+        {
+          "label": "E",
+          "text": "Parietal cell-driven intrinsic factor output"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "COX-1 inhibition lowers prostaglandins that stimulate mucus and bicarbonate secretion.",
+        "whyCorrect": "COX-1 produces prostaglandins (PGE2, PGI2) that stimulate mucus and bicarbonate secretion and maintain mucosal blood flow; NSAIDs inhibit COX-1, weakening this defense and predisposing to ulceration.",
+        "whyWrongByChoice": {
+          "B": "NSAIDs do not act on the proton pump; reducing acid would protect, not harm.",
+          "C": "Gastrin signaling is not the mucosal defense impaired by NSAIDs.",
+          "D": "Pepsinogen secretion is not the protective function NSAIDs impair.",
+          "E": "Intrinsic factor output is unrelated to NSAID-induced mucosal injury."
+        }
+      }
+    }
+  ]
+}
