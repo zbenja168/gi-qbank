@@ -1,0 +1,2346 @@
+{
+  "categoryId": "w5s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "bacterial-infectious-diarrhea-001",
+      "topicId": "bacterial-infectious-diarrhea",
+      "topicName": "Bacterial Infectious Diarrhea",
+      "stem": "A 24-year-old man develops watery, non-bloody diarrhea 3 days after arriving in rural Peru. He has 6-8 loose stools daily with mild cramping and no fever. Stool testing shows no fecal leukocytes, and the calculated stool osmotic gap is less than 50 mOsm/kg. Which of the following organisms is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Shigella dysenteriae"
+        },
+        {
+          "label": "B",
+          "text": "Salmonella enterica"
+        },
+        {
+          "label": "C",
+          "text": "Enterotoxigenic Escherichia coli"
+        },
+        {
+          "label": "D",
+          "text": "Campylobacter jejuni"
+        },
+        {
+          "label": "E",
+          "text": "Enterohemorrhagic Escherichia coli"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Acute watery, non-bloody diarrhea in a traveler to a developing country with negative fecal leukocytes and a secretory (low) osmotic gap is classic enterotoxigenic E. coli (ETEC).",
+        "whyCorrect": "ETEC is the leading cause of traveler's diarrhea, produces a noninflammatory secretory (watery) picture via its LT/ST enterotoxins, and peaks on the second to third day after arrival in a developing region.",
+        "whyWrongByChoice": {
+          "A": "Shigella causes small-volume bloody dysentery with fever and positive fecal leukocytes, not watery diarrhea with a low osmotic gap.",
+          "B": "Salmonella is a mucosal-invasive, inflammatory pathogen producing fever and often bloody stools with fecal leukocytes.",
+          "D": "Campylobacter is invasive and typically causes bloody, inflammatory diarrhea with fecal leukocytes.",
+          "E": "EHEC produces bloody diarrhea linked to undercooked beef or petting-zoo exposure, not watery traveler's diarrhea."
+        }
+      }
+    },
+    {
+      "id": "bacterial-infectious-diarrhea-002",
+      "topicId": "bacterial-infectious-diarrhea",
+      "topicName": "Bacterial Infectious Diarrhea",
+      "stem": "A 40-year-old aid worker in Bangladesh develops sudden, painless, profuse watery diarrhea that is colorless with flecks of mucus. He becomes severely dehydrated and hypotensive, losing an estimated 12 liters of stool per day. Which organism is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "B",
+          "text": "Clostridioides difficile"
+        },
+        {
+          "label": "C",
+          "text": "Vibrio cholerae"
+        },
+        {
+          "label": "D",
+          "text": "Enteropathogenic Escherichia coli"
+        },
+        {
+          "label": "E",
+          "text": "Bacillus cereus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Massive-volume, painless 'rice-water' stools with life-threatening dehydration are the hallmark of cholera.",
+        "whyCorrect": "Vibrio cholerae produces cholera toxin that permanently activates adenylate cyclase, driving huge chloride and water secretion and producing colorless rice-water stools with volume losses of 10-20 L/day.",
+        "whyWrongByChoice": {
+          "A": "S. aureus food poisoning is vomiting-predominant, brief, and does not cause liters of watery stool.",
+          "B": "C. difficile causes watery diarrhea but with inflammatory findings and far smaller volumes, and follows antibiotic exposure.",
+          "D": "EPEC causes pediatric watery diarrhea by flattening villi, not massive rice-water stools.",
+          "E": "B. cereus causes brief self-limited vomiting or watery diarrhea, not profuse dehydrating losses."
+        }
+      }
+    },
+    {
+      "id": "bacterial-infectious-diarrhea-003",
+      "topicId": "bacterial-infectious-diarrhea",
+      "topicName": "Bacterial Infectious Diarrhea",
+      "stem": "Six people develop abrupt nausea and projectile vomiting about 3 hours after eating custard-filled pastries left out at a summer picnic. A few have mild watery diarrhea, but none have fever, and symptoms resolve within 12 hours. Which organism is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clostridium perfringens"
+        },
+        {
+          "label": "B",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "C",
+          "text": "Vibrio parahaemolyticus"
+        },
+        {
+          "label": "D",
+          "text": "Bacillus cereus"
+        },
+        {
+          "label": "E",
+          "text": "Enterotoxigenic Escherichia coli"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Rapid-onset (2-6 h) vomiting-predominant illness after mayonnaise/cream/custard foods at a picnic points to a preformed Staphylococcus aureus enterotoxin.",
+        "whyCorrect": "S. aureus produces a preformed, heat-stable enterotoxin in cream and mayonnaise-based foods; ingestion causes abrupt vomiting within 2-6 hours via vagal stimulation of the medullary vomiting center, resolving within 24 hours.",
+        "whyWrongByChoice": {
+          "A": "C. perfringens causes cramps and watery diarrhea 10-12 hours after reheated meat, with minimal vomiting.",
+          "C": "V. parahaemolyticus causes watery diarrhea about 12-24 hours after raw shellfish, not rapid vomiting after pastries.",
+          "D": "B. cereus emetic illness fits vomiting but is classically linked to reheated fried rice, not cream pastries.",
+          "E": "ETEC causes watery traveler's diarrhea, not a vomiting-predominant picnic outbreak."
+        }
+      }
+    },
+    {
+      "id": "bacterial-infectious-diarrhea-004",
+      "topicId": "bacterial-infectious-diarrhea",
+      "topicName": "Bacterial Infectious Diarrhea",
+      "stem": "A 20-year-old develops nausea and vomiting about 2 hours after eating reheated fried rice from a restaurant buffet. He has no fever and minimal diarrhea, and recovers by the next day. Which organism is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacillus cereus"
+        },
+        {
+          "label": "B",
+          "text": "Salmonella enterica"
+        },
+        {
+          "label": "C",
+          "text": "Vibrio cholerae"
+        },
+        {
+          "label": "D",
+          "text": "Clostridioides difficile"
+        },
+        {
+          "label": "E",
+          "text": "Enterotoxigenic Escherichia coli"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Rapid vomiting (1-5 h) after reheated fried rice is the classic emetic syndrome of Bacillus cereus caused by preformed cereulide.",
+        "whyCorrect": "B. cereus emetic disease results from preformed, heat-stable cereulide toxin in reheated rice, producing vomiting 1-5 hours after ingestion with a self-limited course under 24 hours.",
+        "whyWrongByChoice": {
+          "B": "Salmonella causes invasive inflammatory diarrhea with fever, not brief toxin-mediated vomiting.",
+          "C": "V. cholerae causes profuse watery diarrhea, not a vomiting illness after fried rice.",
+          "D": "C. difficile causes antibiotic-associated watery diarrhea, not rapid-onset vomiting.",
+          "E": "ETEC causes watery traveler's diarrhea, not a vomiting-predominant illness."
+        }
+      }
+    },
+    {
+      "id": "bacterial-infectious-diarrhea-005",
+      "topicId": "bacterial-infectious-diarrhea",
+      "topicName": "Bacterial Infectious Diarrhea",
+      "stem": "Several attendees of a church potluck develop intense abdominal cramps and watery diarrhea about 10-12 hours after eating turkey that sat on a warming tray. Vomiting and fever are notably absent, and symptoms resolve within 24 hours. Which organism is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clostridium perfringens"
+        },
+        {
+          "label": "B",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "C",
+          "text": "Bacillus cereus"
+        },
+        {
+          "label": "D",
+          "text": "Clostridioides difficile"
+        },
+        {
+          "label": "E",
+          "text": "Vibrio cholerae"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cramps and watery diarrhea 10-12 hours after reheated meat/poultry, without vomiting or fever, is classic Clostridium perfringens.",
+        "whyCorrect": "C. perfringens spores survive cooking and germinate in slowly cooled meats; ingested vegetative cells sporulate in the gut and release enterotoxin, causing cramps and watery diarrhea at 10-12 hours with vomiting and fever uncommon.",
+        "whyWrongByChoice": {
+          "B": "S. aureus causes vomiting-predominant illness within 2-6 hours, not delayed cramps and watery diarrhea.",
+          "C": "B. cereus emetic disease is vomiting after fried rice; its diarrheal form is possible but the reheated-meat and 10-12 hour pattern fits C. perfringens.",
+          "D": "C. difficile follows antibiotic exposure and produces inflammatory findings, not a point-source potluck outbreak.",
+          "E": "V. cholerae causes profuse dehydrating rice-water stools, not a brief self-limited potluck illness."
+        }
+      }
+    },
+    {
+      "id": "bacterial-infectious-diarrhea-006",
+      "topicId": "bacterial-infectious-diarrhea",
+      "topicName": "Bacterial Infectious Diarrhea",
+      "stem": "A 72-year-old hospitalized woman develops watery diarrhea and lower abdominal cramping one week after completing a course of clindamycin. Colonoscopy reveals yellow-white plaques on the colonic mucosa. Which organism is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterotoxigenic Escherichia coli"
+        },
+        {
+          "label": "B",
+          "text": "Clostridioides difficile"
+        },
+        {
+          "label": "C",
+          "text": "Campylobacter jejuni"
+        },
+        {
+          "label": "D",
+          "text": "Vibrio cholerae"
+        },
+        {
+          "label": "E",
+          "text": "Staphylococcus aureus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Watery diarrhea after recent antibiotics with pseudomembranes (yellow-white plaques) on colonoscopy is Clostridioides difficile infection.",
+        "whyCorrect": "Antibiotics such as clindamycin disrupt colonic flora, allowing C. difficile spores to germinate; toxins A and B damage colonocytes from within, producing pseudomembranes despite the organism being noninvasive.",
+        "whyWrongByChoice": {
+          "A": "ETEC causes watery traveler's diarrhea without pseudomembranes and is unrelated to antibiotic use.",
+          "C": "Campylobacter causes invasive bloody diarrhea, not pseudomembranous colitis after antibiotics.",
+          "D": "V. cholerae causes rice-water stools without pseudomembranes and requires contaminated water/seafood exposure.",
+          "E": "S. aureus food poisoning is a brief vomiting illness, not pseudomembranous colitis."
+        }
+      }
+    },
+    {
+      "id": "bacterial-infectious-diarrhea-007",
+      "topicId": "bacterial-infectious-diarrhea",
+      "topicName": "Bacterial Infectious Diarrhea",
+      "stem": "A 65-year-old man is diagnosed with a first episode of non-severe Clostridioides difficile infection after recent antibiotic use. Which of the following is the most appropriate first-line therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intravenous metronidazole"
+        },
+        {
+          "label": "B",
+          "text": "Oral ciprofloxacin"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous vancomycin"
+        },
+        {
+          "label": "D",
+          "text": "Oral fidaxomicin"
+        },
+        {
+          "label": "E",
+          "text": "Oral rifaximin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "First-line therapy for non-severe CDI is oral fidaxomicin (preferred) or oral vancomycin.",
+        "whyCorrect": "Oral fidaxomicin is preferred first-line for non-severe CDI; it is a narrow-spectrum, minimally absorbed macrolide that spares colonic flora and reduces recurrence.",
+        "whyWrongByChoice": {
+          "A": "Intravenous metronidazole is reserved as an add-on for fulminant disease, not first-line non-severe CDI.",
+          "B": "Fluoroquinolones like ciprofloxacin are a cause of CDI, not a treatment.",
+          "C": "Intravenous vancomycin does not reach the colonic lumen; vancomycin must be given orally for CDI.",
+          "E": "Rifaximin is not first-line therapy for an initial episode of CDI."
+        }
+      }
+    },
+    {
+      "id": "bacterial-infectious-diarrhea-008",
+      "topicId": "bacterial-infectious-diarrhea",
+      "topicName": "Bacterial Infectious Diarrhea",
+      "stem": "A patient with Clostridioides difficile infection is placed on contact precautions. Which of the following hand-hygiene measures is most appropriate after examining this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alcohol-based hand rub alone"
+        },
+        {
+          "label": "B",
+          "text": "Chlorhexidine rub without rinsing"
+        },
+        {
+          "label": "C",
+          "text": "Sterile surgical scrub only"
+        },
+        {
+          "label": "D",
+          "text": "Waterless foam sanitizer"
+        },
+        {
+          "label": "E",
+          "text": "Handwashing with soap and water"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hand hygiene for C. difficile requires soap and water because alcohol does not kill spores.",
+        "whyCorrect": "C. difficile forms alcohol-resistant spores, so mechanical removal by handwashing with soap and water is required; contact precautions with gowns/gloves and bleach-based cleaning are also used.",
+        "whyWrongByChoice": {
+          "A": "Alcohol-based rubs do not kill C. difficile spores.",
+          "B": "A chlorhexidine rub without rinsing does not physically remove spores the way soap and water does.",
+          "C": "A sterile surgical scrub is unnecessary and is not the recommended measure for CDI contact.",
+          "D": "Waterless foam sanitizers are alcohol-based and ineffective against spores."
+        }
+      }
+    },
+    {
+      "id": "bacterial-infectious-diarrhea-009",
+      "topicId": "bacterial-infectious-diarrhea",
+      "topicName": "Bacterial Infectious Diarrhea",
+      "stem": "A 58-year-old male farmer presents with months of migratory joint pains, chronic greasy diarrhea, abdominal pain, and weight loss. Small-bowel biopsy shows PAS-positive foamy macrophages in the lamina propria that are acid-fast negative. Which organism is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mycobacterium avium complex"
+        },
+        {
+          "label": "B",
+          "text": "Giardia lamblia"
+        },
+        {
+          "label": "C",
+          "text": "Tropheryma whipplei"
+        },
+        {
+          "label": "D",
+          "text": "Salmonella enterica"
+        },
+        {
+          "label": "E",
+          "text": "Clostridioides difficile"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Arthralgias, steatorrhea, abdominal pain, and weight loss with PAS-positive, acid-fast-negative macrophages is Whipple disease due to Tropheryma whipplei.",
+        "whyCorrect": "Tropheryma whipplei causes Whipple disease, with a classic tetrad of arthralgias, chronic diarrhea/steatorrhea, abdominal pain, and weight loss; biopsy shows PAS-positive foamy macrophages that are acid-fast negative.",
+        "whyWrongByChoice": {
+          "A": "Mycobacterium avium complex also fills macrophages but is acid-fast positive, distinguishing it from Whipple disease.",
+          "B": "Giardia causes malabsorptive diarrhea but shows trophozoites, not PAS-positive macrophages.",
+          "D": "Salmonella causes acute inflammatory diarrhea, not a chronic PAS-positive macrophage infiltrate.",
+          "E": "C. difficile causes pseudomembranous colitis, not chronic steatorrhea with PAS-positive macrophages."
+        }
+      }
+    },
+    {
+      "id": "bacterial-infectious-diarrhea-010",
+      "topicId": "bacterial-infectious-diarrhea",
+      "topicName": "Bacterial Infectious Diarrhea",
+      "stem": "A patient is diagnosed with Whipple disease confirmed by PAS-positive macrophages on small-bowel biopsy. Which of the following is the recommended antibiotic treatment approach?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oral vancomycin for 10 to 14 days"
+        },
+        {
+          "label": "B",
+          "text": "Ceftriaxone then oral co-trimoxazole"
+        },
+        {
+          "label": "C",
+          "text": "Azithromycin as a single oral dose"
+        },
+        {
+          "label": "D",
+          "text": "Oral metronidazole for a 14-day course"
+        },
+        {
+          "label": "E",
+          "text": "Supportive care without any antibiotics"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Whipple disease is treated with an initial CNS-penetrating parenteral agent followed by prolonged oral therapy to prevent fatal CNS relapse.",
+        "whyCorrect": "Recommended therapy is intravenous ceftriaxone for about 2 weeks followed by long-term trimethoprim-sulfamethoxazole for roughly 12 months; the CNS-penetrating regimen prevents fatal central nervous system relapse.",
+        "whyWrongByChoice": {
+          "A": "Oral vancomycin treats C. difficile colitis, not Whipple disease.",
+          "C": "A single dose of azithromycin is inadequate; Whipple requires prolonged therapy.",
+          "D": "A 14-day metronidazole course does not treat Tropheryma whipplei.",
+          "E": "Untreated Whipple disease is fatal, so supportive care alone is inappropriate."
+        }
+      }
+    },
+    {
+      "id": "bacterial-infectious-diarrhea-011",
+      "topicId": "bacterial-infectious-diarrhea",
+      "topicName": "Bacterial Infectious Diarrhea",
+      "stem": "A previously healthy man has had watery diarrhea for 4 days. Using illness duration to guide the differential, which of the following etiologies is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inflammatory bowel disease"
+        },
+        {
+          "label": "B",
+          "text": "Celiac disease"
+        },
+        {
+          "label": "C",
+          "text": "A neuroendocrine tumor"
+        },
+        {
+          "label": "D",
+          "text": "An infectious cause"
+        },
+        {
+          "label": "E",
+          "text": "Chronic pancreatic insufficiency"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Acute diarrhea (14 days or less) is most likely infectious in roughly 90% of cases.",
+        "whyCorrect": "By the duration framework, acute diarrhea lasting 14 days or less is infectious in about 90% of cases, making an infectious etiology most likely in a 4-day illness.",
+        "whyWrongByChoice": {
+          "A": "IBD is a chronic (over 30 days) non-infectious cause, at most suggested by persistent illness.",
+          "B": "Celiac disease is a chronic non-infectious cause of diarrhea.",
+          "C": "Neuroendocrine tumors cause chronic secretory diarrhea, not a 4-day acute illness.",
+          "E": "Chronic pancreatic insufficiency causes long-standing steatorrhea, not acute diarrhea."
+        }
+      }
+    },
+    {
+      "id": "bacterial-infectious-diarrhea-012",
+      "topicId": "bacterial-infectious-diarrhea",
+      "topicName": "Bacterial Infectious Diarrhea",
+      "stem": "A patient with watery diarrhea has stool electrolytes of Na+ 130 mEq/L and K+ 15 mEq/L. Using an expected stool osmolality of 290 mOsm/kg, the calculated stool osmotic gap best indicates which type of diarrhea?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Osmotic diarrhea"
+        },
+        {
+          "label": "B",
+          "text": "Inflammatory diarrhea"
+        },
+        {
+          "label": "C",
+          "text": "Dysmotility-related diarrhea"
+        },
+        {
+          "label": "D",
+          "text": "Malabsorptive diarrhea"
+        },
+        {
+          "label": "E",
+          "text": "Secretory diarrhea"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Osmotic gap = 290 - 2 x (Na + K) = 290 - 2(145) = 0 mOsm/kg, a low gap indicating secretory diarrhea.",
+        "whyCorrect": "With Na+ 130 and K+ 15, 2 x (145) = 290, giving an osmotic gap of 0. A gap under 50 indicates secretory diarrhea, meaning the gut is actively secreting electrolytes.",
+        "whyWrongByChoice": {
+          "A": "Osmotic diarrhea requires a gap over 100 from unabsorbed non-electrolyte solutes, not a gap of 0.",
+          "B": "Inflammatory diarrhea is identified by fecal leukocytes, not by the osmotic gap.",
+          "C": "Dysmotility is not characterized by the stool osmotic gap.",
+          "D": "Malabsorptive diarrhea is not indicated by a low secretory osmotic gap."
+        }
+      }
+    },
+    {
+      "id": "bacterial-infectious-diarrhea-013",
+      "topicId": "bacterial-infectious-diarrhea",
+      "topicName": "Bacterial Infectious Diarrhea",
+      "stem": "A patient with chronic watery diarrhea is made NPO overnight, and the diarrhea continues unabated. This response to fasting is most consistent with which type of diarrhea?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Secretory diarrhea"
+        },
+        {
+          "label": "B",
+          "text": "Osmotic diarrhea"
+        },
+        {
+          "label": "C",
+          "text": "Fatty diarrhea"
+        },
+        {
+          "label": "D",
+          "text": "Factitious diarrhea"
+        },
+        {
+          "label": "E",
+          "text": "Malabsorptive diarrhea"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Diarrhea that persists during fasting indicates an active secretory process independent of ingested substrate.",
+        "whyCorrect": "Secretory diarrhea persists during fasting (including overnight) because active ion secretion continues regardless of oral intake, whereas osmotic diarrhea decreases or resolves.",
+        "whyWrongByChoice": {
+          "B": "Osmotic diarrhea decreases or resolves during fasting because it depends on ingested solutes.",
+          "C": "Fatty diarrhea depends on ingested fat and would improve without intake.",
+          "D": "Factitious/laxative-related diarrhea also depends on ingested substances and typically abates with fasting.",
+          "E": "Malabsorptive diarrhea depends on ingested nutrients and improves during fasting."
+        }
+      }
+    },
+    {
+      "id": "bacterial-infectious-diarrhea-014",
+      "topicId": "bacterial-infectious-diarrhea",
+      "topicName": "Bacterial Infectious Diarrhea",
+      "stem": "A patient with diarrhea has stool that is positive for fecal leukocytes and lactoferrin. This finding most strongly supports which mechanism of diarrhea?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enterotoxin-driven fluid secretion"
+        },
+        {
+          "label": "B",
+          "text": "Osmotic retention of solutes"
+        },
+        {
+          "label": "C",
+          "text": "Mucosal invasion or destruction"
+        },
+        {
+          "label": "D",
+          "text": "Preformed-toxin vagal stimulation"
+        },
+        {
+          "label": "E",
+          "text": "Rapid intestinal transit"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Positive fecal leukocytes/lactoferrin indicate neutrophil recruitment from mucosal invasion or destruction (an inflammatory pattern).",
+        "whyCorrect": "A bloody/dysenteric inflammatory pattern recruits neutrophils to the mucosa; their presence, detected directly or via lactoferrin/calprotectin, confirms mucosal invasion or destruction.",
+        "whyWrongByChoice": {
+          "A": "Enterotoxin-driven secretory diarrhea is typically fecal-leukocyte negative.",
+          "B": "Osmotic diarrhea does not produce fecal leukocytes.",
+          "D": "Preformed-toxin vomiting illness does not cause mucosal inflammation or fecal leukocytes.",
+          "E": "Rapid transit does not generate an inflammatory leukocyte response."
+        }
+      }
+    },
+    {
+      "id": "bacterial-infectious-diarrhea-015",
+      "topicId": "bacterial-infectious-diarrhea",
+      "topicName": "Bacterial Infectious Diarrhea",
+      "stem": "A patient with severe Clostridioides difficile colitis develops abdominal distension, fever, tachycardia, and hypotension. Abdominal radiograph shows the transverse colon dilated to 8 cm. Which complication has developed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bowel perforation"
+        },
+        {
+          "label": "B",
+          "text": "Sigmoid volvulus"
+        },
+        {
+          "label": "C",
+          "text": "Ogilvie syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Small-bowel obstruction"
+        },
+        {
+          "label": "E",
+          "text": "Toxic megacolon"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Colonic dilatation over 6 cm with systemic toxicity in severe colitis defines toxic megacolon.",
+        "whyCorrect": "Toxic megacolon is diagnosed by transverse colon dilatation greater than 6 cm on imaging with systemic toxicity (fever, tachycardia, hypotension), and is most commonly seen with C. difficile and ulcerative colitis.",
+        "whyWrongByChoice": {
+          "A": "Perforation shows free intraperitoneal air, not simply colonic dilatation.",
+          "B": "Sigmoid volvulus shows a coffee-bean loop, not toxic transverse colon dilatation in the setting of colitis.",
+          "C": "Ogilvie syndrome is acute colonic pseudo-obstruction without the inflammatory colitis and systemic toxicity described.",
+          "D": "Small-bowel obstruction shows dilated small-bowel loops, not transverse colon dilatation."
+        }
+      }
+    },
+    {
+      "id": "bacterial-infectious-diarrhea-016",
+      "topicId": "bacterial-infectious-diarrhea",
+      "topicName": "Bacterial Infectious Diarrhea",
+      "stem": "A 30-year-old develops watery diarrhea and abdominal cramps about 18 hours after eating raw oysters at a Gulf Coast restaurant. The stool is occasionally mildly bloody, and symptoms resolve in 2 days. Which organism is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Clostridioides difficile"
+        },
+        {
+          "label": "B",
+          "text": "Bacillus cereus"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "D",
+          "text": "Enteropathogenic Escherichia coli"
+        },
+        {
+          "label": "E",
+          "text": "Vibrio parahaemolyticus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Watery diarrhea after raw shellfish (especially oysters) in a coastal setting is classic Vibrio parahaemolyticus.",
+        "whyCorrect": "V. parahaemolyticus is a halophilic vibrio acquired from raw/undercooked seafood, common on the Gulf Coast; it produces hemolysins causing watery diarrhea and cramps 12-24 hours after ingestion, occasionally mildly bloody, self-limited in 1-3 days.",
+        "whyWrongByChoice": {
+          "A": "C. difficile follows antibiotic exposure, not raw oyster ingestion.",
+          "B": "B. cereus is linked to reheated rice, not shellfish.",
+          "C": "S. aureus causes rapid vomiting after cream/mayonnaise foods, not delayed watery diarrhea after oysters.",
+          "D": "EPEC causes pediatric watery diarrhea in developing countries, not shellfish-associated illness in adults."
+        }
+      }
+    },
+    {
+      "id": "bacterial-infectious-diarrhea-017",
+      "topicId": "bacterial-infectious-diarrhea",
+      "topicName": "Bacterial Infectious Diarrhea",
+      "stem": "A patient with profuse secretory diarrhea from an enterotoxin-mediated illness has large stool losses of potassium and bicarbonate. Which acid-base and electrolyte disturbance is most expected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hyperkalemia with high anion-gap metabolic acidosis"
+        },
+        {
+          "label": "B",
+          "text": "Hypokalemia with primary metabolic alkalosis"
+        },
+        {
+          "label": "C",
+          "text": "Hypernatremia with acute respiratory acidosis"
+        },
+        {
+          "label": "D",
+          "text": "Hypokalemia with non-anion gap metabolic acidosis"
+        },
+        {
+          "label": "E",
+          "text": "Hypocalcemia with primary metabolic alkalosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Because stool contains potassium and bicarbonate, large secretory losses cause hypokalemia and non-anion gap metabolic acidosis.",
+        "whyCorrect": "Secretory diarrheal fluid is rich in K+ and HCO3-, so massive losses produce hypokalemia and a non-anion gap (hyperchloremic) metabolic acidosis.",
+        "whyWrongByChoice": {
+          "A": "Potassium is lost in stool, causing hypokalemia rather than hyperkalemia, and the acidosis is non-anion gap.",
+          "B": "Bicarbonate loss causes acidosis, not alkalosis, though hypokalemia is correct.",
+          "C": "Diarrhea does not typically cause hypernatremia with a respiratory acidosis.",
+          "E": "The primary disturbance is potassium and bicarbonate loss, not hypocalcemia with alkalosis."
+        }
+      }
+    },
+    {
+      "id": "bacterial-infectious-diarrhea-018",
+      "topicId": "bacterial-infectious-diarrhea",
+      "topicName": "Bacterial Infectious Diarrhea",
+      "stem": "Oral rehydration solution effectively treats cholera despite ongoing chloride secretion into the gut. Which intact intestinal transport mechanism explains why glucose-containing ORS promotes sodium and water absorption?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CFTR chloride secretory channel"
+        },
+        {
+          "label": "B",
+          "text": "SGLT1 sodium-glucose cotransporter"
+        },
+        {
+          "label": "C",
+          "text": "Na+/K+-ATPase pump inhibition"
+        },
+        {
+          "label": "D",
+          "text": "Mucosal adenylate cyclase activation"
+        },
+        {
+          "label": "E",
+          "text": "Apical aquaporin channel blockade"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "ORS works because enterotoxins do not destroy the enterocyte, leaving the apical SGLT1 sodium-glucose cotransporter functional.",
+        "whyCorrect": "In secretory diarrhea the enterocyte is intact, so apical SGLT1 remains functional; equimolar sodium and glucose in ORS drive 1:1 cotransport of sodium and glucose, and water follows osmotically.",
+        "whyWrongByChoice": {
+          "A": "CFTR is the channel being hijacked to secrete chloride; it does not mediate ORS-driven absorption.",
+          "C": "ORS does not work by inhibiting the Na+/K+-ATPase.",
+          "D": "Adenylate cyclase activation is the toxin's harmful effect, not the basis of ORS therapy.",
+          "E": "ORS does not act by blocking aquaporins."
+        }
+      }
+    },
+    {
+      "id": "bacterial-infectious-diarrhea-019",
+      "topicId": "bacterial-infectious-diarrhea",
+      "topicName": "Bacterial Infectious Diarrhea",
+      "stem": "The heat-labile toxin of enterotoxigenic E. coli produces watery diarrhea through which second-messenger change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased cGMP via guanylate cyclase"
+        },
+        {
+          "label": "B",
+          "text": "Increased IP3 via phospholipase C"
+        },
+        {
+          "label": "C",
+          "text": "Decreased cAMP via Gi activation"
+        },
+        {
+          "label": "D",
+          "text": "Increased cAMP via adenylate cyclase"
+        },
+        {
+          "label": "E",
+          "text": "Increased calcium via ryanodine receptors"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "ETEC heat-labile toxin (LT) uses a cholera-like mechanism: it activates adenylate cyclase and raises cAMP.",
+        "whyCorrect": "LT is 'labile in the Air (Adenylate cyclase)': it activates adenylate cyclase to increase cAMP, driving chloride and water secretion, whereas the heat-stable toxin raises cGMP.",
+        "whyWrongByChoice": {
+          "A": "Increased cGMP via guanylate cyclase is the mechanism of ETEC heat-stable toxin (ST), not LT.",
+          "B": "IP3/phospholipase C signaling is not the ETEC LT mechanism.",
+          "C": "LT increases, not decreases, cAMP.",
+          "E": "ETEC LT does not act through ryanodine-receptor calcium release."
+        }
+      }
+    },
+    {
+      "id": "bacterial-infectious-diarrhea-020",
+      "topicId": "bacterial-infectious-diarrhea",
+      "topicName": "Bacterial Infectious Diarrhea",
+      "stem": "An infant in a developing country has persistent watery, non-bloody diarrhea. The responsible organism produces no toxin but adheres to the apical enterocyte surface and flattens the microvilli, impairing absorption. Which organism is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enteropathogenic Escherichia coli"
+        },
+        {
+          "label": "B",
+          "text": "Enterotoxigenic Escherichia coli"
+        },
+        {
+          "label": "C",
+          "text": "Enterohemorrhagic Escherichia coli"
+        },
+        {
+          "label": "D",
+          "text": "Vibrio cholerae"
+        },
+        {
+          "label": "E",
+          "text": "Clostridium perfringens"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A toxin-negative E. coli that flattens villi to cause pediatric watery diarrhea is enteropathogenic E. coli (EPEC).",
+        "whyCorrect": "EPEC produces no toxin; it adheres to the apical surface and flattens villi to prevent absorption, causing watery diarrhea and being a major cause of infant diarrhea in developing countries.",
+        "whyWrongByChoice": {
+          "B": "ETEC produces LT and ST enterotoxins, distinguishing it from the toxin-negative EPEC.",
+          "C": "EHEC produces Shiga toxin and causes bloody diarrhea, not toxin-negative villous flattening.",
+          "D": "V. cholerae produces cholera toxin and causes massive secretory diarrhea.",
+          "E": "C. perfringens produces an enterotoxin and causes reheated-meat-associated illness, not villous flattening in infants."
+        }
+      }
+    },
+    {
+      "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes-001",
+      "topicId": "infectious-diarrhea-invasive-bacterial-and-viral-causes",
+      "topicName": "Infectious Diarrhea: Invasive Bacterial and Viral Causes",
+      "stem": "A 24-year-old develops fever, crampy abdominal pain, and bloody, mucoid stools 2 days after eating undercooked chicken at a barbecue. Stool culture on selective media at 42 C under microaerophilic conditions grows oxidase-positive, comma- and S-shaped gram-negative rods. Which organism is most likely responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Salmonella enteritidis"
+        },
+        {
+          "label": "B",
+          "text": "Campylobacter jejuni"
+        },
+        {
+          "label": "C",
+          "text": "Shigella sonnei"
+        },
+        {
+          "label": "D",
+          "text": "Yersinia enterocolitica"
+        },
+        {
+          "label": "E",
+          "text": "Vibrio cholerae"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Comma/S-shaped, oxidase-positive gram-negative rods grown at 42 C microaerophilically after poultry exposure are classic Campylobacter jejuni.",
+        "whyCorrect": "Campylobacter jejuni is a comma- or S-shaped, oxidase-positive gram-negative rod cultured at 42 C in microaerophilic conditions and is the most common bacterial cause of foodborne diarrhea in the U.S., classically after undercooked poultry.",
+        "whyWrongByChoice": {
+          "A": "Salmonella is a motile, H2S-positive straight rod that does not require 42 C microaerophilic culture.",
+          "C": "Shigella is a nonmotile, H2S-negative straight rod and is not grown at 42 C microaerophilically.",
+          "D": "Yersinia is a bipolar-staining coccobacillus grown in the cold (4 C), not a 42 C comma-shaped rod.",
+          "E": "Vibrio cholerae is comma-shaped but grows in alkaline media and causes watery, not bloody, diarrhea."
+        }
+      }
+    },
+    {
+      "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes-002",
+      "topicId": "infectious-diarrhea-invasive-bacterial-and-viral-causes",
+      "topicName": "Infectious Diarrhea: Invasive Bacterial and Viral Causes",
+      "stem": "A 30-year-old develops ascending symmetric weakness and depressed deep tendon reflexes 2 weeks after a self-limited illness of fever and bloody diarrhea that followed a poultry meal. Which mechanism best explains the neurologic findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct bacterial invasion of peripheral nerves"
+        },
+        {
+          "label": "B",
+          "text": "Toxin-mediated blockade of acetylcholine release"
+        },
+        {
+          "label": "C",
+          "text": "Immune-complex deposition in the vasa nervorum"
+        },
+        {
+          "label": "D",
+          "text": "Demyelination from reactivation of a latent herpesvirus"
+        },
+        {
+          "label": "E",
+          "text": "Antibody cross-reactivity with nerve gangliosides"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Post-Campylobacter Guillain-Barre syndrome results from molecular mimicry: anti-Campylobacter antibodies cross-react with peripheral nerve myelin gangliosides.",
+        "whyCorrect": "Up to one-third of Guillain-Barre cases are preceded by Campylobacter; host antibodies cross-react with peripheral nerve gangliosides, causing demyelination and ascending symmetric weakness with depressed reflexes.",
+        "whyWrongByChoice": {
+          "A": "GBS is immune-mediated molecular mimicry, not direct bacterial nerve invasion.",
+          "B": "Blockade of acetylcholine release describes botulism, not post-Campylobacter GBS.",
+          "C": "The mechanism is antibody cross-reactivity, not immune-complex deposition in the vasa nervorum.",
+          "D": "GBS here follows a bacterial infection, not reactivation of a latent herpesvirus."
+        }
+      }
+    },
+    {
+      "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes-003",
+      "topicId": "infectious-diarrhea-invasive-bacterial-and-viral-causes",
+      "topicName": "Infectious Diarrhea: Invasive Bacterial and Viral Causes",
+      "stem": "A 9-year-old with sickle cell disease develops fever and bone pain; blood cultures grow a motile, H2S-producing, non-lactose-fermenting gram-negative rod, and imaging shows osteomyelitis. Which organism is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "B",
+          "text": "Shigella dysenteriae"
+        },
+        {
+          "label": "C",
+          "text": "Campylobacter jejuni"
+        },
+        {
+          "label": "D",
+          "text": "Listeria monocytogenes"
+        },
+        {
+          "label": "E",
+          "text": "Salmonella species"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Salmonella is the most common cause of osteomyelitis in sickle cell disease and matches the motile, H2S-positive, non-lactose-fermenting rod described.",
+        "whyCorrect": "Although S. aureus causes osteomyelitis overall, Salmonella is the number-one cause in sickle cell disease, and the motile, H2S-producing, non-lactose-fermenting gram-negative rod fits Salmonella.",
+        "whyWrongByChoice": {
+          "A": "S. aureus is the leading cause of osteomyelitis overall but not in sickle cell disease, and it is a gram-positive coccus, not this rod.",
+          "B": "Shigella is nonmotile and H2S-negative and does not cause osteomyelitis.",
+          "C": "Campylobacter is comma-shaped and oxidase-positive and is associated with GBS, not osteomyelitis.",
+          "D": "Listeria is a gram-positive rod causing meningitis in at-risk hosts, not sickle cell osteomyelitis."
+        }
+      }
+    },
+    {
+      "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes-004",
+      "topicId": "infectious-diarrhea-invasive-bacterial-and-viral-causes",
+      "topicName": "Infectious Diarrhea: Invasive Bacterial and Viral Causes",
+      "stem": "A 25-year-old returns from South Asia with 10 days of slowly rising, stepwise fever, relative bradycardia, and faint rose-colored macules on the abdomen; early constipation preceded mild diarrhea. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Salmonella enteritidis"
+        },
+        {
+          "label": "B",
+          "text": "Shigella flexneri"
+        },
+        {
+          "label": "C",
+          "text": "Yersinia enterocolitica"
+        },
+        {
+          "label": "D",
+          "text": "Salmonella typhi"
+        },
+        {
+          "label": "E",
+          "text": "Campylobacter jejuni"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Stepwise fever, relative bradycardia, rose spots, and early constipation after travel to an endemic region are classic enteric (typhoid) fever from Salmonella typhi.",
+        "whyCorrect": "Typhoidal Salmonella (S. typhi) causes a systemic febrile illness with slow stepwise fever, relative bradycardia, and rose spots; diarrhea may be absent early with constipation, distinct from nontyphoidal disease.",
+        "whyWrongByChoice": {
+          "A": "Nontyphoidal Salmonella causes inflammatory diarrhea with fever, not enteric fever with rose spots and relative bradycardia.",
+          "B": "Shigella causes acute bacillary dysentery, not weeks of stepwise systemic fever.",
+          "C": "Yersinia causes pseudoappendicitis, not enteric fever.",
+          "E": "Campylobacter causes acute bloody diarrhea after poultry, not this systemic febrile syndrome."
+        }
+      }
+    },
+    {
+      "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes-005",
+      "topicId": "infectious-diarrhea-invasive-bacterial-and-viral-causes",
+      "topicName": "Infectious Diarrhea: Invasive Bacterial and Viral Causes",
+      "stem": "Several toddlers at a daycare develop high fever, tenesmus, and frequent small-volume bloody, mucoid stools; spread between children has been rapid despite good food handling. Stool grows a nonmotile, H2S-negative gram-negative rod. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Shigella species"
+        },
+        {
+          "label": "B",
+          "text": "Salmonella enteritidis"
+        },
+        {
+          "label": "C",
+          "text": "EHEC O157:H7"
+        },
+        {
+          "label": "D",
+          "text": "Vibrio cholerae"
+        },
+        {
+          "label": "E",
+          "text": "Rotavirus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A very low infectious dose enables rapid person-to-person daycare spread of Shigella, which is a nonmotile, H2S-negative rod causing bacillary dysentery.",
+        "whyCorrect": "Shigella has an extremely low infectious dose (10-100 organisms) that drives efficient person-to-person spread and daycare outbreaks, and it is a nonmotile, H2S-negative rod producing fever, tenesmus, and small-volume bloody stools.",
+        "whyWrongByChoice": {
+          "B": "Salmonella is motile and H2S-positive and has a higher infectious dose.",
+          "C": "EHEC causes bloody diarrhea but with low/absent fever and is acquired from food/animals rather than efficient daycare person-to-person spread.",
+          "D": "Vibrio cholerae causes watery, not bloody, diarrhea.",
+          "E": "Rotavirus causes watery, non-bloody diarrhea in this age group."
+        }
+      }
+    },
+    {
+      "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes-006",
+      "topicId": "infectious-diarrhea-invasive-bacterial-and-viral-causes",
+      "topicName": "Infectious Diarrhea: Invasive Bacterial and Viral Causes",
+      "stem": "A 5-year-old develops copious bloody diarrhea and severe cramps but no fever 3 days after eating an undercooked hamburger. Which is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Supportive rehydration"
+        },
+        {
+          "label": "B",
+          "text": "Oral ciprofloxacin therapy"
+        },
+        {
+          "label": "C",
+          "text": "Oral azithromycin therapy"
+        },
+        {
+          "label": "D",
+          "text": "Loperamide (antimotility)"
+        },
+        {
+          "label": "E",
+          "text": "Intravenous ceftriaxone"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Suspected EHEC O157:H7 is managed with supportive care and monitoring for HUS; antibiotics and antimotility agents are contraindicated.",
+        "whyCorrect": "In EHEC, management is supportive (fluids, transfusion, dialysis as needed) with close monitoring for hemolytic-uremic syndrome; antibiotics and antimotility drugs worsen outcomes.",
+        "whyWrongByChoice": {
+          "B": "Antibiotics increase Shiga toxin release and raise HUS risk in EHEC.",
+          "C": "Azithromycin, like other antibiotics, is contraindicated in EHEC.",
+          "D": "Antimotility agents prolong toxin contact time and worsen outcomes.",
+          "E": "Antibiotics of any class should be avoided in EHEC O157:H7."
+        }
+      }
+    },
+    {
+      "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes-007",
+      "topicId": "infectious-diarrhea-invasive-bacterial-and-viral-causes",
+      "topicName": "Infectious Diarrhea: Invasive Bacterial and Viral Causes",
+      "stem": "A 14-year-old develops fever, diarrhea, and right lower quadrant pain mimicking appendicitis after eating chitterlings (pork intestine) at a family gathering. Stool grows a gram-negative coccobacillus with bipolar staining that grows at 4 C. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Campylobacter jejuni"
+        },
+        {
+          "label": "B",
+          "text": "Salmonella typhi"
+        },
+        {
+          "label": "C",
+          "text": "Shigella sonnei"
+        },
+        {
+          "label": "D",
+          "text": "Yersinia enterocolitica"
+        },
+        {
+          "label": "E",
+          "text": "Listeria monocytogenes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pork/chitterling exposure, cold growth (4 C), bipolar-staining coccobacillus, and pseudoappendicitis are classic Yersinia enterocolitica.",
+        "whyCorrect": "Yersinia enterocolitica is a cold-growing, bipolar-staining gram-negative coccobacillus linked to undercooked pork that causes fever, diarrhea, and right lower quadrant pain (pseudoappendicitis) from mesenteric adenitis/terminal ileitis.",
+        "whyWrongByChoice": {
+          "A": "Campylobacter is a 42 C microaerophilic comma-shaped rod linked to poultry, not cold-growing pork-associated pseudoappendicitis.",
+          "B": "S. typhi causes enteric fever, not right lower quadrant pseudoappendicitis.",
+          "C": "Shigella causes dysentery and is a straight nonmotile rod, not a bipolar coccobacillus.",
+          "E": "Listeria is a gram-positive rod affecting pregnant, elderly, or immunocompromised hosts, not this picture."
+        }
+      }
+    },
+    {
+      "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes-008",
+      "topicId": "infectious-diarrhea-invasive-bacterial-and-viral-causes",
+      "topicName": "Infectious Diarrhea: Invasive Bacterial and Viral Causes",
+      "stem": "A pregnant woman at 28 weeks develops fever and myalgias after eating soft cheese; blood culture grows a gram-positive rod with tumbling motility that grows at refrigerator temperature. Which is the most appropriate treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ampicillin"
+        },
+        {
+          "label": "B",
+          "text": "Ceftriaxone"
+        },
+        {
+          "label": "C",
+          "text": "Azithromycin"
+        },
+        {
+          "label": "D",
+          "text": "Ciprofloxacin"
+        },
+        {
+          "label": "E",
+          "text": "Metronidazole"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Listeria monocytogenes (soft cheese, tumbling motility, cold growth, gram-positive rod) is treated with ampicillin; cephalosporins do not cover it.",
+        "whyCorrect": "Invasive listeriosis is treated with ampicillin (with gentamicin for synergy in serious infection); Listeria is intrinsically resistant to cephalosporins.",
+        "whyWrongByChoice": {
+          "B": "Cephalosporins do not cover Listeria.",
+          "C": "Azithromycin is not the drug of choice for invasive Listeria.",
+          "D": "Fluoroquinolones are not standard therapy for Listeria.",
+          "E": "Metronidazole targets anaerobes/protozoa, not Listeria."
+        }
+      }
+    },
+    {
+      "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes-009",
+      "topicId": "infectious-diarrhea-invasive-bacterial-and-viral-causes",
+      "topicName": "Infectious Diarrhea: Invasive Bacterial and Viral Causes",
+      "stem": "Over 48 hours, 60 adult passengers on a cruise ship develop acute vomiting and watery, non-bloody diarrhea that resolves in 1-2 days. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rotavirus"
+        },
+        {
+          "label": "B",
+          "text": "Salmonella enteritidis"
+        },
+        {
+          "label": "C",
+          "text": "Enterotoxigenic E. coli"
+        },
+        {
+          "label": "D",
+          "text": "Campylobacter jejuni"
+        },
+        {
+          "label": "E",
+          "text": "Norovirus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "An explosive adult gastroenteritis outbreak on a cruise ship with vomiting and brief watery diarrhea is classic norovirus.",
+        "whyCorrect": "Norovirus is the predominant cause of acute gastroenteritis in adults and classically causes closed-setting outbreaks (cruise ships, nursing homes) with prominent vomiting and watery diarrhea lasting 1-2 days.",
+        "whyWrongByChoice": {
+          "A": "Rotavirus predominantly causes severe diarrhea in unvaccinated infants, not adult cruise-ship outbreaks.",
+          "B": "Salmonella causes inflammatory, often bloody diarrhea with fever.",
+          "C": "ETEC causes traveler's diarrhea in developing regions, not closed-setting adult outbreaks.",
+          "D": "Campylobacter causes bloody diarrhea after poultry, not this outbreak pattern."
+        }
+      }
+    },
+    {
+      "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes-010",
+      "topicId": "infectious-diarrhea-invasive-bacterial-and-viral-causes",
+      "topicName": "Infectious Diarrhea: Invasive Bacterial and Viral Causes",
+      "stem": "An unvaccinated 12-month-old presents in winter with vomiting followed by profuse watery diarrhea and dehydration; a rapid stool antigen test is positive. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Norovirus"
+        },
+        {
+          "label": "B",
+          "text": "Shigella species"
+        },
+        {
+          "label": "C",
+          "text": "Rotavirus"
+        },
+        {
+          "label": "D",
+          "text": "Adenovirus (enteric)"
+        },
+        {
+          "label": "E",
+          "text": "Astrovirus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Severe dehydrating watery diarrhea in an unvaccinated infant during winter, with a positive rapid antigen test, is classic rotavirus.",
+        "whyCorrect": "Rotavirus is the leading cause of severe dehydrating diarrhea in unvaccinated infants and young children, has winter seasonality, and is diagnosed by rapid stool antigen (EIA).",
+        "whyWrongByChoice": {
+          "A": "Norovirus predominates in adults and older children rather than this classic severe infant winter picture.",
+          "B": "Shigella causes bloody dysentery, not watery diarrhea.",
+          "D": "Enteric adenovirus causes milder, prolonged diarrhea without strong winter seasonality.",
+          "E": "Astrovirus causes milder disease and is a less common cause than rotavirus."
+        }
+      }
+    },
+    {
+      "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes-011",
+      "topicId": "infectious-diarrhea-invasive-bacterial-and-viral-causes",
+      "topicName": "Infectious Diarrhea: Invasive Bacterial and Viral Causes",
+      "stem": "A renal transplant recipient develops fever, abdominal pain, and bloody diarrhea; colonoscopic biopsy shows large cells with owl-eye intranuclear inclusions. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Norovirus"
+        },
+        {
+          "label": "B",
+          "text": "Rotavirus"
+        },
+        {
+          "label": "C",
+          "text": "Adenovirus (enteric)"
+        },
+        {
+          "label": "D",
+          "text": "Astrovirus"
+        },
+        {
+          "label": "E",
+          "text": "Cytomegalovirus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Owl-eye intranuclear inclusions on colonic biopsy in an immunocompromised transplant patient indicate CMV colitis.",
+        "whyCorrect": "CMV colitis is a disease of immunocompromised hosts (transplant, HIV/AIDS, chemotherapy) and is diagnosed by biopsy showing owl-eye intranuclear inclusions, treated with ganciclovir.",
+        "whyWrongByChoice": {
+          "A": "Norovirus causes community-acquired watery diarrhea in immunocompetent hosts without owl-eye inclusions.",
+          "B": "Rotavirus affects young children with watery diarrhea, not transplant colitis with inclusions.",
+          "C": "Enteric adenovirus causes mild prolonged pediatric diarrhea, not owl-eye inclusion colitis.",
+          "D": "Astrovirus causes mild watery diarrhea, not inclusion-bearing colitis."
+        }
+      }
+    },
+    {
+      "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes-012",
+      "topicId": "infectious-diarrhea-invasive-bacterial-and-viral-causes",
+      "topicName": "Infectious Diarrhea: Invasive Bacterial and Viral Causes",
+      "stem": "A healthy 30-year-old has 3 days of fever and non-bloody diarrhea after a picnic with undercooked eggs; stool grows nontyphoidal Salmonella. He is hemodynamically stable with no comorbidities. Which is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Supportive rehydration only"
+        },
+        {
+          "label": "B",
+          "text": "Oral ciprofloxacin therapy"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous ceftriaxone alone"
+        },
+        {
+          "label": "D",
+          "text": "Oral azithromycin therapy"
+        },
+        {
+          "label": "E",
+          "text": "Oral vancomycin therapy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Uncomplicated nontyphoidal Salmonella in an immunocompetent adult is treated supportively; antibiotics prolong fecal carriage without shortening illness.",
+        "whyCorrect": "In immunocompetent adults, antibiotics for nontyphoidal Salmonella prolong fecal carriage without shortening illness, so management is supportive rehydration; treatment is reserved for high-risk patients.",
+        "whyWrongByChoice": {
+          "B": "Ciprofloxacin would prolong carriage without benefit in a healthy adult.",
+          "C": "Ceftriaxone is reserved for invasive disease or high-risk patients.",
+          "D": "Azithromycin is not indicated for uncomplicated nontyphoidal Salmonella in a healthy adult.",
+          "E": "Vancomycin treats C. difficile, not Salmonella."
+        }
+      }
+    },
+    {
+      "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes-013",
+      "topicId": "infectious-diarrhea-invasive-bacterial-and-viral-causes",
+      "topicName": "Infectious Diarrhea: Invasive Bacterial and Viral Causes",
+      "stem": "A 2-year-old develops fever and diarrhea; the family recently acquired a pet turtle. Which organism is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Shigella sonnei"
+        },
+        {
+          "label": "B",
+          "text": "Campylobacter jejuni"
+        },
+        {
+          "label": "C",
+          "text": "Salmonella species"
+        },
+        {
+          "label": "D",
+          "text": "Yersinia enterocolitica"
+        },
+        {
+          "label": "E",
+          "text": "Listeria monocytogenes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Reptile (pet turtle/lizard) exposure is a classic source of nontyphoidal Salmonella.",
+        "whyCorrect": "Nontyphoidal Salmonella is acquired from undercooked poultry, eggs, unpasteurized dairy, and reptiles such as pet turtles and lizards, making it the most likely cause here.",
+        "whyWrongByChoice": {
+          "A": "Shigella spreads person-to-person via the 4 F's, not reptile contact.",
+          "B": "Campylobacter is linked to poultry and puppies/kittens, not reptiles.",
+          "D": "Yersinia is linked to pork and cold storage, not reptiles.",
+          "E": "Listeria is linked to deli/dairy foods in at-risk hosts, not pet turtles."
+        }
+      }
+    },
+    {
+      "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes-014",
+      "topicId": "infectious-diarrhea-invasive-bacterial-and-viral-causes",
+      "topicName": "Infectious Diarrhea: Invasive Bacterial and Viral Causes",
+      "stem": "A toxin produced by Shigella dysenteriae and by EHEC O157:H7 removes an adenine residue from host ribosomal RNA. Which host component is directly inactivated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The 40S ribosomal subunit"
+        },
+        {
+          "label": "B",
+          "text": "Elongation factor 2 (EF-2)"
+        },
+        {
+          "label": "C",
+          "text": "The 60S ribosomal subunit"
+        },
+        {
+          "label": "D",
+          "text": "The Gs regulatory protein"
+        },
+        {
+          "label": "E",
+          "text": "Guanylate cyclase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Shiga and Shiga-like toxins remove an adenine from 28S rRNA of the 60S ribosomal subunit, halting protein synthesis.",
+        "whyCorrect": "The A subunit of Shiga/Shiga-like toxin depurinates the 28S rRNA of the 60S ribosomal subunit, halting protein synthesis and triggering apoptosis of intestinal and endothelial cells.",
+        "whyWrongByChoice": {
+          "A": "Shiga toxin acts on the 60S (28S rRNA), not the 40S subunit.",
+          "B": "EF-2 ADP-ribosylation is the mechanism of diphtheria and Pseudomonas exotoxin A.",
+          "D": "Gs activation describes cholera toxin.",
+          "E": "Guanylate cyclase activation describes the ETEC heat-stable toxin."
+        }
+      }
+    },
+    {
+      "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes-015",
+      "topicId": "infectious-diarrhea-invasive-bacterial-and-viral-causes",
+      "topicName": "Infectious Diarrhea: Invasive Bacterial and Viral Causes",
+      "stem": "A child with bloody diarrhea and no fever after a petting-zoo visit is suspected of EHEC O157:H7 infection. Which stool laboratory finding best supports this diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydrogen sulfide production on TSI agar"
+        },
+        {
+          "label": "B",
+          "text": "Sorbitol nonfermentation on sorbitol-MacConkey agar"
+        },
+        {
+          "label": "C",
+          "text": "Growth at 42 C under microaerophilic conditions"
+        },
+        {
+          "label": "D",
+          "text": "Cytochrome oxidase positivity on spot testing"
+        },
+        {
+          "label": "E",
+          "text": "Bipolar 'safety-pin' staining on Wright-Giemsa stain"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "EHEC O157:H7 does not ferment sorbitol, the basis for sorbitol-MacConkey screening.",
+        "whyCorrect": "Unlike most E. coli, O157:H7 does not ferment sorbitol, so it appears colorless on sorbitol-MacConkey agar, which is the screening test that supports the diagnosis.",
+        "whyWrongByChoice": {
+          "A": "H2S production characterizes Salmonella, not EHEC.",
+          "C": "Growth at 42 C microaerophilically characterizes Campylobacter.",
+          "D": "Oxidase positivity characterizes Campylobacter/Vibrio, not E. coli.",
+          "E": "Bipolar staining characterizes Yersinia."
+        }
+      }
+    },
+    {
+      "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes-016",
+      "topicId": "infectious-diarrhea-invasive-bacterial-and-viral-causes",
+      "topicName": "Infectious Diarrhea: Invasive Bacterial and Viral Causes",
+      "stem": "A stool isolate from a patient with bloody diarrhea after eating undercooked poultry is oxidase-positive and requires special culture conditions. Under which conditions is this organism best cultured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alkaline peptone water at 37 C"
+        },
+        {
+          "label": "B",
+          "text": "Microaerophilic conditions at 42 C"
+        },
+        {
+          "label": "C",
+          "text": "Anaerobic conditions at 25 C"
+        },
+        {
+          "label": "D",
+          "text": "Cold enrichment at 4 C"
+        },
+        {
+          "label": "E",
+          "text": "Aerobic conditions on sorbitol-MacConkey agar"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Campylobacter jejuni is cultured on enriched media at 42 C under microaerophilic conditions.",
+        "whyCorrect": "Campylobacter, the poultry-associated oxidase-positive comma-shaped rod, grows on enriched media at 42 C in microaerophilic conditions.",
+        "whyWrongByChoice": {
+          "A": "Alkaline media favor Vibrio cholerae.",
+          "C": "Anaerobic growth at 25 C is not the Campylobacter requirement.",
+          "D": "Cold enrichment at 4 C favors Yersinia and Listeria.",
+          "E": "Sorbitol-MacConkey agar screens for EHEC O157:H7."
+        }
+      }
+    },
+    {
+      "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes-017",
+      "topicId": "infectious-diarrhea-invasive-bacterial-and-viral-causes",
+      "topicName": "Infectious Diarrhea: Invasive Bacterial and Viral Causes",
+      "stem": "An elderly man develops febrile gastroenteritis; blood cultures grow a catalase-positive, beta-hemolytic gram-positive rod showing tumbling motility in broth. Empiric ceftriaxone was started but is inappropriate because this organism is intrinsically resistant. Which agent should be used instead?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Azithromycin"
+        },
+        {
+          "label": "B",
+          "text": "Ciprofloxacin"
+        },
+        {
+          "label": "C",
+          "text": "Metronidazole"
+        },
+        {
+          "label": "D",
+          "text": "Ampicillin"
+        },
+        {
+          "label": "E",
+          "text": "Vancomycin (oral)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The catalase-positive, beta-hemolytic, tumbling-motile gram-positive rod is Listeria, treated with ampicillin because cephalosporins do not cover it.",
+        "whyCorrect": "Listeria monocytogenes is intrinsically resistant to cephalosporins and is treated with ampicillin (with gentamicin for synergy in invasive disease).",
+        "whyWrongByChoice": {
+          "A": "Azithromycin is not first-line for invasive Listeria.",
+          "B": "Fluoroquinolones are not standard Listeria therapy.",
+          "C": "Metronidazole covers anaerobes/protozoa, not Listeria.",
+          "E": "Oral vancomycin is used for C. difficile colitis and is not absorbed systemically."
+        }
+      }
+    },
+    {
+      "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes-018",
+      "topicId": "infectious-diarrhea-invasive-bacterial-and-viral-causes",
+      "topicName": "Infectious Diarrhea: Invasive Bacterial and Viral Causes",
+      "stem": "A parent asks about the oral live attenuated rotavirus vaccine. Which statement is correct regarding its administration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is given as a single dose at 12 months of age"
+        },
+        {
+          "label": "B",
+          "text": "The first dose should be given before 15 weeks of age"
+        },
+        {
+          "label": "C",
+          "text": "It is an inactivated intramuscular vaccine"
+        },
+        {
+          "label": "D",
+          "text": "It eliminates the risk of all viral gastroenteritis"
+        },
+        {
+          "label": "E",
+          "text": "It is contraindicated because it commonly causes meningitis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The oral live attenuated rotavirus vaccine series starts at 2 months, and the first dose must be given before 15 weeks of age.",
+        "whyCorrect": "The rotavirus vaccine is an oral live attenuated series beginning at 2 months; the first dose must be given before 15 weeks, with a rare association with intussusception.",
+        "whyWrongByChoice": {
+          "A": "It is a multi-dose oral series started at 2 months, not a single 12-month dose.",
+          "C": "It is an oral live attenuated vaccine, not an inactivated intramuscular one.",
+          "D": "It targets rotavirus only, not all viral gastroenteritis.",
+          "E": "It carries a rare (not common) intussusception association, not meningitis."
+        }
+      }
+    },
+    {
+      "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes-019",
+      "topicId": "infectious-diarrhea-invasive-bacterial-and-viral-causes",
+      "topicName": "Infectious Diarrhea: Invasive Bacterial and Viral Causes",
+      "stem": "During a norovirus outbreak in a nursing home, staff ask how to best reduce transmission. Which measure is most effective?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alcohol-based hand sanitizer alone"
+        },
+        {
+          "label": "B",
+          "text": "Prophylactic oral antibiotics"
+        },
+        {
+          "label": "C",
+          "text": "Routine antiviral prophylaxis"
+        },
+        {
+          "label": "D",
+          "text": "Handwashing with soap and water"
+        },
+        {
+          "label": "E",
+          "text": "Bismuth subsalicylate for all residents"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Handwashing with soap and water is preferred for norovirus because alcohol-based sanitizers are less effective.",
+        "whyCorrect": "Norovirus is relatively resistant to alcohol-based sanitizers, so soap-and-water handwashing (with environmental bleach disinfection) is the most effective control measure.",
+        "whyWrongByChoice": {
+          "A": "Alcohol-based sanitizers are less effective against norovirus (similar to C. difficile spores).",
+          "B": "Antibiotics have no role in viral gastroenteritis.",
+          "C": "No routine antiviral prophylaxis exists for norovirus.",
+          "E": "Bismuth is not an effective outbreak-control measure."
+        }
+      }
+    },
+    {
+      "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes-020",
+      "topicId": "infectious-diarrhea-invasive-bacterial-and-viral-causes",
+      "topicName": "Infectious Diarrhea: Invasive Bacterial and Viral Causes",
+      "stem": "An 18-month-old has watery diarrhea and mild low-grade fever persisting for about 10 days, without nasopharyngitis or conjunctivitis. Which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rotavirus (group A)"
+        },
+        {
+          "label": "B",
+          "text": "Norovirus (genogroup II)"
+        },
+        {
+          "label": "C",
+          "text": "Enteric adenovirus"
+        },
+        {
+          "label": "D",
+          "text": "Shigella sonnei"
+        },
+        {
+          "label": "E",
+          "text": "Cytomegalovirus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A young child with mild watery diarrhea lasting more than a week, without respiratory or eye findings, fits enteric adenovirus (serotypes 40/41).",
+        "whyCorrect": "Enteric adenovirus (serotypes 40, 41) causes a longer incubation and duration (5-12 days) of mild watery diarrhea in infants, without the nasopharyngitis or keratoconjunctivitis of respiratory serotypes.",
+        "whyWrongByChoice": {
+          "A": "Rotavirus diarrhea usually lasts 3-8 days, shorter than this prolonged course.",
+          "B": "Norovirus is brief (1-2 days) and predominates in adults.",
+          "D": "Shigella causes bloody dysentery with high fever, not mild prolonged watery diarrhea.",
+          "E": "CMV enteritis occurs in immunocompromised hosts, not a healthy toddler."
+        }
+      }
+    },
+    {
+      "id": "key-gi-parasites-and-amoebas-001",
+      "topicId": "key-gi-parasites-and-amoebas",
+      "topicName": "Key GI Parasites and Amoebas",
+      "stem": "A 34-year-old man who emigrated from Mexico 3 weeks ago has a 2-week history of gradually worsening lower abdominal cramping and bloody, mucus-containing stools. Temperature is 37.6 C. Colonoscopic biopsy shows ulcers that are narrow at the mucosal surface and broad in the submucosa, and trophozoites containing ingested erythrocytes are seen. Which of the following is the most likely causative organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cryptosporidium parvum"
+        },
+        {
+          "label": "B",
+          "text": "Cyclospora cayetanensis"
+        },
+        {
+          "label": "C",
+          "text": "Trichuris trichiura"
+        },
+        {
+          "label": "D",
+          "text": "Cystoisospora belli"
+        },
+        {
+          "label": "E",
+          "text": "Entamoeba histolytica"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Flask-shaped colonic ulcers (narrow neck, broad submucosal base) with erythrophagocytic trophozoites are pathognomonic for invasive intestinal amebiasis caused by Entamoeba histolytica.",
+        "whyCorrect": "E. histolytica trophozoites penetrate beneath an intact surface epithelium and spread laterally in the submucosa, producing the characteristic flask-shaped ulcer; ingestion of red blood cells (erythrophagocytosis) marks the invasive, pathogenic form. The subacute course with bloody, mucus-laden stools and low-grade fever fits amebic dysentery.",
+        "whyWrongByChoice": {
+          "A": "Cryptosporidium causes watery, non-bloody diarrhea and resides in a brush-border vacuole; it does not form flask-shaped ulcers or ingest erythrocytes.",
+          "B": "Cyclospora is a coccidian causing watery, non-bloody diarrhea without mucosal invasion or flask ulcers.",
+          "C": "Trichuris embeds whip-shaped adult worms in cecal mucosa and is diagnosed by barrel-shaped eggs, not flask-shaped ulcers with trophozoites.",
+          "D": "Cystoisospora causes watery diarrhea in a brush-border/enterocyte niche and shows large acid-fast oocysts, not invasive erythrophagocytic trophozoites."
+        }
+      }
+    },
+    {
+      "id": "key-gi-parasites-and-amoebas-002",
+      "topicId": "key-gi-parasites-and-amoebas",
+      "topicName": "Key GI Parasites and Amoebas",
+      "stem": "A 28-year-old woman has confirmed invasive amebic dysentery. Her physician plans a two-drug regimen. Which of the following is the most appropriate initial agent to eliminate the invasive tissue trophozoites?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Paromomycin"
+        },
+        {
+          "label": "B",
+          "text": "Iodoquinol"
+        },
+        {
+          "label": "C",
+          "text": "Metronidazole"
+        },
+        {
+          "label": "D",
+          "text": "Albendazole"
+        },
+        {
+          "label": "E",
+          "text": "Nitazoxanide"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Invasive E. histolytica requires a tissue-active agent (metronidazole or tinidazole) first, followed by a luminal agent to clear residual cysts.",
+        "whyCorrect": "Metronidazole is the tissue-active agent that eliminates invasive trophozoites in the colonic wall and extraintestinal sites; it is given before a luminal agent to prevent relapse and ongoing transmission.",
+        "whyWrongByChoice": {
+          "A": "Paromomycin is a luminal agent used after the tissue-active drug to eradicate intraluminal cysts, not to kill invasive trophozoites.",
+          "B": "Iodoquinol is a luminal agent for cyst eradication, not for invasive tissue disease.",
+          "D": "Albendazole treats helminths such as Trichuris and Echinococcus, not amebiasis.",
+          "E": "Nitazoxanide is used for coccidian (Cryptosporidium) diarrhea, not as the tissue-active agent for amebic dysentery."
+        }
+      }
+    },
+    {
+      "id": "key-gi-parasites-and-amoebas-003",
+      "topicId": "key-gi-parasites-and-amoebas",
+      "topicName": "Key GI Parasites and Amoebas",
+      "stem": "During a community outbreak traced to the municipal water supply, an otherwise healthy 40-year-old man develops 7 days of watery, non-bloody diarrhea and cramping. Stool modified acid-fast stain shows small (4-6 micrometer) oocysts that stain uniformly. Which of the following is the most likely organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cryptosporidium parvum"
+        },
+        {
+          "label": "B",
+          "text": "Cyclospora cayetanensis"
+        },
+        {
+          "label": "C",
+          "text": "Entamoeba histolytica"
+        },
+        {
+          "label": "D",
+          "text": "Cystoisospora belli"
+        },
+        {
+          "label": "E",
+          "text": "Trichuris trichiura"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Small (4-6 micrometer), uniformly acid-fast oocysts with a self-limited waterborne watery diarrhea in an immunocompetent host indicate Cryptosporidium.",
+        "whyCorrect": "Cryptosporidium oocysts are the smallest of the coccidians (4-6 micrometer) and stain uniformly acid-fast; the organism is resistant to chlorination, causing large waterborne outbreaks with self-limited watery diarrhea in immunocompetent hosts.",
+        "whyWrongByChoice": {
+          "B": "Cyclospora oocysts are larger (8-10 micrometer), stain variably, and autofluoresce; they are produce-associated rather than classically waterborne through municipal supplies.",
+          "C": "Entamoeba causes bloody, mucus-laden dysentery with trophozoites/cysts, not small acid-fast oocysts.",
+          "D": "Cystoisospora oocysts are large (20-33 micrometer) and ellipsoidal, not small and round.",
+          "E": "Trichuris is a helminth diagnosed by barrel-shaped eggs, not acid-fast oocysts."
+        }
+      }
+    },
+    {
+      "id": "key-gi-parasites-and-amoebas-004",
+      "topicId": "key-gi-parasites-and-amoebas",
+      "topicName": "Key GI Parasites and Amoebas",
+      "stem": "A 35-year-old man with advanced AIDS and a CD4 count of 60 cells/microliter has weeks of severe, voluminous watery diarrhea with weight loss. Stool acid-fast stain reveals small uniformly staining oocysts. Which of the following is the most important therapeutic intervention?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nitazoxanide monotherapy"
+        },
+        {
+          "label": "B",
+          "text": "Oral vancomycin"
+        },
+        {
+          "label": "C",
+          "text": "Metronidazole"
+        },
+        {
+          "label": "D",
+          "text": "Antiretroviral therapy"
+        },
+        {
+          "label": "E",
+          "text": "Mebendazole"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cryptosporidiosis in advanced AIDS persists until immune reconstitution; restoring CD4 counts with antiretroviral therapy is the critical intervention.",
+        "whyCorrect": "In advanced AIDS, Cryptosporidium causes chronic severe diarrhea that may persist indefinitely without immune reconstitution; antiretroviral therapy to restore CD4 counts is the most important intervention.",
+        "whyWrongByChoice": {
+          "A": "Nitazoxanide can shorten illness in immunocompetent hosts but is unreliable in advanced AIDS without immune recovery.",
+          "B": "Oral vancomycin treats Clostridioides difficile, not cryptosporidiosis.",
+          "C": "Metronidazole targets amebiasis, not Cryptosporidium.",
+          "E": "Mebendazole treats intestinal helminths, not a coccidian protozoan."
+        }
+      }
+    },
+    {
+      "id": "key-gi-parasites-and-amoebas-005",
+      "topicId": "key-gi-parasites-and-amoebas",
+      "topicName": "Key GI Parasites and Amoebas",
+      "stem": "A 30-year-old traveler returning from Peru has 3 weeks of prolonged, relapsing watery diarrhea with nausea, anorexia, and low-grade fever that began after eating fresh salads and raspberries. Stool oocysts stain variably with acid-fast and autofluoresce blue-green under ultraviolet light. Which of the following is the most likely organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cryptosporidium parvum"
+        },
+        {
+          "label": "B",
+          "text": "Cystoisospora belli"
+        },
+        {
+          "label": "C",
+          "text": "Cyclospora cayetanensis"
+        },
+        {
+          "label": "D",
+          "text": "Entamoeba histolytica"
+        },
+        {
+          "label": "E",
+          "text": "Trichuris trichiura"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Produce-associated, relapsing watery diarrhea with variably acid-fast, UV-autofluorescent oocysts is characteristic of Cyclospora cayetanensis.",
+        "whyCorrect": "Cyclospora is transmitted by contaminated fresh produce (berries, greens, herbs), classically in travelers to Latin America; its 8-10 micrometer oocysts stain variably acid-fast and autofluoresce under UV, and untreated infection causes a relapsing course that waxes and wanes.",
+        "whyWrongByChoice": {
+          "A": "Cryptosporidium oocysts stain uniformly acid-fast and do not autofluoresce; it is classically waterborne.",
+          "B": "Cystoisospora oocysts are large and distinctly (not variably) acid-fast and do not autofluoresce.",
+          "D": "Entamoeba causes bloody dysentery with trophozoites/cysts, not autofluorescent oocysts.",
+          "E": "Trichuris is a helminth diagnosed by barrel-shaped eggs, not oocysts."
+        }
+      }
+    },
+    {
+      "id": "key-gi-parasites-and-amoebas-006",
+      "topicId": "key-gi-parasites-and-amoebas",
+      "topicName": "Key GI Parasites and Amoebas",
+      "stem": "A 45-year-old man with HIV has chronic profuse watery diarrhea and weight loss. Stool shows large (20-33 micrometer) ellipsoidal oocysts that stain distinctly acid-fast, and a complete blood count reveals peripheral eosinophilia. Which of the following is the most likely organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cystoisospora belli"
+        },
+        {
+          "label": "B",
+          "text": "Cryptosporidium parvum"
+        },
+        {
+          "label": "C",
+          "text": "Cyclospora cayetanensis"
+        },
+        {
+          "label": "D",
+          "text": "Entamoeba histolytica"
+        },
+        {
+          "label": "E",
+          "text": "Trichuris trichiura"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Large ellipsoidal acid-fast oocysts plus peripheral eosinophilia (unusual among coccidians) point to Cystoisospora belli.",
+        "whyCorrect": "Cystoisospora belli oocysts are the largest coccidian oocysts (20-33 micrometer), ellipsoidal and distinctly acid-fast; peripheral eosinophilia is a distinguishing clue unique to this coccidian and is classically seen with chronic watery diarrhea in HIV patients.",
+        "whyWrongByChoice": {
+          "B": "Cryptosporidium oocysts are small (4-6 micrometer) and are not associated with eosinophilia.",
+          "C": "Cyclospora oocysts are intermediate (8-10 micrometer) and autofluoresce; eosinophilia is not its hallmark.",
+          "D": "Entamoeba causes bloody dysentery, not watery diarrhea with acid-fast oocysts.",
+          "E": "Trichuris is a helminth (can cause anemia) diagnosed by eggs, not acid-fast oocysts."
+        }
+      }
+    },
+    {
+      "id": "key-gi-parasites-and-amoebas-007",
+      "topicId": "key-gi-parasites-and-amoebas",
+      "topicName": "Key GI Parasites and Amoebas",
+      "stem": "A 6-year-old boy from a rural area with poor sanitation has months of chronic abdominal pain, intermittent diarrhea, poor growth, and mild anemia. His mother reports tissue protruding from his rectum during straining. Stool examination shows barrel-shaped, bile-stained eggs with clear bipolar plugs. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cryptosporidiosis"
+        },
+        {
+          "label": "B",
+          "text": "Amebiasis"
+        },
+        {
+          "label": "C",
+          "text": "Trichuriasis"
+        },
+        {
+          "label": "D",
+          "text": "Cystoisosporiasis"
+        },
+        {
+          "label": "E",
+          "text": "Echinococcosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Chronic heavy whipworm infection in a child produces diarrhea, iron-deficiency anemia, growth delay, and rectal prolapse, diagnosed by barrel-shaped eggs with bipolar plugs.",
+        "whyCorrect": "Trichuris trichiura (whipworm) heavy infection classically causes chronic diarrhea, anemia, growth delay, and rectal prolapse from straining; the barrel-shaped (lemon-shaped) bile-stained eggs with clear bipolar plugs on stool exam are diagnostic.",
+        "whyWrongByChoice": {
+          "A": "Cryptosporidiosis causes acute or chronic watery diarrhea with acid-fast oocysts, not egg-forming worms or rectal prolapse.",
+          "B": "Amebiasis causes bloody, mucus-laden dysentery with trophozoites/cysts, not barrel-shaped eggs.",
+          "D": "Cystoisosporiasis causes watery diarrhea with large acid-fast oocysts, not eggs with bipolar plugs.",
+          "E": "Echinococcosis causes hepatic/pulmonary cysts, not an egg-passing intestinal infection with prolapse."
+        }
+      }
+    },
+    {
+      "id": "key-gi-parasites-and-amoebas-008",
+      "topicId": "key-gi-parasites-and-amoebas",
+      "topicName": "Key GI Parasites and Amoebas",
+      "stem": "A 7-year-old child is diagnosed with a heavy Trichuris trichiura infection causing chronic diarrhea and rectal prolapse. Which of the following is the most appropriate first-line treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Metronidazole"
+        },
+        {
+          "label": "B",
+          "text": "Trimethoprim-sulfamethoxazole"
+        },
+        {
+          "label": "C",
+          "text": "Albendazole"
+        },
+        {
+          "label": "D",
+          "text": "Praziquantel"
+        },
+        {
+          "label": "E",
+          "text": "Nitazoxanide"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Trichuriasis is treated with a benzimidazole such as albendazole (or mebendazole).",
+        "whyCorrect": "Albendazole is the first-line anthelmintic for Trichuris trichiura, often as a single dose; ivermectin may be added in heavy infections.",
+        "whyWrongByChoice": {
+          "A": "Metronidazole treats amebiasis and other protozoa, not whipworm.",
+          "B": "Trimethoprim-sulfamethoxazole treats the coccidians Cyclospora and Cystoisospora, not a nematode.",
+          "D": "Praziquantel treats flukes and most tapeworms, but not Trichuris and not the treatment of choice here.",
+          "E": "Nitazoxanide is used for Cryptosporidium, not for whipworm."
+        }
+      }
+    },
+    {
+      "id": "key-gi-parasites-and-amoebas-009",
+      "topicId": "key-gi-parasites-and-amoebas",
+      "topicName": "Key GI Parasites and Amoebas",
+      "stem": "A 52-year-old sheep farmer from the Mediterranean region is found on CT to have a single, well-defined, fluid-filled hepatic cyst with rim (eggshell) calcification. He recalls close contact with farm dogs. Which of the following is the most likely organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Echinococcus multilocularis"
+        },
+        {
+          "label": "B",
+          "text": "Entamoeba histolytica"
+        },
+        {
+          "label": "C",
+          "text": "Trichuris trichiura"
+        },
+        {
+          "label": "D",
+          "text": "Echinococcus granulosus"
+        },
+        {
+          "label": "E",
+          "text": "Cryptosporidium parvum"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A single, well-defined, calcified unilocular hepatic hydatid cyst in a sheep-raising region indicates cystic echinococcosis from E. granulosus.",
+        "whyCorrect": "E. granulosus produces a single (unilocular), well-defined, slow-growing hydatid cyst that may calcify; it is most common in sheep-raising regions where dogs are the definitive host, and humans acquire it by ingesting eggs from dog feces.",
+        "whyWrongByChoice": {
+          "A": "E. multilocularis produces an infiltrative, multi-vesicular, tumor-like lesion, not a single well-defined cyst.",
+          "B": "Entamoeba can cause a liver abscess, but that is a pus-filled cavity, not a calcified unilocular hydatid cyst.",
+          "C": "Trichuris is an intestinal nematode and does not form hepatic cysts.",
+          "E": "Cryptosporidium is an intestinal coccidian and does not form hepatic cysts."
+        }
+      }
+    },
+    {
+      "id": "key-gi-parasites-and-amoebas-010",
+      "topicId": "key-gi-parasites-and-amoebas",
+      "topicName": "Key GI Parasites and Amoebas",
+      "stem": "A 50-year-old man has a suspected hepatic hydatid cyst caused by Echinococcus granulosus. His physician warns that uncontrolled percutaneous aspiration could be dangerous. Which of the following is the most concerning immediate risk of this procedure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Portal vein thrombosis"
+        },
+        {
+          "label": "B",
+          "text": "Anaphylactic reaction"
+        },
+        {
+          "label": "C",
+          "text": "Hepatic encephalopathy"
+        },
+        {
+          "label": "D",
+          "text": "Bile duct stricture"
+        },
+        {
+          "label": "E",
+          "text": "Variceal hemorrhage"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Spillage of hydatid cyst contents during aspiration can trigger life-threatening anaphylaxis (and peritoneal dissemination).",
+        "whyCorrect": "Cyst fluid is highly antigenic; leakage during unprotected aspiration or rupture can provoke a severe anaphylactic reaction, as well as peritoneal seeding of protoscolices, which is why aspiration requires appropriate precautions.",
+        "whyWrongByChoice": {
+          "A": "Portal vein thrombosis is not the characteristic hazard of hydatid cyst aspiration.",
+          "C": "Hepatic encephalopathy results from liver failure/portosystemic shunting, not cyst spillage.",
+          "D": "Bile duct stricture is not the immediate feared complication of aspiration.",
+          "E": "Variceal hemorrhage relates to portal hypertension, not to spillage of cyst antigen."
+        }
+      }
+    },
+    {
+      "id": "key-gi-parasites-and-amoebas-011",
+      "topicId": "key-gi-parasites-and-amoebas",
+      "topicName": "Key GI Parasites and Amoebas",
+      "stem": "A laboratory is trying to distinguish invasive, pathogenic Entamoeba histolytica from morphologically similar commensal amebae on a stool wet mount. Which of the following microscopic findings most specifically indicates the invasive pathogenic form?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oocysts that autofluoresce under ultraviolet light"
+        },
+        {
+          "label": "B",
+          "text": "Trophozoites containing ingested erythrocytes"
+        },
+        {
+          "label": "C",
+          "text": "Barrel-shaped eggs with bipolar plugs"
+        },
+        {
+          "label": "D",
+          "text": "Acid-fast oocysts 4-6 micrometer in size"
+        },
+        {
+          "label": "E",
+          "text": "Motile flagellated pear-shaped organisms"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Erythrophagocytosis (trophozoites with ingested red blood cells) marks invasive E. histolytica.",
+        "whyCorrect": "Trophozoites actively ingesting red blood cells indicate tissue-invasive E. histolytica, distinguishing it from noninvasive organisms; the vegetative motile trophozoite is the invasive form.",
+        "whyWrongByChoice": {
+          "A": "UV autofluorescent oocysts describe Cyclospora, a coccidian, not Entamoeba.",
+          "C": "Barrel-shaped eggs with bipolar plugs describe Trichuris, a helminth.",
+          "D": "Small acid-fast oocysts describe Cryptosporidium, not Entamoeba.",
+          "E": "Flagellated pear-shaped organisms describe Giardia, not the amebic trophozoite."
+        }
+      }
+    },
+    {
+      "id": "key-gi-parasites-and-amoebas-012",
+      "topicId": "key-gi-parasites-and-amoebas",
+      "topicName": "Key GI Parasites and Amoebas",
+      "stem": "A clinician wants to distinguish amebic dysentery from bacterial dysentery caused by Shigella at the bedside. Which of the following features best favors amebic infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abrupt onset, high fever"
+        },
+        {
+          "label": "B",
+          "text": "Watery, non-bloody diarrhea"
+        },
+        {
+          "label": "C",
+          "text": "Prominent systemic toxicity"
+        },
+        {
+          "label": "D",
+          "text": "Pharyngeal mucosal involvement"
+        },
+        {
+          "label": "E",
+          "text": "Gradual onset, low-grade fever"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Amebic dysentery is subacute with low or absent fever, whereas bacterial dysentery is acute with high fever and systemic toxicity.",
+        "whyCorrect": "Amebic dysentery has a gradual, subacute onset over days to weeks with low-grade or absent fever, while still producing bloody, mucus-containing stools; this contrasts with the abrupt, febrile, toxic presentation of bacterial dysentery.",
+        "whyWrongByChoice": {
+          "A": "High fever and abrupt onset favor bacterial dysentery, not amebic.",
+          "B": "Watery, non-bloody diarrhea suggests coccidians; amebic dysentery is bloody and mucoid.",
+          "C": "Prominent systemic toxicity is characteristic of bacterial infection.",
+          "D": "Pharyngeal involvement is unrelated to intestinal amebiasis."
+        }
+      }
+    },
+    {
+      "id": "key-gi-parasites-and-amoebas-013",
+      "topicId": "key-gi-parasites-and-amoebas",
+      "topicName": "Key GI Parasites and Amoebas",
+      "stem": "A 26-year-old man develops watery diarrhea after eating imported raspberries. His physician notes that, unlike Cryptosporidium, the responsible organism cannot spread directly from person to person. Which of the following properties best explains this difference?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is fully infective the moment it is shed"
+        },
+        {
+          "label": "B",
+          "text": "It actively invades the colonic mucosa"
+        },
+        {
+          "label": "C",
+          "text": "It forms a brush-border parasitophorous vacuole"
+        },
+        {
+          "label": "D",
+          "text": "It requires environmental sporulation to infect"
+        },
+        {
+          "label": "E",
+          "text": "It is resistant to standard water chlorination"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cyclospora oocysts must sporulate in the environment (about a week) before becoming infective, preventing person-to-person spread.",
+        "whyCorrect": "Because Cyclospora oocysts are shed unsporulated and require days to weeks of environmental maturation to become infective, direct person-to-person transmission does not occur; spread is via contaminated food or water.",
+        "whyWrongByChoice": {
+          "A": "Immediate infectivity when shed describes Cryptosporidium, which does allow person-to-person spread.",
+          "B": "Cyclospora does not invade the colonic mucosa; that describes Entamoeba.",
+          "C": "The brush-border parasitophorous vacuole describes Cryptosporidium, not Cyclospora.",
+          "E": "Chlorine resistance is a property of Cryptosporidium and does not explain lack of person-to-person spread."
+        }
+      }
+    },
+    {
+      "id": "key-gi-parasites-and-amoebas-014",
+      "topicId": "key-gi-parasites-and-amoebas",
+      "topicName": "Key GI Parasites and Amoebas",
+      "stem": "A microbiology student learns that one intestinal coccidian resides in an unusual location that makes it appear to sit on top of the epithelium while actually being enclosed by host membrane. Which of the following best describes the niche of Cryptosporidium?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Free-floating within the open colonic lumen"
+        },
+        {
+          "label": "B",
+          "text": "Deep within the intestinal submucosal layer"
+        },
+        {
+          "label": "C",
+          "text": "Inside the cytoplasm of the enterocyte cell"
+        },
+        {
+          "label": "D",
+          "text": "Within the hepatic sinusoidal capillaries of the liver"
+        },
+        {
+          "label": "E",
+          "text": "Intracellular but extracytoplasmic at the brush border"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Cryptosporidium sits in a parasitophorous vacuole at the brush border, making it intracellular yet extracytoplasmic.",
+        "whyCorrect": "Cryptosporidium sporozoites invade epithelial cells but remain surrounded by a host-cell membrane at the apical brush border, so they are intracellular but extracytoplasmic within a parasitophorous vacuole.",
+        "whyWrongByChoice": {
+          "A": "It is not free in the lumen; it is enclosed by host membrane at the brush border.",
+          "B": "It does not invade deep into the submucosa; that pattern fits invasive amebiasis.",
+          "C": "It is not free within the enterocyte cytoplasm; it stays in a membrane-bound vacuole outside the cytoplasm.",
+          "D": "Hepatic sinusoidal capillaries describe implantation sites for Echinococcus larvae, not Cryptosporidium."
+        }
+      }
+    },
+    {
+      "id": "key-gi-parasites-and-amoebas-015",
+      "topicId": "key-gi-parasites-and-amoebas",
+      "topicName": "Key GI Parasites and Amoebas",
+      "stem": "A public-health worker is counseling a family on preventing whipworm infection in their children. Which of the following best describes how Trichuris trichiura is transmitted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ingestion of embryonated eggs from soil or food"
+        },
+        {
+          "label": "B",
+          "text": "Penetration of intact skin by filariform larvae"
+        },
+        {
+          "label": "C",
+          "text": "Transmission by an infected arthropod vector"
+        },
+        {
+          "label": "D",
+          "text": "Ingestion of undercooked pork containing cysts"
+        },
+        {
+          "label": "E",
+          "text": "Inhalation of aerosolized infective oocysts"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Trichuris is a soil-transmitted helminth acquired by ingesting embryonated eggs (fecal-oral, similar to Ascaris).",
+        "whyCorrect": "Transmission occurs by ingestion of food, water, or soil contaminated with embryonated eggs; the eggs then hatch in the small intestine before the worms mature and migrate to the colon.",
+        "whyWrongByChoice": {
+          "B": "Skin penetration by larvae describes hookworm and Strongyloides, not Trichuris.",
+          "C": "Arthropod vectors do not transmit whipworm.",
+          "D": "Ingestion of pork cysts describes Taenia solium, not Trichuris.",
+          "E": "Inhalation of oocysts is not a route for this soil-transmitted nematode."
+        }
+      }
+    },
+    {
+      "id": "key-gi-parasites-and-amoebas-016",
+      "topicId": "key-gi-parasites-and-amoebas",
+      "topicName": "Key GI Parasites and Amoebas",
+      "stem": "A physician explains to a patient that, for Echinococcus, humans do not pass the parasite in stool and instead acquire infection a specific way. Which of the following best describes how humans become infected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Skin penetration by soil-dwelling larvae"
+        },
+        {
+          "label": "B",
+          "text": "Ingestion of undercooked beef containing cysts"
+        },
+        {
+          "label": "C",
+          "text": "Transmission by an infected sandfly bite"
+        },
+        {
+          "label": "D",
+          "text": "Ingestion of eggs shed in dog or fox feces"
+        },
+        {
+          "label": "E",
+          "text": "Drinking water contaminated with acid-fast oocysts"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Humans are accidental intermediate hosts infected by ingesting Echinococcus eggs from the feces of definitive canid hosts.",
+        "whyCorrect": "Dogs and other canids (and foxes for E. multilocularis) are the definitive hosts; humans become infected by ingesting eggs shed in canid feces through close animal contact or contaminated food, water, or soil, and are dead-end intermediate hosts.",
+        "whyWrongByChoice": {
+          "A": "Skin penetration by larvae describes hookworm/Strongyloides, not Echinococcus.",
+          "B": "Undercooked beef with cysts describes Taenia saginata, not Echinococcus.",
+          "C": "Sandfly bite transmits Leishmania, not Echinococcus.",
+          "E": "Acid-fast oocysts in water describe coccidians such as Cryptosporidium, not Echinococcus eggs."
+        }
+      }
+    },
+    {
+      "id": "key-gi-parasites-and-amoebas-017",
+      "topicId": "key-gi-parasites-and-amoebas",
+      "topicName": "Key GI Parasites and Amoebas",
+      "stem": "A 48-year-old hunter from the upper midwestern United States is found to have a hepatic lesion that grows in an infiltrative, multi-vesicular, tumor-like fashion and destroys surrounding liver tissue, mimicking malignancy on imaging. Which of the following is the most likely organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Echinococcus granulosus"
+        },
+        {
+          "label": "B",
+          "text": "Entamoeba histolytica"
+        },
+        {
+          "label": "C",
+          "text": "Cyclospora cayetanensis"
+        },
+        {
+          "label": "D",
+          "text": "Cystoisospora belli"
+        },
+        {
+          "label": "E",
+          "text": "Echinococcus multilocularis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "An infiltrative, tumor-like, tissue-destroying hepatic lesion (alveolar echinococcosis) is caused by E. multilocularis.",
+        "whyCorrect": "E. multilocularis grows in an invasive, infiltrative pattern resembling a malignancy, progressively destroying liver tissue; it circulates among foxes/coyotes and rodents in Central Europe, Alaska, Canada, and the upper midwestern US, and carries higher mortality if untreated.",
+        "whyWrongByChoice": {
+          "A": "E. granulosus forms a single, well-defined unilocular cyst, not an infiltrative tumor-like lesion.",
+          "B": "Entamoeba can cause a liver abscess but not an infiltrative multi-vesicular tumor-like mass.",
+          "C": "Cyclospora is an intestinal coccidian, not a cause of hepatic mass lesions.",
+          "D": "Cystoisospora is an intestinal coccidian and does not form hepatic lesions."
+        }
+      }
+    },
+    {
+      "id": "key-gi-parasites-and-amoebas-018",
+      "topicId": "key-gi-parasites-and-amoebas",
+      "topicName": "Key GI Parasites and Amoebas",
+      "stem": "A stool sample contains amebic trophozoites and cysts, but the laboratory is uncertain whether the patient harbors a pathogenic species. Which of the following best explains why antigen detection or PCR is preferred over microscopy alone for accurate species identification?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Motile trophozoites are destroyed during staining"
+        },
+        {
+          "label": "B",
+          "text": "Nonpathogenic E. dispar is morphologically identical"
+        },
+        {
+          "label": "C",
+          "text": "Cysts cannot be seen without acid-fast stain"
+        },
+        {
+          "label": "D",
+          "text": "Microscopy cannot detect erythrophagocytosis"
+        },
+        {
+          "label": "E",
+          "text": "Trophozoites autofluoresce blue under ultraviolet light"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "E. histolytica is morphologically indistinguishable from nonpathogenic E. dispar, so antigen detection or PCR is preferred for species-level diagnosis.",
+        "whyCorrect": "Because the nonpathogenic E. dispar looks identical to E. histolytica under the microscope, antigen detection or PCR is required to confirm the pathogenic species and avoid misdiagnosis.",
+        "whyWrongByChoice": {
+          "A": "Loss of trophozoites during staining is not the reason molecular testing is preferred.",
+          "C": "Amebic cysts are seen on routine stool microscopy and do not require acid-fast staining.",
+          "D": "Erythrophagocytosis can in fact be seen on microscopy; the limitation is species overlap with E. dispar.",
+          "E": "Amebic trophozoites do not autofluoresce; that property belongs to Cyclospora."
+        }
+      }
+    },
+    {
+      "id": "key-gi-parasites-and-amoebas-019",
+      "topicId": "key-gi-parasites-and-amoebas",
+      "topicName": "Key GI Parasites and Amoebas",
+      "stem": "A 39-year-old man with confirmed Cystoisospora belli infection has chronic watery diarrhea. Which of the following is the most appropriate treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Metronidazole"
+        },
+        {
+          "label": "B",
+          "text": "Co-trimoxazole"
+        },
+        {
+          "label": "C",
+          "text": "Albendazole"
+        },
+        {
+          "label": "D",
+          "text": "Praziquantel"
+        },
+        {
+          "label": "E",
+          "text": "Paromomycin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Both Cyclospora and Cystoisospora respond well to trimethoprim-sulfamethoxazole.",
+        "whyCorrect": "Trimethoprim-sulfamethoxazole is highly effective against Cystoisospora belli (and Cyclospora), making it the treatment of choice.",
+        "whyWrongByChoice": {
+          "A": "Metronidazole treats amebiasis and other protozoa but is not the drug for Cystoisospora.",
+          "C": "Albendazole treats helminths such as Trichuris and Echinococcus, not this coccidian.",
+          "D": "Praziquantel treats flukes and tapeworms, not Cystoisospora.",
+          "E": "Paromomycin is a luminal agent for amebic cysts, not the treatment for Cystoisospora."
+        }
+      }
+    },
+    {
+      "id": "key-gi-parasites-and-amoebas-020",
+      "topicId": "key-gi-parasites-and-amoebas",
+      "topicName": "Key GI Parasites and Amoebas",
+      "stem": "A student is asked to summarize the typical stool characteristic shared by the three major coccidian parasites (Cryptosporidium, Cyclospora, and Cystoisospora). Which of the following best describes their characteristic diarrhea?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Watery, non-bloody diarrhea"
+        },
+        {
+          "label": "B",
+          "text": "Small-volume bloody stools with tenesmus"
+        },
+        {
+          "label": "C",
+          "text": "Mucus-laden stools with flask-shaped ulcers"
+        },
+        {
+          "label": "D",
+          "text": "Steatorrhea with visible worm segments"
+        },
+        {
+          "label": "E",
+          "text": "Rice-water stools with severe dehydration"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The coccidians characteristically cause watery, non-bloody diarrhea from disruption of absorptive function rather than tissue invasion.",
+        "whyCorrect": "Cryptosporidium, Cyclospora, and Cystoisospora all cause watery, non-bloody diarrhea because disease results from disruption of normal absorptive function at the brush border/enterocyte rather than deep mucosal invasion.",
+        "whyWrongByChoice": {
+          "B": "Small-volume bloody stools with tenesmus describe invasive dysentery (amebic or bacterial), not coccidians.",
+          "C": "Mucus-laden stools with flask-shaped ulcers describe E. histolytica.",
+          "D": "Steatorrhea with visible worm segments suggests helminthic disease, not coccidians.",
+          "E": "Rice-water stools describe cholera, not coccidian infection."
+        }
+      }
+    }
+  ]
+}

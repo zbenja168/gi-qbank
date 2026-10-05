@@ -1,0 +1,3126 @@
+{
+  "categoryId": "w4s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "gi-hormones-the-intestinal-phase-of-digestion-001",
+      "topicId": "gi-hormones-the-intestinal-phase-of-digestion",
+      "topicName": "GI Hormones & the Intestinal Phase of Digestion",
+      "stem": "A physiologist studies enteroendocrine cells in duodenal biopsies. One population releases its hormone when long-chain fatty acids and partially digested peptides contact its apical surface, and this hormone drives gallbladder contraction and pancreatic enzyme secretion. Which cell type is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "I cells"
+        },
+        {
+          "label": "B",
+          "text": "S cells"
+        },
+        {
+          "label": "C",
+          "text": "K cells"
+        },
+        {
+          "label": "D",
+          "text": "G cells"
+        },
+        {
+          "label": "E",
+          "text": "D cells"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "I cells of the duodenum and proximal jejunum secrete cholecystokinin (CCK) in response to luminal fatty acids and peptides.",
+        "whyCorrect": "The brick identifies I cells as the source of CCK, stimulated by long-chain fatty acids, peptides, and amino acids, producing enzyme secretion and gallbladder contraction.",
+        "whyWrongByChoice": {
+          "B": "S cells secrete secretin in response to luminal acid, not fat/protein, and drive bicarbonate secretion.",
+          "C": "K cells secrete GIP in response to glucose and fat and act on beta cells, not on the gallbladder.",
+          "D": "G cells secrete gastrin and stimulate gastric acid; they are predominantly in the antrum.",
+          "E": "D cells secrete somatostatin, an inhibitory hormone, not CCK."
+        }
+      }
+    },
+    {
+      "id": "gi-hormones-the-intestinal-phase-of-digestion-002",
+      "topicId": "gi-hormones-the-intestinal-phase-of-digestion",
+      "topicName": "GI Hormones & the Intestinal Phase of Digestion",
+      "stem": "A segment of duodenal epithelium releases its hormone specifically when luminal pH falls below approximately 4.5 as acidic chyme arrives from the stomach, triggering neutralization of the duodenal contents. Which cell type secretes this hormone?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "I cells"
+        },
+        {
+          "label": "B",
+          "text": "S cells"
+        },
+        {
+          "label": "C",
+          "text": "K cells"
+        },
+        {
+          "label": "D",
+          "text": "L cells"
+        },
+        {
+          "label": "E",
+          "text": "G cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "S cells release secretin when luminal pH drops below ~4.5, a graded response to duodenal acidification.",
+        "whyCorrect": "The brick states secretin is released from S cells of the duodenum and proximal jejunum when luminal pH falls below about 4.5, with acid as the dominant stimulus.",
+        "whyWrongByChoice": {
+          "A": "I cells respond to fatty acids and peptides and release CCK, not secretin.",
+          "C": "K cells respond to glucose and fat and release GIP.",
+          "D": "L cells respond to glucose and fat in the ileum/colon and release GLP-1 and PYY.",
+          "E": "G cells release gastrin and are not triggered by luminal acidification in this manner."
+        }
+      }
+    },
+    {
+      "id": "gi-hormones-the-intestinal-phase-of-digestion-003",
+      "topicId": "gi-hormones-the-intestinal-phase-of-digestion",
+      "topicName": "GI Hormones & the Intestinal Phase of Digestion",
+      "stem": "After a high-fat meal, an intestinal hormone is released that stimulates pancreatic acinar enzyme secretion. Beyond this action, which additional effect does the same hormone produce?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Relaxation of the pyloric sphincter"
+        },
+        {
+          "label": "B",
+          "text": "Stimulation of gastric acid secretion"
+        },
+        {
+          "label": "C",
+          "text": "Acceleration of gastric emptying"
+        },
+        {
+          "label": "D",
+          "text": "Contraction of the gallbladder"
+        },
+        {
+          "label": "E",
+          "text": "Release of insulin from beta cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "CCK stimulates pancreatic enzyme secretion AND causes gallbladder contraction to expel bile.",
+        "whyCorrect": "The brick describes CCK acting on gallbladder smooth muscle to cause contraction and bile expulsion into the common bile duct, complementing its pancreatic enzyme action.",
+        "whyWrongByChoice": {
+          "A": "CCK increases pyloric sphincter tone and relaxes the sphincter of Oddi; it does not relax the pyloric sphincter.",
+          "B": "CCK does not stimulate gastric acid; secretin actually inhibits acid output.",
+          "C": "CCK slows gastric emptying rather than accelerating it.",
+          "E": "Insulin potentiation is the action of GIP/GLP-1, not CCK."
+        }
+      }
+    },
+    {
+      "id": "gi-hormones-the-intestinal-phase-of-digestion-004",
+      "topicId": "gi-hormones-the-intestinal-phase-of-digestion",
+      "topicName": "GI Hormones & the Intestinal Phase of Digestion",
+      "stem": "In response to acidic chyme, secretin triggers delivery of a large volume of alkaline, bicarbonate-rich fluid into the duodenum. Which cells are directly stimulated by secretin to produce this fluid?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gastric parietal cells"
+        },
+        {
+          "label": "B",
+          "text": "Pancreatic ductal cells"
+        },
+        {
+          "label": "C",
+          "text": "Pancreatic acinar cells"
+        },
+        {
+          "label": "D",
+          "text": "Duodenal I cells"
+        },
+        {
+          "label": "E",
+          "text": "Gallbladder epithelial cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Secretin acts on pancreatic ductal cells to secrete bicarbonate-rich alkaline fluid.",
+        "whyCorrect": "The brick states secretin binds receptors on pancreatic ductal cells, raising cAMP and driving CFTR-dependent bicarbonate secretion that neutralizes the duodenum.",
+        "whyWrongByChoice": {
+          "A": "Parietal cells secrete acid; secretin inhibits them rather than stimulating bicarbonate output.",
+          "C": "Acinar cells secrete digestive enzymes under CCK, not the bicarbonate fluid.",
+          "D": "I cells secrete CCK; they do not produce pancreatic bicarbonate fluid.",
+          "E": "Gallbladder epithelium concentrates and stores bile, not pancreatic bicarbonate."
+        }
+      }
+    },
+    {
+      "id": "gi-hormones-the-intestinal-phase-of-digestion-005",
+      "topicId": "gi-hormones-the-intestinal-phase-of-digestion",
+      "topicName": "GI Hormones & the Intestinal Phase of Digestion",
+      "stem": "Following a meal rich in glucose and fat, K cells of the duodenum and jejunum release a hormone that potentiates insulin secretion from pancreatic beta cells, linking the intestinal phase to postprandial glucose handling. Which hormone is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CCK"
+        },
+        {
+          "label": "B",
+          "text": "Secretin"
+        },
+        {
+          "label": "C",
+          "text": "GIP"
+        },
+        {
+          "label": "D",
+          "text": "Gastrin"
+        },
+        {
+          "label": "E",
+          "text": "Motilin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "K cells secrete GIP (glucose-dependent insulinotropic peptide), which potentiates insulin release.",
+        "whyCorrect": "The brick lists K cells secreting GIP in response to glucose and fat, with insulin release and gastric inhibition as key functions.",
+        "whyWrongByChoice": {
+          "A": "CCK is released by I cells and targets the pancreas and gallbladder, not beta-cell insulin potentiation.",
+          "B": "Secretin drives bicarbonate secretion and acid inhibition, not insulin release.",
+          "D": "Gastrin stimulates gastric acid secretion from G cells.",
+          "E": "Motilin regulates the migrating motor complex between meals; it is not the K-cell incretin."
+        }
+      }
+    },
+    {
+      "id": "gi-hormones-the-intestinal-phase-of-digestion-006",
+      "topicId": "gi-hormones-the-intestinal-phase-of-digestion",
+      "topicName": "GI Hormones & the Intestinal Phase of Digestion",
+      "stem": "L cells located in the ileum and colon release their hormones in response to luminal glucose and fat. According to the brick, what is the primary function attributed to these hormones?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Satiety and motility regulation"
+        },
+        {
+          "label": "B",
+          "text": "Gastric acid secretion stimulation"
+        },
+        {
+          "label": "C",
+          "text": "Gallbladder smooth-muscle contraction"
+        },
+        {
+          "label": "D",
+          "text": "Pancreatic digestive enzyme secretion"
+        },
+        {
+          "label": "E",
+          "text": "Pancreatic bicarbonate secretion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "L-cell hormones (GLP-1, PYY) regulate satiety and gut motility.",
+        "whyCorrect": "The brick's table lists L cells in the ileum and colon secreting GLP-1 and PYY with satiety and motility regulation as their key function.",
+        "whyWrongByChoice": {
+          "B": "Gastric acid secretion is stimulated by gastrin from G cells.",
+          "C": "Gallbladder smooth-muscle contraction is driven by CCK from I cells.",
+          "D": "Pancreatic digestive enzyme secretion is stimulated by CCK, not L-cell hormones.",
+          "E": "Pancreatic bicarbonate secretion is the function of secretin from S cells."
+        }
+      }
+    },
+    {
+      "id": "gi-hormones-the-intestinal-phase-of-digestion-007",
+      "topicId": "gi-hormones-the-intestinal-phase-of-digestion",
+      "topicName": "GI Hormones & the Intestinal Phase of Digestion",
+      "stem": "A hormone-secreting cell type located predominantly in the gastric antrum releases a hormone whose principal action is stimulation of gastric acid secretion, with only a minor role in the intestinal phase. Which cell type is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "S cells"
+        },
+        {
+          "label": "B",
+          "text": "K cells"
+        },
+        {
+          "label": "C",
+          "text": "I cells"
+        },
+        {
+          "label": "D",
+          "text": "L cells"
+        },
+        {
+          "label": "E",
+          "text": "G cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "G cells, predominantly in the antrum, secrete gastrin, which stimulates gastric acid.",
+        "whyCorrect": "The brick's table identifies G cells in the antrum secreting gastrin, whose key function is gastric acid stimulation with a minor intestinal role.",
+        "whyWrongByChoice": {
+          "A": "S cells secrete secretin and reside in the duodenum/proximal jejunum.",
+          "B": "K cells secrete GIP and drive insulin release.",
+          "C": "I cells secrete CCK for enzyme secretion and gallbladder contraction.",
+          "D": "L cells secrete GLP-1/PYY for satiety and motility."
+        }
+      }
+    },
+    {
+      "id": "gi-hormones-the-intestinal-phase-of-digestion-008",
+      "topicId": "gi-hormones-the-intestinal-phase-of-digestion",
+      "topicName": "GI Hormones & the Intestinal Phase of Digestion",
+      "stem": "When acidic, hyperosmolar chyme distends the duodenum, mechanoreceptors and chemoreceptors in the duodenal wall signal the enteric nervous system, reducing antral contractions and increasing pyloric tone within seconds. What is this rapid neural mechanism called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gastrocolic reflex"
+        },
+        {
+          "label": "B",
+          "text": "Gastroileal reflex"
+        },
+        {
+          "label": "C",
+          "text": "Migrating motor complex"
+        },
+        {
+          "label": "D",
+          "text": "Receptive relaxation"
+        },
+        {
+          "label": "E",
+          "text": "Enterogastric reflex"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The enterogastric reflex is the immediate neural brake slowing gastric emptying.",
+        "whyCorrect": "The brick describes the enterogastric reflex: duodenal receptors detect distension, low pH, hyperosmolarity, or nutrients and signal the ENS to slow antral peristalsis and raise pyloric tone within seconds.",
+        "whyWrongByChoice": {
+          "A": "The gastrocolic reflex increases colonic motility after gastric filling, not a duodenal brake on emptying.",
+          "B": "The gastroileal reflex promotes ileal emptying into the colon.",
+          "C": "The migrating motor complex sweeps the gut between meals, not a postprandial duodenal brake.",
+          "D": "Receptive relaxation is fundic accommodation during swallowing, not duodenal feedback."
+        }
+      }
+    },
+    {
+      "id": "gi-hormones-the-intestinal-phase-of-digestion-009",
+      "topicId": "gi-hormones-the-intestinal-phase-of-digestion",
+      "topicName": "GI Hormones & the Intestinal Phase of Digestion",
+      "stem": "A researcher measures gastric emptying after test meals composed of a single macronutrient. Which macronutrient present in the duodenum most potently slows gastric emptying?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Protein"
+        },
+        {
+          "label": "B",
+          "text": "Glucose"
+        },
+        {
+          "label": "C",
+          "text": "Fiber"
+        },
+        {
+          "label": "D",
+          "text": "Water"
+        },
+        {
+          "label": "E",
+          "text": "Fat"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Fat is the most potent inhibitor of gastric emptying.",
+        "whyCorrect": "The brick states fat is the most potent inhibitor of gastric emptying, with even small amounts triggering significant slowing, because fat requires the most digestive preparation.",
+        "whyWrongByChoice": {
+          "A": "Protein has a moderate inhibitory effect, less than fat.",
+          "B": "Carbohydrates such as glucose have the least inhibitory effect of the macronutrients.",
+          "C": "Fiber is not identified as the dominant inhibitory signal in this brick.",
+          "D": "Water empties rapidly and does not potently slow emptying."
+        }
+      }
+    },
+    {
+      "id": "gi-hormones-the-intestinal-phase-of-digestion-010",
+      "topicId": "gi-hormones-the-intestinal-phase-of-digestion",
+      "topicName": "GI Hormones & the Intestinal Phase of Digestion",
+      "stem": "CCK stimulates the exocrine pancreas to release digestive enzymes and zymogens by binding a specific receptor on acinar cells. Which receptor mediates this action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Secretin receptor"
+        },
+        {
+          "label": "B",
+          "text": "GIP receptor"
+        },
+        {
+          "label": "C",
+          "text": "Muscarinic M3 receptor"
+        },
+        {
+          "label": "D",
+          "text": "CCK-A receptor"
+        },
+        {
+          "label": "E",
+          "text": "Histamine H2 receptor"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "CCK acts on acinar CCK-A receptors to stimulate enzyme secretion.",
+        "whyCorrect": "The brick specifies CCK binds CCK-A receptors on acinar cells, stimulating secretion of digestive enzymes and zymogens into the pancreatic duct.",
+        "whyWrongByChoice": {
+          "A": "Secretin receptors are on ductal cells and mediate bicarbonate secretion.",
+          "B": "GIP receptors are on pancreatic beta cells and mediate insulin release.",
+          "C": "Muscarinic M3 receptors mediate vagal cholinergic effects, not the CCK-specific acinar action described.",
+          "E": "Histamine H2 receptors are on gastric parietal cells and mediate acid secretion."
+        }
+      }
+    },
+    {
+      "id": "gi-hormones-the-intestinal-phase-of-digestion-011",
+      "topicId": "gi-hormones-the-intestinal-phase-of-digestion",
+      "topicName": "GI Hormones & the Intestinal Phase of Digestion",
+      "stem": "Secretin binds its receptor on pancreatic ductal cells and activates an intracellular second messenger that drives the bicarbonate secretion machinery. Which second messenger is generated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IP3"
+        },
+        {
+          "label": "B",
+          "text": "Calcium"
+        },
+        {
+          "label": "C",
+          "text": "cAMP"
+        },
+        {
+          "label": "D",
+          "text": "cGMP"
+        },
+        {
+          "label": "E",
+          "text": "Diacylglycerol"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Secretin raises intracellular cAMP in ductal cells.",
+        "whyCorrect": "The brick states secretin binds ductal-cell receptors, activating adenylyl cyclase and raising intracellular cAMP, which drives CFTR-dependent bicarbonate secretion.",
+        "whyWrongByChoice": {
+          "A": "IP3 mobilizes calcium in Gq-coupled pathways, not the secretin-cAMP mechanism described.",
+          "B": "Calcium is not the second messenger cited for secretin's ductal action.",
+          "D": "cGMP is used by nitric oxide/natriuretic peptide signaling, not secretin.",
+          "E": "Diacylglycerol activates protein kinase C in Gq pathways, not secretin's Gs-cAMP pathway."
+        }
+      }
+    },
+    {
+      "id": "gi-hormones-the-intestinal-phase-of-digestion-012",
+      "topicId": "gi-hormones-the-intestinal-phase-of-digestion",
+      "topicName": "GI Hormones & the Intestinal Phase of Digestion",
+      "stem": "A patient's duodenal pH remains persistently below 4 because bicarbonate delivery is inadequate. Fat digestion fails and greasy, foul-smelling stools develop. Which pancreatic enzyme is most directly inactivated by this low pH?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amylase"
+        },
+        {
+          "label": "B",
+          "text": "Lipase"
+        },
+        {
+          "label": "C",
+          "text": "Trypsinogen"
+        },
+        {
+          "label": "D",
+          "text": "Pepsin"
+        },
+        {
+          "label": "E",
+          "text": "Enterokinase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Lipase is irreversibly denatured at low duodenal pH, causing steatorrhea.",
+        "whyCorrect": "The brick states lipase is irreversibly denatured at pH below 4 and loses significant activity below pH 5, so impaired neutralization inactivates lipase and produces steatorrhea.",
+        "whyWrongByChoice": {
+          "A": "Amylase digests carbohydrate and is not the enzyme responsible for the fatty stools described.",
+          "C": "Trypsinogen is an inactive precursor; the brick highlights lipase as most acid-sensitive for fat digestion.",
+          "D": "Pepsin is a gastric enzyme that actually works best at acidic pH.",
+          "E": "Enterokinase is a brush-border enzyme that activates trypsinogen, not the fat-digesting enzyme denatured here."
+        }
+      }
+    },
+    {
+      "id": "gi-hormones-the-intestinal-phase-of-digestion-013",
+      "topicId": "gi-hormones-the-intestinal-phase-of-digestion",
+      "topicName": "GI Hormones & the Intestinal Phase of Digestion",
+      "stem": "For bile and pancreatic juice to enter the duodenum together after a fatty meal, CCK acts on the muscular sphincter at the duodenal papilla. What effect does CCK have on the sphincter of Oddi?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Relaxation"
+        },
+        {
+          "label": "B",
+          "text": "Increased tone"
+        },
+        {
+          "label": "C",
+          "text": "Sustained contraction"
+        },
+        {
+          "label": "D",
+          "text": "Rhythmic spasm"
+        },
+        {
+          "label": "E",
+          "text": "Constriction"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CCK relaxes the sphincter of Oddi to allow bile and pancreatic juice to enter the duodenum.",
+        "whyCorrect": "The brick states CCK relaxes the sphincter of Oddi, facilitating coordinated delivery of bile and pancreatic juice into the duodenal lumen while the gallbladder contracts.",
+        "whyWrongByChoice": {
+          "B": "Increased tone would obstruct, not facilitate, delivery of bile and juice.",
+          "C": "Sustained contraction would block the papilla against outflow.",
+          "D": "Rhythmic spasm is not the described action and would impede flow.",
+          "E": "Constriction would prevent the coordinated delivery CCK promotes."
+        }
+      }
+    },
+    {
+      "id": "gi-hormones-the-intestinal-phase-of-digestion-014",
+      "topicId": "gi-hormones-the-intestinal-phase-of-digestion",
+      "topicName": "GI Hormones & the Intestinal Phase of Digestion",
+      "stem": "When undigested nutrients reach the distal small intestine, L cells release a hormone that produces a powerful inhibition of gastric emptying known as the 'ileal brake.' Which hormone mediates this effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gastrin"
+        },
+        {
+          "label": "B",
+          "text": "Motilin"
+        },
+        {
+          "label": "C",
+          "text": "Secretin"
+        },
+        {
+          "label": "D",
+          "text": "GIP"
+        },
+        {
+          "label": "E",
+          "text": "PYY"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "PYY from ileal L cells mediates the ileal brake, strongly slowing gastric emptying.",
+        "whyCorrect": "The brick states PYY, released from L cells in the ileum, produces the 'ileal brake,' a powerful inhibition of gastric emptying when nutrients reach the distal small intestine.",
+        "whyWrongByChoice": {
+          "A": "Gastrin stimulates gastric acid, not the ileal brake.",
+          "B": "Motilin drives interdigestive motility, not the postprandial ileal brake.",
+          "C": "Secretin slows motility via antral inhibition but is not the ileal-brake hormone released distally.",
+          "D": "GIP contributes to gastric inhibition but the ileal brake is specifically attributed to PYY."
+        }
+      }
+    },
+    {
+      "id": "gi-hormones-the-intestinal-phase-of-digestion-015",
+      "topicId": "gi-hormones-the-intestinal-phase-of-digestion",
+      "topicName": "GI Hormones & the Intestinal Phase of Digestion",
+      "stem": "Glands located in the submucosa of the proximal duodenum secrete alkaline mucus in response to acid and secretin stimulation, helping protect the mucosa from acidic chyme. What are these glands called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gastric oxyntic glands"
+        },
+        {
+          "label": "B",
+          "text": "Peyer's patches"
+        },
+        {
+          "label": "C",
+          "text": "Crypts of Lieberkuhn"
+        },
+        {
+          "label": "D",
+          "text": "Brunner's glands"
+        },
+        {
+          "label": "E",
+          "text": "Goblet cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Brunner's glands secrete protective alkaline mucus in the proximal duodenum.",
+        "whyCorrect": "The brick identifies Brunner's glands in the submucosa of the proximal duodenum, secreting alkaline mucus in response to acid and secretin as part of mucosal defense.",
+        "whyWrongByChoice": {
+          "A": "Oxyntic (gastric) glands contain acid-secreting parietal cells in the stomach.",
+          "B": "Peyer's patches are lymphoid tissue for immune surveillance, not alkaline mucus secretion.",
+          "C": "Crypts of Lieberkuhn are intestinal glands housing stem and secretory cells, not the submucosal alkaline glands described.",
+          "E": "Goblet cells secrete mucus but are individual epithelial cells, not the submucosal glands specified."
+        }
+      }
+    },
+    {
+      "id": "gi-hormones-the-intestinal-phase-of-digestion-016",
+      "topicId": "gi-hormones-the-intestinal-phase-of-digestion",
+      "topicName": "GI Hormones & the Intestinal Phase of Digestion",
+      "stem": "A child with recurrent respiratory infections has failure to thrive and steatorrhea. Even though secretin release from S cells is intact, defective ductal secretion prevents alkaline pancreatic fluid from reaching the duodenum. Which protein is dysfunctional?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CFTR"
+        },
+        {
+          "label": "B",
+          "text": "Carbonic anhydrase"
+        },
+        {
+          "label": "C",
+          "text": "Na-K-ATPase"
+        },
+        {
+          "label": "D",
+          "text": "CCK-A receptor"
+        },
+        {
+          "label": "E",
+          "text": "Secretin receptor"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cystic fibrosis results from defective CFTR, blocking ductal chloride/bicarbonate secretion.",
+        "whyCorrect": "The brick states CFTR mutations (commonly delta-F508) prevent ductal chloride and bicarbonate secretion even when secretin release is intact, so alkaline fluid never reaches the duodenum.",
+        "whyWrongByChoice": {
+          "B": "Carbonic anhydrase supplies bicarbonate substrate but the defect described is the CFTR chloride channel.",
+          "C": "Na-K-ATPase maintains ion gradients generally and is not the mutated protein in this disease.",
+          "D": "CCK-A receptors mediate acinar enzyme secretion, unrelated to the ductal bicarbonate defect.",
+          "E": "Secretin receptors are intact here; the problem is downstream ductal CFTR function."
+        }
+      }
+    },
+    {
+      "id": "gi-hormones-the-intestinal-phase-of-digestion-017",
+      "topicId": "gi-hormones-the-intestinal-phase-of-digestion",
+      "topicName": "GI Hormones & the Intestinal Phase of Digestion",
+      "stem": "CCK-induced gallbladder contraction delivers bile salts into the duodenum during fat digestion. What is the primary role of these bile salts?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydrolysis of triglycerides"
+        },
+        {
+          "label": "B",
+          "text": "Neutralization of gastric acid"
+        },
+        {
+          "label": "C",
+          "text": "Activation of trypsinogen"
+        },
+        {
+          "label": "D",
+          "text": "Emulsification of dietary fats"
+        },
+        {
+          "label": "E",
+          "text": "Absorption of amino acids"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Bile salts emulsify dietary fats, increasing surface area for lipase.",
+        "whyCorrect": "The brick states bile salts are essential for emulsifying dietary fats, dramatically increasing the surface area available for lipase activity.",
+        "whyWrongByChoice": {
+          "A": "Hydrolysis of triglycerides is performed by lipase; bile salts emulsify but do not hydrolyze.",
+          "B": "Neutralization of acid is the role of pancreatic and Brunner's-gland bicarbonate, not bile salts.",
+          "C": "Trypsinogen is activated by enterokinase, not bile salts.",
+          "E": "Amino acid absorption occurs via enterocyte transporters, not bile salts."
+        }
+      }
+    },
+    {
+      "id": "gi-hormones-the-intestinal-phase-of-digestion-018",
+      "topicId": "gi-hormones-the-intestinal-phase-of-digestion",
+      "topicName": "GI Hormones & the Intestinal Phase of Digestion",
+      "stem": "In addition to stimulating pancreatic bicarbonate secretion, secretin dampens the gastric phase of acid secretion. By which action does secretin reduce gastric acid output?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stimulating gastrin release from G cells"
+        },
+        {
+          "label": "B",
+          "text": "Activating parietal cell proton pumps"
+        },
+        {
+          "label": "C",
+          "text": "Suppressing gastrin release from G cells"
+        },
+        {
+          "label": "D",
+          "text": "Increasing histamine from ECL cells"
+        },
+        {
+          "label": "E",
+          "text": "Enhancing vagal acetylcholine release"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Secretin suppresses gastrin release from G cells and reduces parietal cell acid output.",
+        "whyCorrect": "The brick states secretin acts on parietal cells to reduce acid output and also suppresses gastrin release from G cells, dampening the gastric phase of acid secretion.",
+        "whyWrongByChoice": {
+          "A": "Stimulating gastrin would increase, not decrease, acid secretion.",
+          "B": "Activating proton pumps would raise acid output, the opposite of secretin's effect.",
+          "D": "Increasing ECL histamine would promote acid secretion.",
+          "E": "Enhancing vagal acetylcholine would stimulate acid, not inhibit it."
+        }
+      }
+    },
+    {
+      "id": "gi-hormones-the-intestinal-phase-of-digestion-019",
+      "topicId": "gi-hormones-the-intestinal-phase-of-digestion",
+      "topicName": "GI Hormones & the Intestinal Phase of Digestion",
+      "stem": "A histologist notes that although these hormone-secreting cells make up less than 1% of intestinal epithelial cells, they collectively form the body's largest endocrine organ and sense luminal contents through apical membrane receptors. What are these cells called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Crypt Paneth cells"
+        },
+        {
+          "label": "B",
+          "text": "Absorptive enterocytes"
+        },
+        {
+          "label": "C",
+          "text": "Enteroendocrine cells"
+        },
+        {
+          "label": "D",
+          "text": "Mucous goblet cells"
+        },
+        {
+          "label": "E",
+          "text": "Gastric chief cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Enteroendocrine cells are the scattered hormone-secreting cells forming the largest endocrine organ.",
+        "whyCorrect": "The brick states enteroendocrine cells constitute less than 1% of intestinal epithelial cells yet collectively form the largest endocrine organ, sensing luminal contents via apical receptors.",
+        "whyWrongByChoice": {
+          "A": "Crypt Paneth cells secrete antimicrobial peptides, not hormones.",
+          "B": "Enterocytes are absorptive cells, not hormone-secreting endocrine cells.",
+          "D": "Goblet cells secrete mucus and are not endocrine cells.",
+          "E": "Chief cells secrete pepsinogen in the stomach, not intestinal hormones."
+        }
+      }
+    },
+    {
+      "id": "gi-hormones-the-intestinal-phase-of-digestion-020",
+      "topicId": "gi-hormones-the-intestinal-phase-of-digestion",
+      "topicName": "GI Hormones & the Intestinal Phase of Digestion",
+      "stem": "A patient with long-standing exocrine pancreatic insufficiency has persistent steatorrhea. Because fat digestion is impaired, this patient is at greatest risk for deficiency of which nutrients?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Water-soluble vitamins"
+        },
+        {
+          "label": "B",
+          "text": "Fat-soluble vitamins"
+        },
+        {
+          "label": "C",
+          "text": "Essential amino acids"
+        },
+        {
+          "label": "D",
+          "text": "Trace dietary minerals"
+        },
+        {
+          "label": "E",
+          "text": "Simple carbohydrates"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Impaired fat digestion causes malabsorption of fat-soluble vitamins A, D, E, and K.",
+        "whyCorrect": "The brick states that inactivation of pancreatic enzymes produces malabsorption of fats, proteins, and fat-soluble vitamins (A, D, E, K), which depend on fat absorption.",
+        "whyWrongByChoice": {
+          "A": "Water-soluble vitamins are absorbed independently of fat and are not the primary risk in steatorrhea.",
+          "C": "Amino acid absorption may be affected, but the deficiency specifically tied to fat malabsorption is fat-soluble vitamins.",
+          "D": "Trace dietary minerals are not the fat-dependent nutrients at greatest risk here.",
+          "E": "Simple carbohydrates are absorbed without bile or lipase and are not at risk."
+        }
+      }
+    },
+    {
+      "id": "exocrine-functions-of-the-gi-system-001",
+      "topicId": "exocrine-functions-of-the-gi-system",
+      "topicName": "Exocrine Functions of the GI System",
+      "stem": "A physiology student examines a section of jejunal mucosa under the microscope and notes numerous finger-like mucosal projections, each containing a core capillary network and a central lacteal, that together increase the absorptive surface area roughly 10-fold. Which structure is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Plicae circulares"
+        },
+        {
+          "label": "B",
+          "text": "Microvilli"
+        },
+        {
+          "label": "C",
+          "text": "Crypts of Lieberkühn"
+        },
+        {
+          "label": "D",
+          "text": "Brush border enzymes"
+        },
+        {
+          "label": "E",
+          "text": "Villi"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Villi are the finger-like projections, each with a capillary network and central lacteal, that add roughly a 10-fold amplification of small intestinal surface area.",
+        "whyCorrect": "The brick states that villi project from the plicae and add another ~10-fold amplification, and that each villus core contains a capillary network and a central lacteal that drains absorbed lipids into the lymphatics.",
+        "whyWrongByChoice": {
+          "A": "Plicae circulares are permanent circular folds (most prominent in the jejunum) that add only about a 3-fold increase, not the finger-like projections described.",
+          "B": "Microvilli form the brush border on the apical enterocyte surface and add ~20-fold amplification; they are not visible finger-like mucosal projections with lacteals.",
+          "C": "Crypts of Lieberkühn house progenitor cells for epithelial renewal, not the absorptive projections described.",
+          "D": "Brush border enzymes are membrane proteins that complete terminal digestion; they are not a structural surface-amplifying projection."
+        }
+      }
+    },
+    {
+      "id": "exocrine-functions-of-the-gi-system-002",
+      "topicId": "exocrine-functions-of-the-gi-system",
+      "topicName": "Exocrine Functions of the GI System",
+      "stem": "A researcher analyzes fresh pancreatic juice and finds that most proteolytic components are catalytically inactive precursors, but two components are already enzymatically active on secretion. Which pair is normally secreted in the active form?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Trypsinogen and chymotrypsinogen"
+        },
+        {
+          "label": "B",
+          "text": "Amylase and lipase"
+        },
+        {
+          "label": "C",
+          "text": "Proelastase and procolipase"
+        },
+        {
+          "label": "D",
+          "text": "Procarboxypeptidase A and B"
+        },
+        {
+          "label": "E",
+          "text": "Prophospholipase A2 and proelastase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pancreatic amylase and lipase are secreted in active form and do not require luminal activation, unlike the proteases secreted as zymogens.",
+        "whyCorrect": "The brick explicitly states that pancreatic lipase and amylase are secreted in active form and do not require luminal activation, whereas proteases are secreted as inactive zymogens.",
+        "whyWrongByChoice": {
+          "A": "Trypsinogen and chymotrypsinogen are inactive zymogens requiring activation in the duodenum.",
+          "C": "Proelastase and procolipase are inactive precursors activated by trypsin in the lumen.",
+          "D": "Procarboxypeptidases A and B are zymogens requiring trypsin-mediated activation.",
+          "E": "Prophospholipase A2 and proelastase are both inactive precursors, not active enzymes."
+        }
+      }
+    },
+    {
+      "id": "exocrine-functions-of-the-gi-system-003",
+      "topicId": "exocrine-functions-of-the-gi-system",
+      "topicName": "Exocrine Functions of the GI System",
+      "stem": "A biochemistry question focuses on the committed, rate-limiting step by which hepatocytes convert cholesterol into primary bile acids. Which enzyme catalyzes this rate-limiting step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cholesterol 7α-hydroxylase"
+        },
+        {
+          "label": "B",
+          "text": "Hepatic HMG-CoA reductase"
+        },
+        {
+          "label": "C",
+          "text": "Ductal carbonic anhydrase"
+        },
+        {
+          "label": "D",
+          "text": "Duodenal enteropeptidase"
+        },
+        {
+          "label": "E",
+          "text": "Pancreatic triglyceride lipase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cholesterol 7α-hydroxylase (CYP7A1) is the rate-limiting enzyme of de novo bile acid synthesis from cholesterol in hepatocytes.",
+        "whyCorrect": "The brick states that primary bile acids are synthesized de novo in hepatocytes from cholesterol via a multi-step pathway in which the rate-limiting enzyme is cholesterol 7α-hydroxylase (CYP7A1).",
+        "whyWrongByChoice": {
+          "B": "HMG-CoA reductase is the rate-limiting enzyme of cholesterol synthesis, not of bile acid synthesis from cholesterol.",
+          "C": "Carbonic anhydrase generates bicarbonate in pancreatic duct cells and has no role in bile acid synthesis.",
+          "D": "Enteropeptidase activates trypsinogen in the duodenum and is unrelated to bile acid synthesis.",
+          "E": "Pancreatic lipase hydrolyzes dietary triglycerides and does not synthesize bile acids."
+        }
+      }
+    },
+    {
+      "id": "exocrine-functions-of-the-gi-system-004",
+      "topicId": "exocrine-functions-of-the-gi-system",
+      "topicName": "Exocrine Functions of the GI System",
+      "stem": "In the duodenal lumen, the pancreatic protease activation cascade must be initiated. Which duodenal brush border enzyme converts trypsinogen to trypsin to start this cascade?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chymotrypsin"
+        },
+        {
+          "label": "B",
+          "text": "Colipase"
+        },
+        {
+          "label": "C",
+          "text": "Carboxypeptidase A"
+        },
+        {
+          "label": "D",
+          "text": "Enteropeptidase"
+        },
+        {
+          "label": "E",
+          "text": "Amylase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Enteropeptidase (enterokinase), a duodenal brush border enzyme, cleaves trypsinogen to generate active trypsin and initiate the cascade.",
+        "whyCorrect": "The brick states the cascade is initiated by enteropeptidase (historically enterokinase), a brush border enzyme of duodenal enterocytes that cleaves a hexapeptide from trypsinogen to generate active trypsin.",
+        "whyWrongByChoice": {
+          "A": "Chymotrypsin is itself a downstream product of trypsin activation and does not initiate the cascade.",
+          "B": "Colipase is a lipase cofactor, not an activator of trypsinogen.",
+          "C": "Carboxypeptidase A is a zymogen product of the cascade, not its initiator.",
+          "E": "Amylase digests starch and plays no role in zymogen activation."
+        }
+      }
+    },
+    {
+      "id": "exocrine-functions-of-the-gi-system-005",
+      "topicId": "exocrine-functions-of-the-gi-system",
+      "topicName": "Exocrine Functions of the GI System",
+      "stem": "Once the first active protease is generated in the duodenum, it proceeds to cleave and activate the remaining pancreatic zymogens as well as additional molecules of its own precursor. Which enzyme serves as this master activator?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Trypsin"
+        },
+        {
+          "label": "B",
+          "text": "Enteropeptidase"
+        },
+        {
+          "label": "C",
+          "text": "Chymotrypsin"
+        },
+        {
+          "label": "D",
+          "text": "Elastase"
+        },
+        {
+          "label": "E",
+          "text": "Carboxypeptidase A"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Trypsin is the master activator that cleaves and activates the other pancreatic zymogens and additional trypsinogen (autocatalytic amplification).",
+        "whyCorrect": "The brick states trypsin acts as the master activator of the cascade, cleaving and activating all other pancreatic zymogens plus additional trypsinogen molecules.",
+        "whyWrongByChoice": {
+          "B": "Enteropeptidase only activates trypsinogen to trypsin; it does not activate the other zymogens.",
+          "C": "Chymotrypsin is a product of trypsin-mediated activation, not the master activator.",
+          "D": "Elastase is generated from proelastase by trypsin and does not activate other zymogens.",
+          "E": "Carboxypeptidase A is a downstream product and does not drive the cascade."
+        }
+      }
+    },
+    {
+      "id": "exocrine-functions-of-the-gi-system-006",
+      "topicId": "exocrine-functions-of-the-gi-system",
+      "topicName": "Exocrine Functions of the GI System",
+      "stem": "Pancreatic duct cells generate a bicarbonate-rich fluid using a key apical transport protein whose loss underlies cystic fibrosis. This protein functions as which type of channel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sodium-glucose cotransporter"
+        },
+        {
+          "label": "B",
+          "text": "ATP-gated potassium channel"
+        },
+        {
+          "label": "C",
+          "text": "Voltage-gated calcium channel"
+        },
+        {
+          "label": "D",
+          "text": "Ligand-gated sodium channel"
+        },
+        {
+          "label": "E",
+          "text": "cAMP-gated chloride channel"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "CFTR on the apical membrane of pancreatic duct cells is a cAMP-activated chloride channel central to bicarbonate secretion.",
+        "whyCorrect": "The brick identifies the key transporter as the cystic fibrosis transmembrane conductance regulator (CFTR), a cAMP-activated chloride channel located on the apical membrane of duct cells.",
+        "whyWrongByChoice": {
+          "A": "A sodium-glucose cotransporter (SGLT) mediates intestinal glucose uptake, not ductal chloride secretion.",
+          "B": "ATP-gated potassium channels regulate insulin release in beta cells, not ductal bicarbonate output.",
+          "C": "Voltage-gated calcium channels mediate depolarization-triggered signaling, not CFTR function.",
+          "D": "CFTR is regulated by cAMP, not by direct ligand gating of a sodium channel."
+        }
+      }
+    },
+    {
+      "id": "exocrine-functions-of-the-gi-system-007",
+      "topicId": "exocrine-functions-of-the-gi-system",
+      "topicName": "Exocrine Functions of the GI System",
+      "stem": "Following a meal, acid chyme enters the duodenum, triggering hormone release from duodenal S cells. This hormone acts primarily to promote which secretion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Digestive enzymes from acinar cells"
+        },
+        {
+          "label": "B",
+          "text": "Hydrochloric acid from parietal cells"
+        },
+        {
+          "label": "C",
+          "text": "Protective mucus from goblet cells"
+        },
+        {
+          "label": "D",
+          "text": "Intrinsic factor from parietal cells"
+        },
+        {
+          "label": "E",
+          "text": "Bicarbonate fluid from duct cells"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Secretin, released from duodenal S cells in response to luminal acid, primarily stimulates duct cells to secrete bicarbonate-rich fluid.",
+        "whyCorrect": "The brick states secretin is released from S cells in response to luminal acid and primarily stimulates duct cells to secrete bicarbonate-rich fluid.",
+        "whyWrongByChoice": {
+          "A": "Enzyme secretion from acinar cells is primarily driven by CCK, not secretin.",
+          "B": "Secretin does not stimulate parietal cell acid secretion; it opposes gastric acidity by promoting neutralization.",
+          "C": "Goblet cell mucus secretion is not the primary secretin-driven response described.",
+          "D": "Intrinsic factor secretion is unrelated to secretin signaling."
+        }
+      }
+    },
+    {
+      "id": "exocrine-functions-of-the-gi-system-008",
+      "topicId": "exocrine-functions-of-the-gi-system",
+      "topicName": "Exocrine Functions of the GI System",
+      "stem": "When a fatty, protein-rich meal reaches the duodenum, I cells release a hormone that promotes gallbladder contraction and pancreatic secretion. This hormone primarily stimulates which secretion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enzyme secretion by acinar cells"
+        },
+        {
+          "label": "B",
+          "text": "Bicarbonate secretion by duct cells"
+        },
+        {
+          "label": "C",
+          "text": "Acid secretion by parietal cells"
+        },
+        {
+          "label": "D",
+          "text": "Mucus secretion by goblet cells"
+        },
+        {
+          "label": "E",
+          "text": "Intrinsic factor secretion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "CCK, released from duodenal I cells in response to luminal fats and proteins, primarily stimulates acinar cells to secrete digestive enzymes.",
+        "whyCorrect": "The brick states CCK is released from I cells in response to luminal fats and proteins and primarily stimulates acinar cells to secrete digestive enzymes.",
+        "whyWrongByChoice": {
+          "B": "Bicarbonate secretion by duct cells is primarily driven by secretin, not CCK.",
+          "C": "Parietal cell acid secretion is not the primary CCK-driven pancreatic response.",
+          "D": "Goblet cell mucus secretion is not the described CCK effect.",
+          "E": "Intrinsic factor secretion is unrelated to CCK signaling."
+        }
+      }
+    },
+    {
+      "id": "exocrine-functions-of-the-gi-system-009",
+      "topicId": "exocrine-functions-of-the-gi-system",
+      "topicName": "Exocrine Functions of the GI System",
+      "stem": "A question asks students to identify the two primary bile acids that are synthesized de novo in hepatocytes directly from cholesterol. Which pair is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deoxycholic acid and lithocholic acid"
+        },
+        {
+          "label": "B",
+          "text": "Ursodeoxycholic acid and cholic acid"
+        },
+        {
+          "label": "C",
+          "text": "Cholic acid and chenodeoxycholic acid"
+        },
+        {
+          "label": "D",
+          "text": "Lithocholic acid and cholic acid"
+        },
+        {
+          "label": "E",
+          "text": "Deoxycholic acid and chenodeoxycholic acid"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cholic acid and chenodeoxycholic acid are the primary bile acids synthesized de novo in hepatocytes.",
+        "whyCorrect": "The brick states the primary bile acids are cholic acid and chenodeoxycholic acid, synthesized de novo in hepatocytes from cholesterol.",
+        "whyWrongByChoice": {
+          "A": "Deoxycholic and lithocholic acid are secondary bile acids produced by colonic bacteria, not primary.",
+          "B": "Ursodeoxycholic acid is not one of the two primary bile acids described.",
+          "D": "Lithocholic acid is a secondary bile acid, so this pair is incorrect.",
+          "E": "Deoxycholic acid is a secondary bile acid, so this pair is incorrect."
+        }
+      }
+    },
+    {
+      "id": "exocrine-functions-of-the-gi-system-010",
+      "topicId": "exocrine-functions-of-the-gi-system",
+      "topicName": "Exocrine Functions of the GI System",
+      "stem": "In the colon, intestinal bacteria deconjugate and dehydroxylate primary bile acids to generate secondary bile acids that can be reabsorbed and recycled. Which pair represents these secondary bile acids?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cholic and chenodeoxycholic acid"
+        },
+        {
+          "label": "B",
+          "text": "Glycocholic and taurocholic acid"
+        },
+        {
+          "label": "C",
+          "text": "Ursodeoxycholic and cholic acid"
+        },
+        {
+          "label": "D",
+          "text": "Deoxycholic and lithocholic acid"
+        },
+        {
+          "label": "E",
+          "text": "Cholic and deoxycholic acid"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Deoxycholic acid and lithocholic acid are the secondary bile acids formed by colonic bacterial modification of primary bile acids.",
+        "whyCorrect": "The brick states that colonic bacteria deconjugate and dehydroxylate primary bile acids to produce the secondary bile acids deoxycholic acid and lithocholic acid.",
+        "whyWrongByChoice": {
+          "A": "Cholic and chenodeoxycholic acid are the primary bile acids, not secondary.",
+          "B": "Glycocholic and taurocholic acid are conjugated forms of primary bile acids, not bacterial secondary products.",
+          "C": "This pair includes cholic acid (a primary bile acid), so it is incorrect.",
+          "E": "Cholic acid is a primary bile acid, so this pair is incorrect."
+        }
+      }
+    },
+    {
+      "id": "exocrine-functions-of-the-gi-system-011",
+      "topicId": "exocrine-functions-of-the-gi-system",
+      "topicName": "Exocrine Functions of the GI System",
+      "stem": "Dietary fats coalesce into large droplets in the aqueous intestinal lumen, limiting the surface accessible to lipase. Which structural property of bile salts allows them to act as detergents that emulsify these fats?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Purely hydrophobic structure"
+        },
+        {
+          "label": "B",
+          "text": "Net positive charge"
+        },
+        {
+          "label": "C",
+          "text": "Steroid backbone alone"
+        },
+        {
+          "label": "D",
+          "text": "High molecular weight"
+        },
+        {
+          "label": "E",
+          "text": "Amphipathic structure"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The amphipathic structure of bile salts (one hydrophilic face and one hydrophobic face) lets them act as biological detergents that emulsify fat.",
+        "whyCorrect": "The brick states bile salts solve the fat-solubility problem through their amphipathic molecular structure, acting as biological detergents that emulsify fat and enable efficient lipolysis.",
+        "whyWrongByChoice": {
+          "A": "A purely hydrophobic molecule could not orient at oil-water interfaces or disperse into the aqueous phase.",
+          "B": "Emulsification depends on amphipathicity, not a net positive charge; bile salts carry a charged side chain but the key is the dual-faced structure.",
+          "C": "The steroid backbone alone does not confer detergent activity without the asymmetric hydrophilic/hydrophobic faces.",
+          "D": "Molecular size is not the property responsible for emulsification."
+        }
+      }
+    },
+    {
+      "id": "exocrine-functions-of-the-gi-system-012",
+      "topicId": "exocrine-functions-of-the-gi-system",
+      "topicName": "Exocrine Functions of the GI System",
+      "stem": "Before secretion, bile acids are conjugated with glycine or taurine, which lowers the pKa of the molecule. What is the principal functional consequence of this conjugation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enhances passive absorption in the jejunum"
+        },
+        {
+          "label": "B",
+          "text": "Converts them into secondary bile acids"
+        },
+        {
+          "label": "C",
+          "text": "Keeps them ionized in the gut lumen"
+        },
+        {
+          "label": "D",
+          "text": "Promotes their synthesis from cholesterol"
+        },
+        {
+          "label": "E",
+          "text": "Directly activates pancreatic colipase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Conjugation lowers the pKa so bile salts stay ionized (membrane-impermeant) across intestinal pH, preventing premature passive reabsorption.",
+        "whyCorrect": "The brick states conjugation lowers the pKa, ensuring bile salts remain ionized and membrane-impermeant across the intestinal pH range, preventing passive reabsorption in the proximal intestine.",
+        "whyWrongByChoice": {
+          "A": "Conjugation reduces, rather than enhances, passive proximal absorption by keeping bile salts ionized.",
+          "B": "Secondary bile acids are formed by colonic bacteria, not by hepatic conjugation.",
+          "D": "Conjugation occurs after synthesis and does not drive synthesis from cholesterol.",
+          "E": "Conjugation does not directly activate colipase, which is activated from procolipase by trypsin."
+        }
+      }
+    },
+    {
+      "id": "exocrine-functions-of-the-gi-system-013",
+      "topicId": "exocrine-functions-of-the-gi-system",
+      "topicName": "Exocrine Functions of the GI System",
+      "stem": "Although a small fraction of bile salts is passively absorbed along the small intestine, most conjugated bile salts are reclaimed by an active, sodium-dependent transporter. At which site does this primary reabsorption occur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Duodenum"
+        },
+        {
+          "label": "B",
+          "text": "Terminal ileum"
+        },
+        {
+          "label": "C",
+          "text": "Proximal jejunum"
+        },
+        {
+          "label": "D",
+          "text": "Stomach"
+        },
+        {
+          "label": "E",
+          "text": "Ascending colon"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The terminal ileum is the primary site of active bile salt reclamation via the apical sodium-dependent bile acid transporter (ASBT).",
+        "whyCorrect": "The brick states the primary site of bile salt reclamation is the terminal ileum, where the apical sodium-dependent bile acid transporter (ASBT) actively reabsorbs conjugated bile salts against a gradient.",
+        "whyWrongByChoice": {
+          "A": "The duodenum is not the site of active ASBT-mediated bile salt reabsorption.",
+          "C": "Only a small fraction of bile salts is passively absorbed proximally; the jejunum is not the primary active site.",
+          "D": "The stomach does not reabsorb bile salts.",
+          "E": "The colon can reabsorb some recycled secondary bile acids but is not the primary ASBT-mediated reclamation site."
+        }
+      }
+    },
+    {
+      "id": "exocrine-functions-of-the-gi-system-014",
+      "topicId": "exocrine-functions-of-the-gi-system",
+      "topicName": "Exocrine Functions of the GI System",
+      "stem": "A 30-year-old woman with chronic diarrhea and weight loss undergoes duodenal biopsy, which shows villous atrophy with compensatory crypt hyperplasia resulting from immune-mediated destruction of enterocytes. Which condition is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Crohn's disease"
+        },
+        {
+          "label": "B",
+          "text": "Cystic fibrosis"
+        },
+        {
+          "label": "C",
+          "text": "Zollinger-Ellison syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Celiac disease"
+        },
+        {
+          "label": "E",
+          "text": "Acute pancreatitis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Immune-mediated enterocyte destruction producing villous atrophy with crypt hyperplasia is the prototype of celiac disease.",
+        "whyCorrect": "The brick names celiac disease as the prototype of immune-mediated enterocyte destruction producing villous atrophy with compensatory crypt hyperplasia and reduced absorptive surface area.",
+        "whyWrongByChoice": {
+          "A": "Crohn's disease impairs absorption through transmural inflammation and ulceration, not the classic villous atrophy with crypt hyperplasia described.",
+          "B": "Cystic fibrosis causes pancreatic exocrine insufficiency via ductal obstruction, not immune villous atrophy.",
+          "C": "Zollinger-Ellison syndrome produces refractory ulcers and acid-mediated steatorrhea, not villous atrophy from immune destruction.",
+          "E": "Acute pancreatitis is intrapancreatic autodigestion and does not cause the described duodenal histology."
+        }
+      }
+    },
+    {
+      "id": "exocrine-functions-of-the-gi-system-015",
+      "topicId": "exocrine-functions-of-the-gi-system",
+      "topicName": "Exocrine Functions of the GI System",
+      "stem": "A 50-year-old man presents to the emergency department with severe epigastric pain radiating to the back and a markedly elevated serum lipase. Which diagnosis is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute cholecystitis"
+        },
+        {
+          "label": "B",
+          "text": "Acute pancreatitis"
+        },
+        {
+          "label": "C",
+          "text": "Celiac disease"
+        },
+        {
+          "label": "D",
+          "text": "Peptic ulcer disease"
+        },
+        {
+          "label": "E",
+          "text": "Cystic fibrosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Severe epigastric pain radiating to the back with elevated serum lipase is the classic presentation of acute pancreatitis.",
+        "whyCorrect": "The brick describes the clinical presentation of acute pancreatitis as severe epigastric pain radiating to the back with elevated serum lipase and amylase reflecting damaged acinar cells.",
+        "whyWrongByChoice": {
+          "A": "Acute cholecystitis causes right-upper-quadrant pain and does not characteristically elevate lipase.",
+          "C": "Celiac disease presents with malabsorption, not acute epigastric pain with elevated lipase.",
+          "D": "Peptic ulcer disease causes epigastric pain but not the marked lipase elevation described.",
+          "E": "Cystic fibrosis causes chronic exocrine insufficiency, not this acute pain-and-lipase presentation."
+        }
+      }
+    },
+    {
+      "id": "exocrine-functions-of-the-gi-system-016",
+      "topicId": "exocrine-functions-of-the-gi-system",
+      "topicName": "Exocrine Functions of the GI System",
+      "stem": "A patient is being evaluated for suspected acute pancreatitis. Which serum enzyme is considered the more specific marker for this diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amylase"
+        },
+        {
+          "label": "B",
+          "text": "Lipase"
+        },
+        {
+          "label": "C",
+          "text": "Gastrin"
+        },
+        {
+          "label": "D",
+          "text": "Alkaline phosphatase"
+        },
+        {
+          "label": "E",
+          "text": "Trypsin inhibitor"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Serum lipase is more specific than amylase for acute pancreatitis.",
+        "whyCorrect": "The brick states that serum lipase and amylase are elevated as damaged acinar cells release their contents, and that lipase is more specific.",
+        "whyWrongByChoice": {
+          "A": "Amylase rises in pancreatitis but is less specific than lipase and can be elevated by other conditions.",
+          "C": "Gastrin is a diagnostic marker for gastrinoma/Zollinger-Ellison syndrome, not pancreatitis.",
+          "D": "Alkaline phosphatase reflects biliary or bone processes, not pancreatic acinar injury specifically.",
+          "E": "Trypsin inhibitor (SPINK1) is an intracellular safeguard, not a serum diagnostic marker."
+        }
+      }
+    },
+    {
+      "id": "exocrine-functions-of-the-gi-system-017",
+      "topicId": "exocrine-functions-of-the-gi-system",
+      "topicName": "Exocrine Functions of the GI System",
+      "stem": "A 60-year-old man develops acute pancreatitis. Which of the following is a common trigger that produces this disease by obstructing pancreatic duct outflow?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ampullary gallstone impaction"
+        },
+        {
+          "label": "B",
+          "text": "Helicobacter pylori infection"
+        },
+        {
+          "label": "C",
+          "text": "Prior terminal ileal resection"
+        },
+        {
+          "label": "D",
+          "text": "Intestinal lactase deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Cirrhotic portal hypertension"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Gallstone impaction at the ampulla of Vater obstructs duct outflow and is one of the two most common triggers of acute pancreatitis.",
+        "whyCorrect": "The brick lists gallstone impaction at the ampulla of Vater (obstructing duct outflow) as one of the two most common triggers of acute pancreatitis.",
+        "whyWrongByChoice": {
+          "B": "H. pylori causes peptic ulcer disease and gastritis, not pancreatic duct obstruction.",
+          "C": "Terminal ileal resection disrupts bile salt recycling and causes steatorrhea, not duct-obstruction pancreatitis.",
+          "D": "Lactase deficiency causes osmotic diarrhea, unrelated to pancreatic duct obstruction.",
+          "E": "Portal hypertension is a vascular complication of liver disease, not a cause of duct-obstruction pancreatitis."
+        }
+      }
+    },
+    {
+      "id": "exocrine-functions-of-the-gi-system-018",
+      "topicId": "exocrine-functions-of-the-gi-system",
+      "topicName": "Exocrine Functions of the GI System",
+      "stem": "A newborn is diagnosed with a disease in which the pancreatic duct cell chloride channel fails to function. Regarding pancreatic exocrine function, this loss most directly causes which effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Excessive ductal bicarbonate secretion"
+        },
+        {
+          "label": "B",
+          "text": "Increased acinar enzyme activation"
+        },
+        {
+          "label": "C",
+          "text": "Reduced ductal bicarbonate secretion"
+        },
+        {
+          "label": "D",
+          "text": "Elevated gastric acid production"
+        },
+        {
+          "label": "E",
+          "text": "Ileal mucosal villous atrophy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Loss of CFTR function impairs pancreatic duct bicarbonate secretion, leading to inspissated secretions and ductal obstruction.",
+        "whyCorrect": "The brick states that loss-of-function CFTR mutations, as in cystic fibrosis, impair bicarbonate secretion, leading to inspissated secretions, ductal obstruction, and progressive exocrine insufficiency.",
+        "whyWrongByChoice": {
+          "A": "CFTR loss decreases, not increases, bicarbonate secretion.",
+          "B": "CF impairs enzyme delivery through ductal obstruction; it does not directly increase acinar enzyme activation.",
+          "D": "Gastric acid production is a parietal cell function unrelated to pancreatic ductal CFTR.",
+          "E": "Villous atrophy is a feature of celiac disease, not the direct consequence of ductal CFTR loss."
+        }
+      }
+    },
+    {
+      "id": "exocrine-functions-of-the-gi-system-019",
+      "topicId": "exocrine-functions-of-the-gi-system",
+      "topicName": "Exocrine Functions of the GI System",
+      "stem": "Within pancreatic acinar cells, a specific protein provides an additional safeguard against accidental intracellular protease activity. This protein, SPINK1, functions as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A bicarbonate transporter"
+        },
+        {
+          "label": "B",
+          "text": "A bile salt export pump"
+        },
+        {
+          "label": "C",
+          "text": "A brush border disaccharidase"
+        },
+        {
+          "label": "D",
+          "text": "A trypsin inhibitor"
+        },
+        {
+          "label": "E",
+          "text": "A cholesterol synthesis enzyme"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "SPINK1 is a trypsin inhibitor that provides an additional safeguard against premature intrapancreatic trypsin activation.",
+        "whyCorrect": "The brick states that within the pancreatic environment a trypsin inhibitor (SPINK1) provides an additional safeguard against accidental activation.",
+        "whyWrongByChoice": {
+          "A": "Bicarbonate transport is a duct cell function (e.g., SLC26A6), not the role of SPINK1.",
+          "B": "The bile salt export pump (BSEP) is a hepatocyte canalicular transporter, unrelated to SPINK1.",
+          "C": "Brush border disaccharidases (lactase, sucrase-isomaltase) are enterocyte enzymes, not SPINK1.",
+          "E": "SPINK1 is a protease inhibitor, not a cholesterol synthesis enzyme."
+        }
+      }
+    },
+    {
+      "id": "exocrine-functions-of-the-gi-system-020",
+      "topicId": "exocrine-functions-of-the-gi-system",
+      "topicName": "Exocrine Functions of the GI System",
+      "stem": "Bile salts returning from the intestine in portal blood are extracted by hepatocytes with high first-pass efficiency and re-secreted into bile. Uptake of these bile salts across the hepatocyte membrane occurs primarily via which transporter?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ASBT"
+        },
+        {
+          "label": "B",
+          "text": "BSEP"
+        },
+        {
+          "label": "C",
+          "text": "NTCP"
+        },
+        {
+          "label": "D",
+          "text": "CFTR"
+        },
+        {
+          "label": "E",
+          "text": "OSTα/β"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hepatocytes take up portal bile salts primarily via the Na+-taurocholate cotransporting polypeptide (NTCP).",
+        "whyCorrect": "The brick states hepatocytes extract bile salts from portal blood with ~95% first-pass efficiency via the Na+-taurocholate cotransporting polypeptide (NTCP).",
+        "whyWrongByChoice": {
+          "A": "ASBT is the apical transporter that reabsorbs bile salts in the terminal ileum, not the hepatic uptake transporter.",
+          "B": "BSEP exports conjugated bile salts from hepatocytes into bile canaliculi; it does not mediate uptake.",
+          "D": "CFTR is a pancreatic/epithelial chloride channel, not a hepatic bile salt uptake transporter.",
+          "E": "OSTα/β exports bile salts across the basolateral membrane of ileal enterocytes into portal blood, not hepatic uptake."
+        }
+      }
+    },
+    {
+      "id": "gastrointestinal-motility-disorders-001",
+      "topicId": "gastrointestinal-motility-disorders",
+      "topicName": "Gastrointestinal Motility Disorders",
+      "stem": "A 57-year-old woman reports several months of difficulty swallowing both liquids and solids, along with regurgitation of undigested food and mild retrosternal pressure after meals. A barium swallow shows a dilated esophagus tapering to a smooth \"bird's beak\" narrowing at the gastroesophageal junction. Which of the following is the gold-standard test to confirm the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "24-hour ambulatory esophageal pH monitoring"
+        },
+        {
+          "label": "B",
+          "text": "Upper endoscopy with mucosal biopsy"
+        },
+        {
+          "label": "C",
+          "text": "CT scan of the chest with contrast"
+        },
+        {
+          "label": "D",
+          "text": "Gastric emptying scintigraphy"
+        },
+        {
+          "label": "E",
+          "text": "Esophageal manometry"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Achalasia is diagnosed definitively by esophageal manometry showing impaired LES relaxation and absent peristalsis.",
+        "whyCorrect": "Esophageal manometry is the gold standard for achalasia, demonstrating the two hallmarks: impaired lower esophageal sphincter relaxation and absent peristalsis in the esophageal body.",
+        "whyWrongByChoice": {
+          "A": "pH monitoring quantifies acid reflux (GERD) and does not assess motility.",
+          "B": "Upper endoscopy is performed first to rule out mechanical obstruction or malignancy, but it is not the confirmatory motility test.",
+          "C": "Chest CT does not establish a motility diagnosis.",
+          "D": "Scintigraphy assesses gastric emptying, used for gastroparesis, not the esophagus."
+        }
+      }
+    },
+    {
+      "id": "gastrointestinal-motility-disorders-002",
+      "topicId": "gastrointestinal-motility-disorders",
+      "topicName": "Gastrointestinal Motility Disorders",
+      "stem": "A 62-year-old man with achalasia is being counseled about the underlying cause of his disease. Esophageal manometry demonstrates impaired lower esophageal sphincter relaxation with absent peristalsis. Which of the following best describes the underlying pathophysiology?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune destruction of esophageal epithelium"
+        },
+        {
+          "label": "B",
+          "text": "Fibrotic stricture of the distal esophageal wall"
+        },
+        {
+          "label": "C",
+          "text": "Degeneration of inhibitory myenteric plexus neurons"
+        },
+        {
+          "label": "D",
+          "text": "Hypertrophy of the lower esophageal sphincter muscle"
+        },
+        {
+          "label": "E",
+          "text": "Eosinophilic infiltration of the esophageal mucosa"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Achalasia results from loss of inhibitory neurons in the esophageal myenteric plexus.",
+        "whyCorrect": "The inhibitory ganglion neurons of the myenteric plexus, which release nitric oxide and VIP to relax the LES and coordinate peristalsis, are destroyed (likely autoimmune), producing impaired LES relaxation and absent peristalsis.",
+        "whyWrongByChoice": {
+          "A": "The epithelium is not the target; the pathology is neuronal loss in the myenteric plexus.",
+          "B": "A fibrotic stricture is a mechanical/structural cause, not the functional neuronal loss of achalasia.",
+          "D": "The LES fails to relax because of neuronal loss, not because of muscle hypertrophy.",
+          "E": "Eosinophilic infiltration describes eosinophilic esophagitis, a different disorder."
+        }
+      }
+    },
+    {
+      "id": "gastrointestinal-motility-disorders-003",
+      "topicId": "gastrointestinal-motility-disorders",
+      "topicName": "Gastrointestinal Motility Disorders",
+      "stem": "A healthy 45-year-old woman has manometry-confirmed achalasia and desires durable symptom relief. Which of the following is the most appropriate definitive treatment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Long-term oral calcium channel blockers"
+        },
+        {
+          "label": "B",
+          "text": "Endoscopic botulinum toxin injection"
+        },
+        {
+          "label": "C",
+          "text": "Proton pump inhibitor therapy"
+        },
+        {
+          "label": "D",
+          "text": "Laparoscopic Heller myotomy"
+        },
+        {
+          "label": "E",
+          "text": "Swallowed topical corticosteroids"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Laparoscopic Heller myotomy (with partial fundoplication) is a definitive treatment with good long-term success.",
+        "whyCorrect": "Since peristalsis cannot be restored, treatment reduces LES resistance; surgical division of the LES fibers (Heller myotomy) with a partial fundoplication provides durable relief.",
+        "whyWrongByChoice": {
+          "A": "Pharmacotherapy with calcium channel blockers is minimally effective and rarely used.",
+          "B": "Botulinum toxin gives only temporary relief (~6 months) and is reserved for poor surgical candidates.",
+          "C": "PPIs treat acid reflux, not the functional obstruction of achalasia.",
+          "E": "Swallowed steroids treat eosinophilic esophagitis, not achalasia."
+        }
+      }
+    },
+    {
+      "id": "gastrointestinal-motility-disorders-004",
+      "topicId": "gastrointestinal-motility-disorders",
+      "topicName": "Gastrointestinal Motility Disorders",
+      "stem": "A 50-year-old man has recurrent substernal chest pain that mimics angina, with occasional dysphagia; cardiac workup is negative. Barium swallow shows a \"corkscrew\" esophagus, and manometry reveals premature, simultaneous contractions with normal LES relaxation. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Achalasia"
+        },
+        {
+          "label": "B",
+          "text": "Gastroesophageal reflux disease"
+        },
+        {
+          "label": "C",
+          "text": "Hypercontractile (jackhammer) esophagus"
+        },
+        {
+          "label": "D",
+          "text": "Distal esophageal spasm"
+        },
+        {
+          "label": "E",
+          "text": "Eosinophilic esophagitis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Distal esophageal spasm features premature, uncoordinated (simultaneous) contractions with a corkscrew barium appearance and predominant chest pain.",
+        "whyCorrect": "DES presents predominantly with substernal chest pain mimicking cardiac pain; manometry shows simultaneous rather than sequential contractions, and barium shows the classic corkscrew pattern.",
+        "whyWrongByChoice": {
+          "A": "Achalasia shows impaired LES relaxation and absent peristalsis with a bird's-beak, not a corkscrew.",
+          "B": "GERD causes heartburn/regurgitation, not simultaneous contractions with a corkscrew esophagus.",
+          "C": "Jackhammer esophagus has properly sequenced but excessively forceful contractions, not premature/simultaneous ones.",
+          "E": "Eosinophilic esophagitis causes solid-food dysphagia/food impaction, not a corkscrew manometric pattern."
+        }
+      }
+    },
+    {
+      "id": "gastrointestinal-motility-disorders-005",
+      "topicId": "gastrointestinal-motility-disorders",
+      "topicName": "Gastrointestinal Motility Disorders",
+      "stem": "A 48-year-old woman presents with dysphagia. Esophageal manometry shows contractions that are properly sequenced and coordinated but excessively forceful; the LES relaxes normally, and barium swallow is normal. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Esophageal achalasia"
+        },
+        {
+          "label": "B",
+          "text": "Distal esophageal spasm"
+        },
+        {
+          "label": "C",
+          "text": "Hypercontractile esophagus"
+        },
+        {
+          "label": "D",
+          "text": "Diffuse esophageal stricture"
+        },
+        {
+          "label": "E",
+          "text": "Esophageal adenocarcinoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hypercontractile (jackhammer) esophagus shows preserved peristaltic sequencing with excessively forceful contractions.",
+        "whyCorrect": "In jackhammer esophagus, contractions remain properly sequenced/coordinated but are hypercontractile; the extreme force impairs bolus transit, producing dysphagia, with normal LES relaxation.",
+        "whyWrongByChoice": {
+          "A": "Achalasia shows impaired LES relaxation and absent peristalsis, not preserved forceful peristalsis.",
+          "B": "DES has premature, simultaneous (uncoordinated) contractions, not properly sequenced ones.",
+          "D": "A stricture is a mechanical cause and would typically show narrowing on barium.",
+          "E": "Adenocarcinoma is a mechanical obstruction causing solid-predominant dysphagia, not a hypercontractile motility pattern."
+        }
+      }
+    },
+    {
+      "id": "gastrointestinal-motility-disorders-006",
+      "topicId": "gastrointestinal-motility-disorders",
+      "topicName": "Gastrointestinal Motility Disorders",
+      "stem": "A 55-year-old man with type 2 diabetes reports nausea, vomiting, early satiety, and postprandial fullness. Upper endoscopy is normal, excluding mechanical obstruction. Which of the following studies best confirms the suspected diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Esophageal manometry"
+        },
+        {
+          "label": "B",
+          "text": "Abdominal CT with oral contrast"
+        },
+        {
+          "label": "C",
+          "text": "Lactose hydrogen breath test"
+        },
+        {
+          "label": "D",
+          "text": "Colonic transit study"
+        },
+        {
+          "label": "E",
+          "text": "Gastric emptying scintigraphy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Gastroparesis is confirmed with gastric emptying scintigraphy after mechanical obstruction is excluded.",
+        "whyCorrect": "After endoscopy excludes obstruction, gastric scintigraphy (a nuclear medicine study) confirms delayed gastric emptying, establishing gastroparesis.",
+        "whyWrongByChoice": {
+          "A": "Manometry evaluates esophageal motility, not gastric emptying.",
+          "B": "CT helps exclude structural disease but does not quantify emptying.",
+          "C": "The hydrogen breath test evaluates carbohydrate malabsorption, not gastric emptying.",
+          "D": "Colonic transit studies assess constipation, not gastric emptying."
+        }
+      }
+    },
+    {
+      "id": "gastrointestinal-motility-disorders-007",
+      "topicId": "gastrointestinal-motility-disorders",
+      "topicName": "Gastrointestinal Motility Disorders",
+      "stem": "The pathophysiology of gastroparesis involves injury to the pacemaker cells that generate the slow-wave rhythm of the stomach. Damage to which of the following cell types best accounts for this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Parietal cells"
+        },
+        {
+          "label": "B",
+          "text": "Enterochromaffin-like cells"
+        },
+        {
+          "label": "C",
+          "text": "Chief cells"
+        },
+        {
+          "label": "D",
+          "text": "Interstitial cells of Cajal"
+        },
+        {
+          "label": "E",
+          "text": "Goblet cells"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Interstitial cells of Cajal are the gastric pacemaker cells damaged in gastroparesis.",
+        "whyCorrect": "Gastroparesis involves damage to the vagus nerve, myenteric plexus, and interstitial cells of Cajal (the gastric pacemaker cells), impairing coordinated emptying.",
+        "whyWrongByChoice": {
+          "A": "Parietal cells secrete acid and intrinsic factor; they are not pacemakers.",
+          "B": "ECL cells release histamine to drive acid secretion, not motility rhythm.",
+          "C": "Chief cells secrete pepsinogen and have no pacemaker function.",
+          "E": "Goblet cells secrete mucus and are unrelated to gastric pacemaking."
+        }
+      }
+    },
+    {
+      "id": "gastrointestinal-motility-disorders-008",
+      "topicId": "gastrointestinal-motility-disorders",
+      "topicName": "Gastrointestinal Motility Disorders",
+      "stem": "A 60-year-old woman with idiopathic gastroparesis is started on metoclopramide, the only FDA-approved medication for this condition. Long-term use of this drug carries the risk of which of the following adverse effects?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulmonary fibrosis"
+        },
+        {
+          "label": "B",
+          "text": "Peripheral neuropathy"
+        },
+        {
+          "label": "C",
+          "text": "Tardive dyskinesia"
+        },
+        {
+          "label": "D",
+          "text": "Nephrolithiasis"
+        },
+        {
+          "label": "E",
+          "text": "Hemolytic anemia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Long-term metoclopramide use risks tardive dyskinesia.",
+        "whyCorrect": "Metoclopramide is a dopamine antagonist/prokinetic; chronic use can produce tardive dyskinesia, an important limitation of long-term therapy.",
+        "whyWrongByChoice": {
+          "A": "Pulmonary fibrosis is associated with drugs such as amiodarone or bleomycin, not metoclopramide.",
+          "B": "Peripheral neuropathy is not a recognized metoclopramide effect.",
+          "D": "Nephrolithiasis is unrelated to metoclopramide.",
+          "E": "Hemolytic anemia is not a characteristic metoclopramide toxicity."
+        }
+      }
+    },
+    {
+      "id": "gastrointestinal-motility-disorders-009",
+      "topicId": "gastrointestinal-motility-disorders",
+      "topicName": "Gastrointestinal Motility Disorders",
+      "stem": "Three days after abdominal surgery, a 64-year-old man has abdominal distension, nausea, and inability to pass flatus or stool. An abdominal X-ray shows diffusely dilated, air-filled small and large bowel with no transition point. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Paralytic ileus"
+        },
+        {
+          "label": "B",
+          "text": "Mechanical small bowel obstruction"
+        },
+        {
+          "label": "C",
+          "text": "Cecal volvulus"
+        },
+        {
+          "label": "D",
+          "text": "Ogilvie syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Toxic megacolon"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Postoperative paralytic ileus causes functional cessation of motility with diffuse small- and large-bowel gas and no mechanical transition point.",
+        "whyCorrect": "Postoperative ileus is the most common cause of ileus; imaging shows diffusely air-filled small AND large bowel, distinguishing it from mechanical obstruction.",
+        "whyWrongByChoice": {
+          "B": "Small bowel obstruction shows dilated small bowel with absence of air reaching the colon and a transition point.",
+          "C": "Volvulus produces a focal closed-loop obstruction, not diffuse gas throughout both small and large bowel.",
+          "D": "Ogilvie syndrome is massive colonic (not diffuse small and large bowel) dilation.",
+          "E": "Toxic megacolon involves colonic dilation with systemic toxicity and colitis, not diffuse postoperative gas."
+        }
+      }
+    },
+    {
+      "id": "gastrointestinal-motility-disorders-010",
+      "topicId": "gastrointestinal-motility-disorders",
+      "topicName": "Gastrointestinal Motility Disorders",
+      "stem": "A hospitalized patient develops functional cessation of intestinal motility without mechanical obstruction. Which of the following is the most common precipitant of this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Recent abdominal surgery"
+        },
+        {
+          "label": "B",
+          "text": "Chronic opioid dependence"
+        },
+        {
+          "label": "C",
+          "text": "Hyperkalemia"
+        },
+        {
+          "label": "D",
+          "text": "Viral gastroenteritis"
+        },
+        {
+          "label": "E",
+          "text": "Mesenteric arterial ischemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Postoperative ileus is the most common cause of paralytic ileus.",
+        "whyCorrect": "Ileus occurs to some extent after virtually every abdominal surgery, making postoperative status the single most common cause.",
+        "whyWrongByChoice": {
+          "B": "Opioids can contribute to ileus, but recent surgery is the most common precipitant.",
+          "C": "Hypokalemia (not hyperkalemia) is the electrolyte derangement associated with ileus.",
+          "D": "Viral gastroenteritis causes acute diarrhea, not paralytic ileus.",
+          "E": "Mesenteric ischemia is a vascular emergency, not the typical cause of functional ileus."
+        }
+      }
+    },
+    {
+      "id": "gastrointestinal-motility-disorders-011",
+      "topicId": "gastrointestinal-motility-disorders",
+      "topicName": "Gastrointestinal Motility Disorders",
+      "stem": "A 78-year-old man in the ICU for sepsis develops progressive abdominal distension. Imaging shows massive dilation of the colon with a dilated cecum; a water-soluble contrast enema reveals no mechanical obstruction. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mechanical small bowel obstruction"
+        },
+        {
+          "label": "B",
+          "text": "Acute colonic pseudo-obstruction"
+        },
+        {
+          "label": "C",
+          "text": "Sigmoid volvulus"
+        },
+        {
+          "label": "D",
+          "text": "Toxic megacolon"
+        },
+        {
+          "label": "E",
+          "text": "Adynamic paralytic ileus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Acute colonic pseudo-obstruction (Ogilvie syndrome) is massive colonic dilation without mechanical obstruction in a seriously ill, hospitalized patient.",
+        "whyCorrect": "Ogilvie syndrome occurs almost exclusively in hospitalized/institutionalized patients (surgery, trauma, sepsis) and is defined by massive colonic dilation with no mechanical cause on imaging.",
+        "whyWrongByChoice": {
+          "A": "Small bowel obstruction dilates the small intestine and shows a transition point, not isolated massive colonic dilation.",
+          "C": "Sigmoid volvulus shows a focal twisted closed loop, not diffuse colonic dilation without obstruction.",
+          "D": "Toxic megacolon involves severe colitis with systemic toxicity, not the atonic pseudo-obstruction of a septic patient.",
+          "E": "Ileus classically affects both small and large bowel diffusely, whereas this is predominantly massive colonic dilation."
+        }
+      }
+    },
+    {
+      "id": "gastrointestinal-motility-disorders-012",
+      "topicId": "gastrointestinal-motility-disorders",
+      "topicName": "Gastrointestinal Motility Disorders",
+      "stem": "A 70-year-old woman with acute colonic pseudo-obstruction has not improved after 72 hours of conservative management (stopping offending drugs, correcting electrolytes, bowel rest, and ambulation). There is no perforation or ischemia. Which of the following is the most appropriate next pharmacologic step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intravenous erythromycin"
+        },
+        {
+          "label": "B",
+          "text": "Oral polyethylene glycol"
+        },
+        {
+          "label": "C",
+          "text": "Intravenous neostigmine"
+        },
+        {
+          "label": "D",
+          "text": "Broad-spectrum antibiotics"
+        },
+        {
+          "label": "E",
+          "text": "Subcutaneous octreotide"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Neostigmine is the pharmacologic treatment for Ogilvie syndrome when conservative measures fail.",
+        "whyCorrect": "Neostigmine, an acetylcholinesterase inhibitor, boosts parasympathetic tone and decompresses the colon (often rapidly) and is effective in about 85% of cases refractory to conservative therapy.",
+        "whyWrongByChoice": {
+          "A": "Erythromycin is a motilin agonist used for gastroparesis, not Ogilvie syndrome.",
+          "B": "Osmotic laxatives are not the treatment for acute colonic pseudo-obstruction.",
+          "D": "Antibiotics do not address the autonomic dysmotility unless there is perforation/peritonitis.",
+          "E": "Octreotide is used for secretory tumors, not colonic decompression."
+        }
+      }
+    },
+    {
+      "id": "gastrointestinal-motility-disorders-013",
+      "topicId": "gastrointestinal-motility-disorders",
+      "topicName": "Gastrointestinal Motility Disorders",
+      "stem": "A patient with acute colonic pseudo-obstruction has a progressively enlarging cecum. Exceeding a cecal diameter of 12 cm most strongly increases the risk of which of the following complications?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sigmoid volvulus"
+        },
+        {
+          "label": "B",
+          "text": "Cecal perforation"
+        },
+        {
+          "label": "C",
+          "text": "Colovesical fistula"
+        },
+        {
+          "label": "D",
+          "text": "Colonic adenocarcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Diverticular abscess"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The key danger of Ogilvie syndrome is cecal perforation, whose risk rises as cecal diameter exceeds 12 cm.",
+        "whyCorrect": "The cecum has the largest diameter and thinnest wall; distension beyond ~12 cm markedly increases the risk of cecal perforation, which carries roughly 50% mortality.",
+        "whyWrongByChoice": {
+          "A": "Volvulus is a mechanical twisting event, not the consequence of progressive cecal dilation.",
+          "C": "Colovesical fistulas arise from diverticulitis or malignancy, not acute dilation.",
+          "D": "Cancer is a chronic obstructive cause, not a complication of pseudo-obstruction.",
+          "E": "Diverticular abscess results from diverticulitis, unrelated to cecal over-distension."
+        }
+      }
+    },
+    {
+      "id": "gastrointestinal-motility-disorders-014",
+      "topicId": "gastrointestinal-motility-disorders",
+      "topicName": "Gastrointestinal Motility Disorders",
+      "stem": "Among the many secondary causes of constipation, medications are the most common. Which of the following is the single most common medication culprit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Osmotic laxatives"
+        },
+        {
+          "label": "B",
+          "text": "Loop diuretics"
+        },
+        {
+          "label": "C",
+          "text": "Beta-blockers"
+        },
+        {
+          "label": "D",
+          "text": "Opioid analgesics"
+        },
+        {
+          "label": "E",
+          "text": "Proton pump inhibitors"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Opioids are the single most common medication cause of constipation.",
+        "whyCorrect": "Among the medications that cause constipation (anticholinergics, calcium channel blockers, iron, antacids), opioids are the single most common culprit.",
+        "whyWrongByChoice": {
+          "A": "Osmotic laxatives treat constipation; they do not cause it.",
+          "B": "Loop diuretics are not a leading cause of constipation.",
+          "C": "Beta-blockers are not among the classic constipating drug classes emphasized here.",
+          "E": "PPIs are not a common cause of constipation (they are linked to microscopic colitis instead)."
+        }
+      }
+    },
+    {
+      "id": "gastrointestinal-motility-disorders-015",
+      "topicId": "gastrointestinal-motility-disorders",
+      "topicName": "Gastrointestinal Motility Disorders",
+      "stem": "A 63-year-old man reports new-onset constipation over 3 months with a 10-pound weight loss, heme-positive stool, and iron deficiency anemia. Which of the following is the most appropriate next step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Start polyethylene glycol"
+        },
+        {
+          "label": "B",
+          "text": "Recommend increased dietary fiber"
+        },
+        {
+          "label": "C",
+          "text": "Check a serum TSH"
+        },
+        {
+          "label": "D",
+          "text": "Prescribe senna"
+        },
+        {
+          "label": "E",
+          "text": "Colonoscopy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "New-onset constipation with alarm features requires colonoscopy to exclude colorectal cancer.",
+        "whyCorrect": "Weight loss, blood in stool, and iron deficiency anemia are red-flag features; a near-obstructing colon cancer must be excluded with colonoscopy before treating symptomatically.",
+        "whyWrongByChoice": {
+          "A": "Starting a laxative without evaluating red flags could delay diagnosis of malignancy.",
+          "B": "Fiber is first-line for uncomplicated constipation but inappropriate when alarm features are present.",
+          "C": "Hypothyroidism is a secondary cause, but the alarm features mandate colonoscopy first.",
+          "D": "A stimulant laxative does not address the need to exclude cancer."
+        }
+      }
+    },
+    {
+      "id": "gastrointestinal-motility-disorders-016",
+      "topicId": "gastrointestinal-motility-disorders",
+      "topicName": "Gastrointestinal Motility Disorders",
+      "stem": "A 34-year-old man develops bloating and watery diarrhea within an hour of consuming dairy; the symptoms reliably resolve when he fasts or avoids milk products. Which of the following mechanistic categories best describes his diarrhea?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Secretory diarrhea"
+        },
+        {
+          "label": "B",
+          "text": "Osmotic diarrhea"
+        },
+        {
+          "label": "C",
+          "text": "Inflammatory diarrhea"
+        },
+        {
+          "label": "D",
+          "text": "Malabsorptive steatorrhea"
+        },
+        {
+          "label": "E",
+          "text": "Factitious diarrhea"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Lactose intolerance causes osmotic diarrhea, which resolves with fasting.",
+        "whyCorrect": "Poorly absorbed lactose retains water in the lumen; a defining feature of osmotic diarrhea is resolution with fasting or removal of the offending solute.",
+        "whyWrongByChoice": {
+          "A": "Secretory diarrhea persists despite fasting and produces large-volume watery stool.",
+          "C": "Inflammatory diarrhea has blood/leukocytes and elevated fecal calprotectin.",
+          "D": "Steatorrhea is greasy, foul-smelling fat malabsorption, not sugar-triggered watery stool.",
+          "E": "Factitious diarrhea is from surreptitious laxative use, not dairy ingestion."
+        }
+      }
+    },
+    {
+      "id": "gastrointestinal-motility-disorders-017",
+      "topicId": "gastrointestinal-motility-disorders",
+      "topicName": "Gastrointestinal Motility Disorders",
+      "stem": "A 29-year-old woman has recurrent bloating and diarrhea after milk products, and lactose intolerance is suspected. Which of the following is the most widely used diagnostic test?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydrogen breath test"
+        },
+        {
+          "label": "B",
+          "text": "Fecal calprotectin"
+        },
+        {
+          "label": "C",
+          "text": "Serum tissue transglutaminase IgA"
+        },
+        {
+          "label": "D",
+          "text": "Colonoscopy with biopsy"
+        },
+        {
+          "label": "E",
+          "text": "Stool osmotic gap"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The hydrogen breath test is the most widely used test for lactose intolerance.",
+        "whyCorrect": "After ingesting a lactose solution, breath hydrogen is measured; a rise of at least 20 ppm above baseline indicates malabsorption, and this is the most commonly used method.",
+        "whyWrongByChoice": {
+          "B": "Fecal calprotectin screens for intestinal inflammation (IBD), not lactose intolerance.",
+          "C": "tTG-IgA is the serologic test for celiac disease.",
+          "D": "Colonoscopy is not used to diagnose lactose intolerance.",
+          "E": "The stool osmotic gap helps classify diarrhea but is not the standard lactose intolerance test."
+        }
+      }
+    },
+    {
+      "id": "gastrointestinal-motility-disorders-018",
+      "topicId": "gastrointestinal-motility-disorders",
+      "topicName": "Gastrointestinal Motility Disorders",
+      "stem": "A 58-year-old man has chronic, large-volume watery diarrhea, profound hypokalemia, and low gastric acid output. Imaging reveals a pancreatic mass, and a fasting serum VIP level is markedly elevated. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gastrinoma"
+        },
+        {
+          "label": "B",
+          "text": "VIPoma"
+        },
+        {
+          "label": "C",
+          "text": "Carcinoid tumor"
+        },
+        {
+          "label": "D",
+          "text": "Insulinoma"
+        },
+        {
+          "label": "E",
+          "text": "Glucagonoma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "VIPoma causes WDHA syndrome: watery diarrhea, hypokalemia, and achlorhydria.",
+        "whyCorrect": "A pancreatic neuroendocrine tumor secreting VIP drives massive intestinal water/chloride secretion, potassium loss, and impaired gastric acid secretion, with an elevated fasting VIP level.",
+        "whyWrongByChoice": {
+          "A": "Gastrinoma causes excess acid and peptic ulcers (Zollinger-Ellison), not achlorhydria.",
+          "C": "Carcinoid causes flushing, diarrhea, and wheezing from serotonin, not WDHA with elevated VIP.",
+          "D": "Insulinoma causes hypoglycemia, not secretory diarrhea.",
+          "E": "Glucagonoma causes necrolytic migratory erythema and hyperglycemia, not WDHA."
+        }
+      }
+    },
+    {
+      "id": "gastrointestinal-motility-disorders-019",
+      "topicId": "gastrointestinal-motility-disorders",
+      "topicName": "Gastrointestinal Motility Disorders",
+      "stem": "A 66-year-old woman has months of chronic, watery, nonbloody diarrhea. Colonoscopy is grossly normal, but random mucosal biopsies show a thickened subepithelial collagen band. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Collagenous colitis"
+        },
+        {
+          "label": "B",
+          "text": "Ulcerative pancolitis"
+        },
+        {
+          "label": "C",
+          "text": "Crohn ileocolitis"
+        },
+        {
+          "label": "D",
+          "text": "Celiac disease"
+        },
+        {
+          "label": "E",
+          "text": "Ischemic colitis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Microscopic colitis causes chronic watery nonbloody diarrhea with a normal-appearing colon and diagnostic findings only on biopsy.",
+        "whyCorrect": "Collagenous colitis, a subtype of microscopic colitis common in women over 60, shows a normal endoscopic appearance with a thickened subepithelial collagen band on biopsy.",
+        "whyWrongByChoice": {
+          "B": "Ulcerative pancolitis produces grossly inflamed, friable mucosa with bloody diarrhea.",
+          "C": "Crohn ileocolitis shows endoscopic inflammation (skip lesions, ulcers), not a normal-appearing colon.",
+          "D": "Celiac disease affects the small bowel (duodenal villous atrophy), not the colon.",
+          "E": "Ischemic colitis shows segmental mucosal injury, typically with pain and bleeding."
+        }
+      }
+    },
+    {
+      "id": "gastrointestinal-motility-disorders-020",
+      "topicId": "gastrointestinal-motility-disorders",
+      "topicName": "Gastrointestinal Motility Disorders",
+      "stem": "A 40-year-old woman has chronic diarrhea, bloating, and iron deficiency anemia; celiac disease is suspected. Which of the following is the recommended first-line serologic test?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-mitochondrial antibody"
+        },
+        {
+          "label": "B",
+          "text": "Fecal calprotectin"
+        },
+        {
+          "label": "C",
+          "text": "HLA-DQ2/DQ8 typing"
+        },
+        {
+          "label": "D",
+          "text": "Hydrogen breath test"
+        },
+        {
+          "label": "E",
+          "text": "Tissue transglutaminase IgA"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "tTG-IgA (with a total IgA level) is the first-line serologic test for celiac disease.",
+        "whyCorrect": "Tissue transglutaminase IgA has sensitivity and specificity greater than 95% and is the first-line serologic test, obtained with a total IgA level to exclude IgA deficiency that could cause a false negative.",
+        "whyWrongByChoice": {
+          "A": "Anti-mitochondrial antibody is a marker for primary biliary cholangitis.",
+          "B": "Fecal calprotectin screens for IBD-type inflammation, not celiac disease.",
+          "C": "HLA typing is used to exclude celiac disease (high negative predictive value), not as the first-line diagnostic test.",
+          "D": "The hydrogen breath test evaluates carbohydrate malabsorption, not celiac serology."
+        }
+      }
+    },
+    {
+      "id": "laxatives-and-antidiarrheals-001",
+      "topicId": "laxatives-and-antidiarrheals",
+      "topicName": "Laxatives and Antidiarrheals",
+      "stem": "A 62-year-old man is scheduled for a screening colonoscopy. The gastroenterologist prescribes a balanced polyethylene glycol (PEG) solution containing sodium and potassium salts for complete bowel cleansing the night before the procedure. Which of the following best explains why PEG is preferred for pre-endoscopic bowel preparation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is rapidly absorbed and cleared by the kidneys"
+        },
+        {
+          "label": "B",
+          "text": "It is isotonic and causes minimal electrolyte shifts"
+        },
+        {
+          "label": "C",
+          "text": "It stimulates enteric neurons to increase peristalsis"
+        },
+        {
+          "label": "D",
+          "text": "It binds luminal bile acids to reduce fluid secretion"
+        },
+        {
+          "label": "E",
+          "text": "It lowers stool surface tension as a surfactant"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "PEG is an inert, nonabsorbable, osmotically active agent formulated as a balanced isotonic solution so that no significant intravascular fluid or electrolyte shifts occur, making it ideal for complete colonic cleansing.",
+        "whyCorrect": "The brick states PEG solutions contain PEG with sodium and potassium salts and are designed so that no significant intravascular fluid or electrolyte shifts occur, which is why PEG is a common option for complete colonic cleansing before endoscopy.",
+        "whyWrongByChoice": {
+          "A": "PEG is nonabsorbable; it stays in the lumen rather than being absorbed and renally cleared.",
+          "C": "Acting on enteric neurons describes stimulant laxatives such as senna and bisacodyl, not PEG.",
+          "D": "Binding bile acids describes bile-acid sequestrants used as antidiarrheals, not an osmotic laxative.",
+          "E": "Lowering stool surface tension is the mechanism of docusate, an emollient stool surfactant."
+        }
+      }
+    },
+    {
+      "id": "laxatives-and-antidiarrheals-002",
+      "topicId": "laxatives-and-antidiarrheals",
+      "topicName": "Laxatives and Antidiarrheals",
+      "stem": "A 48-year-old woman with chronic constipation begins taking a psyllium supplement daily. Her constipation improves, but she notices a new bothersome symptom after several days of use. Which of the following is the most likely adverse effect of this agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ischemic colitis"
+        },
+        {
+          "label": "B",
+          "text": "Melanosis coli"
+        },
+        {
+          "label": "C",
+          "text": "Urinary retention"
+        },
+        {
+          "label": "D",
+          "text": "Acute pancreatitis"
+        },
+        {
+          "label": "E",
+          "text": "Gas and bloating"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Psyllium is a bulk-forming laxative; gut bacteria digest some of the plant products, producing flatulence as the characteristic adverse effect.",
+        "whyCorrect": "The brick states that gut bacteria digest some of the plant products in bulk-forming laxatives, leading to the adverse effect of flatulence, which is also why beans make people 'gassier.'",
+        "whyWrongByChoice": {
+          "A": "Ischemic colitis is the rare serious adverse effect of alosetron, not of a bulk-forming laxative.",
+          "B": "Melanosis coli results from chronic use of stimulant laxatives such as senna.",
+          "C": "Urinary retention is an anticholinergic effect of atropine combined with diphenoxylate.",
+          "D": "Pancreatitis is associated with eluxadoline via sphincter of Oddi spasm, not with psyllium."
+        }
+      }
+    },
+    {
+      "id": "laxatives-and-antidiarrheals-003",
+      "topicId": "laxatives-and-antidiarrheals",
+      "topicName": "Laxatives and Antidiarrheals",
+      "stem": "A 70-year-old man who has used an over-the-counter laxative daily for many years undergoes colonoscopy. The colonic mucosa shows diffuse brown-black pigmentation, described by the pathologist as of no functional significance. Chronic use of which of the following agents most likely produced this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Docusate"
+        },
+        {
+          "label": "B",
+          "text": "Psyllium"
+        },
+        {
+          "label": "C",
+          "text": "Senna"
+        },
+        {
+          "label": "D",
+          "text": "Lactulose"
+        },
+        {
+          "label": "E",
+          "text": "Methylcellulose"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Chronic use of the stimulant laxative senna causes melanosis coli, a benign brown pigmentation of the colonic mucosa.",
+        "whyCorrect": "The brick specifies that chronic use of senna can cause melanosis coli, described as brown pigmentation of the colonic mucosa of no functional significance.",
+        "whyWrongByChoice": {
+          "A": "Docusate is an emollient stool softener and is not associated with melanosis coli.",
+          "B": "Psyllium is a bulk-forming laxative whose main adverse effect is flatulence.",
+          "D": "Lactulose is an osmotic laxative and does not cause colonic pigmentation.",
+          "E": "Methylcellulose is a bulk-forming laxative and does not produce melanosis coli."
+        }
+      }
+    },
+    {
+      "id": "laxatives-and-antidiarrheals-004",
+      "topicId": "laxatives-and-antidiarrheals",
+      "topicName": "Laxatives and Antidiarrheals",
+      "stem": "A 55-year-old woman with chronic constipation is prescribed lactulose, a synthetic disaccharide of galactose and fructose. Which of the following best describes how this agent relieves her constipation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It binds bile acids in the intestinal lumen"
+        },
+        {
+          "label": "B",
+          "text": "It is fermented in the colon, drawing in water"
+        },
+        {
+          "label": "C",
+          "text": "It lowers the surface tension of the stool"
+        },
+        {
+          "label": "D",
+          "text": "It stimulates mu-opioid receptors in the gut wall"
+        },
+        {
+          "label": "E",
+          "text": "It activates guanylate cyclase C on the epithelium"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Lactulose resists intestinal disaccharidases and is hydrolyzed by colonic bacteria to short-chain fatty acids that osmotically draw water into the lumen, stimulating propulsive motility.",
+        "whyCorrect": "The brick states lactulose resists intestinal disaccharidase activity and is hydrolyzed in the colon to short-chain fatty acids, which stimulate colonic propulsive motility by osmotically drawing water into the lumen.",
+        "whyWrongByChoice": {
+          "A": "Binding bile acids is the mechanism of bile-acid sequestrants used as antidiarrheals.",
+          "C": "Lowering stool surface tension describes the emollient docusate.",
+          "D": "Stimulating mu-opioid receptors describes opioid antidiarrheals like loperamide, which slow the gut.",
+          "E": "Activating guanylate cyclase C is the mechanism of linaclotide, an IBS-C drug."
+        }
+      }
+    },
+    {
+      "id": "laxatives-and-antidiarrheals-005",
+      "topicId": "laxatives-and-antidiarrheals",
+      "topicName": "Laxatives and Antidiarrheals",
+      "stem": "A 60-year-old man with hard, difficult-to-pass stools after recent surgery is started on docusate. Which of the following best describes the mechanism by which this agent improves his symptoms?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It creates a bulky mass that distends the bowel"
+        },
+        {
+          "label": "B",
+          "text": "It blocks 5-HT3 receptors in the gut"
+        },
+        {
+          "label": "C",
+          "text": "It antagonizes peripheral mu-opioid receptors"
+        },
+        {
+          "label": "D",
+          "text": "It lowers stool surface tension to soften the stool"
+        },
+        {
+          "label": "E",
+          "text": "It activates chloride channels in the small intestine"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Docusate is an anionic surfactant (emollient) that lowers stool surface tension, allowing water and fat to mix into the stool and soften it.",
+        "whyCorrect": "The brick states docusate salts are anionic surfactants that lower the surface tension of the stool, allowing mixing of aqueous and fatty substances and thus softening the stool.",
+        "whyWrongByChoice": {
+          "A": "Creating a bulky distending mass describes bulk-forming laxatives such as psyllium.",
+          "B": "Blocking 5-HT3 receptors describes the antidiarrheal alosetron.",
+          "C": "Antagonizing peripheral mu-opioid receptors describes opiate antagonists like methylnaltrexone.",
+          "E": "Activating chloride channels describes lubiprostone, an IBS-C drug."
+        }
+      }
+    },
+    {
+      "id": "laxatives-and-antidiarrheals-006",
+      "topicId": "laxatives-and-antidiarrheals",
+      "topicName": "Laxatives and Antidiarrheals",
+      "stem": "A 29-year-old woman who is 32 weeks pregnant asks about using castor oil to relieve her constipation. The clinician advises her to avoid it. Which of the following is the most appropriate reason to avoid castor oil in this patient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It causes melanosis coli"
+        },
+        {
+          "label": "B",
+          "text": "It causes fat-soluble vitamin deficiency"
+        },
+        {
+          "label": "C",
+          "text": "It may induce labor"
+        },
+        {
+          "label": "D",
+          "text": "It commonly precipitates pancreatitis"
+        },
+        {
+          "label": "E",
+          "text": "It leads to urinary retention"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Castor oil is a stimulant laxative that should be avoided in pregnancy because it can induce labor.",
+        "whyCorrect": "The brick's clinical correlation states that castor oil should be avoided in pregnant patients because it can induce labor.",
+        "whyWrongByChoice": {
+          "A": "Melanosis coli is linked to chronic senna use and is not the reason to avoid castor oil in pregnancy.",
+          "B": "Fat-soluble vitamin deficiency is an effect of bile-acid sequestrants, not castor oil.",
+          "D": "Pancreatitis is associated with eluxadoline, not castor oil.",
+          "E": "Urinary retention is an anticholinergic effect of atropine, not of castor oil."
+        }
+      }
+    },
+    {
+      "id": "laxatives-and-antidiarrheals-007",
+      "topicId": "laxatives-and-antidiarrheals",
+      "topicName": "Laxatives and Antidiarrheals",
+      "stem": "A 40-year-old man takes castor oil for occasional constipation. Which of the following best describes how this agent increases bowel motility?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is converted to ricinoleic acid, a gut irritant"
+        },
+        {
+          "label": "B",
+          "text": "It binds bacterial enterotoxins in the intestinal lumen"
+        },
+        {
+          "label": "C",
+          "text": "It raises cyclic GMP in the gut epithelium"
+        },
+        {
+          "label": "D",
+          "text": "It absorbs luminal water to distend the colon"
+        },
+        {
+          "label": "E",
+          "text": "It reduces ileal bile acid reabsorption"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Castor oil is a stimulant laxative that is broken down into ricinoleic acid, which irritates the GI tract and increases motility.",
+        "whyCorrect": "The brick states castor oil breaks down into ricinoleic acid, which irritates the GI tract and also increases motility.",
+        "whyWrongByChoice": {
+          "B": "Binding enterotoxins describes bismuth subsalicylate, an antidiarrheal.",
+          "C": "Increasing cyclic GMP describes linaclotide.",
+          "D": "Absorbing water to distend the colon describes bulk-forming laxatives.",
+          "E": "Reducing bile acid reabsorption describes bile-acid sequestrants used for diarrhea."
+        }
+      }
+    },
+    {
+      "id": "laxatives-and-antidiarrheals-008",
+      "topicId": "laxatives-and-antidiarrheals",
+      "topicName": "Laxatives and Antidiarrheals",
+      "stem": "A 58-year-old woman with metastatic breast cancer on chronic opioids for bone pain reports refractory constipation. She has already tried magnesium citrate, fiber, stool softeners, castor oil, and lactulose without benefit and wishes to continue her opioids. Which of the following is the most appropriate next agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Loperamide (mu-agonist)"
+        },
+        {
+          "label": "B",
+          "text": "Alosetron (5-HT3 blocker)"
+        },
+        {
+          "label": "C",
+          "text": "Bisacodyl (stimulant)"
+        },
+        {
+          "label": "D",
+          "text": "Cholestyramine (sequestrant)"
+        },
+        {
+          "label": "E",
+          "text": "Methylnaltrexone (PAMORA)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Opioid-induced constipation refractory to standard laxatives is treated with a peripherally acting opiate antagonist such as methylnaltrexone, which relieves gut constipation without reversing central analgesia.",
+        "whyCorrect": "The brick states opiate antagonists such as methylnaltrexone are used for opioid-induced constipation, typically only when other methods have failed, and block the gut opioid receptors causing constipation without disturbing central analgesia.",
+        "whyWrongByChoice": {
+          "A": "Loperamide is an opioid antidiarrheal that would worsen constipation.",
+          "B": "Alosetron is a 5-HT3 antagonist used for IBS-D and would not help constipation.",
+          "C": "Bisacodyl is a stimulant laxative in the same category she has already tried without benefit.",
+          "D": "Cholestyramine is a bile-acid sequestrant used for diarrhea, not constipation."
+        }
+      }
+    },
+    {
+      "id": "laxatives-and-antidiarrheals-009",
+      "topicId": "laxatives-and-antidiarrheals",
+      "topicName": "Laxatives and Antidiarrheals",
+      "stem": "A 65-year-old man on long-term opioids for chronic pain develops constipation and is started on methylnaltrexone. His pain control remains unchanged. Which of the following best explains how this drug relieves his constipation while preserving analgesia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It activates chloride channels in the small bowel"
+        },
+        {
+          "label": "B",
+          "text": "It antagonizes peripheral mu-opioid receptors"
+        },
+        {
+          "label": "C",
+          "text": "It stimulates cholecystokinin release in the intestine"
+        },
+        {
+          "label": "D",
+          "text": "It blocks 5-HT3 receptors centrally and peripherally"
+        },
+        {
+          "label": "E",
+          "text": "It binds luminal bile acids that stimulate secretion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Methylnaltrexone is a mu-opioid receptor antagonist with limited ability to cross the blood-brain barrier, so it reverses opioid effects in the gut without disturbing central analgesia.",
+        "whyCorrect": "The brick states these agents are mu-opioid receptor antagonists with limited ability to cross the blood-brain barrier, reversing opioid action in the gut without disturbing their central action.",
+        "whyWrongByChoice": {
+          "A": "Activating chloride channels describes lubiprostone, not an opiate antagonist.",
+          "C": "Cholecystokinin release is stimulated by magnesium-containing osmotic laxatives.",
+          "D": "Blocking 5-HT3 receptors describes alosetron, an antidiarrheal.",
+          "E": "Binding luminal bile acids describes bile-acid sequestrants used for diarrhea."
+        }
+      }
+    },
+    {
+      "id": "laxatives-and-antidiarrheals-010",
+      "topicId": "laxatives-and-antidiarrheals",
+      "topicName": "Laxatives and Antidiarrheals",
+      "stem": "A 45-year-old woman with constipation-predominant irritable bowel syndrome (IBS-C) unresponsive to fiber is started on lubiprostone. Which of the following best describes the mechanism of action of this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It activates type 2 chloride channels to secrete fluid"
+        },
+        {
+          "label": "B",
+          "text": "It absorbs water osmotically to distend the colon"
+        },
+        {
+          "label": "C",
+          "text": "It antagonizes peripheral mu-opioid receptors in the gut"
+        },
+        {
+          "label": "D",
+          "text": "It blocks serotonin release in the intestinal wall"
+        },
+        {
+          "label": "E",
+          "text": "It lowers the surface tension of hardened stool"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Lubiprostone is a type 2 chloride channel (ClC-2) activator that promotes secretion of chloride-rich fluid into the small intestine, increasing motility.",
+        "whyCorrect": "The brick states lubiprostone stimulates the ClC-2 channel in the small intestine, leading to secretion of chloride-rich fluid that increases intestinal motility.",
+        "whyWrongByChoice": {
+          "B": "Osmotically absorbing water to distend the colon describes bulk-forming laxatives.",
+          "C": "Antagonizing peripheral mu-opioid receptors describes opiate antagonists like methylnaltrexone.",
+          "D": "Blocking intestinal serotonin signaling describes the antidiarrheal alosetron.",
+          "E": "Lowering stool surface tension describes docusate."
+        }
+      }
+    },
+    {
+      "id": "laxatives-and-antidiarrheals-011",
+      "topicId": "laxatives-and-antidiarrheals",
+      "topicName": "Laxatives and Antidiarrheals",
+      "stem": "A 50-year-old woman with IBS-C is started on lubiprostone. Which of the following is the most common adverse effect she should be counseled about?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nausea"
+        },
+        {
+          "label": "B",
+          "text": "Ischemic colitis"
+        },
+        {
+          "label": "C",
+          "text": "Melanosis coli"
+        },
+        {
+          "label": "D",
+          "text": "Urinary retention"
+        },
+        {
+          "label": "E",
+          "text": "Flatulence"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The most common adverse effect of lubiprostone is nausea, occurring in about 30% of patients.",
+        "whyCorrect": "The brick states the most common adverse effect of lubiprostone is nausea, which occurs in about 30% of patients.",
+        "whyWrongByChoice": {
+          "B": "Ischemic colitis is the rare serious adverse effect of alosetron.",
+          "C": "Melanosis coli is caused by chronic senna use.",
+          "D": "Urinary retention is an anticholinergic effect of atropine combined with diphenoxylate.",
+          "E": "Flatulence is the characteristic adverse effect of bulk-forming laxatives."
+        }
+      }
+    },
+    {
+      "id": "laxatives-and-antidiarrheals-012",
+      "topicId": "laxatives-and-antidiarrheals",
+      "topicName": "Laxatives and Antidiarrheals",
+      "stem": "A 47-year-old woman with IBS-C is started on linaclotide. Which of the following best describes the primary mechanism of action of this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activates type 2 chloride channels directly"
+        },
+        {
+          "label": "B",
+          "text": "Binds luminal bile acids to reduce fluid secretion"
+        },
+        {
+          "label": "C",
+          "text": "Blocks peripheral mu-opioid receptors in the gut"
+        },
+        {
+          "label": "D",
+          "text": "Stimulates enteric neurons via mucosal irritation"
+        },
+        {
+          "label": "E",
+          "text": "Increases cGMP to drive CFTR chloride secretion"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Linaclotide activates guanylate cyclase C on the luminal epithelium, increasing cGMP, which activates CFTR to induce chloride-rich secretion and increase bowel movements.",
+        "whyCorrect": "The brick states linaclotide increases cyclic GMP, which activates the cystic fibrosis transmembrane conductance regulator (CFTR) to induce chloride-rich secretion.",
+        "whyWrongByChoice": {
+          "A": "Direct activation of type 2 chloride channels is the mechanism of lubiprostone, not linaclotide.",
+          "B": "Binding bile acids describes bile-acid sequestrants.",
+          "C": "Blocking peripheral mu-opioid receptors describes opiate antagonists.",
+          "D": "Mucosal irritation of enteric neurons describes stimulant laxatives such as senna or castor oil."
+        }
+      }
+    },
+    {
+      "id": "laxatives-and-antidiarrheals-013",
+      "topicId": "laxatives-and-antidiarrheals",
+      "topicName": "Laxatives and Antidiarrheals",
+      "stem": "A 33-year-old man with acute watery diarrhea takes over-the-counter loperamide, which reduces his stool frequency and urgency. Which of the following best describes how loperamide produces this effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It blocks 5-HT3 receptors in the gut and brain"
+        },
+        {
+          "label": "B",
+          "text": "It binds bile acids in the intestinal lumen"
+        },
+        {
+          "label": "C",
+          "text": "It stimulates prostaglandin and mucus secretion"
+        },
+        {
+          "label": "D",
+          "text": "It increases chloride secretion into the gut lumen"
+        },
+        {
+          "label": "E",
+          "text": "It slows peristalsis via gut opioid receptors"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Loperamide is an opioid agonist that does not cross the blood-brain barrier; it inhibits acetylcholine and prostaglandin release to reduce peristalsis, allowing more water absorption, and increases anal sphincter tone to reduce urgency.",
+        "whyCorrect": "The brick states loperamide inhibits acetylcholine and prostaglandin release, reducing peristalsis to increase water absorption from stool, and increases anal sphincter tone to decrease urgency.",
+        "whyWrongByChoice": {
+          "A": "Blocking 5-HT3 receptors describes alosetron.",
+          "B": "Binding bile acids describes bile-acid sequestrants.",
+          "C": "Stimulating prostaglandin and mucus secretion describes bismuth subsalicylate's mucosal defense action.",
+          "D": "Increasing chloride secretion describes IBS-C drugs like lubiprostone, which promote diarrhea, not treat it."
+        }
+      }
+    },
+    {
+      "id": "laxatives-and-antidiarrheals-014",
+      "topicId": "laxatives-and-antidiarrheals",
+      "topicName": "Laxatives and Antidiarrheals",
+      "stem": "A 38-year-old man is prescribed a combination antidiarrheal containing diphenoxylate and atropine. Which of the following best explains why atropine is included in this formulation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To enhance its antidiarrheal potency"
+        },
+        {
+          "label": "B",
+          "text": "To prevent fat-soluble vitamin deficiency"
+        },
+        {
+          "label": "C",
+          "text": "To reduce the risk of pancreatitis"
+        },
+        {
+          "label": "D",
+          "text": "To discourage misuse and dose escalation"
+        },
+        {
+          "label": "E",
+          "text": "To block peripheral serotonin receptors"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Diphenoxylate crosses the blood-brain barrier and can cause CNS effects, so atropine is added; its unpleasant anticholinergic effects at higher doses discourage dose increases and misuse.",
+        "whyCorrect": "The brick states diphenoxylate crosses the blood-brain barrier leading to CNS effects, so it is combined with atropine to dissuade dose increases, with anticholinergic side effects occurring in excess.",
+        "whyWrongByChoice": {
+          "A": "Atropine is added to deter overuse, not to boost antidiarrheal potency.",
+          "B": "Fat-soluble vitamin deficiency relates to bile-acid sequestrants, not this combination.",
+          "C": "Pancreatitis risk relates to eluxadoline, not diphenoxylate-atropine.",
+          "E": "Atropine is an antimuscarinic, not a serotonin receptor blocker."
+        }
+      }
+    },
+    {
+      "id": "laxatives-and-antidiarrheals-015",
+      "topicId": "laxatives-and-antidiarrheals",
+      "topicName": "Laxatives and Antidiarrheals",
+      "stem": "A 25-year-old man plans international travel and wants to prevent traveler's diarrhea. He is advised to take bismuth subsalicylate. Which of the following best describes how this agent works?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It enhances mucosal defense and binds enterotoxins"
+        },
+        {
+          "label": "B",
+          "text": "It binds bile acids that cause colonic secretion"
+        },
+        {
+          "label": "C",
+          "text": "It antagonizes mu-opioid receptors in the gut"
+        },
+        {
+          "label": "D",
+          "text": "It activates guanylate cyclase C on the epithelium"
+        },
+        {
+          "label": "E",
+          "text": "It lowers the surface tension of the stool"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Bismuth subsalicylate enhances mucosal defense (stimulating prostaglandin, mucus, and bicarbonate secretion), inhibits intestinal prostaglandin synthesis and chloride secretion, and has direct antimicrobial activity while binding enterotoxins, making it useful for traveler's diarrhea.",
+        "whyCorrect": "The brick states bismuth subsalicylate enhances mucosal defense, exhibits direct antimicrobial activity, and binds enterotoxins, contributing to its effectiveness in preventing and treating traveler's diarrhea.",
+        "whyWrongByChoice": {
+          "B": "Binding bile acids describes bile-acid sequestrants such as cholestyramine.",
+          "C": "Antagonizing mu-opioid receptors describes opiate antagonists like methylnaltrexone.",
+          "D": "Activating guanylate cyclase C describes linaclotide, an IBS-C drug.",
+          "E": "Lowering stool surface tension describes the emollient docusate."
+        }
+      }
+    },
+    {
+      "id": "laxatives-and-antidiarrheals-016",
+      "topicId": "laxatives-and-antidiarrheals",
+      "topicName": "Laxatives and Antidiarrheals",
+      "stem": "A 44-year-old woman with diarrhea-predominant IBS and hyperlipidemia is treated off-label with cholestyramine, which improves her diarrhea. Which of the following is the main adverse effect associated with this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ischemic colitis with bloody stools"
+        },
+        {
+          "label": "B",
+          "text": "Malabsorption of fat-soluble vitamins"
+        },
+        {
+          "label": "C",
+          "text": "Melanosis coli with dark mucosa"
+        },
+        {
+          "label": "D",
+          "text": "Acute pancreatitis with abdominal pain"
+        },
+        {
+          "label": "E",
+          "text": "Urinary retention and dry mouth"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The main adverse effect of bile-acid sequestrants such as cholestyramine is interference with the absorption of other drugs and of fat-soluble vitamins in the GI tract.",
+        "whyCorrect": "The brick states the main adverse effect of bile-acid sequestrants is interference with the absorption of drugs and fat-soluble vitamins in the GI tract.",
+        "whyWrongByChoice": {
+          "A": "Ischemic colitis is the rare serious adverse effect of alosetron.",
+          "C": "Melanosis coli is caused by chronic senna use.",
+          "D": "Pancreatitis is associated with eluxadoline.",
+          "E": "Urinary retention and dry mouth are anticholinergic effects of atropine."
+        }
+      }
+    },
+    {
+      "id": "laxatives-and-antidiarrheals-017",
+      "topicId": "laxatives-and-antidiarrheals",
+      "topicName": "Laxatives and Antidiarrheals",
+      "stem": "A 52-year-old woman with severe, refractory diarrhea-predominant IBS is being considered for alosetron. Which of the following serious adverse effects most limits the use of this drug?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute pancreatitis"
+        },
+        {
+          "label": "B",
+          "text": "Xerostomia"
+        },
+        {
+          "label": "C",
+          "text": "Melanosis coli"
+        },
+        {
+          "label": "D",
+          "text": "Ischemic colitis"
+        },
+        {
+          "label": "E",
+          "text": "Flatulence"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Alosetron is reserved for women with severe or refractory IBS-D partly because of a rare but serious risk of ischemic colitis that can require transfusion, surgery, or even cause death.",
+        "whyCorrect": "The brick states alosetron carries a rare but serious risk of ischemic colitis, which may result in a need for blood transfusion or surgery, or even death, limiting its use to severe or refractory cases.",
+        "whyWrongByChoice": {
+          "A": "Pancreatitis is the serious adverse effect of eluxadoline, not alosetron.",
+          "B": "Xerostomia is an anticholinergic effect of atropine combined with diphenoxylate.",
+          "C": "Melanosis coli results from chronic stimulant laxative use.",
+          "E": "Flatulence is the adverse effect of bulk-forming laxatives, not a serious limiting effect of alosetron."
+        }
+      }
+    },
+    {
+      "id": "laxatives-and-antidiarrheals-018",
+      "topicId": "laxatives-and-antidiarrheals",
+      "topicName": "Laxatives and Antidiarrheals",
+      "stem": "A 46-year-old man with diarrhea-predominant IBS is being considered for eluxadoline. Which of the following patients would this drug be contraindicated in?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A patient with a history of asthma"
+        },
+        {
+          "label": "B",
+          "text": "A patient with essential hypertension"
+        },
+        {
+          "label": "C",
+          "text": "A patient with prior cholecystectomy"
+        },
+        {
+          "label": "D",
+          "text": "A patient with an ileostomy"
+        },
+        {
+          "label": "E",
+          "text": "A patient older than 65 years"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Eluxadoline increases the risk of pancreatitis from sphincter of Oddi spasm and is contraindicated in patients who have had a cholecystectomy.",
+        "whyCorrect": "The brick states eluxadoline is contraindicated in patients who have had a cholecystectomy because of increased risk of pancreatitis due to sphincter of Oddi spasm.",
+        "whyWrongByChoice": {
+          "A": "Asthma is not listed as a contraindication to eluxadoline in this brick.",
+          "B": "Hypertension is not a stated contraindication to eluxadoline.",
+          "D": "An ileostomy is actually a setting where antidiarrheals may be used, not a contraindication to eluxadoline.",
+          "E": "Age over 65 is not a stated contraindication; prior cholecystectomy is."
+        }
+      }
+    },
+    {
+      "id": "laxatives-and-antidiarrheals-019",
+      "topicId": "laxatives-and-antidiarrheals",
+      "topicName": "Laxatives and Antidiarrheals",
+      "stem": "A medical student is reviewing laxative classes. Which of the following agents is classified as a bulk-forming laxative?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Docusate"
+        },
+        {
+          "label": "B",
+          "text": "Senna"
+        },
+        {
+          "label": "C",
+          "text": "Psyllium"
+        },
+        {
+          "label": "D",
+          "text": "Lactulose"
+        },
+        {
+          "label": "E",
+          "text": "Bisacodyl"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Psyllium, bran, and methylcellulose are the bulk-forming laxatives; they absorb water and distend the intestine to trigger peristalsis.",
+        "whyCorrect": "The brick lists psyllium, bran, and methylcellulose as examples of bulk-forming laxatives.",
+        "whyWrongByChoice": {
+          "A": "Docusate is an emollient (stool surfactant).",
+          "B": "Senna is a stimulant (cathartic) laxative.",
+          "D": "Lactulose is an osmotic laxative.",
+          "E": "Bisacodyl is a stimulant laxative."
+        }
+      }
+    },
+    {
+      "id": "laxatives-and-antidiarrheals-020",
+      "topicId": "laxatives-and-antidiarrheals",
+      "topicName": "Laxatives and Antidiarrheals",
+      "stem": "A 68-year-old man takes a magnesium-containing laxative for constipation. In addition to its osmotic effect, this agent increases intestinal motility partly by stimulating release of which of the following hormones?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gastrin"
+        },
+        {
+          "label": "B",
+          "text": "Secretin"
+        },
+        {
+          "label": "C",
+          "text": "Somatostatin"
+        },
+        {
+          "label": "D",
+          "text": "Cholecystokinin"
+        },
+        {
+          "label": "E",
+          "text": "Vasoactive intestinal peptide"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Magnesium-containing laxatives may stimulate release of cholecystokinin (CCK), leading to intraluminal fluid and electrolyte accumulation and increased intestinal motility.",
+        "whyCorrect": "The brick states magnesium-containing laxatives may stimulate the release of cholecystokinin (CCK), which leads to intraluminal fluid and electrolyte accumulation and increased intestinal motility.",
+        "whyWrongByChoice": {
+          "A": "Gastrin drives gastric acid secretion and is not the hormone stimulated by magnesium laxatives here.",
+          "B": "Secretin stimulates pancreatic bicarbonate and is not implicated in this brick's mechanism.",
+          "C": "Somatostatin inhibits GI secretion and motility, the opposite of the described effect.",
+          "E": "Vasoactive intestinal peptide drives intestinal secretion but is not the hormone stimulated by magnesium laxatives here."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,2768 @@
+{
+  "categoryId": "w3s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "biliary-noninfectious-001",
+      "topicId": "biliary-noninfectious",
+      "topicName": "Noninfectious Disorders of the Biliary System",
+      "stem": "A 45-year-old woman presents with episodes of dull, cramping right upper quadrant pain that begin about 30 minutes after eating a fatty meal, radiate to the right shoulder, and resolve on their own within about 2 hours. She is afebrile, her abdomen is soft and nontender, and her white blood cell count, bilirubin, alkaline phosphatase, and transaminases are all normal. Ultrasound shows gallstones without wall thickening. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Biliary colic"
+        },
+        {
+          "label": "B",
+          "text": "Acute cholecystitis"
+        },
+        {
+          "label": "C",
+          "text": "Ascending cholangitis"
+        },
+        {
+          "label": "D",
+          "text": "Choledocholithiasis"
+        },
+        {
+          "label": "E",
+          "text": "Gallstone pancreatitis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Self-limited postprandial RUQ pain with normal labs and no fever indicates biliary colic.",
+        "whyCorrect": "Biliary colic occurs when a gallstone transiently obstructs the cystic duct, often after a fatty meal releases CCK; pain lasts less than 6 hours and the patient is stable, afebrile, with normal labs.",
+        "whyWrongByChoice": {
+          "B": "Acute cholecystitis causes pain lasting more than 6 hours, fever, leukocytosis, and a positive Murphy sign from a persistently obstructed cystic duct.",
+          "C": "Ascending cholangitis produces the Charcot triad of fever, jaundice, and RUQ pain with an obstructed and infected bile duct, not normal labs.",
+          "D": "Choledocholithiasis would raise alkaline phosphatase and conjugated bilirubin from common bile duct obstruction.",
+          "E": "Gallstone pancreatitis causes epigastric pain radiating to the back with elevated lipase, not brief self-limited colic."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "biliary colic",
+        "cholelithiasis",
+        "clinical presentation"
+      ]
+    },
+    {
+      "id": "biliary-noninfectious-002",
+      "topicId": "biliary-noninfectious",
+      "topicName": "Noninfectious Disorders of the Biliary System",
+      "stem": "A 42-year-old obese woman with three children and a family history of gallstones is found to have cholesterol gallstones. Which of the following best describes the composition and predisposing factor of the most common type of gallstone?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stones rich in bilirubin, associated with chronic hemolysis"
+        },
+        {
+          "label": "B",
+          "text": "Stones formed from bile supersaturated with cholesterol, associated with obesity and female sex"
+        },
+        {
+          "label": "C",
+          "text": "Stones composed of calcium carbonate, associated with hyperparathyroidism"
+        },
+        {
+          "label": "D",
+          "text": "Stones formed from bacterial deconjugation of bilirubin, associated with biliary infection"
+        },
+        {
+          "label": "E",
+          "text": "Stones composed primarily of bile salts, associated with ileal resection"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cholesterol stones are the most common (about 80%) and form from cholesterol-supersaturated bile.",
+        "whyCorrect": "Cholesterol gallstones account for roughly 80% of stones and form when bile is supersaturated with cholesterol; classic risk factors are the six Fs: Female, Fertile, Fat, Forty, Family, and Farmacology (octreotide, ceftriaxone).",
+        "whyWrongByChoice": {
+          "A": "Bilirubin-rich stones associated with hemolysis are pigment stones, which make up only about 20%.",
+          "C": "Calcium carbonate composition is not the described most common stone type.",
+          "D": "Bacterial deconjugation produces brown pigment stones in the setting of biliary infection, not the majority cholesterol stones.",
+          "E": "Ileal resection depletes the bile acid pool and predisposes to cholesterol stones, but the stones are cholesterol, not bile salts."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cholesterol stones",
+        "risk factors",
+        "six Fs"
+      ]
+    },
+    {
+      "id": "biliary-noninfectious-003",
+      "topicId": "biliary-noninfectious",
+      "topicName": "Noninfectious Disorders of the Biliary System",
+      "stem": "A 24-year-old man with sickle cell disease develops recurrent RUQ pain. Ultrasound reveals multiple small, hard gallstones. His unconjugated bilirubin is chronically elevated and haptoglobin is low. Which of the following best explains the type of gallstones he has formed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cholesterol supersaturation from a high-fat diet"
+        },
+        {
+          "label": "B",
+          "text": "Impaired gallbladder contraction from octreotide therapy"
+        },
+        {
+          "label": "C",
+          "text": "Increased bilirubin load from chronic hemolysis producing black pigment stones"
+        },
+        {
+          "label": "D",
+          "text": "Estrogen-induced increase in biliary cholesterol secretion"
+        },
+        {
+          "label": "E",
+          "text": "Bacterial infection of the biliary tree producing brown pigment stones"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Chronic hemolysis increases bilirubin load, producing hard black pigment stones.",
+        "whyCorrect": "Hemolytic conditions such as sickle cell disease raise the bilirubin load; excess unconjugated bilirubin precipitates as hard, black pigment stones, which represent about 20% of gallstones.",
+        "whyWrongByChoice": {
+          "A": "Cholesterol supersaturation produces soft brown cholesterol stones and is not driven by hemolysis.",
+          "B": "Octreotide impairs gallbladder emptying and favors cholesterol stones, not the hemolysis-driven pigment stones described.",
+          "D": "Estrogen increases cholesterol secretion and favors cholesterol stones, not pigment stones.",
+          "E": "Biliary bacterial infection causes brown pigment stones, but this patient's hemolysis produces black pigment stones and there is no evidence of infection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pigment stones",
+        "hemolysis",
+        "bilirubin"
+      ]
+    },
+    {
+      "id": "biliary-noninfectious-004",
+      "topicId": "biliary-noninfectious",
+      "topicName": "Noninfectious Disorders of the Biliary System",
+      "stem": "A 58-year-old woman presents with constant RUQ pain that has persisted for 10 hours, along with fever of 38.4 C and nausea. On examination, she abruptly stops inhaling when the examiner palpates deeply below the right costal margin during inspiration. Her bilirubin and alkaline phosphatase are normal, but her white blood cell count is elevated. Which of the following physical findings is being described?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Courvoisier sign"
+        },
+        {
+          "label": "B",
+          "text": "Cullen sign"
+        },
+        {
+          "label": "C",
+          "text": "Rovsing sign"
+        },
+        {
+          "label": "D",
+          "text": "Murphy sign"
+        },
+        {
+          "label": "E",
+          "text": "McBurney point tenderness"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Inspiratory arrest on RUQ palpation is a positive Murphy sign, characteristic of acute cholecystitis.",
+        "whyCorrect": "Murphy sign is catching of the breath from pain when the inflamed gallbladder descends onto the examiner's hand during inspiration; combined with pain over 6 hours, fever, and leukocytosis it indicates acute cholecystitis with normal LFTs since the common bile duct is not obstructed.",
+        "whyWrongByChoice": {
+          "A": "Courvoisier sign is a palpable nontender gallbladder with painless jaundice, suggesting malignant distal obstruction.",
+          "B": "Cullen sign is periumbilical bruising seen in hemorrhagic pancreatitis or retroperitoneal bleeding.",
+          "C": "Rovsing sign is RLQ pain on palpation of the LLQ, seen in appendicitis.",
+          "E": "McBurney point tenderness localizes to the RLQ in appendicitis, not the gallbladder."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "acute cholecystitis",
+        "Murphy sign",
+        "physical exam"
+      ]
+    },
+    {
+      "id": "biliary-noninfectious-005",
+      "topicId": "biliary-noninfectious",
+      "topicName": "Noninfectious Disorders of the Biliary System",
+      "stem": "A 60-year-old man presents with RUQ pain and jaundice. Ultrasound shows a dilated common bile duct with a stone lodged within it and gallstones in the gallbladder. He is afebrile with normal vital signs and no altered mental status. Which of the following laboratory patterns is most consistent with his diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Predominantly unconjugated hyperbilirubinemia with normal alkaline phosphatase"
+        },
+        {
+          "label": "B",
+          "text": "Markedly elevated lipase with normal bilirubin and alkaline phosphatase"
+        },
+        {
+          "label": "C",
+          "text": "Isolated transaminase elevation in the thousands with normal alkaline phosphatase"
+        },
+        {
+          "label": "D",
+          "text": "Normal bilirubin and alkaline phosphatase with an elevated white blood cell count only"
+        },
+        {
+          "label": "E",
+          "text": "Alkaline phosphatase elevated out of proportion to transaminases with elevated conjugated bilirubin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Choledocholithiasis produces a cholestatic pattern with alkaline phosphatase raised more than transaminases and conjugated hyperbilirubinemia.",
+        "whyCorrect": "When a stone obstructs the common bile duct, alkaline phosphatase rises much more than ALT or AST and conjugated (direct) bilirubin increases, producing obstructive jaundice with duct dilation on imaging.",
+        "whyWrongByChoice": {
+          "A": "Unconjugated hyperbilirubinemia indicates hemolysis or impaired conjugation, not obstruction, and obstruction raises alkaline phosphatase.",
+          "B": "Isolated lipase elevation suggests pancreatitis rather than an obstructing bile duct stone.",
+          "C": "Transaminases in the thousands suggest acute hepatocellular injury such as viral or ischemic hepatitis, not cholestasis.",
+          "D": "Normal bilirubin and alkaline phosphatase would be expected in uncomplicated cholecystitis, not in common bile duct obstruction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "choledocholithiasis",
+        "cholestasis",
+        "liver function tests"
+      ]
+    },
+    {
+      "id": "biliary-noninfectious-006",
+      "topicId": "biliary-noninfectious",
+      "topicName": "Noninfectious Disorders of the Biliary System",
+      "stem": "A 67-year-old woman presents with fever of 39 C, jaundice, and right upper quadrant pain. Labs show elevated bilirubin, alkaline phosphatase, and leukocytosis, and ultrasound shows a dilated common bile duct with a stone. Which of the following triads is classically associated with her diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fever, jaundice, and right upper quadrant pain"
+        },
+        {
+          "label": "B",
+          "text": "Hypotension, altered mental status, and jaundice"
+        },
+        {
+          "label": "C",
+          "text": "Epigastric pain, vomiting, and elevated lipase"
+        },
+        {
+          "label": "D",
+          "text": "Painless jaundice, weight loss, and a palpable gallbladder"
+        },
+        {
+          "label": "E",
+          "text": "Right upper quadrant pain, positive Murphy sign, and normal LFTs"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The Charcot triad of fever, jaundice, and RUQ pain defines ascending cholangitis.",
+        "whyCorrect": "Ascending cholangitis results from bacterial infection of obstructed, stagnant bile and classically presents with the Charcot triad: fever, jaundice, and RUQ pain.",
+        "whyWrongByChoice": {
+          "B": "Hypotension and altered mental status added to the Charcot triad form the Reynolds pentad, which signals severe/suppurative cholangitis rather than the defining triad.",
+          "C": "Epigastric pain with elevated lipase describes pancreatitis.",
+          "D": "Painless jaundice with a palpable gallbladder (Courvoisier) suggests malignant obstruction, not cholangitis.",
+          "E": "RUQ pain, positive Murphy sign, and normal LFTs describe acute cholecystitis without duct obstruction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ascending cholangitis",
+        "Charcot triad",
+        "biliary obstruction"
+      ]
+    },
+    {
+      "id": "biliary-noninfectious-007",
+      "topicId": "biliary-noninfectious",
+      "topicName": "Noninfectious Disorders of the Biliary System",
+      "stem": "A 72-year-old man with known choledocholithiasis presents with fever, jaundice, and RUQ pain. Over the next few hours he becomes hypotensive (BP 82/50) and confused. Which of the following terms best describes his current clinical picture, and what is the most urgent intervention?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Charcot triad; observation and repeat labs in 24 hours"
+        },
+        {
+          "label": "B",
+          "text": "Reynolds pentad; broad-spectrum antibiotics and urgent biliary decompression"
+        },
+        {
+          "label": "C",
+          "text": "Charcot triad; elective cholecystectomy in 6 weeks"
+        },
+        {
+          "label": "D",
+          "text": "Reynolds pentad; oral ursodeoxycholic acid to dissolve the stone"
+        },
+        {
+          "label": "E",
+          "text": "Mirizzi syndrome; percutaneous drainage of a hepatic abscess"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Charcot triad plus hypotension and confusion is the Reynolds pentad, indicating severe cholangitis requiring emergent decompression.",
+        "whyCorrect": "The Reynolds pentad (fever, jaundice, RUQ pain plus hypotension and altered mental status) signals suppurative cholangitis with sepsis; treatment is emergent broad-spectrum antibiotics and urgent bile duct decompression, most commonly by ERCP.",
+        "whyWrongByChoice": {
+          "A": "This is beyond the Charcot triad and observation would be fatal in septic cholangitis.",
+          "C": "Delayed elective surgery ignores the life-threatening sepsis requiring immediate decompression.",
+          "D": "Ursodeoxycholic acid dissolves cholesterol stones slowly and has no role in acute septic obstruction.",
+          "E": "Mirizzi syndrome is cystic duct stone compression of the common hepatic duct, not the septic decompensation described here."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Reynolds pentad",
+        "severe cholangitis",
+        "ERCP",
+        "management"
+      ]
+    },
+    {
+      "id": "biliary-noninfectious-008",
+      "topicId": "biliary-noninfectious",
+      "topicName": "Noninfectious Disorders of the Biliary System",
+      "stem": "An 80-year-old woman with a long history of gallstones presents with several days of crampy abdominal pain, distension, vomiting, and obstipation. Abdominal radiograph shows dilated small bowel loops with air-fluid levels and air within the biliary tree (pneumobilia). A calcified structure is seen in the right lower quadrant. Which of the following best explains her condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A stone obstructing the common bile duct at the ampulla of Vater"
+        },
+        {
+          "label": "B",
+          "text": "Torsion of the gallbladder around the cystic duct"
+        },
+        {
+          "label": "C",
+          "text": "A large gallstone that eroded through a biliary-enteric fistula and impacted in the intestine"
+        },
+        {
+          "label": "D",
+          "text": "Calcification of the gallbladder wall from chronic inflammation"
+        },
+        {
+          "label": "E",
+          "text": "Compression of the common hepatic duct by a cystic duct stone"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pneumobilia with mechanical small bowel obstruction and an ectopic gallstone indicates gallstone ileus.",
+        "whyCorrect": "Gallstone ileus occurs when a large gallstone erodes through a cholecystoenteric fistula into the bowel; air enters the biliary tree (pneumobilia) and the stone lodges (often at the ileocecal valve) causing mechanical obstruction.",
+        "whyWrongByChoice": {
+          "A": "An ampullary stone causes obstructive jaundice or pancreatitis, not small bowel obstruction with pneumobilia and an ectopic RLQ stone.",
+          "B": "Gallbladder torsion causes acute RUQ pain and ischemia, not bowel obstruction with pneumobilia.",
+          "D": "Calcification of the gallbladder wall is porcelain gallbladder, which does not cause bowel obstruction.",
+          "E": "Cystic duct stone compressing the common hepatic duct is Mirizzi syndrome, producing jaundice rather than bowel obstruction."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gallstone ileus",
+        "biliary-enteric fistula",
+        "pneumobilia"
+      ]
+    },
+    {
+      "id": "biliary-noninfectious-009",
+      "topicId": "biliary-noninfectious",
+      "topicName": "Noninfectious Disorders of the Biliary System",
+      "stem": "A 55-year-old woman presents with jaundice, RUQ pain, and elevated alkaline phosphatase and bilirubin. Ultrasound shows a stone impacted in the cystic duct and dilation of the common hepatic duct above the level of the cystic duct, but no stone is seen within the common bile duct itself. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gallstone pancreatitis"
+        },
+        {
+          "label": "B",
+          "text": "Ascending cholangitis"
+        },
+        {
+          "label": "C",
+          "text": "Porcelain gallbladder"
+        },
+        {
+          "label": "D",
+          "text": "Mirizzi syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Primary sclerosing cholangitis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "External compression of the common hepatic duct by a cystic duct stone producing obstructive jaundice is Mirizzi syndrome.",
+        "whyCorrect": "In Mirizzi syndrome, a stone impacted in the cystic duct (or Hartmann pouch) compresses the adjacent common hepatic duct, causing obstructive jaundice and proximal duct dilation without a stone in the common bile duct.",
+        "whyWrongByChoice": {
+          "A": "Gallstone pancreatitis involves a stone at the ampulla causing epigastric pain and elevated lipase, not extrinsic hepatic duct compression.",
+          "B": "Ascending cholangitis is infection of obstructed bile with fever and the Charcot triad, not the mechanical anatomic picture described.",
+          "C": "Porcelain gallbladder is diffuse mural calcification, not extrinsic duct compression.",
+          "E": "PSC causes multifocal intra- and extrahepatic strictures with beading, not a single cystic duct stone compressing the hepatic duct."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "Mirizzi syndrome",
+        "obstructive jaundice",
+        "gallstone complication"
+      ]
+    },
+    {
+      "id": "biliary-noninfectious-010",
+      "topicId": "biliary-noninfectious",
+      "topicName": "Noninfectious Disorders of the Biliary System",
+      "stem": "A 70-year-old woman with a long history of recurrent gallbladder inflammation undergoes abdominal radiography, which shows a calcified, rim-like opacity conforming to the shape of the gallbladder. She is otherwise asymptomatic. Which of the following is the most important clinical concern associated with this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Progression to acute pancreatitis"
+        },
+        {
+          "label": "B",
+          "text": "Development of a biliary-enteric fistula"
+        },
+        {
+          "label": "C",
+          "text": "Ascending bacterial infection of the bile ducts"
+        },
+        {
+          "label": "D",
+          "text": "Formation of pigment stones from hemolysis"
+        },
+        {
+          "label": "E",
+          "text": "Increased risk of gallbladder carcinoma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A calcified gallbladder wall (porcelain gallbladder) carries an increased risk of gallbladder cancer.",
+        "whyCorrect": "Porcelain gallbladder results from chronic cholecystitis causing diffuse wall calcification; its principal significance is an increased risk of gallbladder carcinoma, which is why cholecystectomy is often recommended.",
+        "whyWrongByChoice": {
+          "A": "Pancreatitis relates to stones at the ampulla, not to a calcified gallbladder wall.",
+          "B": "Biliary-enteric fistula leads to gallstone ileus and is not the defining concern of porcelain gallbladder.",
+          "C": "Ascending cholangitis stems from ductal obstruction and infection, not mural calcification.",
+          "D": "Pigment stone formation is driven by hemolysis, unrelated to gallbladder wall calcification."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "porcelain gallbladder",
+        "gallbladder cancer",
+        "chronic cholecystitis"
+      ]
+    },
+    {
+      "id": "biliary-noninfectious-011",
+      "topicId": "biliary-noninfectious",
+      "topicName": "Noninfectious Disorders of the Biliary System",
+      "stem": "A 48-year-old woman with known gallstones presents with severe epigastric pain radiating to the back, relieved by leaning forward, with nausea and vomiting. Her lipase is markedly elevated. Which of the following best explains the mechanism of her condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A gallstone occluding the pancreatic duct at the ampulla of Vater"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial infection of stagnant bile in the common bile duct"
+        },
+        {
+          "label": "C",
+          "text": "Compression of the common hepatic duct by a cystic duct stone"
+        },
+        {
+          "label": "D",
+          "text": "Persistent cystic duct obstruction causing gallbladder inflammation"
+        },
+        {
+          "label": "E",
+          "text": "Erosion of a large gallstone into the small intestine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Gallstone pancreatitis results from a stone obstructing the pancreatic duct at the ampulla.",
+        "whyCorrect": "Gallstone pancreatitis, the most common cause of acute pancreatitis, occurs when a gallstone lodges at the ampulla of Vater and occludes the pancreatic duct; it presents with epigastric pain radiating to the back, relieved by sitting forward, with elevated lipase.",
+        "whyWrongByChoice": {
+          "B": "Infection of stagnant bile describes ascending cholangitis, which presents with the Charcot triad, not elevated lipase.",
+          "C": "Common hepatic duct compression by a cystic duct stone is Mirizzi syndrome, causing obstructive jaundice.",
+          "D": "Persistent cystic duct obstruction causes acute cholecystitis with RUQ pain, not pancreatitis.",
+          "E": "Erosion into the intestine causes gallstone ileus with bowel obstruction, not pancreatitis."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "gallstone pancreatitis",
+        "ampulla of Vater",
+        "complication"
+      ]
+    },
+    {
+      "id": "biliary-noninfectious-012",
+      "topicId": "biliary-noninfectious",
+      "topicName": "Noninfectious Disorders of the Biliary System",
+      "stem": "A 68-year-old man is admitted with ascending cholangitis due to an obstructing common bile duct stone. He is started on broad-spectrum antibiotics and fluids but remains febrile with worsening jaundice. Which of the following is the most appropriate next step to relieve the obstruction and decompress the biliary tree?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Immediate open cholecystectomy"
+        },
+        {
+          "label": "B",
+          "text": "Endoscopic retrograde cholangiopancreatography (ERCP)"
+        },
+        {
+          "label": "C",
+          "text": "Oral ursodeoxycholic acid"
+        },
+        {
+          "label": "D",
+          "text": "Extracorporeal shock wave lithotripsy"
+        },
+        {
+          "label": "E",
+          "text": "Continued antibiotics alone with observation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "ERCP is the standard method to remove the stone and decompress the duct in cholangitis.",
+        "whyCorrect": "In ascending cholangitis, after antibiotics and resuscitation, the obstructed duct must be decompressed; ERCP allows stone extraction and drainage of the infected bile and is the most common decompression method.",
+        "whyWrongByChoice": {
+          "A": "Cholecystectomy does not clear the common bile duct stone, and emergent open surgery in an unstable septic patient is not first-line for decompression.",
+          "C": "Ursodeoxycholic acid dissolves cholesterol stones slowly and cannot decompress an acutely infected obstructed duct.",
+          "D": "Shock wave lithotripsy is not the standard emergent decompression for cholangitis.",
+          "E": "Antibiotics alone do not relieve the mechanical obstruction; failure to decompress risks progression to sepsis and death."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "ERCP",
+        "cholangitis",
+        "biliary decompression",
+        "management"
+      ]
+    },
+    {
+      "id": "biliary-noninfectious-013",
+      "topicId": "biliary-noninfectious",
+      "topicName": "Noninfectious Disorders of the Biliary System",
+      "stem": "A 46-year-old woman has had three episodes of symptomatic biliary colic over the past 6 months, confirmed to be due to gallstones on ultrasound. She has no signs of infection or duct obstruction. Which of the following is the definitive and often curative treatment for her symptomatic gallstone disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lifelong low-fat diet"
+        },
+        {
+          "label": "B",
+          "text": "Long-term prophylactic antibiotics"
+        },
+        {
+          "label": "C",
+          "text": "Laparoscopic cholecystectomy"
+        },
+        {
+          "label": "D",
+          "text": "Endoscopic sphincterotomy alone"
+        },
+        {
+          "label": "E",
+          "text": "Percutaneous cholecystostomy tube"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cholecystectomy, usually laparoscopic, is the definitive treatment for symptomatic gallstone disease.",
+        "whyCorrect": "Removal of the gallbladder, most commonly performed laparoscopically, is the definitive and often curative treatment for symptomatic cholelithiasis and prevents recurrent stones and complications.",
+        "whyWrongByChoice": {
+          "A": "A low-fat diet may reduce symptom triggers but does not remove the stones or provide a cure.",
+          "B": "Antibiotics treat infection and have no role in preventing recurrent biliary colic in an uninfected patient.",
+          "D": "Endoscopic sphincterotomy addresses ductal stones but does not treat gallbladder stones causing colic.",
+          "E": "A cholecystostomy tube is a temporizing drainage measure for high-risk patients with acute cholecystitis, not definitive therapy."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "cholecystectomy",
+        "definitive treatment",
+        "cholelithiasis"
+      ]
+    },
+    {
+      "id": "biliary-noninfectious-014",
+      "topicId": "biliary-noninfectious",
+      "topicName": "Noninfectious Disorders of the Biliary System",
+      "stem": "A 52-year-old woman presents with several months of fatigue and severe pruritus. Labs reveal a markedly elevated alkaline phosphatase with only mildly elevated transaminases and elevated cholesterol. Antimitochondrial antibodies are positive. Imaging shows no biliary duct dilation or obstruction. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Choledocholithiasis"
+        },
+        {
+          "label": "B",
+          "text": "Primary sclerosing cholangitis"
+        },
+        {
+          "label": "C",
+          "text": "Ascending cholangitis"
+        },
+        {
+          "label": "D",
+          "text": "Primary biliary cholangitis"
+        },
+        {
+          "label": "E",
+          "text": "Biliary atresia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A middle-aged woman with cholestatic labs, pruritus, and positive AMA has primary biliary cholangitis.",
+        "whyCorrect": "Primary biliary cholangitis is an autoimmune destruction of small intrahepatic bile ducts that most often affects middle-aged women, presenting with pruritus, fatigue, cholestatic labs, and positive antimitochondrial antibodies without extrahepatic obstruction.",
+        "whyWrongByChoice": {
+          "A": "Choledocholithiasis causes duct dilation and obstruction on imaging and is not AMA-associated.",
+          "B": "PSC involves large-duct strictures with beading on cholangiography, is p-ANCA positive, affects men more, and is linked to ulcerative colitis.",
+          "C": "Ascending cholangitis is an acute bacterial infection with fever and the Charcot triad, not a chronic autoimmune cholestasis.",
+          "E": "Biliary atresia is a neonatal disorder of extrahepatic duct obliteration, not a disease of middle-aged women."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "primary biliary cholangitis",
+        "antimitochondrial antibody",
+        "intrahepatic cholestasis"
+      ]
+    },
+    {
+      "id": "biliary-noninfectious-015",
+      "topicId": "biliary-noninfectious",
+      "topicName": "Noninfectious Disorders of the Biliary System",
+      "stem": "A 38-year-old man with ulcerative colitis develops fatigue, pruritus, and a cholestatic pattern on labs. Magnetic resonance cholangiopancreatography shows multifocal strictures and dilations of the intra- and extrahepatic bile ducts producing a beaded appearance. Which of the following findings is most consistent with his diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Positive antimitochondrial antibodies"
+        },
+        {
+          "label": "B",
+          "text": "A single obstructing stone in the common bile duct"
+        },
+        {
+          "label": "C",
+          "text": "Predominance in middle-aged women"
+        },
+        {
+          "label": "D",
+          "text": "Diffuse calcification of the gallbladder wall"
+        },
+        {
+          "label": "E",
+          "text": "Onion-skin periductal fibrosis on histology"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "PSC shows a beaded duct pattern with onion-skin periductal fibrosis and associates with ulcerative colitis.",
+        "whyCorrect": "Primary sclerosing cholangitis causes chronic inflammation and fibrosis of intra- and extrahepatic ducts, producing multifocal strictures (beads on a string) and characteristic concentric onion-skin fibrosis on histology; it is associated with inflammatory bowel disease, especially ulcerative colitis, and is p-ANCA positive.",
+        "whyWrongByChoice": {
+          "A": "Antimitochondrial antibodies characterize primary biliary cholangitis, not PSC.",
+          "B": "A single obstructing stone describes choledocholithiasis, not the multifocal stricturing of PSC.",
+          "C": "PSC affects men more than women; female predominance is a feature of PBC.",
+          "D": "Gallbladder wall calcification is porcelain gallbladder, unrelated to the ductal beading of PSC."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "primary sclerosing cholangitis",
+        "ulcerative colitis",
+        "beading"
+      ]
+    },
+    {
+      "id": "biliary-noninfectious-016",
+      "topicId": "biliary-noninfectious",
+      "topicName": "Noninfectious Disorders of the Biliary System",
+      "stem": "A 6-week-old infant is brought in for persistent jaundice, dark urine, and pale, clay-colored stools. Labs show conjugated hyperbilirubinemia and elevated alkaline phosphatase. Imaging and intraoperative cholangiography reveal progressive fibro-obliteration of the extrahepatic bile ducts. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Biliary atresia"
+        },
+        {
+          "label": "B",
+          "text": "Primary biliary cholangitis"
+        },
+        {
+          "label": "C",
+          "text": "Choledocholithiasis"
+        },
+        {
+          "label": "D",
+          "text": "Physiologic neonatal jaundice"
+        },
+        {
+          "label": "E",
+          "text": "Gilbert syndrome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Neonatal conjugated hyperbilirubinemia with pale stools and obliterated extrahepatic ducts indicates biliary atresia.",
+        "whyCorrect": "Biliary atresia is a pediatric disorder of progressive fibro-obliteration of the extrahepatic bile ducts causing neonatal cholestasis with jaundice, dark urine, pale stools, and conjugated hyperbilirubinemia; it requires early surgery (Kasai procedure) and many patients ultimately need liver transplantation.",
+        "whyWrongByChoice": {
+          "B": "Primary biliary cholangitis is an autoimmune disease of middle-aged women, not neonates.",
+          "C": "Choledocholithiasis from gallstones is extremely rare in a 6-week-old and does not cause progressive duct obliteration.",
+          "D": "Physiologic neonatal jaundice is unconjugated and self-limited, not conjugated with pale stools.",
+          "E": "Gilbert syndrome causes mild unconjugated hyperbilirubinemia, not conjugated cholestasis with acholic stools."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "biliary atresia",
+        "neonatal cholestasis",
+        "conjugated hyperbilirubinemia"
+      ]
+    },
+    {
+      "id": "biliary-noninfectious-017",
+      "topicId": "biliary-noninfectious",
+      "topicName": "Noninfectious Disorders of the Biliary System",
+      "stem": "A 50-year-old man presents with jaundice and pruritus. Labs show elevated alkaline phosphatase and conjugated bilirubin. Ultrasound shows no dilation of the intra- or extrahepatic bile ducts. Which of the following best characterizes the level of his cholestasis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Extrahepatic cholestasis from an obstructing common bile duct stone"
+        },
+        {
+          "label": "B",
+          "text": "Intrahepatic cholestasis at the level of hepatocytes or small intrahepatic ducts"
+        },
+        {
+          "label": "C",
+          "text": "Extrahepatic cholestasis from carcinoma of the head of the pancreas"
+        },
+        {
+          "label": "D",
+          "text": "Extrahepatic cholestasis from a bile duct stricture"
+        },
+        {
+          "label": "E",
+          "text": "Prehepatic hyperbilirubinemia from hemolysis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A cholestatic pattern with conjugated hyperbilirubinemia but no duct dilation points to intrahepatic cholestasis.",
+        "whyCorrect": "When cholestatic labs (elevated alkaline phosphatase and conjugated bilirubin) occur without dilation of the biliary ducts on imaging, the problem lies at the hepatocyte or small intrahepatic duct level (intrahepatic cholestasis), as seen in PBC, drug-induced injury, or TPN, rather than a mechanical large-duct obstruction.",
+        "whyWrongByChoice": {
+          "A": "An obstructing common bile duct stone would dilate the ducts, indicating extrahepatic cholestasis.",
+          "C": "Pancreatic head carcinoma obstructs the distal bile duct and produces ductal dilation, an extrahepatic pattern.",
+          "D": "A bile duct stricture obstructs large ducts and causes upstream dilation, again extrahepatic.",
+          "E": "Hemolysis raises unconjugated bilirubin and does not elevate alkaline phosphatase or cause a cholestatic pattern."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "intrahepatic cholestasis",
+        "extrahepatic cholestasis",
+        "imaging"
+      ]
+    },
+    {
+      "id": "biliary-noninfectious-018",
+      "topicId": "biliary-noninfectious",
+      "topicName": "Noninfectious Disorders of the Biliary System",
+      "stem": "A 3-week-old premature neonate who has received total parenteral nutrition since birth develops a rising conjugated bilirubin and elevated alkaline phosphatase. Ultrasound shows no biliary duct dilation or obstruction. Which of the following best explains this pattern of cholestasis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic hemolysis producing pigment stones"
+        },
+        {
+          "label": "B",
+          "text": "Autoimmune destruction of small bile ducts"
+        },
+        {
+          "label": "C",
+          "text": "Reduced enteral stimulation of bile flow leading to intrahepatic bile stasis"
+        },
+        {
+          "label": "D",
+          "text": "Bacterial ascending infection of the biliary tree"
+        },
+        {
+          "label": "E",
+          "text": "Mechanical obstruction of the common bile duct by a stone"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "TPN-associated cholestasis is an iatrogenic intrahepatic cholestasis from lack of enteral stimulation and altered bile composition.",
+        "whyCorrect": "Total parenteral nutrition, especially in neonates and critically ill patients, reduces enteral stimulation of bile flow and alters bile composition, producing intrahepatic bile stasis and a cholestatic pattern without duct dilation.",
+        "whyWrongByChoice": {
+          "A": "Hemolysis causes unconjugated hyperbilirubinemia and pigment stones, not the TPN-related conjugated cholestasis described.",
+          "B": "Autoimmune small-duct destruction describes primary biliary cholangitis, a disease of middle-aged adults, not TPN-fed neonates.",
+          "D": "Ascending infection would present with fever and the Charcot triad and typically requires ductal obstruction.",
+          "E": "There is no ductal dilation or stone on imaging, arguing against mechanical obstruction."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "TPN-associated cholestasis",
+        "iatrogenic",
+        "intrahepatic cholestasis"
+      ]
+    },
+    {
+      "id": "biliary-noninfectious-019",
+      "topicId": "biliary-noninfectious",
+      "topicName": "Noninfectious Disorders of the Biliary System",
+      "stem": "A 44-year-old woman presents with suspected symptomatic gallstone disease. Which of the following is the imaging modality of choice for the initial evaluation of gallstones, and what characteristic finding would confirm a stone?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Plain abdominal radiograph showing a radiolucent filling defect"
+        },
+        {
+          "label": "B",
+          "text": "CT scan showing a fat-density lesion in the gallbladder"
+        },
+        {
+          "label": "C",
+          "text": "MRI showing periductal onion-skin fibrosis"
+        },
+        {
+          "label": "D",
+          "text": "Ultrasound showing an echogenic focus with posterior acoustic shadowing"
+        },
+        {
+          "label": "E",
+          "text": "Nuclear HIDA scan showing gallbladder filling"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Ultrasound is the imaging of choice; stones appear echogenic with posterior acoustic shadowing.",
+        "whyCorrect": "Ultrasound is the first-line imaging modality for gallstone disease; a gallstone appears as a mobile, echogenic focus within the gallbladder that casts a posterior acoustic shadow.",
+        "whyWrongByChoice": {
+          "A": "Most gallstones are radiolucent and not seen on plain radiographs, which are not the modality of choice.",
+          "B": "CT is less sensitive than ultrasound for detecting gallstones and is not first-line.",
+          "C": "MRI showing onion-skin fibrosis is not how gallstones are diagnosed; that fibrosis is a histologic feature of PSC.",
+          "E": "HIDA scan assesses cystic duct patency for acute cholecystitis (nonfilling gallbladder), not initial detection of stones; normal filling would not confirm a stone."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "ultrasound",
+        "imaging",
+        "acoustic shadowing"
+      ]
+    },
+    {
+      "id": "biliary-noninfectious-020",
+      "topicId": "biliary-noninfectious",
+      "topicName": "Noninfectious Disorders of the Biliary System",
+      "stem": "A 63-year-old man with an untreated malignant distal bile duct stricture has had prolonged extrahepatic biliary obstruction for many months. Persistent obstruction and cholestasis eventually lead to progressive hepatic fibrosis. Which of the following long-term complications is most directly attributable to this prolonged unrelieved obstruction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gallstone ileus"
+        },
+        {
+          "label": "B",
+          "text": "Porcelain gallbladder"
+        },
+        {
+          "label": "C",
+          "text": "Acute pancreatitis"
+        },
+        {
+          "label": "D",
+          "text": "Pigment stone formation from hemolysis"
+        },
+        {
+          "label": "E",
+          "text": "Secondary biliary cirrhosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Prolonged extrahepatic obstruction produces secondary biliary cirrhosis, underscoring the need for timely decompression.",
+        "whyCorrect": "Secondary biliary cirrhosis results from prolonged extrahepatic biliary obstruction, in which sustained cholestasis and back-pressure drive progressive hepatic fibrosis and eventual cirrhosis, emphasizing the importance of relieving obstruction promptly.",
+        "whyWrongByChoice": {
+          "A": "Gallstone ileus arises from a stone eroding into the bowel, not from chronic ductal obstruction and cholestasis.",
+          "B": "Porcelain gallbladder results from chronic cholecystitis with mural calcification, not from a distal duct stricture.",
+          "C": "Acute pancreatitis follows an obstructing stone at the ampulla, an acute event rather than the chronic fibrotic outcome described.",
+          "D": "Pigment stone formation is driven by hemolysis and increased bilirubin load, not by prolonged mechanical obstruction causing cirrhosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "secondary biliary cirrhosis",
+        "chronic obstruction",
+        "cholestasis complication"
+      ]
+    },
+    {
+      "id": "hepatobiliary-neoplasms-001",
+      "topicId": "hepatobiliary-neoplasms",
+      "topicName": "Hepatic and Biliary Neoplasms",
+      "stem": "A 44-year-old woman undergoes abdominal CT for unrelated flank pain. An incidental 3-cm right-lobe liver lesion is noted. On contrast imaging it shows discontinuous peripheral nodular enhancement in the arterial phase with progressive centripetal fill-in on delayed phases. Liver function tests are normal. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Focal nodular hyperplasia"
+        },
+        {
+          "label": "B",
+          "text": "Hepatic hemangioma"
+        },
+        {
+          "label": "C",
+          "text": "Hepatocellular carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Hepatic adenoma"
+        },
+        {
+          "label": "E",
+          "text": "Cholangiocarcinoma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Peripheral nodular enhancement with centripetal fill-in is the classic imaging signature of a hepatic hemangioma.",
+        "whyCorrect": "Hemangiomas are cavernous vascular channels with slow blood flow, producing the characteristic edge (peripheral nodular) enhancement that progressively fills toward the center on delayed images. They are the most common benign liver tumor.",
+        "whyWrongByChoice": {
+          "A": "FNH typically shows homogeneous arterial enhancement with a central stellate scar, not peripheral nodular fill-in.",
+          "C": "HCC classically shows arterial hyperenhancement with washout in the portal/delayed phase, not centripetal fill-in, and usually arises in cirrhosis.",
+          "D": "Adenoma is a hypervascular lesion that enhances briskly and homogeneously in the arterial phase, without the peripheral discontinuous pattern.",
+          "E": "Cholangiocarcinoma tends to show delayed, progressive enhancement of fibrous stroma but not the peripheral nodular pattern of a vascular lesion."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "hemangioma",
+        "imaging",
+        "benign"
+      ]
+    },
+    {
+      "id": "hepatobiliary-neoplasms-002",
+      "topicId": "hepatobiliary-neoplasms",
+      "topicName": "Hepatic and Biliary Neoplasms",
+      "stem": "A 35-year-old woman with no significant medical history has a well-circumscribed 4-cm liver mass discovered incidentally. Contrast-enhanced MRI shows homogeneous arterial enhancement and a central stellate scar. She takes no medications and denies alcohol or trauma. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatic adenoma"
+        },
+        {
+          "label": "B",
+          "text": "Hepatic hemangioma"
+        },
+        {
+          "label": "C",
+          "text": "Focal nodular hyperplasia"
+        },
+        {
+          "label": "D",
+          "text": "Hepatocellular carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Metastatic adenocarcinoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A central stellate scar with homogeneous arterial enhancement is characteristic of focal nodular hyperplasia.",
+        "whyCorrect": "FNH is the second most common benign liver mass, composed of hyperplastic hepatocytes arranged around a central fibrous scar. The central stellate scar is the key testable imaging feature distinguishing it from other lesions.",
+        "whyWrongByChoice": {
+          "A": "Adenoma is strongly linked to oral contraceptive use (which she denies) and does not have a central scar; it carries hemorrhage and malignancy risk.",
+          "B": "Hemangioma shows peripheral nodular enhancement with centripetal fill-in, not a central scar.",
+          "D": "HCC arises in cirrhosis, shows arterial enhancement with washout, and does not feature a benign central stellate scar.",
+          "E": "Metastases are typically multiple and do not display a central stellate scar."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "FNH",
+        "central-scar",
+        "benign"
+      ]
+    },
+    {
+      "id": "hepatobiliary-neoplasms-003",
+      "topicId": "hepatobiliary-neoplasms",
+      "topicName": "Hepatic and Biliary Neoplasms",
+      "stem": "A 28-year-old woman who has taken combined oral contraceptives for 6 years is found to have a solitary, well-demarcated 5-cm mass in the right hepatic lobe. Imaging shows a hypervascular lesion with brisk homogeneous arterial enhancement and no central scar. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatic adenoma"
+        },
+        {
+          "label": "B",
+          "text": "Focal nodular hyperplasia"
+        },
+        {
+          "label": "C",
+          "text": "Hepatic hemangioma"
+        },
+        {
+          "label": "D",
+          "text": "Cholangiocarcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Hepatoblastoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A young woman on oral contraceptives with a solitary hypervascular right-lobe mass lacking a central scar is classic for hepatic adenoma.",
+        "whyCorrect": "Hepatocytes contain estrogen receptors, so adenomas grow with oral contraceptive and androgen use. They are usually solitary right-lobe lesions in women aged 20-44 and lack the central scar of FNH.",
+        "whyWrongByChoice": {
+          "B": "FNH characteristically has a central stellate scar and is not strongly hormone-dependent.",
+          "C": "Hemangioma shows peripheral nodular enhancement with centripetal fill-in, a different vascular pattern.",
+          "D": "Cholangiocarcinoma is a biliary adenocarcinoma of older patients with obstructive jaundice, not a hypervascular mass in a young woman.",
+          "E": "Hepatoblastoma is a malignant tumor of young children, not adults."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "adenoma",
+        "oral-contraceptives",
+        "benign"
+      ]
+    },
+    {
+      "id": "hepatobiliary-neoplasms-004",
+      "topicId": "hepatobiliary-neoplasms",
+      "topicName": "Hepatic and Biliary Neoplasms",
+      "stem": "A 58-year-old man with chronic hepatitis C and established cirrhosis presents with new-onset ascites, jaundice, and weight loss. CT shows a solitary 6-cm hepatic mass with arterial enhancement and portal-venous washout. Serum alpha-fetoprotein is markedly elevated. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatic hemangioma"
+        },
+        {
+          "label": "B",
+          "text": "Focal nodular hyperplasia"
+        },
+        {
+          "label": "C",
+          "text": "Cholangiocarcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Hepatocellular carcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Hepatic adenoma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cirrhosis with a solitary enhancing/washout mass and elevated AFP is diagnostic of hepatocellular carcinoma.",
+        "whyCorrect": "HCC is the most common primary liver cancer and usually arises in cirrhosis from hepatitis B, hepatitis C, or alcohol. The combination of a characteristic mass on imaging plus elevated AFP establishes the diagnosis without biopsy.",
+        "whyWrongByChoice": {
+          "A": "Hemangioma is a benign vascular lesion with centripetal fill-in and does not raise AFP or cause decompensation.",
+          "B": "FNH is a benign lesion with a central scar and no AFP elevation.",
+          "C": "Cholangiocarcinoma is a biliary adenocarcinoma associated with CA 19-9 and obstructive jaundice, not AFP elevation in cirrhosis.",
+          "E": "Adenoma occurs in young women on oral contraceptives and does not elevate AFP."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "HCC",
+        "cirrhosis",
+        "AFP"
+      ]
+    },
+    {
+      "id": "hepatobiliary-neoplasms-005",
+      "topicId": "hepatobiliary-neoplasms",
+      "topicName": "Hepatic and Biliary Neoplasms",
+      "stem": "A 64-year-old man with a history of resected colon adenocarcinoma is found on surveillance CT to have multiple bilobar liver lesions of varying sizes. Which of the following is the most likely cause of these hepatic lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatocellular carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Hepatic angiosarcoma"
+        },
+        {
+          "label": "C",
+          "text": "Focal nodular hyperplasia"
+        },
+        {
+          "label": "D",
+          "text": "Cholangiocarcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Metastatic disease"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Multiple bilobar liver lesions in a patient with a known primary cancer represent metastases, the most common malignant liver lesions overall.",
+        "whyCorrect": "Metastasis (from sites such as colon, breast, and lung) is the most common cause of a cancerous lesion in the liver overall and characteristically produces multiple lesions, in contrast to a solitary primary tumor.",
+        "whyWrongByChoice": {
+          "A": "HCC typically presents as a solitary mass in a cirrhotic liver, not multiple lesions in a patient with colon cancer.",
+          "B": "Angiosarcoma is a rare primary tumor tied to arsenic/vinyl chloride exposure, not the typical explanation for multiple lesions after colon cancer.",
+          "C": "FNH is a single benign lesion, not a multifocal malignant process.",
+          "D": "Cholangiocarcinoma arises from the biliary tree and does not typically explain multiple metastatic-appearing deposits following a colon primary."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "metastasis",
+        "colon-cancer",
+        "most-common"
+      ]
+    },
+    {
+      "id": "hepatobiliary-neoplasms-006",
+      "topicId": "hepatobiliary-neoplasms",
+      "topicName": "Hepatic and Biliary Neoplasms",
+      "stem": "A 66-year-old man presents with painless jaundice, pruritus, and a palpable gallbladder. MRCP demonstrates a stricturing mass at the confluence of the right and left hepatic ducts with intrahepatic biliary dilation. Which of the following best describes this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Distal (extrahepatic) cholangiocarcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Klatskin (hilar) cholangiocarcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Intrahepatic cholangiocarcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Gallbladder adenocarcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Ampullary carcinoma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A cholangiocarcinoma at the junction of the right and left hepatic ducts is a Klatskin (hilar) tumor.",
+        "whyCorrect": "Klatskin tumors arise at the confluence of the right and left hepatic ducts and are the most common cholangiocarcinoma subtype (60%-70% of cases), presenting with obstructive jaundice and intrahepatic ductal dilation.",
+        "whyWrongByChoice": {
+          "A": "Distal cholangiocarcinoma involves the common bile duct near the pancreas, not the hepatic duct confluence.",
+          "C": "Intrahepatic cholangiocarcinoma arises within the liver parenchyma peripheral to the hilum and comprises only about 5%-10% of cases.",
+          "D": "Gallbladder carcinoma originates in the gallbladder wall and is excluded from the term cholangiocarcinoma.",
+          "E": "Ampullary carcinoma arises at the ampulla of Vater and is likewise excluded from cholangiocarcinoma."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cholangiocarcinoma",
+        "Klatskin",
+        "biliary"
+      ]
+    },
+    {
+      "id": "hepatobiliary-neoplasms-007",
+      "topicId": "hepatobiliary-neoplasms",
+      "topicName": "Hepatic and Biliary Neoplasms",
+      "stem": "A 32-year-old woman with a biopsy-proven hepatic adenoma has a lesion that has grown to 6 cm and now causes intermittent right upper quadrant pain. She currently takes combined oral contraceptives. In addition to discontinuing the oral contraceptives, which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Routine observation with annual ultrasound only"
+        },
+        {
+          "label": "B",
+          "text": "Systemic chemotherapy"
+        },
+        {
+          "label": "C",
+          "text": "Surgical resection"
+        },
+        {
+          "label": "D",
+          "text": "Transarterial radioembolization"
+        },
+        {
+          "label": "E",
+          "text": "Liver transplantation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A symptomatic hepatic adenoma larger than 5 cm should be surgically resected because of hemorrhage and malignant transformation risk.",
+        "whyCorrect": "Adenomas carry a risk of spontaneous hemorrhage and low-rate malignant transformation to HCC. Management includes stopping estrogen/androgen exposure and resecting lesions that are symptomatic or greater than 5 cm, as in this patient.",
+        "whyWrongByChoice": {
+          "A": "Observation alone is inadequate for a symptomatic adenoma greater than 5 cm because of bleeding and malignancy risk.",
+          "B": "Chemotherapy has no role in a benign hepatic adenoma.",
+          "D": "Radioembolization is not standard therapy for a resectable symptomatic adenoma.",
+          "E": "Transplantation is reserved for rare cases such as adenomatosis or unresectable disease, not a single resectable 6-cm lesion."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adenoma",
+        "management",
+        "resection"
+      ]
+    },
+    {
+      "id": "hepatobiliary-neoplasms-008",
+      "topicId": "hepatobiliary-neoplasms",
+      "topicName": "Hepatic and Biliary Neoplasms",
+      "stem": "A hepatologist is teaching about the leading causes of hepatocellular carcinoma using the 'ABC' mnemonic. Which of the following sets correctly represents the three most common causes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alcohol, hepatitis B virus, hepatitis C virus"
+        },
+        {
+          "label": "B",
+          "text": "Aflatoxin, biliary cysts, Clonorchis"
+        },
+        {
+          "label": "C",
+          "text": "Adenoma, bile stasis, cirrhosis"
+        },
+        {
+          "label": "D",
+          "text": "Autoimmune hepatitis, biopsy, chemotherapy"
+        },
+        {
+          "label": "E",
+          "text": "Arsenic, benzene, cadmium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The 'ABC' causes of HCC are Alcohol, hepatitis B virus, and hepatitis C virus.",
+        "whyCorrect": "HCC most often develops in cirrhosis, and chronic hepatitis B/C plus alcohol account for the great majority of cases; HBV/HCV-related cirrhosis alone accounts for about 75% of HCC.",
+        "whyWrongByChoice": {
+          "B": "Aflatoxin is a risk factor and biliary cysts/Clonorchis relate to cholangiocarcinoma, but this set is not the ABC mnemonic.",
+          "C": "Adenoma, bile stasis, and cirrhosis are not the three leading HCC causes captured by ABC.",
+          "D": "Autoimmune hepatitis, biopsy, and chemotherapy do not constitute the ABC causes.",
+          "E": "Arsenic and vinyl chloride relate to hepatic angiosarcoma, not the ABC causes of HCC."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HCC",
+        "risk-factors",
+        "hepatitis"
+      ]
+    },
+    {
+      "id": "hepatobiliary-neoplasms-009",
+      "topicId": "hepatobiliary-neoplasms",
+      "topicName": "Hepatic and Biliary Neoplasms",
+      "stem": "A 60-year-old man with cirrhosis has a 4-cm liver mass with classic arterial enhancement and venous washout on triple-phase CT, and his alpha-fetoprotein is elevated. A trainee suggests obtaining a percutaneous biopsy to confirm the diagnosis before treatment. Why is biopsy generally avoided in this setting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It requires general anesthesia that cirrhotic patients cannot tolerate"
+        },
+        {
+          "label": "B",
+          "text": "It is unable to detect malignant hepatocytes"
+        },
+        {
+          "label": "C",
+          "text": "It falsely lowers alpha-fetoprotein levels"
+        },
+        {
+          "label": "D",
+          "text": "It risks hemorrhage and seeding of tumor cells along the needle tract"
+        },
+        {
+          "label": "E",
+          "text": "It delays diagnosis by several weeks awaiting pathology"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Biopsy is avoided in suspected HCC because of hemorrhage risk and needle-tract/peritoneal tumor seeding.",
+        "whyCorrect": "HCC is highly vascular, so biopsy risks significant bleeding, and it can seed malignant cells along the tract or into the peritoneum. When imaging is characteristic and AFP is elevated, the diagnosis can be made without biopsy.",
+        "whyWrongByChoice": {
+          "A": "Percutaneous liver biopsy does not require general anesthesia; anesthesia risk is not the reason it is avoided.",
+          "B": "Biopsy can detect malignant hepatocytes; poor detection is not the issue.",
+          "C": "Biopsy does not alter AFP levels.",
+          "E": "The concern is bleeding and seeding, not a diagnostic delay from processing time."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "HCC",
+        "biopsy",
+        "diagnosis"
+      ]
+    },
+    {
+      "id": "hepatobiliary-neoplasms-010",
+      "topicId": "hepatobiliary-neoplasms",
+      "topicName": "Hepatic and Biliary Neoplasms",
+      "stem": "A 55-year-old man with ulcerative colitis and known primary sclerosing cholangitis develops progressive painless jaundice, weight loss, and pruritus over 2 months. Laboratory studies show a cholestatic pattern and elevated CA 19-9. Which of the following malignancies is he at greatest risk for?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatocellular carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Hepatic hemangioma"
+        },
+        {
+          "label": "C",
+          "text": "Hepatic angiosarcoma"
+        },
+        {
+          "label": "D",
+          "text": "Hepatoblastoma"
+        },
+        {
+          "label": "E",
+          "text": "Cholangiocarcinoma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Primary sclerosing cholangitis (often with ulcerative colitis) is a major risk factor for cholangiocarcinoma.",
+        "whyCorrect": "Chronic biliary inflammation and cholestasis in PSC promote malignant transformation of cholangiocytes. Painless obstructive jaundice with elevated CA 19-9 in a PSC patient strongly suggests cholangiocarcinoma.",
+        "whyWrongByChoice": {
+          "A": "HCC arises from hepatocytes in cirrhosis and is associated with AFP, not the biliary/CA 19-9 picture of PSC.",
+          "B": "Hemangioma is a benign vascular lesion, not a malignancy linked to PSC.",
+          "C": "Angiosarcoma relates to arsenic and vinyl chloride exposure, not PSC.",
+          "D": "Hepatoblastoma is a pediatric tumor, unrelated to PSC in an adult."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cholangiocarcinoma",
+        "PSC",
+        "risk-factors"
+      ]
+    },
+    {
+      "id": "hepatobiliary-neoplasms-011",
+      "topicId": "hepatobiliary-neoplasms",
+      "topicName": "Hepatic and Biliary Neoplasms",
+      "stem": "A 48-year-old asymptomatic man is found to have a 2.5-cm hepatic hemangioma on ultrasound performed for gallstones. He has no abdominal symptoms and normal liver function tests. Which of the following is the most appropriate management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Surgical resection"
+        },
+        {
+          "label": "B",
+          "text": "No treatment required"
+        },
+        {
+          "label": "C",
+          "text": "Transarterial embolization"
+        },
+        {
+          "label": "D",
+          "text": "Systemic chemotherapy"
+        },
+        {
+          "label": "E",
+          "text": "Percutaneous biopsy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Asymptomatic hepatic hemangiomas require no treatment.",
+        "whyCorrect": "Hemangiomas are benign vascular lesions with no malignant potential. Asymptomatic lesions need no intervention; treatment is reserved for persistent symptoms or complications.",
+        "whyWrongByChoice": {
+          "A": "Resection is reserved for large symptomatic or complicated hemangiomas, not an asymptomatic 2.5-cm lesion.",
+          "C": "Embolization is not indicated for a small asymptomatic hemangioma.",
+          "D": "Chemotherapy has no role in a benign vascular lesion.",
+          "E": "Biopsy is generally avoided in hemangiomas because of bleeding risk and is unnecessary when imaging is diagnostic."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "hemangioma",
+        "management",
+        "benign"
+      ]
+    },
+    {
+      "id": "hepatobiliary-neoplasms-012",
+      "topicId": "hepatobiliary-neoplasms",
+      "topicName": "Hepatic and Biliary Neoplasms",
+      "stem": "A 62-year-old man who worked for decades in a polyvinyl chloride manufacturing plant develops a rapidly enlarging, multifocal hemorrhagic liver malignancy of endothelial origin. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatocellular carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Cholangiocarcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Hepatic angiosarcoma"
+        },
+        {
+          "label": "D",
+          "text": "Focal nodular hyperplasia"
+        },
+        {
+          "label": "E",
+          "text": "Hepatic adenoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A vinyl chloride/arsenic-associated malignant endothelial liver tumor is a hepatic angiosarcoma.",
+        "whyCorrect": "Hepatic angiosarcoma is a rare primary liver malignancy of endothelial origin classically associated with arsenic, vinyl chloride, and Thorotrast exposure, often presenting as a hemorrhagic multifocal tumor.",
+        "whyWrongByChoice": {
+          "A": "HCC is a hepatocyte-derived tumor of cirrhosis, not an endothelial malignancy linked to vinyl chloride.",
+          "B": "Cholangiocarcinoma is a biliary epithelial adenocarcinoma, not of endothelial origin.",
+          "D": "FNH is a benign hyperplastic lesion, not a malignant endothelial tumor.",
+          "E": "Adenoma is a benign hepatocellular tumor associated with oral contraceptives, not vinyl chloride."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "angiosarcoma",
+        "vinyl-chloride",
+        "occupational"
+      ]
+    },
+    {
+      "id": "hepatobiliary-neoplasms-013",
+      "topicId": "hepatobiliary-neoplasms",
+      "topicName": "Hepatic and Biliary Neoplasms",
+      "stem": "A 24-year-old competitive bodybuilder who has used anabolic-androgenic steroids for several years is found to have a solitary vascular liver lesion that ruptures, causing intraperitoneal hemorrhage. Which of the following benign tumors is most strongly associated with his steroid use?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatic adenoma"
+        },
+        {
+          "label": "B",
+          "text": "Focal nodular hyperplasia"
+        },
+        {
+          "label": "C",
+          "text": "Hepatic hemangioma"
+        },
+        {
+          "label": "D",
+          "text": "Bile duct hamartoma"
+        },
+        {
+          "label": "E",
+          "text": "Simple hepatic cyst"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Anabolic androgenic steroid use is strongly associated with hepatic adenoma, which is prone to hemorrhage.",
+        "whyCorrect": "Hepatocytes carry hormone receptors, so both estrogens (oral contraceptives) and androgens (anabolic steroids) drive hepatic adenoma formation. Adenomas are highly vascular and can rupture and bleed, as in this patient.",
+        "whyWrongByChoice": {
+          "B": "FNH is not strongly hormone-dependent and has essentially no risk of hemorrhage.",
+          "C": "Hemangiomas are common but are not specifically driven by anabolic steroids and rarely rupture.",
+          "D": "Bile duct hamartomas are small incidental benign lesions unrelated to steroids and do not bleed.",
+          "E": "Simple hepatic cysts are fluid-filled and unrelated to androgen use."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "adenoma",
+        "anabolic-steroids",
+        "hemorrhage"
+      ]
+    },
+    {
+      "id": "hepatobiliary-neoplasms-014",
+      "topicId": "hepatobiliary-neoplasms",
+      "topicName": "Hepatic and Biliary Neoplasms",
+      "stem": "A 40-year-old woman has a 3-cm liver lesion confidently diagnosed as focal nodular hyperplasia based on characteristic MRI findings including a central stellate scar. She is asymptomatic. Which of the following statements is correct regarding this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It has a high risk of malignant transformation and should be resected"
+        },
+        {
+          "label": "B",
+          "text": "It frequently ruptures and causes life-threatening hemorrhage"
+        },
+        {
+          "label": "C",
+          "text": "It requires lifelong every-3-month imaging surveillance"
+        },
+        {
+          "label": "D",
+          "text": "It has no meaningful risk of hemorrhage or malignancy and needs no treatment"
+        },
+        {
+          "label": "E",
+          "text": "It should be treated with liver transplantation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "FNH is benign with no meaningful risk of hemorrhage or malignant transformation and requires no treatment.",
+        "whyCorrect": "FNH is composed of hyperplastic hepatocytes around a central scar and contains normal bile ducts and portal structures. It is not strongly hormone-dependent and carries no meaningful risk of bleeding or malignancy, so no treatment or routine follow-up is needed once confidently diagnosed.",
+        "whyWrongByChoice": {
+          "A": "FNH does not have a high malignant potential and does not require resection.",
+          "B": "Unlike adenoma, FNH does not frequently hemorrhage.",
+          "C": "Intensive lifelong surveillance is unnecessary for a confidently diagnosed FNH.",
+          "E": "Transplantation is not indicated for a benign FNH."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "FNH",
+        "management",
+        "benign"
+      ]
+    },
+    {
+      "id": "hepatobiliary-neoplasms-015",
+      "topicId": "hepatobiliary-neoplasms",
+      "topicName": "Hepatic and Biliary Neoplasms",
+      "stem": "A 58-year-old man who immigrated from Southeast Asia and frequently ate raw freshwater fish presents with obstructive jaundice and an intrahepatic biliary mass. Chronic infection with which of the following organisms is the most likely predisposing risk factor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatitis B virus"
+        },
+        {
+          "label": "B",
+          "text": "Echinococcus granulosus"
+        },
+        {
+          "label": "C",
+          "text": "Entamoeba histolytica"
+        },
+        {
+          "label": "D",
+          "text": "Schistosoma mansoni"
+        },
+        {
+          "label": "E",
+          "text": "Clonorchis sinensis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Clonorchis sinensis, the Chinese liver fluke acquired from raw freshwater fish, is a risk factor for cholangiocarcinoma.",
+        "whyCorrect": "Clonorchis sinensis is a parasitic flatworm common in Asia acquired by eating raw or undercooked freshwater fish; chronic biliary infection causes inflammation predisposing to cholangiocarcinoma, matching this patient's biliary tumor.",
+        "whyWrongByChoice": {
+          "A": "Hepatitis B predisposes to hepatocellular carcinoma, not the biliary/fluke-related cholangiocarcinoma described here.",
+          "B": "Echinococcus causes hydatid cysts, not cholangiocarcinoma.",
+          "C": "Entamoeba histolytica causes amebic liver abscess, not biliary malignancy.",
+          "D": "Schistosoma mansoni causes periportal fibrosis and portal hypertension but is not the classic fluke linked to cholangiocarcinoma (that is Clonorchis/Opisthorchis)."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "cholangiocarcinoma",
+        "Clonorchis",
+        "liver-fluke"
+      ]
+    },
+    {
+      "id": "hepatobiliary-neoplasms-016",
+      "topicId": "hepatobiliary-neoplasms",
+      "topicName": "Hepatic and Biliary Neoplasms",
+      "stem": "A 22-year-old woman with no history of liver disease, no cirrhosis, no viral hepatitis, and a normal alpha-fetoprotein is found to have a large solitary liver tumor. Resected pathology shows large polygonal eosinophilic malignant hepatocytes separated by dense lamellar fibrous bands. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Conventional hepatocellular carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Fibrolamellar hepatocellular carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Cholangiocarcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Focal nodular hyperplasia"
+        },
+        {
+          "label": "E",
+          "text": "Hepatic angiosarcoma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A young patient without cirrhosis, normal AFP, and lamellar fibrous bands on histology has fibrolamellar HCC.",
+        "whyCorrect": "Fibrolamellar HCC occurs in young adults without underlying liver disease or cirrhosis, typically has a normal AFP, and is defined histologically by malignant hepatocytes surrounded by dense lamellar collagen bands. It carries a relatively better prognosis when resectable.",
+        "whyWrongByChoice": {
+          "A": "Conventional HCC arises in older cirrhotic patients and usually raises AFP, unlike this presentation.",
+          "C": "Cholangiocarcinoma is a mucin-producing biliary adenocarcinoma, not a hepatocyte tumor with lamellar fibrosis.",
+          "D": "FNH is benign hyperplasia, not a malignant tumor with atypical hepatocytes.",
+          "E": "Angiosarcoma is a malignant endothelial tumor, not composed of eosinophilic hepatocytes in fibrous bands."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "fibrolamellar-HCC",
+        "young-adult",
+        "histology"
+      ]
+    },
+    {
+      "id": "hepatobiliary-neoplasms-017",
+      "topicId": "hepatobiliary-neoplasms",
+      "topicName": "Hepatic and Biliary Neoplasms",
+      "stem": "A 63-year-old man with a known large hepatocellular carcinoma is admitted with recurrent episodes of confusion and diaphoresis. Fingerstick glucose during episodes is 38 mg/dL, and he is also noted to have an elevated hematocrit. Which of the following best explains these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatic encephalopathy from ammonia accumulation"
+        },
+        {
+          "label": "B",
+          "text": "Concurrent insulinoma"
+        },
+        {
+          "label": "C",
+          "text": "Paraneoplastic ectopic hormone/factor production by the tumor"
+        },
+        {
+          "label": "D",
+          "text": "Adrenal insufficiency"
+        },
+        {
+          "label": "E",
+          "text": "Iron overload from hemochromatosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "HCC can produce paraneoplastic syndromes, including hypoglycemia and erythrocytosis, via ectopic factor production.",
+        "whyCorrect": "HCC is a classic cause of paraneoplastic syndromes: ectopic production of IGF-like factors can cause hypoglycemia, and erythropoietin-like activity causes erythrocytosis (elevated hematocrit). This explains both the low glucose and the polycythemia in a patient with a large HCC.",
+        "whyWrongByChoice": {
+          "A": "Hepatic encephalopathy causes confusion but does not produce hypoglycemia with erythrocytosis.",
+          "B": "An insulinoma could cause hypoglycemia but would not explain erythrocytosis, and is not implied by a known HCC.",
+          "D": "Adrenal insufficiency can cause hypoglycemia but not erythrocytosis, and is not the classic HCC association.",
+          "E": "Iron overload does not produce this combination of hypoglycemia and erythrocytosis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "HCC",
+        "paraneoplastic",
+        "hypoglycemia"
+      ]
+    },
+    {
+      "id": "hepatobiliary-neoplasms-018",
+      "topicId": "hepatobiliary-neoplasms",
+      "topicName": "Hepatic and Biliary Neoplasms",
+      "stem": "A 70-year-old woman with a long history of cholelithiasis undergoes ultrasound showing a calcified 'porcelain' gallbladder wall. She reports chronic right upper quadrant discomfort and weight loss. This finding most strongly raises concern for which of the following malignancies?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gallbladder adenocarcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Hepatocellular carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Intrahepatic cholangiocarcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Hepatic angiosarcoma"
+        },
+        {
+          "label": "E",
+          "text": "Ampullary carcinoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A porcelain (calcified) gallbladder is a risk factor for gallbladder adenocarcinoma.",
+        "whyCorrect": "Chronic inflammation from gallstones leading to a calcified porcelain gallbladder is associated with gallbladder carcinoma, most commonly adenocarcinoma. The chronic gallstone history and constitutional symptoms fit this diagnosis.",
+        "whyWrongByChoice": {
+          "B": "HCC arises from hepatocytes in cirrhosis, not from a calcified gallbladder wall.",
+          "C": "Intrahepatic cholangiocarcinoma arises within the liver parenchyma, not the gallbladder.",
+          "D": "Angiosarcoma is a rare toxin-associated liver tumor, unrelated to porcelain gallbladder.",
+          "E": "Ampullary carcinoma arises at the ampulla of Vater, not from the gallbladder wall."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "gallbladder-carcinoma",
+        "porcelain-gallbladder",
+        "biliary"
+      ]
+    },
+    {
+      "id": "hepatobiliary-neoplasms-019",
+      "topicId": "hepatobiliary-neoplasms",
+      "topicName": "Hepatic and Biliary Neoplasms",
+      "stem": "A 2-year-old boy presents with progressive abdominal distension. Examination reveals a firm right upper quadrant mass, and imaging shows a large solitary hepatic tumor. Serum alpha-fetoprotein is markedly elevated. Which of the following is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hepatocellular carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Cholangiocarcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Focal nodular hyperplasia"
+        },
+        {
+          "label": "D",
+          "text": "Hepatoblastoma"
+        },
+        {
+          "label": "E",
+          "text": "Hepatic hemangioma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A young child with a solitary liver mass and markedly elevated AFP most likely has hepatoblastoma.",
+        "whyCorrect": "Hepatoblastoma is the most common primary malignant liver tumor of young children (typically under age 3), presenting as a solitary hepatic mass with elevated alpha-fetoprotein, matching this toddler.",
+        "whyWrongByChoice": {
+          "A": "HCC is a tumor of adults with chronic liver disease/cirrhosis, not the typical liver malignancy of a 2-year-old.",
+          "B": "Cholangiocarcinoma is a biliary adenocarcinoma of older adults, not a pediatric mass.",
+          "C": "FNH is a benign lesion of adults, mostly young women, and does not elevate AFP.",
+          "E": "Infantile hemangioma is benign and does not markedly elevate AFP as a solid malignant mass would."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "hepatoblastoma",
+        "pediatric",
+        "AFP"
+      ]
+    },
+    {
+      "id": "hepatobiliary-neoplasms-020",
+      "topicId": "hepatobiliary-neoplasms",
+      "topicName": "Hepatic and Biliary Neoplasms",
+      "stem": "A 59-year-old man with compensated cirrhosis is diagnosed with a solitary 3-cm hepatocellular carcinoma confined to the liver, with no vascular invasion or extrahepatic spread. Which of the following offers the best chance of cure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Systemic cytotoxic chemotherapy"
+        },
+        {
+          "label": "B",
+          "text": "External beam radiation therapy"
+        },
+        {
+          "label": "C",
+          "text": "Palliative care only"
+        },
+        {
+          "label": "D",
+          "text": "Repeat percutaneous biopsy"
+        },
+        {
+          "label": "E",
+          "text": "Surgical resection or liver transplantation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Localized HCC is best treated for cure with surgical resection or liver transplantation.",
+        "whyCorrect": "For localized HCC, resection and liver transplantation are the most efficacious, potentially curative treatments (5-year survival 30%-50% after surgery). Transplantation is especially favorable in cirrhotic patients meeting criteria, as it treats both the tumor and underlying liver disease.",
+        "whyWrongByChoice": {
+          "A": "Conventional cytotoxic chemotherapy is largely ineffective for HCC and is not curative.",
+          "B": "Radiation therapy is not a standard curative treatment for HCC.",
+          "C": "Palliative care is inappropriate as first-line management for a curable localized tumor.",
+          "D": "Repeat biopsy provides no therapy and risks bleeding and tumor seeding."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "HCC",
+        "management",
+        "transplant"
+      ]
+    },
+    {
+      "id": "peritonitis-001",
+      "topicId": "peritonitis",
+      "topicName": "Peritonitis",
+      "stem": "A 58-year-old man with alcoholic cirrhosis and long-standing ascites presents with low-grade fever and diffuse abdominal discomfort. Diagnostic paracentesis is performed, and the ascitic fluid is sent for cell count and culture. Which ascitic fluid finding is diagnostic of spontaneous bacterial peritonitis (SBP) even if the culture is ultimately negative?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ascitic fluid glucose below 50 mg/dL"
+        },
+        {
+          "label": "B",
+          "text": "Ascitic fluid polymorphonuclear (PMN) count of at least 250 cells/mm3"
+        },
+        {
+          "label": "C",
+          "text": "Ascitic fluid amylase above 200 U/L"
+        },
+        {
+          "label": "D",
+          "text": "Ascitic fluid total protein above 3 g/dL"
+        },
+        {
+          "label": "E",
+          "text": "Ascitic fluid lactate dehydrogenase above serum level"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "SBP is diagnosed by an elevated ascitic PMN count regardless of culture results.",
+        "whyCorrect": "An ascitic fluid PMN count of at least 250 cells/mm3 is the established diagnostic threshold for SBP and prompts empiric therapy even when cultures are negative (culture-negative neutrocytic ascites).",
+        "whyWrongByChoice": {
+          "A": "Low ascitic glucose can be seen in secondary peritonitis but is not the diagnostic criterion for SBP.",
+          "C": "Elevated ascitic amylase suggests pancreatic ascites or bowel perforation, not SBP.",
+          "D": "High ascitic protein actually argues against uncomplicated cirrhotic ascites and is not a diagnostic criterion for SBP.",
+          "E": "Elevated ascitic LDH is one of Runyon's criteria suggesting secondary peritonitis, not the diagnostic threshold for SBP."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "SBP",
+        "ascitic fluid analysis",
+        "diagnosis"
+      ]
+    },
+    {
+      "id": "peritonitis-002",
+      "topicId": "peritonitis",
+      "topicName": "Peritonitis",
+      "stem": "A 63-year-old woman with cirrhosis is diagnosed with spontaneous bacterial peritonitis after paracentesis reveals 800 PMNs/mm3. Ascitic fluid culture is sent. Which single organism is the most likely cause of her infection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "B",
+          "text": "Bacteroides fragilis"
+        },
+        {
+          "label": "C",
+          "text": "Staphylococcus epidermidis"
+        },
+        {
+          "label": "D",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "E",
+          "text": "Clostridioides difficile"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "SBP is usually monomicrobial and caused by enteric gram-negative rods, most often E. coli.",
+        "whyCorrect": "E. coli is the single most common cause of SBP, reflecting translocation of enteric gram-negative flora across the gut wall; Klebsiella and streptococci follow.",
+        "whyWrongByChoice": {
+          "B": "Bacteroides fragilis is an anaerobe typical of polymicrobial secondary peritonitis, not monomicrobial SBP.",
+          "C": "Staphylococcus epidermidis is characteristic of dialysis-catheter-associated peritonitis, not SBP.",
+          "D": "Candida albicans is a fungal cause seen in dialysis or tertiary peritonitis, not typical SBP.",
+          "E": "C. difficile causes colitis, not spontaneous bacterial peritonitis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "SBP",
+        "microbiology",
+        "E. coli"
+      ]
+    },
+    {
+      "id": "peritonitis-003",
+      "topicId": "peritonitis",
+      "topicName": "Peritonitis",
+      "stem": "A 45-year-old man presents with 12 hours of severe, constant abdominal pain. He lies motionless on the stretcher and winces when the bed is bumped. On examination the abdomen is rigid with involuntary guarding. Which single examination finding is the MOST specific for peritoneal inflammation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abdominal distention"
+        },
+        {
+          "label": "B",
+          "text": "Fever"
+        },
+        {
+          "label": "C",
+          "text": "Involuntary guarding (rigidity)"
+        },
+        {
+          "label": "D",
+          "text": "Hyperactive bowel sounds"
+        },
+        {
+          "label": "E",
+          "text": "Periumbilical pain radiating to the back"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Involuntary rigidity is the most specific sign of peritonitis.",
+        "whyCorrect": "Inflammation of the parietal peritoneum triggers a spinal reflex arc producing involuntary muscle contraction (rigidity) that the patient cannot relax, making it the most specific physical sign of peritonitis.",
+        "whyWrongByChoice": {
+          "A": "Distention is nonspecific and occurs with ileus, obstruction, and ascites without peritonitis.",
+          "B": "Fever is a sensitive but nonspecific sign of infection generally.",
+          "D": "Bowel sounds are typically diminished or absent (ileus) in peritonitis, not hyperactive.",
+          "E": "That pain pattern suggests pancreatitis or aortic pathology, not a specific sign of peritoneal irritation."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "physical exam",
+        "rigidity",
+        "signs"
+      ]
+    },
+    {
+      "id": "peritonitis-004",
+      "topicId": "peritonitis",
+      "topicName": "Peritonitis",
+      "stem": "A 30-year-old patient on continuous ambulatory peritoneal dialysis (CAPD) notices that the fluid draining from the catheter has become cloudy over the past day and reports mild abdominal pain. Which mechanism best explains how this type of peritonitis typically develops?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial translocation across an intact intestinal wall"
+        },
+        {
+          "label": "B",
+          "text": "Hematogenous seeding from a distant pneumonia"
+        },
+        {
+          "label": "C",
+          "text": "Perforation of a hollow viscus with spillage of enteric contents"
+        },
+        {
+          "label": "D",
+          "text": "Entry of skin flora into the peritoneum through or around the dialysis catheter"
+        },
+        {
+          "label": "E",
+          "text": "Metastatic tumor implantation on the peritoneal surfaces"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Dialysis-associated peritonitis results from skin organisms entering via the catheter.",
+        "whyCorrect": "In peritoneal dialysis peritonitis, bacteria (commonly skin flora such as Staphylococcus epidermidis or S. aureus) gain access to the peritoneal cavity through or alongside the indwelling catheter, producing cloudy effluent.",
+        "whyWrongByChoice": {
+          "A": "Translocation across an intact gut wall is the mechanism of SBP in cirrhotic ascites, not catheter-associated peritonitis.",
+          "B": "Hematogenous spread is an uncommon route and not the typical mechanism in a dialysis patient with a catheter.",
+          "C": "Viscus perforation causes secondary peritonitis, a different category with polymicrobial flora.",
+          "E": "Tumor implantation causes peritoneal carcinomatosis, not infectious dialysis peritonitis."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "dialysis peritonitis",
+        "CAPD",
+        "mechanism"
+      ]
+    },
+    {
+      "id": "peritonitis-005",
+      "topicId": "peritonitis",
+      "topicName": "Peritonitis",
+      "stem": "A cirrhotic patient is diagnosed with uncomplicated spontaneous bacterial peritonitis. The team plans management. Which of the following best describes the appropriate treatment approach?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Emergent exploratory laparotomy for source control"
+        },
+        {
+          "label": "B",
+          "text": "Piperacillin/tazobactam plus urgent surgical washout"
+        },
+        {
+          "label": "C",
+          "text": "Oral fluconazole monotherapy"
+        },
+        {
+          "label": "D",
+          "text": "Percutaneous drain placement into the ascites collection"
+        },
+        {
+          "label": "E",
+          "text": "A third-generation cephalosporin, without surgery"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "SBP is treated medically with a third-generation cephalosporin and no surgery.",
+        "whyCorrect": "SBP has no surgical source, so it is managed with antibiotics alone; a third-generation cephalosporin (cefotaxime or ceftriaxone) is standard empiric therapy.",
+        "whyWrongByChoice": {
+          "A": "Laparotomy is reserved for secondary peritonitis with a perforation; SBP has no source to control.",
+          "B": "Broad-spectrum antibiotics plus surgery describes secondary peritonitis management, not SBP.",
+          "C": "Fungal coverage is not appropriate for typical bacterial SBP.",
+          "D": "Draining the ascites does not treat SBP and is not indicated; antibiotics are the treatment."
+        }
+      },
+      "difficulty": "easy",
+      "imageRef": null,
+      "tags": [
+        "SBP",
+        "treatment",
+        "cefotaxime"
+      ]
+    },
+    {
+      "id": "peritonitis-006",
+      "topicId": "peritonitis",
+      "topicName": "Peritonitis",
+      "stem": "A 70-year-old man with cirrhosis is admitted for presumed SBP and started on cefotaxime. He deteriorates over 24 hours with hypotension, and the ascitic culture grows E. coli, Enterococcus, and Bacteroides fragilis. Repeat paracentesis shows a PMN count of 9,000/mm3 with low glucose. What is the most appropriate next step in management?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Continue cefotaxime alone and reassess in 48 hours"
+        },
+        {
+          "label": "B",
+          "text": "Broaden antibiotics and obtain urgent imaging and surgical evaluation"
+        },
+        {
+          "label": "C",
+          "text": "Discontinue antibiotics because the culture is contaminated"
+        },
+        {
+          "label": "D",
+          "text": "Add intraperitoneal vancomycin through a dialysis catheter"
+        },
+        {
+          "label": "E",
+          "text": "Start large-volume paracentesis with albumin as definitive therapy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Polymicrobial growth with clinical deterioration indicates secondary peritonitis requiring source control.",
+        "whyCorrect": "A polymicrobial culture, very high PMN count, low glucose, and failure to improve on cefotaxime point to secondary peritonitis from a perforated viscus; management requires broadening antibiotics and urgent imaging/surgery for source control.",
+        "whyWrongByChoice": {
+          "A": "Continuing narrow therapy ignores the evidence of secondary peritonitis and a probable perforation.",
+          "C": "Multiple enteric species with a high PMN count is not contamination; it signals a surgical source.",
+          "D": "This patient has no dialysis catheter; intraperitoneal antibiotics apply to CAPD peritonitis.",
+          "E": "Large-volume paracentesis treats tense ascites, not the underlying perforation and infection."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "secondary peritonitis",
+        "source control",
+        "management"
+      ]
+    },
+    {
+      "id": "peritonitis-007",
+      "topicId": "peritonitis",
+      "topicName": "Peritonitis",
+      "stem": "A 55-year-old man presents with acute abdominal pain and free air under the diaphragm on upright chest radiograph, consistent with a perforated colonic diverticulum. He is taken toward the operating room. Which empiric antibiotic regimen best matches the expected microbiology of his peritonitis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Piperacillin/tazobactam"
+        },
+        {
+          "label": "B",
+          "text": "Cefotaxime monotherapy"
+        },
+        {
+          "label": "C",
+          "text": "Oral ciprofloxacin"
+        },
+        {
+          "label": "D",
+          "text": "Intraperitoneal cefazolin"
+        },
+        {
+          "label": "E",
+          "text": "Fluconazole alone"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Secondary peritonitis needs broad coverage of gram-negatives, anaerobes, and enterococci.",
+        "whyCorrect": "A perforated colon spills polymicrobial flora, so empiric therapy must cover enteric gram-negative rods, anaerobes (Bacteroides fragilis), and enterococci; piperacillin/tazobactam provides this breadth, alongside surgical source control.",
+        "whyWrongByChoice": {
+          "B": "Cefotaxime alone lacks reliable anaerobic and enterococcal coverage needed for secondary peritonitis.",
+          "C": "Oral ciprofloxacin is inadequate for a critically contaminated abdomen and lacks anaerobic coverage.",
+          "D": "Intraperitoneal antibiotics are used for dialysis peritonitis, not surgical secondary peritonitis.",
+          "E": "Fungal monotherapy does not address the dominant bacterial flora of a perforated viscus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "secondary peritonitis",
+        "empiric antibiotics",
+        "perforation"
+      ]
+    },
+    {
+      "id": "peritonitis-008",
+      "topicId": "peritonitis",
+      "topicName": "Peritonitis",
+      "stem": "A patient describes their abdominal pain as beginning several hours ago as a vague, dull discomfort around the umbilicus that was hard to pinpoint, but is now sharp, constant, and localized to a single spot that worsens when they cough or shift position. Which statement best explains this evolution of pain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Visceral pain is always sharp and localized from onset"
+        },
+        {
+          "label": "B",
+          "text": "The change indicates resolution of the underlying inflammation"
+        },
+        {
+          "label": "C",
+          "text": "Dull midline visceral pain becomes sharp and localized once the parietal peritoneum is involved"
+        },
+        {
+          "label": "D",
+          "text": "Parietal peritoneal fibers are autonomic and produce poorly localized pain"
+        },
+        {
+          "label": "E",
+          "text": "The parietal peritoneum lacks innervation and cannot generate pain"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pain migrates from dull visceral to sharp somatic as parietal peritoneum becomes inflamed.",
+        "whyCorrect": "Early visceral pain from the organ is dull, midline, and poorly localized; when inflammation reaches the richly somatically innervated parietal peritoneum, pain becomes sharp, well-localized, and aggravated by movement.",
+        "whyWrongByChoice": {
+          "A": "Visceral pain is characteristically dull and poorly localized, not sharp from onset.",
+          "B": "Progression to sharp localized pain signals worsening peritoneal irritation, not resolution.",
+          "D": "Parietal peritoneal fibers are somatic and produce well-localized pain, not poorly localized autonomic pain.",
+          "E": "The parietal peritoneum is richly innervated with somatic fibers and is the source of localized pain."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pain physiology",
+        "visceral vs parietal",
+        "signs"
+      ]
+    },
+    {
+      "id": "peritonitis-009",
+      "topicId": "peritonitis",
+      "topicName": "Peritonitis",
+      "stem": "A 68-year-old woman with a history of ovarian carcinoma presents with abdominal distention. CT shows nodular thickening and 'caking' of the omentum with diffuse implants studding the peritoneal surfaces and malignant-appearing ascites. Which process best describes these findings?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Spontaneous bacterial peritonitis"
+        },
+        {
+          "label": "B",
+          "text": "Pseudomyxoma peritonei"
+        },
+        {
+          "label": "C",
+          "text": "Peritoneal mesothelioma"
+        },
+        {
+          "label": "D",
+          "text": "Peritoneal carcinomatosis"
+        },
+        {
+          "label": "E",
+          "text": "Tertiary peritonitis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Diffuse metastatic seeding of the peritoneum with omental caking is carcinomatosis.",
+        "whyCorrect": "Peritoneal carcinomatosis is metastatic spread of cancer (classically ovarian) onto peritoneal surfaces, producing omental caking, serosal implants, and malignant ascites.",
+        "whyWrongByChoice": {
+          "A": "SBP is an infection of cirrhotic ascites, not tumor implants with omental caking.",
+          "B": "Pseudomyxoma peritonei produces gelatinous mucinous ascites from an appendiceal tumor, not discrete omental caking from ovarian cancer.",
+          "C": "Mesothelioma is a primary asbestos-related mesothelial malignancy, not metastatic seeding from a known ovarian primary.",
+          "E": "Tertiary peritonitis is persistent/recurrent infection after treated secondary peritonitis, not a malignant process."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "peritoneal carcinomatosis",
+        "omental caking",
+        "malignancy"
+      ]
+    },
+    {
+      "id": "peritonitis-010",
+      "topicId": "peritonitis",
+      "topicName": "Peritonitis",
+      "stem": "A 60-year-old man with a remote history of occupational asbestos exposure presents with abdominal distention and ascites. Peritoneal biopsy shows a tumor of mesothelial origin. Which immunohistochemical profile best supports peritoneal mesothelioma over metastatic adenocarcinoma?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CEA-positive, calretinin-negative"
+        },
+        {
+          "label": "B",
+          "text": "CD117 (c-KIT)-positive, calretinin-negative"
+        },
+        {
+          "label": "C",
+          "text": "Chromogranin-positive, synaptophysin-positive"
+        },
+        {
+          "label": "D",
+          "text": "CDX2-positive, calretinin-negative"
+        },
+        {
+          "label": "E",
+          "text": "Calretinin-positive, CEA-negative"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Mesothelioma stains calretinin-positive and CEA-negative.",
+        "whyCorrect": "Peritoneal mesothelioma expresses mesothelial markers such as calretinin and is negative for CEA, which distinguishes it from CEA-positive metastatic adenocarcinoma.",
+        "whyWrongByChoice": {
+          "A": "This is the reverse pattern and is characteristic of adenocarcinoma, not mesothelioma.",
+          "B": "CD117 positivity suggests a GIST, not mesothelioma.",
+          "C": "Chromogranin and synaptophysin mark neuroendocrine tumors, not mesothelioma.",
+          "D": "CDX2 marks intestinal adenocarcinoma, not mesothelioma."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "mesothelioma",
+        "immunohistochemistry",
+        "calretinin"
+      ]
+    },
+    {
+      "id": "peritonitis-011",
+      "topicId": "peritonitis",
+      "topicName": "Peritonitis",
+      "stem": "A 50-year-old woman undergoes surgery for a suspected ruptured appendix and is found to have the abdominal cavity filled with abundant gelatinous, mucinous material coating the peritoneal surfaces. Pathology of the appendix reveals a mucinous neoplasm. Which diagnosis best fits this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peritoneal mesothelioma"
+        },
+        {
+          "label": "B",
+          "text": "Pseudomyxoma peritonei"
+        },
+        {
+          "label": "C",
+          "text": "Spontaneous bacterial peritonitis"
+        },
+        {
+          "label": "D",
+          "text": "Ovarian carcinomatosis"
+        },
+        {
+          "label": "E",
+          "text": "Dialysis-associated peritonitis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Gelatinous mucinous ascites from a mucinous appendiceal neoplasm is pseudomyxoma peritonei.",
+        "whyCorrect": "Pseudomyxoma peritonei ('jelly belly') is progressive accumulation of mucinous ascites, almost always from a ruptured mucinous appendiceal neoplasm spreading mucin-producing cells over peritoneal surfaces.",
+        "whyWrongByChoice": {
+          "A": "Mesothelioma is a solid mesothelial malignancy linked to asbestos, not gelatinous mucin from the appendix.",
+          "C": "SBP produces cloudy infected ascites in cirrhosis, not gelatinous mucin.",
+          "D": "Ovarian carcinomatosis produces solid implants and malignant ascites, not the classic mucinous 'jelly belly' from an appendiceal primary.",
+          "E": "Dialysis peritonitis is an infection via a catheter, unrelated to mucinous appendiceal tumor."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "pseudomyxoma peritonei",
+        "appendiceal neoplasm",
+        "malignancy"
+      ]
+    },
+    {
+      "id": "peritonitis-012",
+      "topicId": "peritonitis",
+      "topicName": "Peritonitis",
+      "stem": "A 26-year-old man on CAPD develops cloudy dialysate and abdominal pain. Effluent cell count is elevated with a neutrophil predominance, and Gram stain shows gram-positive cocci in clusters. Which organism is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coagulase-negative Staphylococcus"
+        },
+        {
+          "label": "B",
+          "text": "Escherichia coli"
+        },
+        {
+          "label": "C",
+          "text": "Bacteroides fragilis"
+        },
+        {
+          "label": "D",
+          "text": "Streptococcus pneumoniae"
+        },
+        {
+          "label": "E",
+          "text": "Pseudomonas aeruginosa"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Dialysis peritonitis is most often caused by gram-positive skin flora entering via the catheter.",
+        "whyCorrect": "Gram-positive cocci in clusters and cloudy effluent in a CAPD patient point to skin flora such as coagulase-negative staphylococci (S. epidermidis) or S. aureus, the most common causes of dialysis peritonitis.",
+        "whyWrongByChoice": {
+          "B": "E. coli is a gram-negative rod and the classic cause of SBP, not the gram-positive cluster organism seen here.",
+          "C": "Bacteroides fragilis is an anaerobic gram-negative rod typical of secondary peritonitis.",
+          "D": "S. pneumoniae are gram-positive cocci in pairs/chains, not clusters, and is not the most common dialysis pathogen.",
+          "E": "Pseudomonas is a gram-negative rod and a less common, more virulent dialysis pathogen, not matching the Gram stain."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dialysis peritonitis",
+        "microbiology",
+        "Staphylococcus"
+      ]
+    },
+    {
+      "id": "peritonitis-013",
+      "topicId": "peritonitis",
+      "topicName": "Peritonitis",
+      "stem": "A 74-year-old man with ascites is evaluated for peritonitis. The team wishes to distinguish spontaneous bacterial peritonitis from secondary peritonitis due to a perforated viscus. Which examination or fluid finding most strongly favors secondary peritonitis over SBP?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fever and tachycardia"
+        },
+        {
+          "label": "B",
+          "text": "Generalized abdominal tenderness"
+        },
+        {
+          "label": "C",
+          "text": "Involuntary rigidity of the abdominal wall"
+        },
+        {
+          "label": "D",
+          "text": "Cloudy ascitic fluid on paracentesis"
+        },
+        {
+          "label": "E",
+          "text": "A single organism on ascitic culture"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "True rigidity in an ascites patient suggests secondary, not spontaneous, peritonitis.",
+        "whyCorrect": "SBP rarely produces true involuntary rigidity; when rigidity is present in a patient with ascites, it raises concern for secondary peritonitis from a perforated viscus.",
+        "whyWrongByChoice": {
+          "A": "Fever and tachycardia occur in both SBP and secondary peritonitis and do not discriminate.",
+          "B": "Generalized tenderness is common to both and is nonspecific.",
+          "D": "Cloudy fluid reflects a high cell count seen in SBP as well, so it does not distinguish the two.",
+          "E": "A single (monomicrobial) organism actually favors SBP; polymicrobial growth favors secondary peritonitis."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "SBP vs secondary",
+        "physical exam",
+        "differentiation"
+      ]
+    },
+    {
+      "id": "peritonitis-014",
+      "topicId": "peritonitis",
+      "topicName": "Peritonitis",
+      "stem": "A 62-year-old man presents with sudden, severe, diffuse abdominal pain and a rigid abdomen. The clinician suspects a perforated peptic ulcer with free intraperitoneal air. Which initial imaging study is the classic, rapid test for detecting free air under the diaphragm?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Abdominal ultrasound"
+        },
+        {
+          "label": "B",
+          "text": "Supine abdominal radiograph"
+        },
+        {
+          "label": "C",
+          "text": "Magnetic resonance cholangiopancreatography (MRCP)"
+        },
+        {
+          "label": "D",
+          "text": "Upright chest radiograph"
+        },
+        {
+          "label": "E",
+          "text": "Nuclear medicine tagged-WBC scan"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "An upright chest radiograph classically detects free subdiaphragmatic air from perforation.",
+        "whyCorrect": "An upright chest radiograph is particularly useful for demonstrating free intraperitoneal air collecting under the diaphragm, a hallmark of hollow viscus perforation.",
+        "whyWrongByChoice": {
+          "A": "Ultrasound is operator-dependent and poor at demonstrating small amounts of free air under the diaphragm.",
+          "B": "A supine film is far less sensitive for free air than an upright view, where air rises under the diaphragm.",
+          "C": "MRCP evaluates the biliary/pancreatic ducts, not free peritoneal air, and is slow.",
+          "E": "A tagged-WBC scan localizes occult infection over hours and is not the rapid test for free air."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "imaging",
+        "free air",
+        "perforation"
+      ]
+    },
+    {
+      "id": "peritonitis-015",
+      "topicId": "peritonitis",
+      "topicName": "Peritonitis",
+      "stem": "A medical student asks why a patient with generalized peritonitis lies perfectly still and resists any movement, in contrast to a patient with a ureteral stone who paces and writhes. Which explanation is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peritonitis pain is colicky and relieved by changing position"
+        },
+        {
+          "label": "B",
+          "text": "Ureteral stones cause peritoneal rigidity that forces the patient to lie still"
+        },
+        {
+          "label": "C",
+          "text": "Peritonitis patients are typically hypovolemic and too weak to move"
+        },
+        {
+          "label": "D",
+          "text": "Movement has no effect on somatic peritoneal pain"
+        },
+        {
+          "label": "E",
+          "text": "Movement disturbs the inflamed peritoneum and worsens the pain, so patients lie still"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Peritonitis patients minimize movement because motion irritates the inflamed peritoneum.",
+        "whyCorrect": "In peritonitis, any movement jostles the inflamed parietal peritoneum and intensifies the somatic pain, so patients lie still; colicky visceral pain (as with a stone) instead makes patients restless.",
+        "whyWrongByChoice": {
+          "A": "Peritonitic pain is constant and worsened by motion, not colicky or relieved by position change.",
+          "B": "Ureteral stones cause colicky visceral pain and restlessness, not peritoneal rigidity.",
+          "C": "Lying still is due to pain provoked by movement, not simply weakness from hypovolemia.",
+          "D": "Movement clearly aggravates somatic peritoneal pain, which is the basis for guarding and stillness."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "signs",
+        "clinical reasoning",
+        "peritonitis vs colic"
+      ]
+    },
+    {
+      "id": "peritonitis-016",
+      "topicId": "peritonitis",
+      "topicName": "Peritonitis",
+      "stem": "A 48-year-old man on CAPD is diagnosed with dialysis-associated peritonitis after his effluent turns cloudy. He remains hemodynamically stable and the catheter appears well-positioned without a tunnel infection. Which route of antibiotic administration is preferred for treating uncomplicated peritoneal dialysis peritonitis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oral antibiotics only"
+        },
+        {
+          "label": "B",
+          "text": "Intraperitoneal antibiotics"
+        },
+        {
+          "label": "C",
+          "text": "A single dose of intramuscular antibiotic"
+        },
+        {
+          "label": "D",
+          "text": "No antibiotics; immediate catheter removal and hemodialysis"
+        },
+        {
+          "label": "E",
+          "text": "Topical antibiotic ointment at the exit site alone"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Uncomplicated dialysis peritonitis is treated with intraperitoneal antibiotics via the catheter.",
+        "whyCorrect": "In peritoneal dialysis peritonitis, antibiotics are instilled directly into the peritoneal cavity through the catheter, delivering high local drug concentrations to the site of infection.",
+        "whyWrongByChoice": {
+          "A": "Oral therapy alone provides inadequate peritoneal drug levels for this infection.",
+          "C": "A single IM dose does not deliver sustained intraperitoneal concentrations needed for treatment.",
+          "D": "Catheter removal is reserved for refractory, relapsing, or fungal cases, not first-line uncomplicated bacterial peritonitis.",
+          "E": "Exit-site ointment does not treat established intraperitoneal infection."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "dialysis peritonitis",
+        "treatment",
+        "intraperitoneal antibiotics"
+      ]
+    },
+    {
+      "id": "peritonitis-017",
+      "topicId": "peritonitis",
+      "topicName": "Peritonitis",
+      "stem": "A hepatologist explains that patients with cirrhotic ascites are uniquely predisposed to spontaneous bacterial peritonitis. Which underlying mechanism best accounts for the development of SBP in these patients?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Translocation of enteric bacteria across the gut wall into ascitic fluid"
+        },
+        {
+          "label": "B",
+          "text": "Direct spillage of colonic contents from a perforation"
+        },
+        {
+          "label": "C",
+          "text": "Seeding of the peritoneum by metastatic hepatocellular carcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Introduction of skin flora through an indwelling peritoneal catheter"
+        },
+        {
+          "label": "E",
+          "text": "Ascending infection from the female genital tract"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "SBP arises from bacterial translocation into ascites with weakened peritoneal defenses.",
+        "whyCorrect": "In cirrhosis, enteric bacteria translocate across the intestinal wall, and the diluted, opsonin-poor ascitic fluid cannot clear them, allowing monomicrobial infection to establish without any surgical source.",
+        "whyWrongByChoice": {
+          "B": "Spillage from a perforation defines secondary peritonitis, not spontaneous (primary) peritonitis.",
+          "C": "Metastatic seeding causes carcinomatosis with malignant ascites, not infectious SBP.",
+          "D": "Catheter-introduced skin flora describes dialysis-associated peritonitis.",
+          "E": "Genital-tract ascending infection is a mechanism of primary peritonitis in young women but not the mechanism in cirrhotic ascites."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "SBP",
+        "bacterial translocation",
+        "pathophysiology"
+      ]
+    },
+    {
+      "id": "peritonitis-018",
+      "topicId": "peritonitis",
+      "topicName": "Peritonitis",
+      "stem": "A surgical team emphasizes that antibiotics alone will not cure a patient whose peritonitis is sustained by an ongoing intra-abdominal contamination, such as a perforated sigmoid colon. The principle that a localized collection or perforation must be physically eliminated is best termed:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antimicrobial stewardship"
+        },
+        {
+          "label": "B",
+          "text": "Empiric de-escalation"
+        },
+        {
+          "label": "C",
+          "text": "Source control"
+        },
+        {
+          "label": "D",
+          "text": "Selective gut decontamination"
+        },
+        {
+          "label": "E",
+          "text": "Damage-control resuscitation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Physically eliminating the infection source is called source control.",
+        "whyCorrect": "Source control is the physical elimination of an infection focus (drainage, resection, repair, or irrigation) that antibiotics alone cannot clear; it is mandatory in secondary peritonitis.",
+        "whyWrongByChoice": {
+          "A": "Antimicrobial stewardship is optimizing antibiotic use, not physically removing an infection source.",
+          "B": "De-escalation is narrowing antibiotics after cultures, unrelated to the surgical source.",
+          "D": "Selective gut decontamination is a prophylactic antibiotic strategy, not physical source removal.",
+          "E": "Damage-control resuscitation addresses hemorrhage/physiology, not elimination of an infectious focus."
+        }
+      },
+      "difficulty": "medium",
+      "imageRef": null,
+      "tags": [
+        "source control",
+        "secondary peritonitis",
+        "principles"
+      ]
+    },
+    {
+      "id": "peritonitis-019",
+      "topicId": "peritonitis",
+      "topicName": "Peritonitis",
+      "stem": "A patient who required laparotomy and antibiotics for secondary peritonitis from a perforated bowel remains febrile with persistent peritoneal inflammation two weeks later. Repeat cultures grow low-virulence organisms such as Candida and coagulase-negative staphylococci, and no discrete surgically correctable source is found. Which category of peritonitis does this best represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Spontaneous bacterial peritonitis"
+        },
+        {
+          "label": "B",
+          "text": "Primary peritonitis"
+        },
+        {
+          "label": "C",
+          "text": "Peritoneal carcinomatosis"
+        },
+        {
+          "label": "D",
+          "text": "Tertiary peritonitis"
+        },
+        {
+          "label": "E",
+          "text": "Dialysis-associated peritonitis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Persistent/recurrent peritonitis after treated secondary peritonitis with low-virulence flora is tertiary peritonitis.",
+        "whyCorrect": "Tertiary peritonitis is persistent or recurrent intra-abdominal infection following adequately treated secondary peritonitis, typically in critically ill patients, and characteristically involves low-virulence or opportunistic organisms such as Candida and coagulase-negative staphylococci without a correctable source.",
+        "whyWrongByChoice": {
+          "A": "SBP occurs in cirrhotic ascites without prior surgery, not as recurrent infection after laparotomy.",
+          "B": "Primary peritonitis has no antecedent surgical source and is monomicrobial in cirrhotics, not this post-treatment recurrence.",
+          "C": "Carcinomatosis is malignant peritoneal seeding, not an infectious recurrence with opportunistic flora.",
+          "E": "Dialysis peritonitis requires a peritoneal dialysis catheter, which this postsurgical patient does not have."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "tertiary peritonitis",
+        "classification",
+        "opportunistic organisms"
+      ]
+    },
+    {
+      "id": "peritonitis-020",
+      "topicId": "peritonitis",
+      "topicName": "Peritonitis",
+      "stem": "A 59-year-old man is found to have low-grade pseudomyxoma peritonei from a ruptured mucinous appendiceal neoplasm, with mucinous deposits distributed over the peritoneal surfaces but no distant organ metastases. Which treatment approach offers the best chance of long-term control or cure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Systemic third-generation cephalosporin therapy"
+        },
+        {
+          "label": "B",
+          "text": "Intraperitoneal antibiotic instillation via a dialysis catheter"
+        },
+        {
+          "label": "C",
+          "text": "Emergency exploratory laparotomy for source control of infection"
+        },
+        {
+          "label": "D",
+          "text": "Observation with serial paracentesis only"
+        },
+        {
+          "label": "E",
+          "text": "Cytoreductive surgery combined with heated intraperitoneal chemotherapy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Cytoreductive surgery plus HIPEC can be curative in low-grade pseudomyxoma peritonei.",
+        "whyCorrect": "Complete cytoreductive (debulking) surgery combined with heated intraperitoneal chemotherapy (HIPEC) removes mucinous tumor burden and treats microscopic peritoneal disease, offering the best chance of long-term control or cure in low-grade pseudomyxoma peritonei.",
+        "whyWrongByChoice": {
+          "A": "Pseudomyxoma peritonei is a mucinous neoplastic process, not a bacterial infection treatable with cephalosporins.",
+          "B": "Intraperitoneal antibiotics treat dialysis peritonitis, not a mucinous malignancy.",
+          "C": "Laparotomy for infectious source control does not address this noninfectious tumor; therapeutic cytoreduction plus HIPEC is required.",
+          "D": "Observation allows progressive mucin accumulation and does not offer cure."
+        }
+      },
+      "difficulty": "hard",
+      "imageRef": null,
+      "tags": [
+        "pseudomyxoma peritonei",
+        "HIPEC",
+        "treatment"
+      ]
+    }
+  ]
+}
