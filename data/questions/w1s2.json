@@ -3669,7 +3669,7 @@
       "id": "sjogren-syndrome-020",
       "topicId": "sjogren-syndrome",
       "topicName": "Sjögren Syndrome",
-      "stem": "A researcher studying salivary tissue in Sjögren syndrome describes an early event in which mucosal epithelial cells become activated, possibly by a viral trigger, leading to recruitment of innate and adaptive immune responses and overexpression of a cytokine that amplifies BAFF and glandular inflammation. Which cytokine is most directly implicated in this interferon signature?",
+      "stem": "A researcher studying salivary tissue in Sjögren syndrome describes an early event in which mucosal epithelial cells become activated, possibly by a viral trigger, leading to recruitment of innate and adaptive immune responses and overexpression of a cytokine that amplifies BAFF and glandular inflammation. Which cytokine is most directly implicated?",
       "choices": [
         {
           "label": "A",
