@@ -30,12 +30,17 @@ interface Props {
   onGoToReview: (mode?: 'completed' | 'incorrect' | 'bookmarked') => void;
   onRetakeMissed: () => void;
   onClearProgress: () => void;
+  /** High Yield mode: each topic condensed to its high-yield picks. App
+   *  passes it on only for the standard tier. */
+  hyMode: boolean;
+  onSetHyMode: (on: boolean) => void;
 }
 
 export function HomePage({
   tier, onSetTier, entitlement, entitlementReason, topics, selectedTopicIds, selectedCount, topicStats, progress,
   onToggleTopic, onToggleCategory, onSelectAll, onClearAll,
   onStartQuiz, onGoToDashboard, onGoToReview, onRetakeMissed, onClearProgress,
+  hyMode, onSetHyMode,
 }: Props) {
   const locked = tier === 'advanced' && entitlement !== null && entitlement !== 'ok';
   // Standard and advanced share topicIds but have distinct question ids
@@ -53,10 +58,19 @@ export function HomePage({
   const missedCount = Object.values(tierProgress.answers).filter((a) => !a.isCorrect).length;
   const answeredByTopic = getAnsweredByTopic(tierProgress);
 
+  // High Yield: offered on the standard tier only, and only once the data
+  // carries high-yield picks. Without them the switch never appears.
+  const allTopics = (topics?.categories ?? []).flatMap(c => c.topics);
+  const anyHy = tier === 'standard' && allTopics.some(t => (t.hyCount ?? 0) > 0);
+  const hyOf = (t: Category['topics'][number]) =>
+    topicStats?.get(t.id)?.hyTotal ?? t.hyCoreCount ?? 0;
+  const hyTotal = allTopics.reduce((n, t) => n + hyOf(t), 0);
+
   // Compute remaining (unanswered) for selected topics
   const remainingCount = (topics?.categories ?? []).reduce((sum, cat) =>
     sum + cat.topics.reduce((s, t) => {
       if (!selectedTopicIds.has(t.id)) return s;
+      if (hyMode) return s + (topicStats?.get(t.id)?.hyRemaining ?? t.hyCoreCount ?? 0);
       const answered = answeredByTopic[t.id] || 0;
       return s + Math.max(0, t.questionCount - answered);
     }, 0), 0);
@@ -232,6 +246,45 @@ export function HomePage({
 
         <MembraneDivider />
 
+        {/* High Yield: condense the bank to the questions most likely to be
+            on the exam, picked brick by brick against the learning objectives. */}
+        {!locked && topics && anyHy && (
+          <div className={`mb-6 rounded-xl border px-4 py-3 ${
+            hyMode ? 'border-amber-500/60 bg-amber-500/10' : 'border-slate-700 bg-slate-800/60'}`}>
+            <div className="flex items-center gap-3 flex-wrap">
+              <div className="inline-flex rounded-xl border border-slate-700 bg-slate-800 p-1">
+                <button
+                  onClick={() => onSetHyMode(false)}
+                  className={`px-3 py-1.5 text-sm font-semibold rounded-lg transition-colors ${
+                    !hyMode ? 'bg-teal-600 text-white' : 'text-slate-400 hover:text-slate-200'}`}
+                >
+                  All questions
+                </button>
+                <button
+                  onClick={() => onSetHyMode(true)}
+                  aria-pressed={hyMode}
+                  className={`px-3 py-1.5 text-sm font-semibold rounded-lg transition-colors ${
+                    hyMode ? 'bg-amber-500 text-slate-900' : 'text-slate-400 hover:text-amber-300'}`}
+                >
+                  ⚡ High Yield
+                </button>
+              </div>
+              <span className="text-sm text-slate-300">
+                {hyMode
+                  ? <><strong className="text-amber-300">{hyTotal}</strong> high-yield questions across the block</>
+                  : 'Short on time? Condense every topic to what is most likely on the exam.'}
+              </span>
+            </div>
+            {hyMode && (
+              <p className="mt-2 text-sm text-slate-400 max-w-3xl">
+                Each topic is cut down to its highest-yield questions (about a third of each topic),
+                chosen against the brick's learning objectives, its case and conclusion, and the
+                classic boards facts for the topic.
+              </p>
+            )}
+          </div>
+        )}
+
         {/* Topic selection + quiz start — only when unlocked and topics loaded */}
         {!locked && topics && (<>
         {/* Filter controls */}
@@ -254,7 +307,7 @@ export function HomePage({
             const inWeek = topics.categories.filter(c => c.week === cat.week);
             const topicCount = inWeek.reduce((n, c) => n + c.topics.length, 0);
             const questionCount = inWeek.reduce(
-              (n, c) => n + c.topics.reduce((m, t) => m + t.questionCount, 0), 0);
+              (n, c) => n + c.topics.reduce((m, t) => m + (hyMode ? hyOf(t) : t.questionCount), 0), 0);
             return (
               <div key={cat.id}>
                 {startsWeek && (
@@ -264,7 +317,7 @@ export function HomePage({
                       <span className="text-sm text-slate-300">{cat.weekSubtitle}</span>
                     )}
                     <span className="ml-auto text-xs text-slate-500 whitespace-nowrap">
-                      {topicCount} topics &middot; {questionCount} questions
+                      {topicCount} topics &middot; {questionCount} {hyMode ? 'high-yield ' : ''}questions
                     </span>
                   </div>
                 )}
@@ -273,6 +326,7 @@ export function HomePage({
                     category={cat}
                     selectedTopicIds={selectedTopicIds}
                     topicStats={topicStats}
+                    hyMode={hyMode}
                     onToggleTopic={onToggleTopic}
                     onToggleCategory={onToggleCategory}
                   />
@@ -290,7 +344,7 @@ export function HomePage({
             className="w-full py-4 rounded-xl bg-teal-600 text-white font-semibold text-lg hover:bg-teal-500 disabled:bg-slate-700 disabled:text-slate-500 disabled:cursor-not-allowed transition-colors shadow-lg"
           >
             {remainingCount > 0
-              ? `Start Quiz (${remainingCount} remaining)`
+              ? `Start ${hyMode ? 'High Yield ' : ''}Quiz (${remainingCount} remaining)`
               : selectedCount > 0
                 ? 'All selected questions completed!'
                 : 'Select topics to begin'}

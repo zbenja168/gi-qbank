@@ -10,13 +10,17 @@ import * as loader from '../utils/questionLoader';
 type Tier = string;
 const loadMultipleCategories = loader.loadMultipleCategories as unknown as (
   ids: string[], tier?: Tier,
-) => Promise<Array<{ questions: Array<{ id: string; topicId: string }> }>>;
+) => Promise<Array<{ questions: Array<{ id: string; topicId: string; hy?: boolean }> }>>;
 
 export interface TopicStat {
   total: number;
   answered: number;
   remaining: number;
   complete: boolean;
+  /** The same again for the high-yield picks, used in High Yield mode. */
+  hyTotal: number;
+  hyRemaining: number;
+  hyComplete: boolean;
 }
 
 /** Per-topic completion, so the picker can say what is left rather than just
@@ -33,7 +37,8 @@ export function useTopicProgress(
   progress: ProgressData,
   tier: Tier = 'standard',
 ) {
-  const [idsByTopic, setIdsByTopic] = useState<Map<string, string[]> | null>(null);
+  type TopicIds = { all: string[]; hy: string[] };
+  const [idsByTopic, setIdsByTopic] = useState<Map<string, TopicIds> | null>(null);
 
   useEffect(() => {
     if (!topics) return;
@@ -42,12 +47,13 @@ export function useTopicProgress(
     loadMultipleCategories(topics.categories.map(c => c.id), tier)
       .then(cats => {
         if (!live) return;
-        const map = new Map<string, string[]>();
+        const map = new Map<string, TopicIds>();
         for (const c of cats) {
           for (const q of c.questions) {
-            const list = map.get(q.topicId);
-            if (list) list.push(q.id);
-            else map.set(q.topicId, [q.id]);
+            let entry = map.get(q.topicId);
+            if (!entry) { entry = { all: [], hy: [] }; map.set(q.topicId, entry); }
+            entry.all.push(q.id);
+            if (q.hy) entry.hy.push(q.id);
           }
         }
         setIdsByTopic(map);
@@ -63,12 +69,16 @@ export function useTopicProgress(
   const answers = progress.answers || {};
   const stats = new Map<string, TopicStat>();
   for (const [topicId, ids] of idsByTopic) {
-    const answered = ids.reduce((n, id) => n + (answers[id] ? 1 : 0), 0);
+    const answered = ids.all.reduce((n, id) => n + (answers[id] ? 1 : 0), 0);
+    const hyAnswered = ids.hy.reduce((n, id) => n + (answers[id] ? 1 : 0), 0);
     stats.set(topicId, {
-      total: ids.length,
+      total: ids.all.length,
       answered,
-      remaining: ids.length - answered,
-      complete: ids.length > 0 && answered >= ids.length,
+      remaining: ids.all.length - answered,
+      complete: ids.all.length > 0 && answered >= ids.all.length,
+      hyTotal: ids.hy.length,
+      hyRemaining: ids.hy.length - hyAnswered,
+      hyComplete: ids.hy.length > 0 && hyAnswered >= ids.hy.length,
     });
   }
   return { stats, answeredIds: new Set(Object.keys(answers)) };

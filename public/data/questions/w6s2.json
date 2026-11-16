@@ -80,7 +80,8 @@
           "D": "Sphincter spasm relates to the pain of anal fissures; it is not the reason internal hemorrhoidal bleeding is painless.",
           "E": "There is no thrombosis in this patient, and thrombosis in hemorrhoidal tissue produces pain rather than eliminating it."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "anorectal-anatomy-hemorrhoids-003",
@@ -160,7 +161,8 @@
           "D": "A chronic anal fissure is a posterior midline tear with a sentinel tag, causing sharp tearing pain during defecation rather than a discrete bluish mass.",
           "E": "Anal cancer presents as a hard, fixed, or ulcerated mass that fails to resolve, not as a lesion of 2 days' duration arising abruptly after straining."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "anorectal-anatomy-hemorrhoids-005",
@@ -200,7 +202,8 @@
           "D": "Topical ointments and suppositories do not shrink hemorrhoidal tissue and would not relieve severe pain from an acute thrombosis.",
           "E": "Lateral internal sphincterotomy treats chronic anal fissures refractory to medical therapy, not thrombosed external hemorrhoids."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "anorectal-anatomy-hemorrhoids-006",
@@ -280,7 +283,8 @@
           "D": "Grade IV is correctly defined, but his prolapse is reducible with his finger, so it is not irreducible.",
           "E": "This pairs the wrong definition with grade III; irreducible prolapse is grade IV."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "anorectal-anatomy-hemorrhoids-008",
@@ -400,7 +404,8 @@
           "D": "Correct. Rubber band ligation is the most effective office procedure for symptomatic internal hemorrhoids refractory to conservative measures.",
           "E": "There is no infection here; antibiotics have no role in hemorrhoidal bleeding."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "anorectal-anatomy-hemorrhoids-011",
@@ -520,7 +525,8 @@
           "D": "Topical products do not shrink hemorrhoidal tissue and do nothing to evaluate the alarm features present here.",
           "E": "Operative hemorrhoidectomy is reserved for grade III–IV or refractory mixed disease and does not address the need for diagnostic evaluation."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "anorectal-anatomy-hemorrhoids-014",
@@ -640,7 +646,8 @@
           "D": "The levator ani forms the pelvic floor at the anorectal junction and its motor supply does not mediate perianal cutaneous pain.",
           "E": "Visceral afferents above the dentate line do not transmit sharp pain, which is why internal hemorrhoids bleed painlessly."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "anorectal-anatomy-hemorrhoids-017",
@@ -880,7 +887,8 @@
           "D": "Correct: about 85% of anal fissures occur in the posterior midline, the zone with the poorest anal canal blood supply.",
           "E": "Fissures are focal tears of the anoderm below the dentate line, not circumferential lesions at the dentate line."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "anal-fissure-abscess-fistula-003",
@@ -920,7 +928,8 @@
           "D": "A topical antibiotic addresses neither the sphincter spasm nor the ischemia responsible for non-healing; fissures are not primarily infectious.",
           "E": "Correct: topical calcium channel blockers such as nifedipine relax the internal sphincter spasm that impairs fissure healing."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "anal-fissure-abscess-fistula-004",
@@ -1000,7 +1009,8 @@
           "D": "Internal hemorrhoids arise above the dentate line and cause painless bleeding or prolapse; they do not produce lateral anoderm tears.",
           "E": "Irritable bowel syndrome is not among the causes of an atypically located fissure and does not explain weight loss."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "anal-fissure-abscess-fistula-006",
@@ -1080,7 +1090,8 @@
           "D": "Correct: prompt incision and drainage is the treatment of a perianal abscess.",
           "E": "Fistulotomy treats an established simple, low fistula tract; there is no chronic tract here, only an acute undrained abscess."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "anal-fissure-abscess-fistula-008",
@@ -1160,7 +1171,8 @@
           "D": "Perianal abscesses arise locally from obstructed anal glands rather than from bloodborne seeding of the ischioanal fat.",
           "E": "Sexually transmitted organisms cause infectious proctitis with anorectal pain, tenesmus, and mucopurulent discharge, not cryptoglandular abscess formation."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "anal-fissure-abscess-fistula-010",
@@ -1200,7 +1212,8 @@
           "D": "A thrombosed external hemorrhoid is an acutely painful bluish lump at the anal verge and does not drain pus chronically.",
           "E": "Correct: a chronic tract with persistent drainage from a small opening near the anus after an abscess is fistula-in-ano."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "anal-fissure-abscess-fistula-011",
@@ -1400,7 +1413,8 @@
           "D": "Hemorrhoidectomy is for grade III-IV or mixed hemorrhoidal disease refractory to less invasive treatment, not for a fissure.",
           "E": "Removing the sentinel tag does not address the internal sphincter spasm and ischemia that prevent fissure healing."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "anal-fissure-abscess-fistula-016",
@@ -1640,7 +1654,8 @@
           "D": "A perianal abscess causes constant, throbbing perianal pain with swelling, erythema, and often a fluctuant mass or focal firmness, none of which is described.",
           "E": "Prolapsing internal hemorrhoids cause painless bright red bleeding and protruding mucosa-covered tissue, not painful mucopurulent discharge."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "proctitis-pruritus-ani-002",
@@ -1680,7 +1695,8 @@
           "D": "Stool ova and parasite testing does not target the organisms responsible for infectious proctitis in this setting.",
           "E": "Grading internal hemorrhoids addresses bleeding and prolapse, not an inflamed friable rectal mucosa with purulent discharge."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "proctitis-pruritus-ani-003",
@@ -1720,7 +1736,8 @@
           "D": "Lateral internal sphincterotomy permanently reduces resting internal sphincter tone for refractory chronic anal fissures, not for ulcerative proctitis.",
           "E": "Incision and drainage treats a perianal abscess; there is no abscess in this patient."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "proctitis-pruritus-ani-004",
@@ -1880,7 +1897,8 @@
           "D": "HPV causes condylomata, which can contribute to pruritus ani as visible perianal lesions rather than microscopic eggs.",
           "E": "Correct: pinworm (Enterobius vermicularis) infection causes nocturnal perianal itching with eggs recoverable from the perianal skin."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "proctitis-pruritus-ani-008",
@@ -1920,7 +1938,8 @@
           "D": "Oral antibiotics have no role; no bacterial infection has been identified, and antibiotics do not address the itch-scratch cycle.",
           "E": "Surgical excision of perianal skin is not a treatment for pruritus ani; surgery in this region is directed at abscesses, fistulas, fissures, or hemorrhoids."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "proctitis-pruritus-ani-009",
@@ -2360,7 +2379,8 @@
           "D": "Correct: Chlamydia trachomatis is a common cause of infectious proctitis and is detected by nucleic acid amplification testing.",
           "E": "Clostridioides difficile is not among the recognized pathogens of infectious proctitis in this setting."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "proctitis-pruritus-ani-020",
@@ -2600,7 +2620,8 @@
           "D": "Chloride secretion moves water into the lumen and, when excessive, causes secretory diarrhea.",
           "E": "The colon both absorbs and secretes potassium depending on luminal and hormonal conditions, but potassium secretion does not drive net water absorption."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "colonic-absorption-motility-006",
@@ -2760,7 +2781,8 @@
           "D": "Bicarbonate secretion is coupled to apical chloride absorption and is not abolished by aldosterone.",
           "E": "Short-chain fatty acid production depends on bacterial fermentation of dietary fiber, not on mineralocorticoid levels."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "colonic-absorption-motility-010",
@@ -2840,7 +2862,8 @@
           "D": "Short-chain fatty acids stimulate sodium and water absorption.",
           "E": "Prolonged transit causes hard, dry stools, the opposite of this presentation."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "colonic-absorption-motility-012",
@@ -3080,7 +3103,8 @@
           "D": "The rectoanal inhibitory reflex is relaxation of the internal anal sphincter in response to rectal distension.",
           "E": "Ileocecal valve relaxation governs entry of chyme into the cecum, not propulsion through the transverse and descending colon."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "colonic-absorption-motility-018",
@@ -3120,7 +3144,8 @@
           "D": "Correct: gastric distension triggers the gastrocolic reflex, increasing colonic motility and initiating mass movements.",
           "E": "External anal sphincter relaxation is a voluntary final step of defecation, not the reflex increase in colonic motility that creates the urge."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "colonic-absorption-motility-019",
@@ -3160,7 +3185,8 @@
           "D": "Haustral contractions mix colonic contents and do not control anal canal pressure.",
           "E": "Gastrin enhances ileal motility and amplifies the gastrocolic reflex; it does not mediate sphincter relaxation on rectal distension."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "colonic-absorption-motility-020",
@@ -3360,7 +3386,8 @@
           "D": "Correct: the pudendal nerve (S2-S4) supplies the skeletal-muscle external anal sphincter and mediates voluntary squeeze.",
           "E": "The myenteric plexus mediates the intrinsic reflex that relaxes the internal sphincter and is not under voluntary control."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "defecation-continence-005",
@@ -3440,7 +3467,8 @@
           "D": "Loss of internal sphincter tone lowers resting pressure and causes leakage at rest rather than failure of reflex relaxation.",
           "E": "Impaction is a consequence of impaired propulsion and would not by itself abolish the reflex relaxation of the internal sphincter."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "defecation-continence-007",
@@ -3480,7 +3508,8 @@
           "D": "Increased internal sphincter contraction would favor continence and would raise, not lower, measured pressures.",
           "E": "Impaired sacral parasympathetic augmentation of rectal contraction would hinder expulsion rather than cause incontinence."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "defecation-continence-008",
@@ -3520,7 +3549,8 @@
           "D": "An exaggerated gastrocolic reflex would produce postprandial urgency, not passive soiling that the patient does not perceive.",
           "E": "Reduced mass movements slow transit and produce hard, infrequent stools rather than leakage."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "defecation-continence-009",
@@ -3800,7 +3830,8 @@
           "D": "Correct: rectal distension producing internal anal sphincter relaxation is the rectoanal inhibitory reflex.",
           "E": "The Valsalva maneuver is a voluntary increase in intra-abdominal pressure that assists expulsion, not a response to balloon distension."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "defecation-continence-016",

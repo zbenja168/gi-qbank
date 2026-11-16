@@ -18,6 +18,8 @@ export interface Question {
   correctAnswer: string;
   explanation: Explanation;
   difficulty: string;
+  /** Picked by the high-yield pass as most likely to be examined. */
+  hy?: boolean;
   imageRef: string | null;
   tags: string[];
 }

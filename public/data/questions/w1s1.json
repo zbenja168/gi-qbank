@@ -91,7 +91,8 @@
         "steatorrhea",
         "maldigestion",
         "pancreatic-insufficiency"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-foundations-overview-003",
@@ -137,7 +138,8 @@
         "secretory-diarrhea",
         "CFTR",
         "enterotoxin"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-foundations-overview-004",
@@ -182,7 +184,8 @@
       "tags": [
         "osmotic-diarrhea",
         "lactase-deficiency"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-foundations-overview-005",
@@ -275,7 +278,8 @@
         "vitamin-B12",
         "bile-salts",
         "regional-specialization"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-foundations-overview-007",
@@ -368,7 +372,8 @@
         "gallbladder",
         "pancreatic-enzymes",
         "hormones"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-foundations-overview-009",
@@ -508,7 +513,8 @@
         "motility",
         "ENS",
         "anatomy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-foundations-overview-012",
@@ -833,7 +839,8 @@
         "H-pylori",
         "NSAIDs",
         "mucosal-protection"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-foundations-overview-019",
@@ -1064,7 +1071,8 @@
         "Barrett",
         "metaplasia",
         "GEJ"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "histology-gi-tract-004",
@@ -1156,7 +1164,8 @@
         "stomach",
         "parietal-cell",
         "cell-ID"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "histology-gi-tract-006",
@@ -1295,7 +1304,8 @@
         "duodenum",
         "Brunner-glands",
         "small-intestine"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "histology-gi-tract-009",
@@ -1529,7 +1539,8 @@
         "Peyer-patches",
         "lymphoid",
         "small-intestine"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "histology-gi-tract-014",
@@ -1576,7 +1587,8 @@
         "colon",
         "goblet-cells",
         "region-ID"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "histology-gi-tract-015",
@@ -1671,7 +1683,8 @@
         "Auerbach",
         "muscularis-propria",
         "motility"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "histology-gi-tract-017",
@@ -1765,7 +1778,8 @@
         "staging",
         "muscularis-propria",
         "clinical"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "histology-gi-tract-019",
@@ -1904,7 +1918,8 @@
         "salivary-glands",
         "parotid",
         "histology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "oral-region-anatomy-002",
@@ -1950,7 +1965,8 @@
         "tongue",
         "hypoglossal-nerve",
         "cranial-nerve-lesion"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "oral-region-anatomy-003",
@@ -1996,7 +2012,8 @@
         "floor-of-mouth",
         "mylohyoid",
         "ludwigs-angina"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "oral-region-anatomy-004",
@@ -2042,7 +2059,8 @@
         "tongue",
         "lingual-nerve",
         "innervation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "oral-region-anatomy-005",
@@ -2088,7 +2106,8 @@
         "tongue-muscles",
         "palatoglossus",
         "innervation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "oral-region-anatomy-006",
@@ -2180,7 +2199,8 @@
         "soft-palate",
         "swallowing",
         "velopharyngeal"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "oral-region-anatomy-008",
@@ -2456,7 +2476,8 @@
         "tongue",
         "chorda-tympani",
         "taste"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "oral-region-anatomy-014",
@@ -2824,7 +2845,8 @@
         "arterial-supply",
         "foregut",
         "celiac-trunk"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-blood-supply-innervation-002",
@@ -2915,7 +2937,8 @@
       "tags": [
         "lymphatics",
         "thoracic-duct"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-blood-supply-innervation-004",
@@ -3053,7 +3076,8 @@
         "ischemia",
         "SMA",
         "embolism"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-blood-supply-innervation-007",
@@ -3099,7 +3123,8 @@
         "watershed",
         "ischemia",
         "splenic-flexure"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-blood-supply-innervation-008",
@@ -3145,7 +3170,8 @@
         "innervation",
         "parasympathetic",
         "vagus"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-blood-supply-innervation-009",
@@ -3330,7 +3356,8 @@
         "referred-pain",
         "afferents",
         "dorsal-root"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-blood-supply-innervation-013",
@@ -3515,7 +3542,8 @@
         "referred-pain",
         "appendicitis",
         "midgut"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-blood-supply-innervation-017",
@@ -3747,7 +3775,8 @@
         "aorta",
         "AAA",
         "clinical-correlate"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-tract-anatomy-002",
@@ -3794,7 +3823,8 @@
         "portal-triad",
         "hepatoduodenal-ligament",
         "surgical"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-tract-anatomy-003",
@@ -3888,7 +3918,8 @@
         "vitamin-B12",
         "bile-salts",
         "clinical-correlate"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-tract-anatomy-005",
@@ -3936,7 +3967,8 @@
         "pancreas",
         "duodenum",
         "embryology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-tract-anatomy-006",
@@ -3983,7 +4015,8 @@
         "Morisons-pouch",
         "FAST",
         "imaging"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-tract-anatomy-007",
@@ -4218,7 +4251,8 @@
         "ileum",
         "small-bowel",
         "vasa-recta"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-tract-anatomy-012",
@@ -4312,7 +4346,8 @@
         "dentate-line",
         "innervation",
         "clinical-correlate"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-tract-anatomy-014",

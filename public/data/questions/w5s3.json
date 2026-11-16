@@ -39,7 +39,8 @@
           "C": "Microscopic colitis causes chronic watery diarrhea with a normal-appearing mucosa and is diagnosed only on biopsy.",
           "E": "Ulcerative colitis is continuous from the rectum and spares the small intestine, the opposite of the pattern here."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "inflammatory-bowel-disease-002",
@@ -78,7 +79,8 @@
           "D": "Infectious colitis is usually acute and self-limited with an identifiable exposure, not a 6-week continuous colitis pattern.",
           "E": "Ischemic colitis typically affects older patients at watershed zones with sudden onset, not gradual rectal-based inflammation."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "inflammatory-bowel-disease-003",
@@ -156,7 +158,8 @@
           "D": "Ischemic colitis shows coagulative mucosal necrosis, not transmural granulomatous inflammation.",
           "E": "Ulcerative colitis is limited to the mucosa/superficial submucosa and does not form granulomas."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "inflammatory-bowel-disease-005",
@@ -195,7 +198,8 @@
           "C": "A skip lesion is a gross pattern of discontinuous involvement, not a microscopic gland finding.",
           "E": "Transmural inflammation refers to full-thickness wall involvement, not neutrophils within crypt lumens."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "inflammatory-bowel-disease-006",
@@ -234,7 +238,8 @@
           "D": "Primary sclerosing cholangitis is a hepatobiliary complication, unrelated to acute colonic dilation.",
           "E": "A diverticular abscess causes focal pain and a walled-off collection, not diffuse toxic dilation of the colon."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "inflammatory-bowel-disease-007",
@@ -390,7 +395,8 @@
           "C": "Struvite stones form with urea-splitting organism infections, not enteric hyperoxaluria.",
           "E": "Uric acid stones form in acidic urine with hyperuricemia, not from bile acid/fat malabsorption."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "inflammatory-bowel-disease-011",
@@ -507,7 +513,8 @@
           "C": "Screening at 5 years is earlier than the guideline threshold in the brick.",
           "D": "Waiting 10 years is later than the recommended 8-year start."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "inflammatory-bowel-disease-014",
@@ -858,7 +865,8 @@
           "D": "Hepatic CYP3A4 metabolism is relevant to budesonide, not azo-bond cleavage.",
           "E": "Brush-border peptidases act on peptides and do not liberate 5-ASA from the azo compound."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "pharmacologic-agents-for-inflammatory-bowel-disease-003",
@@ -975,7 +983,8 @@
           "D": "Budesonide is not dependent on colonic bacterial activation like sulfasalazine.",
           "E": "Calcineurin inhibition is the mechanism of cyclosporine, not budesonide."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "pharmacologic-agents-for-inflammatory-bowel-disease-006",
@@ -1092,7 +1101,8 @@
           "D": "Latent TB reactivation is a risk of anti-TNF biologics, not thiopurines.",
           "E": "Peripheral neuropathy is a cyclosporine effect, not related to TPMT."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "pharmacologic-agents-for-inflammatory-bowel-disease-009",
@@ -1131,7 +1141,8 @@
           "C": "The toxicity arises from more active metabolite, not from retained inactive thiouric acid.",
           "D": "Colonic bacterial activation applies to sulfasalazine, not thiopurines."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "pharmacologic-agents-for-inflammatory-bowel-disease-010",
@@ -1326,7 +1337,8 @@
           "C": "EBV screening is not the required pre-treatment step described.",
           "E": "HSV screening is not part of the mandatory pre-biologic workup."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "pharmacologic-agents-for-inflammatory-bowel-disease-015",
@@ -1365,7 +1377,8 @@
           "C": "The IL-12/23 p40 subunit is targeted by ustekinumab.",
           "D": "Janus kinase is inhibited by tofacitinib."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "pharmacologic-agents-for-inflammatory-bowel-disease-016",
@@ -1443,7 +1456,8 @@
           "C": "Janus kinase is inhibited by tofacitinib.",
           "E": "Calcineurin is inhibited by cyclosporine."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "pharmacologic-agents-for-inflammatory-bowel-disease-018",
@@ -1599,7 +1613,8 @@
           "C": "Renal injury is retroperitoneal and presents with flank pain or hematuria, not referred shoulder pain.",
           "E": "Isolated gastric blunt injury is uncommon and is not associated with left rib fractures or the Kehr sign."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "traumatic-and-mechanical-gi-injuries-002",
@@ -1677,7 +1692,8 @@
           "C": "Fibrinoid necrosis occurs in vascular walls in immune-mediated injury, not caustic ingestion.",
           "E": "Fat necrosis is seen with pancreatic enzyme release or trauma to adipose tissue."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "traumatic-and-mechanical-gi-injuries-004",
@@ -1716,7 +1732,8 @@
           "D": "Caseating granulomas occur in infections such as tuberculosis, not caustic injury.",
           "E": "Fibrinoid necrosis affects vessel walls in immune-mediated disease."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "traumatic-and-mechanical-gi-injuries-005",
@@ -1755,7 +1772,8 @@
           "D": "Retroperitoneal hematoma is suggested by loss of the psoas shadow, not subdiaphragmatic air.",
           "E": "Paralytic ileus produces dilated bowel gas patterns, not free intraperitoneal air."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "traumatic-and-mechanical-gi-injuries-006",
@@ -1794,7 +1812,8 @@
           "C": "Diagnostic peritoneal lavage has largely been replaced by CT and ultrasound.",
           "E": "The left lateral decubitus film is used only to detect free air when a patient cannot stand."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "traumatic-and-mechanical-gi-injuries-007",
@@ -1833,7 +1852,8 @@
           "C": "MRI is too slow and impractical for an unstable trauma patient.",
           "D": "Barium contrast studies are contraindicated when perforation is suspected."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "traumatic-and-mechanical-gi-injuries-008",
@@ -1989,7 +2009,8 @@
           "D": "Costovertebral tenderness localizes to the renal angle and suggests renal pathology.",
           "E": "Referred shoulder pain (Kehr sign) indicates diaphragmatic irritation, not release pain."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "traumatic-and-mechanical-gi-injuries-012",

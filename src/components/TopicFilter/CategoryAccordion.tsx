@@ -10,10 +10,12 @@ interface Props {
   /** Per-topic completion. Null until the question files have loaded, in which
    *  case the picker falls back to plain question counts. */
   topicStats?: Map<string, TopicStat> | null;
+  /** High Yield mode: counts and completion follow the HY picks. */
+  hyMode?: boolean;
 }
 
 export function CategoryAccordion({
-  category, selectedTopicIds, onToggleTopic, onToggleCategory, topicStats,
+  category, selectedTopicIds, onToggleTopic, onToggleCategory, topicStats, hyMode = false,
 }: Props) {
   const [open, setOpen] = useState(false);
   const selectedCount = category.topics.filter(t => selectedTopicIds.has(t.id)).length;
@@ -21,13 +23,28 @@ export function CategoryAccordion({
   const someSelected = selectedCount > 0 && !allSelected;
 
   const stat = (id: string) => topicStats?.get(id);
+  type T = Category['topics'][number];
+  const remainingOf = (t: T) => {
+    const s = stat(t.id);
+    if (hyMode) return s ? s.hyRemaining : (t.hyCoreCount ?? 0);
+    return s?.remaining ?? t.questionCount;
+  };
+  const totalOf = (t: T) => {
+    const s = stat(t.id);
+    if (hyMode) return s ? s.hyTotal : (t.hyCoreCount ?? 0);
+    return s?.total ?? t.questionCount;
+  };
+  const isDone = (t: T) => {
+    const s = stat(t.id);
+    return !!s && (hyMode ? s.hyComplete : s.complete);
+  };
   const remaining = topicStats
-    ? category.topics.reduce((n, t) => n + (stat(t.id)?.remaining ?? t.questionCount), 0)
+    ? category.topics.reduce((n, t) => n + remainingOf(t), 0)
     : null;
-  const catTotal = category.topics.reduce((n, t) => n + (stat(t.id)?.total ?? t.questionCount), 0);
+  const catTotal = category.topics.reduce((n, t) => n + totalOf(t), 0);
   const catComplete = topicStats !== null && topicStats !== undefined
     && category.topics.length > 0
-    && category.topics.every(t => stat(t.id)?.complete);
+    && category.topics.every(isDone);
 
   return (
     <div className={`border rounded-lg overflow-hidden ${
@@ -71,7 +88,7 @@ export function CategoryAccordion({
         <div className="bg-slate-850 px-4 py-2 space-y-1 border-t border-slate-700" style={{ backgroundColor: '#1a2332' }}>
           {category.topics.map(topic => {
             const s = stat(topic.id);
-            const done = !!s?.complete;
+            const done = isDone(topic);
             return (
               <label
                 key={topic.id}
@@ -92,9 +109,9 @@ export function CategoryAccordion({
                 {done ? (
                   <span className="text-xs font-semibold text-green-500 uppercase tracking-wide">Complete</span>
                 ) : s ? (
-                  <span className="text-xs text-slate-500">{s.remaining}/{s.total} left</span>
+                  <span className="text-xs text-slate-500">{remainingOf(topic)}/{totalOf(topic)} left</span>
                 ) : (
-                  <span className="text-xs text-slate-500">{topic.questionCount}q</span>
+                  <span className="text-xs text-slate-500">{hyMode ? (topic.hyCoreCount ?? 0) : topic.questionCount}q</span>
                 )}
               </label>
             );

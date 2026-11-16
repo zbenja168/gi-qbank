@@ -4,6 +4,12 @@ import { ProgressData } from '../types/progress';
 import { loadMultipleCategories, Tier } from '../utils/questionLoader';
 import { shuffle } from '../utils/shuffle';
 
+/** High Yield mode: a quiz serves only the questions the high-yield pass
+ *  picked. Module-level so loadQuestions keeps the signature every QBank
+ *  shares. App sets it only for the standard tier. */
+let highYieldOnly = false;
+export function setHighYieldOnly(on: boolean) { highYieldOnly = on; }
+
 export function useQuestions() {
   const [questions, setQuestions] = useState<Question[]>([]);
   const [loading, setLoading] = useState(false);
@@ -21,6 +27,7 @@ export function useQuestions() {
       const all = categories.flatMap(c => c.questions);
       const filtered = all.filter(q =>
         selectedTopicIds.has(q.topicId) && !progress.answers[q.id]
+        && (!highYieldOnly || q.hy === true)
       );
       setQuestions(shuffle(filtered));
     } catch (err) {

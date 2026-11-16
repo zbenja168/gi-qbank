@@ -46,7 +46,8 @@
         "gut tube formation",
         "endoderm",
         "germ layers"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-development-002",
@@ -277,7 +278,8 @@
         "foregut",
         "midgut",
         "blood supply"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-development-007",
@@ -324,7 +326,8 @@
         "stenosis",
         "atresia",
         "neonate"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-development-008",
@@ -462,7 +465,8 @@
         "midgut rotation",
         "herniation",
         "270 degrees"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-development-011",
@@ -508,7 +512,8 @@
         "cloaca",
         "urorectal septum",
         "hindgut"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-development-012",
@@ -646,7 +651,8 @@
         "pancreatic buds",
         "ventral bud",
         "uncinate process"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-development-015",
@@ -692,7 +698,8 @@
         "secondarily retroperitoneal",
         "mesenteric fusion",
         "peritoneum"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-development-016",
@@ -971,7 +978,8 @@
         "foregut",
         "neonatal",
         "presentation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-congenital-disorders-002",
@@ -1018,7 +1026,8 @@
         "double-bubble",
         "down-syndrome",
         "foregut"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-congenital-disorders-003",
@@ -1114,7 +1123,8 @@
         "neural-crest",
         "hindgut",
         "biopsy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-congenital-disorders-005",
@@ -1161,7 +1171,8 @@
         "TEF",
         "polyhydramnios",
         "foregut"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-congenital-disorders-006",
@@ -1208,7 +1219,8 @@
         "metabolic-alkalosis",
         "electrolytes",
         "paradoxical-aciduria"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-congenital-disorders-007",
@@ -1256,7 +1268,8 @@
         "painless-bleeding",
         "embryology",
         "midgut"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-congenital-disorders-008",
@@ -1775,7 +1788,8 @@
         "pyloric-stenosis",
         "management",
         "volvulus"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "gi-congenital-disorders-019",
@@ -2008,7 +2022,8 @@
         "periodontitis",
         "red-complex",
         "P-gingivalis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "oral-dysbiosis-004",
@@ -2100,7 +2115,8 @@
         "VAP",
         "chlorhexidine",
         "aspiration"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "oral-dysbiosis-006",
@@ -2192,7 +2208,8 @@
         "actinomycosis",
         "sulfur-granules",
         "lumpy-jaw"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "oral-dysbiosis-008",
@@ -2238,7 +2255,8 @@
         "endocarditis",
         "viridans-streptococci",
         "bacteremia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "oral-dysbiosis-009",
@@ -2330,7 +2348,8 @@
         "biofilm",
         "EPM",
         "antibiotic-resistance"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "oral-dysbiosis-011",
@@ -2468,7 +2487,8 @@
         "xerostomia",
         "Sjogren",
         "saliva"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "oral-dysbiosis-014",
@@ -2652,7 +2672,8 @@
         "gingivitis",
         "periodontitis",
         "reversibility"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "oral-dysbiosis-018",
@@ -2836,7 +2857,8 @@
         "diagnosis",
         "sicca",
         "clinical-presentation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "sjogren-syndrome-002",
@@ -2882,7 +2904,8 @@
         "serology",
         "autoantibody",
         "anti-SSA"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "sjogren-syndrome-003",
@@ -3020,7 +3043,8 @@
         "renal",
         "distal-RTA",
         "extraglandular"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "sjogren-syndrome-006",
@@ -3066,7 +3090,8 @@
         "lymphoma",
         "MALT",
         "complication"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "sjogren-syndrome-007",
@@ -3204,7 +3229,8 @@
         "pathophysiology",
         "BAFF",
         "B-cell"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "sjogren-syndrome-010",
@@ -3433,7 +3459,8 @@
         "treatment",
         "secretagogue",
         "xerostomia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "sjogren-syndrome-015",
@@ -3571,7 +3598,8 @@
         "oral",
         "xerostomia",
         "candidiasis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "sjogren-syndrome-018",
