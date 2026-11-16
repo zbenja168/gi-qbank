@@ -91,7 +91,8 @@
       "tags": [
         "pathophysiology",
         "insulin-resistance"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "masld-003",
@@ -137,7 +138,8 @@
         "diagnosis",
         "labs",
         "AST-ALT-ratio"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "masld-004",
@@ -183,7 +185,8 @@
         "histology",
         "MASH",
         "Mallory-bodies"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "masld-005",
@@ -274,7 +277,8 @@
       "tags": [
         "risk-factors",
         "metabolic-syndrome"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "masld-007",
@@ -503,7 +507,8 @@
         "histology",
         "steatosis",
         "progression"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "masld-012",
@@ -641,7 +646,8 @@
         "management",
         "case-vignette",
         "diabetes-control"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "masld-015",
@@ -686,7 +692,8 @@
       "tags": [
         "clinical-presentation",
         "asymptomatic"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "masld-016",
@@ -961,7 +968,8 @@
         "steatosis",
         "staging",
         "reversible"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "alcohol-liver-disease-002",
@@ -1053,7 +1061,8 @@
         "Mallory-bodies",
         "histology",
         "steatohepatitis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "alcohol-liver-disease-004",
@@ -1099,7 +1108,8 @@
         "mechanism",
         "NAD",
         "steatosis-pathogenesis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "alcohol-liver-disease-005",
@@ -1146,7 +1156,8 @@
         "Maddrey",
         "corticosteroids",
         "management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "alcohol-liver-disease-006",
@@ -1238,7 +1249,8 @@
         "stellate-cells",
         "fibrosis",
         "cirrhosis-pathogenesis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "alcohol-liver-disease-008",
@@ -1468,7 +1480,8 @@
         "abstinence",
         "management",
         "reversibility"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "alcohol-liver-disease-013",
@@ -1514,7 +1527,8 @@
         "AST-ALT-ratio",
         "labs",
         "specificity"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "alcohol-liver-disease-014",
@@ -1930,7 +1944,8 @@
         "CYP2E1",
         "MEOS",
         "enzyme induction"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hepatic-ethanol-metabolism-003",
@@ -2022,7 +2037,8 @@
         "redox",
         "NADH/NAD+",
         "coenzymes"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hepatic-ethanol-metabolism-005",
@@ -2114,7 +2130,8 @@
         "disulfiram",
         "ALDH",
         "aversion therapy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hepatic-ethanol-metabolism-007",
@@ -2160,7 +2177,8 @@
         "hypoglycemia",
         "gluconeogenesis",
         "redox"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hepatic-ethanol-metabolism-008",
@@ -2344,7 +2362,8 @@
         "acetaldehyde",
         "VLDL",
         "microtubules"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hepatic-ethanol-metabolism-012",
@@ -2436,7 +2455,8 @@
         "lactic acidosis",
         "ketoacidosis",
         "anion gap"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hepatic-ethanol-metabolism-014",
@@ -2712,7 +2732,8 @@
         "steatosis",
         "mechanisms",
         "fatty liver"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hepatic-ethanol-metabolism-020",
@@ -2804,7 +2825,8 @@
         "wilson",
         "genetics",
         "ATP7B"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "inherited-metabolic-liver-002",
@@ -2851,7 +2873,8 @@
         "ceruloplasmin",
         "copper",
         "diagnosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "inherited-metabolic-liver-003",
@@ -2897,7 +2920,8 @@
         "wilson",
         "kayser-fleischer",
         "cornea"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "inherited-metabolic-liver-004",
@@ -3037,7 +3061,8 @@
         "hemochromatosis",
         "phlebotomy",
         "treatment"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "inherited-metabolic-liver-007",
@@ -3131,7 +3156,8 @@
         "iron-studies",
         "TIBC",
         "ferritin"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "inherited-metabolic-liver-009",
@@ -3177,7 +3203,8 @@
         "hemochromatosis",
         "bronze-diabetes",
         "clinical"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "inherited-metabolic-liver-010",
@@ -3224,7 +3251,8 @@
         "PiZZ",
         "PAS-globules",
         "pathogenesis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "inherited-metabolic-liver-011",
@@ -3785,7 +3813,8 @@
         "varices",
         "portosystemic-shunt",
         "anatomy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cirrhosis-portal-hypertension-003",
@@ -3831,7 +3860,8 @@
         "ascites",
         "SAAG",
         "diagnosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cirrhosis-portal-hypertension-004",
@@ -3923,7 +3953,8 @@
         "encephalopathy",
         "ammonia",
         "asterixis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cirrhosis-portal-hypertension-006",
@@ -3969,7 +4000,8 @@
         "encephalopathy",
         "lactulose",
         "management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cirrhosis-portal-hypertension-007",
@@ -4107,7 +4139,8 @@
         "thrombocytopenia",
         "splenomegaly",
         "portal-hypertension"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cirrhosis-portal-hypertension-010",
@@ -4199,7 +4232,8 @@
         "ascites",
         "diuretics",
         "management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cirrhosis-portal-hypertension-012",
@@ -4383,7 +4417,8 @@
         "stigmata",
         "estrogen",
         "clinical-signs"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "cirrhosis-portal-hypertension-016",

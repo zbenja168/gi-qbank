@@ -46,7 +46,8 @@
         "acute pancreatitis",
         "diagnosis",
         "lipase"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "pancreatitis-002",
@@ -92,7 +93,8 @@
         "acute pancreatitis",
         "etiology",
         "gallstones"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "pancreatitis-003",
@@ -138,7 +140,8 @@
         "acute pancreatitis",
         "pathophysiology",
         "cathepsin B"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "pancreatitis-004",
@@ -276,7 +279,8 @@
         "acute pancreatitis",
         "management",
         "fluids"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "pancreatitis-007",
@@ -506,7 +510,8 @@
         "acute pancreatitis",
         "pseudocyst",
         "complications"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "pancreatitis-012",
@@ -598,7 +603,8 @@
         "chronic pancreatitis",
         "imaging",
         "calcifications"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "pancreatitis-014",
@@ -920,7 +926,8 @@
         "chronic pancreatitis",
         "management",
         "ductal drainage"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "pancreatic-carcinoma-001",
@@ -966,7 +973,8 @@
         "presentation",
         "anatomy",
         "jaundice"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "pancreatic-carcinoma-002",
@@ -1056,7 +1064,8 @@
       "tags": [
         "Trousseau",
         "paraneoplastic"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "pancreatic-carcinoma-004",
@@ -1101,7 +1110,8 @@
       "tags": [
         "histology",
         "desmoplasia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "pancreatic-carcinoma-005",
@@ -1146,7 +1156,8 @@
       "tags": [
         "molecular",
         "KRAS"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "pancreatic-carcinoma-006",
@@ -1282,7 +1293,8 @@
       "tags": [
         "tumor-marker",
         "CA19-9"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "pancreatic-carcinoma-009",
@@ -1372,7 +1384,8 @@
       "tags": [
         "risk-factor",
         "smoking"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "pancreatic-carcinoma-011",
@@ -1554,7 +1567,8 @@
         "management",
         "prognosis",
         "palliative"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "pancreatic-carcinoma-015",

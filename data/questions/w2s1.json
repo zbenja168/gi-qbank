@@ -47,7 +47,8 @@
         "cystic artery",
         "Calot triangle",
         "cholecystectomy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "liver-biliary-pancreas-anatomy-002",
@@ -93,7 +94,8 @@
         "portal triad",
         "hepatoduodenal ligament",
         "Pringle maneuver"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "liver-biliary-pancreas-anatomy-003",
@@ -373,7 +375,8 @@
         "ampulla of Vater",
         "ERCP",
         "major duodenal papilla"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "liver-biliary-pancreas-anatomy-009",
@@ -466,7 +469,8 @@
         "splenic artery",
         "pancreas blood supply",
         "distal pancreatectomy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "liver-biliary-pancreas-anatomy-011",
@@ -513,7 +517,8 @@
         "splenic vein",
         "superior mesenteric vein",
         "portal hypertension"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "liver-biliary-pancreas-anatomy-012",
@@ -701,7 +706,8 @@
         "pancreatic secretion",
         "vagus",
         "parasympathetic"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "liver-biliary-pancreas-anatomy-016",
@@ -888,7 +894,8 @@
         "pancreatic head",
         "surgical anatomy",
         "obstructive jaundice"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "liver-biliary-pancreas-anatomy-020",
@@ -982,7 +989,8 @@
         "femoral-vein",
         "vascular-access",
         "NAVEL"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "femoral-inguinal-anatomy-002",
@@ -1123,7 +1131,8 @@
         "deep-ring",
         "inferior-epigastric",
         "pediatric"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "femoral-inguinal-anatomy-005",
@@ -1215,7 +1224,8 @@
         "abdominal-wall",
         "external-oblique",
         "muscle-fibers"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "femoral-inguinal-anatomy-007",
@@ -1262,7 +1272,8 @@
         "femoral-canal",
         "femoral-vein",
         "females"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "femoral-inguinal-anatomy-008",
@@ -1309,7 +1320,8 @@
         "direct-hernia",
         "borders",
         "inferior-epigastric"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "femoral-inguinal-anatomy-009",
@@ -1448,7 +1460,8 @@
         "direct-inguinal-hernia",
         "hesselbach-triangle",
         "inferior-epigastric"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "femoral-inguinal-anatomy-012",
@@ -1494,7 +1507,8 @@
         "rectus-sheath",
         "arcuate-line",
         "aponeuroses"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "femoral-inguinal-anatomy-013",
@@ -1961,7 +1975,8 @@
         "islet",
         "beta cell",
         "diabetes"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "histology-accessory-organs-003",
@@ -2007,7 +2022,8 @@
         "liver",
         "portal triad",
         "lobule"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "histology-accessory-organs-004",
@@ -2189,7 +2205,8 @@
         "liver",
         "Kupffer cell",
         "sinusoid"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "histology-accessory-organs-008",
@@ -2280,7 +2297,8 @@
         "pancreas",
         "parotid",
         "comparison"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "histology-accessory-organs-010",
@@ -2418,7 +2436,8 @@
         "liver",
         "zone 3",
         "ischemia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "histology-accessory-organs-013",
@@ -2554,7 +2573,8 @@
         "gallbladder",
         "concentration",
         "absorption"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "histology-accessory-organs-016",
@@ -2646,7 +2666,8 @@
         "liver",
         "stellate cell",
         "cirrhosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "histology-accessory-organs-018",
@@ -2831,7 +2852,8 @@
         "synthetic-function",
         "ascites",
         "oncotic-pressure"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "liver-function-regeneration-002",
@@ -2879,7 +2901,8 @@
         "albumin",
         "half-life",
         "synthetic-function"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "liver-function-regeneration-003",
@@ -2975,7 +2998,8 @@
         "glutamine",
         "urea-cycle",
         "detoxification"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "liver-function-regeneration-005",
@@ -3023,7 +3047,8 @@
         "CYP450",
         "acetaminophen",
         "NAPQI"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "liver-function-regeneration-006",
@@ -3167,7 +3192,8 @@
         "Kupffer-cells",
         "IL-6",
         "TNF-alpha"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "liver-function-regeneration-009",
@@ -3356,7 +3382,8 @@
         "coagulation-factors",
         "cholestasis",
         "gamma-carboxylation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "liver-function-regeneration-013",
@@ -3685,7 +3712,8 @@
         "regenerative-reserve",
         "cirrhosis",
         "decompensation"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "liver-function-regeneration-020",

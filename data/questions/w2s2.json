@@ -138,7 +138,8 @@
         "ALA synthase",
         "vitamin B6",
         "sideroblastic anemia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "porphyrins-iron-homeostasis-004",
@@ -184,7 +185,8 @@
         "heme regulation",
         "feedback inhibition",
         "ALAS1"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "porphyrins-iron-homeostasis-005",
@@ -230,7 +232,8 @@
         "lead poisoning",
         "ALA dehydratase",
         "ferrochelatase"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "porphyrins-iron-homeostasis-006",
@@ -552,7 +555,8 @@
         "conjugation",
         "UDPGT",
         "hepatocyte"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "porphyrins-iron-homeostasis-013",
@@ -598,7 +602,8 @@
         "Gilbert syndrome",
         "unconjugated hyperbilirubinemia",
         "UGT1A1"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "porphyrins-iron-homeostasis-014",
@@ -782,7 +787,8 @@
         "phototherapy",
         "neonatal jaundice",
         "bilirubin isomerization"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "porphyrins-iron-homeostasis-018",
@@ -828,7 +834,8 @@
         "kernicterus",
         "unconjugated bilirubin",
         "blood-brain barrier"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "porphyrins-iron-homeostasis-019",
@@ -967,7 +974,8 @@
         "portal-vein-thrombosis",
         "HABR",
         "physiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "benign-liver-disease-002",
@@ -1014,7 +1022,8 @@
         "budd-chiari",
         "caudate-lobe",
         "imaging"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "benign-liver-disease-003",
@@ -1108,7 +1117,8 @@
         "ischemic-hepatitis",
         "shock-liver",
         "LFT-pattern"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "benign-liver-disease-005",
@@ -1155,7 +1165,8 @@
         "autoimmune-hepatitis",
         "interface-hepatitis",
         "histology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "benign-liver-disease-006",
@@ -1202,7 +1213,8 @@
         "PBC",
         "AMA",
         "cholestasis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "benign-liver-disease-007",
@@ -1249,7 +1261,8 @@
         "PSC",
         "MRCP",
         "IBD"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "benign-liver-disease-008",
@@ -1296,7 +1309,8 @@
         "acetaminophen",
         "NAPQI",
         "zone-3"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "benign-liver-disease-009",

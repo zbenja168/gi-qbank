@@ -39,7 +39,8 @@
           "C": "The proximal jejunum is likewise sparse, containing fewer than 10^4 organisms/mL.",
           "D": "The distal ileum reaches only about 10^7 to 10^8 organisms/mL, well below the colon."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "normal-gi-flora-002",
@@ -78,7 +79,8 @@
           "D": "Vitamin C is dietary and plays no role in clotting factor carboxylation.",
           "E": "Vitamin D comes from skin synthesis and diet, not gut flora, and is unrelated to clotting factor carboxylation."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "normal-gi-flora-003",
@@ -156,7 +158,8 @@
           "C": "Gastric acidification is a host secretory function, not a protective action of flora.",
           "D": "Bile salt conjugation occurs in the liver and is unrelated to this protective mechanism."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "normal-gi-flora-005",
@@ -195,7 +198,8 @@
           "D": "Bacteroides fragilis is an anaerobe of the colon and appendix, not the classic biliary isolate.",
           "E": "Lactobacillus is a beneficial gram-positive organism, not a cause of biliary infection."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "normal-gi-flora-006",
@@ -312,7 +316,8 @@
           "D": "IgE mediates allergic and antiparasitic responses, not mucosal immune exclusion.",
           "E": "IgD is a B-cell surface receptor with no role in mucosal immune exclusion."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "normal-gi-flora-009",
@@ -624,7 +629,8 @@
           "D": "Dysbiosis is an imbalance of flora, not simply stable asymptomatic colonization.",
           "E": "Sepsis is a systemic inflammatory response to infection, not asymptomatic colonization."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "normal-gi-flora-017",
@@ -780,7 +786,8 @@
           "D": "Bacteroides is one of the species eliminated by the antibiotic, not the overgrowing organism.",
           "E": "Lactobacillus is also eliminated by broad-spectrum antibiotics rather than overgrowing."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gi-mucosal-immunity-and-immune-failures-001",
@@ -819,7 +826,8 @@
           "C": "Intraepithelial lymphocytes are individual CD8+ T cells within the epithelial layer, not follicular structures.",
           "E": "Crypts of Lieberkuhn house stem and Paneth cells but are not lymphoid follicles that initiate adaptive responses."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gi-mucosal-immunity-and-immune-failures-002",
@@ -975,7 +983,8 @@
           "D": "Opsonization for neutrophils is not the primary luminal action of sIgA described.",
           "E": "sIgA acts in the intestinal lumen against microbes, not to neutralize gastric acid."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gi-mucosal-immunity-and-immune-failures-006",
@@ -1131,7 +1140,8 @@
           "D": "Gastric acidification is an innate host barrier, not a function of the commensal flora.",
           "E": "Tight junction formation is an epithelial property, not provided by the microbiota."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gi-mucosal-immunity-and-immune-failures-010",
@@ -1170,7 +1180,8 @@
           "D": "IL-17 and TNF-alpha are pro-inflammatory effectors, not Treg inducers.",
           "E": "Histamine and leukotriene B4 are inflammatory mediators, not the Treg-inducing signals described."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gi-mucosal-immunity-and-immune-failures-011",
@@ -1209,7 +1220,8 @@
           "D": "Albumin is a serum/food protein not implicated in celiac pathogenesis here.",
           "E": "Fructose malabsorption is a carbohydrate issue, not immune loss of tolerance to gliadin."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gi-mucosal-immunity-and-immune-failures-012",
@@ -1248,7 +1260,8 @@
           "D": "Continuous ulceration with crypt abscesses beginning in the rectum describes ulcerative colitis, not celiac disease.",
           "E": "Goblet cell hyperplasia with mucus plugging is not the described celiac histology."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gi-mucosal-immunity-and-immune-failures-013",
@@ -1287,7 +1300,8 @@
           "D": "Pseudomembranous colitis follows antibiotics and shows pseudomembranes, not granulomas.",
           "E": "Tropical sprue is a malabsorptive small-bowel disorder, not transmural granulomatous disease."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gi-mucosal-immunity-and-immune-failures-014",
@@ -1599,7 +1613,8 @@
           "D": "Tissue penetration is not the trade-off the brick attributes to broad-spectrum use.",
           "E": "Speed of effect is not listed among the drawbacks of broad coverage."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "antibiotic-spectrum-for-gi-infections-002",
@@ -1677,7 +1692,8 @@
           "C": "Ampicillin is the drug of choice for Listeria, not for resistant Campylobacter.",
           "E": "Metronidazole targets anaerobes and C. difficile, not Campylobacter enteritis."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "antibiotic-spectrum-for-gi-infections-004",
@@ -1755,7 +1771,8 @@
           "C": "Fluoroquinolones do not treat CDI and can precipitate it.",
           "E": "Ceftriaxone does not treat CDI and broad cephalosporin use is a risk factor for it."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "antibiotic-spectrum-for-gi-infections-006",
@@ -1872,7 +1889,8 @@
           "D": "Staphylococcus and Streptococcus are not the specific organisms the brick highlights as cephalosporin gaps.",
           "E": "Clostridioides and Bacillus are not the pair the brick identifies for altered penicillin-binding proteins."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "antibiotic-spectrum-for-gi-infections-009",
@@ -1911,7 +1929,8 @@
           "D": "Immediate allergic reactions are not the brick's stated reason to avoid antibiotics in STEC.",
           "E": "Resistance selection is a general concern but not the specific STEC reasoning about toxin release and HUS."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "antibiotic-spectrum-for-gi-infections-010",
@@ -1989,7 +2008,8 @@
           "C": "Gentamicin is an aminoglycoside with gram-negative activity and no anaerobic coverage.",
           "D": "Ceftriaxone provides gram-negative coverage but not the anaerobic activity needed."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "antibiotic-spectrum-for-gi-infections-012",
@@ -2028,7 +2048,8 @@
           "D": "Cefazolin is a first-generation cephalosporin with narrow, mainly gram-positive coverage.",
           "E": "Doxycycline does not provide the dual gram-negative/anaerobic empiric coverage needed."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "antibiotic-spectrum-for-gi-infections-013",

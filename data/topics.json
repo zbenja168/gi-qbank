@@ -7,27 +7,37 @@
         {
           "id": "gi-foundations-overview",
           "name": "GI System: Foundations and Overview",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "histology-gi-tract",
           "name": "Histology of the Gastrointestinal Tract",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "oral-region-anatomy",
           "name": "Gross Anatomy and Histology of the Oral Region",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "gi-blood-supply-innervation",
           "name": "GI Blood Supply and Innervation",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "gi-tract-anatomy",
           "name": "Anatomy of the Gastrointestinal Tract",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         }
       ],
       "week": 1,
@@ -41,22 +51,30 @@
         {
           "id": "gi-development",
           "name": "Development of the Gastrointestinal System",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "gi-congenital-disorders",
           "name": "Congenital Disorders of the GI Tract",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "oral-dysbiosis",
           "name": "Oral Dysbiosis: Microflora and Clinical Pathologies",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "sjogren-syndrome",
           "name": "Sjögren Syndrome",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         }
       ],
       "week": 1,
@@ -70,22 +88,30 @@
         {
           "id": "benign-esophageal-disorders",
           "name": "Benign Esophageal Disorders: GERD, Esophagitis, and Structural Disorders",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "peptic-ulcer-gastritis",
           "name": "Peptic Ulcer Disease and Gastritis",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "upper-gi-neoplasms",
           "name": "Oral, Salivary Gland, and Esophageal Neoplasms",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "gastric-neoplasms",
           "name": "Gastric Neoplasms",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         }
       ],
       "week": 1,
@@ -99,22 +125,30 @@
         {
           "id": "liver-biliary-pancreas-anatomy",
           "name": "Anatomy of the Liver, Biliary System, and Exocrine Pancreas",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "femoral-inguinal-anatomy",
           "name": "Anatomy of the Femoral and Inguinal Regions",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "histology-accessory-organs",
           "name": "Histology of the Accessory Digestive Organs",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "liver-function-regeneration",
           "name": "Liver Function and Regeneration",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         }
       ],
       "week": 2,
@@ -128,12 +162,16 @@
         {
           "id": "porphyrins-iron-homeostasis",
           "name": "Porphyrins and Iron Homeostasis",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "benign-liver-disease",
           "name": "Benign Liver Disease",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         }
       ],
       "week": 2,
@@ -147,27 +185,37 @@
         {
           "id": "masld",
           "name": "Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD)",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "alcohol-liver-disease",
           "name": "Alcohol-Associated Liver Disease",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "hepatic-ethanol-metabolism",
           "name": "Hepatic Ethanol Metabolism",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "inherited-metabolic-liver",
           "name": "Inherited Metabolic Liver Diseases (Wilson, Hemochromatosis, A1AT)",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "cirrhosis-portal-hypertension",
           "name": "Cirrhosis and Portal Hypertension",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         }
       ],
       "week": 2,
@@ -181,17 +229,23 @@
         {
           "id": "viral-hepatitis-clinical",
           "name": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison",
-          "questionCount": 22
+          "questionCount": 22,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "hepatic-abscesses-flukes",
           "name": "Infectious Hepatic Abscesses and Flukes",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "hepatitis-bc-drugs",
           "name": "Drugs to Treat Hepatitis B and C Infections",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         }
       ],
       "week": 3,
@@ -205,17 +259,23 @@
         {
           "id": "biliary-noninfectious",
           "name": "Noninfectious Disorders of the Biliary System",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "hepatobiliary-neoplasms",
           "name": "Hepatic and Biliary Neoplasms",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "peritonitis",
           "name": "Peritonitis",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         }
       ],
       "week": 3,
@@ -229,12 +289,16 @@
         {
           "id": "pancreatitis",
           "name": "Acute and Chronic Pancreatitis",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "pancreatic-carcinoma",
           "name": "Pancreatic Carcinoma",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         }
       ],
       "week": 3,
@@ -248,17 +312,23 @@
         {
           "id": "digestive-motility",
           "name": "Digestive Motility",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "neural-control-of-the-gi-system-enteric-nervous-system",
           "name": "Neural Control of the GI System (Enteric Nervous System)",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "gastric-secretion-and-the-parietal-cell",
           "name": "Gastric Secretion and the Parietal Cell",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         }
       ],
       "week": 4,
@@ -272,22 +342,30 @@
         {
           "id": "gi-hormones-the-intestinal-phase-of-digestion",
           "name": "GI Hormones & the Intestinal Phase of Digestion",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "exocrine-functions-of-the-gi-system",
           "name": "Exocrine Functions of the GI System",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "gastrointestinal-motility-disorders",
           "name": "Gastrointestinal Motility Disorders",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "laxatives-and-antidiarrheals",
           "name": "Laxatives and Antidiarrheals",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         }
       ],
       "week": 4,
@@ -301,12 +379,16 @@
         {
           "id": "luminal-fat-digestion-and-absorption",
           "name": "Luminal Fat Digestion and Absorption",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "intestinal-nutrient-transporter-mechanisms",
           "name": "Intestinal Nutrient Transporter Mechanisms",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         }
       ],
       "week": 4,
@@ -320,17 +402,23 @@
         {
           "id": "normal-gi-flora",
           "name": "Normal GI Flora",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "gi-mucosal-immunity-and-immune-failures",
           "name": "GI Mucosal Immunity and Immune Failures",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "antibiotic-spectrum-for-gi-infections",
           "name": "Antibiotic Spectrum for GI Infections",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         }
       ],
       "week": 5,
@@ -344,17 +432,23 @@
         {
           "id": "bacterial-infectious-diarrhea",
           "name": "Bacterial Infectious Diarrhea",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes",
           "name": "Infectious Diarrhea: Invasive Bacterial and Viral Causes",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "key-gi-parasites-and-amoebas",
           "name": "Key GI Parasites and Amoebas",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         }
       ],
       "week": 5,
@@ -368,17 +462,23 @@
         {
           "id": "inflammatory-bowel-disease",
           "name": "Inflammatory Bowel Disease",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "pharmacologic-agents-for-inflammatory-bowel-disease",
           "name": "Pharmacologic Agents for Inflammatory Bowel Disease",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "traumatic-and-mechanical-gi-injuries",
           "name": "Traumatic and Mechanical GI Injuries",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         }
       ],
       "week": 5,
@@ -392,47 +492,65 @@
         {
           "id": "small-intestine-disorders",
           "name": "Small Intestine Disorders",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "appendicitis",
           "name": "Appendicitis",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "colon-disorders",
           "name": "Colon Disorders",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "gi-obstruction",
           "name": "Gastrointestinal Obstruction",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "intestinal-polyps",
           "name": "Intestinal Polyps",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "hereditary-colon-cancer",
           "name": "Hereditary Colon Cancer Syndromes",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "colorectal-cancer-carcinoid",
           "name": "Colorectal Cancer and Carcinoid Tumors",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "congenital-abdominal-wall-defects",
           "name": "Congenital Abdominal Wall Defects",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 6,
+          "hyCoreCount": 6
         },
         {
           "id": "hernias-types-management",
           "name": "Hernias: Types, Risk Factors and Management",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         }
       ],
       "week": 6,
@@ -446,27 +564,37 @@
         {
           "id": "anorectal-anatomy-hemorrhoids",
           "name": "Anorectal Anatomy and Hemorrhoids",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "anal-fissure-abscess-fistula",
           "name": "Anal Fissure, Abscess and Fistula-in-Ano",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 7,
+          "hyCoreCount": 7
         },
         {
           "id": "proctitis-pruritus-ani",
           "name": "Proctitis and Pruritus Ani",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 6,
+          "hyCoreCount": 6
         },
         {
           "id": "colonic-absorption-motility",
           "name": "Colonic Structure, Absorption and Motility",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 6,
+          "hyCoreCount": 6
         },
         {
           "id": "defecation-continence",
           "name": "Defecation and Continence",
-          "questionCount": 20
+          "questionCount": 20,
+          "hyCount": 5,
+          "hyCoreCount": 5
         }
       ],
       "week": 6,

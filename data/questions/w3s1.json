@@ -195,7 +195,8 @@
           "D": "HDV can only infect with HBV present, and nothing here indicates HBV coinfection.",
           "E": "CMV hepatitis occurs mainly in immunocompromised or perinatal settings, not after ingesting contaminated water in a healthy traveler."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "viral-hepatitis-clinical-006",
@@ -312,7 +313,8 @@
           "C": "HEV replicates independently and does not require HBV; it is notable for severity in pregnancy.",
           "E": "EBV causes mononucleosis and can involve the liver but does not require HBV to replicate."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "viral-hepatitis-clinical-009",
@@ -468,7 +470,8 @@
           "D": "HCV is bloodborne and tends to be chronic; it is not the classic pregnancy-associated fulminant hepatitis.",
           "E": "HDV requires HBV and is not the fecal–oral pregnancy-associated virus; the traveler's exposure fits HEV."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "viral-hepatitis-clinical-013",
@@ -546,7 +549,8 @@
           "D": "Resolved infection shows anti-HBs positive and anti-HBc IgG positive; here anti-HBs is negative and the core antibody is IgM.",
           "E": "The pattern is a classic window period, not a spurious result to ignore."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "viral-hepatitis-clinical-015",
@@ -624,7 +628,8 @@
           "D": "HBsAg tests for hepatitis B, not for active hepatitis C.",
           "E": "Biopsy assesses disease severity, not whether active HCV infection is present; RNA testing answers that."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "viral-hepatitis-clinical-017",
@@ -741,7 +746,8 @@
           "D": "Serum sickness–like syndrome is a hepatitis B–associated presentation, not the cryoglobulinemic vasculitis of HCV.",
           "E": "Porphyria cutanea tarda is an HCV-associated skin finding but does not explain cold-precipitating immunoglobulins with vasculitis and glomerulonephritis."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "viral-hepatitis-clinical-020",
@@ -819,7 +825,8 @@
           "C": "Direct-acting antivirals treat hepatitis C; HCV serologies are negative in this patient.",
           "D": "Ribavirin plus interferon is an older hepatitis C regimen, not a treatment for autoimmune hepatitis."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "viral-hepatitis-clinical-022",
@@ -904,7 +911,8 @@
         "amebic",
         "travel",
         "diagnosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hepatic-abscesses-flukes-002",
@@ -950,7 +958,8 @@
         "pyogenic",
         "cholangitis",
         "epidemiology"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hepatic-abscesses-flukes-003",
@@ -995,7 +1004,8 @@
       "tags": [
         "labs",
         "diagnosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hepatic-abscesses-flukes-004",
@@ -1041,7 +1051,8 @@
         "pyogenic",
         "management",
         "drainage"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hepatic-abscesses-flukes-005",
@@ -1086,7 +1097,8 @@
       "tags": [
         "amebic",
         "treatment"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hepatic-abscesses-flukes-006",
@@ -1178,7 +1190,8 @@
         "fluke",
         "clonorchis",
         "cholangiocarcinoma"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hepatic-abscesses-flukes-008",
@@ -1592,7 +1605,8 @@
         "amebic",
         "pyogenic",
         "comparison"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hepatic-abscesses-flukes-017",
@@ -1822,7 +1836,8 @@
         "DAA",
         "treatment-goals",
         "SVR"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hepatitis-bc-drugs-002",
@@ -1869,7 +1884,8 @@
         "NS5B",
         "sofosbuvir",
         "nomenclature"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hepatitis-bc-drugs-003",
@@ -1915,7 +1931,8 @@
         "ribavirin",
         "adverse-effect",
         "hemolytic-anemia"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hepatitis-bc-drugs-004",
@@ -2009,7 +2026,8 @@
         "chain-termination",
         "mechanism",
         "HBV"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hepatitis-bc-drugs-006",
@@ -2197,7 +2215,8 @@
         "ledipasvir",
         "daclatasvir",
         "mechanism"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hepatitis-bc-drugs-010",
@@ -2244,7 +2263,8 @@
         "HBV",
         "HCV",
         "co-infection"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hepatitis-bc-drugs-011",
@@ -2291,7 +2311,8 @@
         "adverse-effect",
         "edema",
         "HBV"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hepatitis-bc-drugs-012",

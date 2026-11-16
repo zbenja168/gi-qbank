@@ -39,7 +39,8 @@
           "D": "Lipid uptake across the brush border is by diffusion and transporters (FATP4, CD36), not bile salts.",
           "E": "Re-esterification occurs intracellularly via acyltransferases, unrelated to bile salt function."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "luminal-fat-digestion-and-absorption-002",
@@ -78,7 +79,8 @@
           "D": "Enteropeptidase activates trypsinogen; it plays no role at the lipid interface.",
           "E": "Secretin stimulates bicarbonate secretion, not lipase anchoring."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "luminal-fat-digestion-and-absorption-003",
@@ -156,7 +158,8 @@
           "D": "B12 is water-soluble; its deficiency causes megaloblastic anemia, not coagulopathy.",
           "E": "Folate deficiency causes megaloblastic anemia, not a prolonged prothrombin time."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "luminal-fat-digestion-and-absorption-005",
@@ -195,7 +198,8 @@
           "C": "ApoB-100 is the hepatic isoform used for VLDL/LDL, not intestinal chylomicrons.",
           "D": "ApoE mediates receptor clearance later but is not required for assembly."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "luminal-fat-digestion-and-absorption-006",
@@ -234,7 +238,8 @@
           "D": "Portal pressure does not selectively exclude chylomicrons; size is the barrier.",
           "E": "Carrying vitamins is unrelated to which vessel a particle can physically enter."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "luminal-fat-digestion-and-absorption-007",
@@ -312,7 +317,8 @@
           "C": "Cholesterol absorption declines, not improves, with bile salt depletion.",
           "E": "Portal hypertension with ascites is a hepatic/vascular problem unrelated to ileal bile salt handling."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "luminal-fat-digestion-and-absorption-009",
@@ -663,7 +669,8 @@
           "C": "Crohn disease affects the bowel wall but does not cause this apoB-loading defect.",
           "E": "Chronic pancreatitis causes enzyme deficiency, not markedly reduced LDL with acanthocytes."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "luminal-fat-digestion-and-absorption-018",
@@ -819,7 +826,8 @@
           "D": "PepT1 is the H+-coupled di- and tripeptide transporter, not a sugar transporter.",
           "E": "Na+/K+-ATPase is the basolateral pump that maintains the Na+ gradient but does not itself transport glucose."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "intestinal-nutrient-transporter-mechanisms-002",
@@ -1014,7 +1022,8 @@
           "D": "GLUT2 exports sugars at the basolateral membrane.",
           "E": "DRA is the Cl-/HCO3- exchanger, unrelated to peptide uptake."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "intestinal-nutrient-transporter-mechanisms-007",
@@ -1248,7 +1257,8 @@
           "D": "Increased potassium reabsorption is not the mechanism of the fluid loss.",
           "E": "Bicarbonate retention does not explain the secretory fluid loss."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "intestinal-nutrient-transporter-mechanisms-013",
@@ -1287,7 +1297,8 @@
           "C": "CFTR secretes chloride; it does not reabsorb it.",
           "D": "NHE3 is inhibited by cAMP in cholera, not upregulated."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "intestinal-nutrient-transporter-mechanisms-014",
@@ -1365,7 +1376,8 @@
           "C": "Vitamin E deficiency causes hemolytic anemia and neuropathy.",
           "E": "Vitamin B12 is water-soluble and not affected by cholestatic fat malabsorption."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "intestinal-nutrient-transporter-mechanisms-016",
@@ -1443,7 +1455,8 @@
           "D": "The stomach is where intrinsic factor is secreted, not where B12 is absorbed.",
           "E": "The colon has no role in B12 absorption."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "intestinal-nutrient-transporter-mechanisms-018",
@@ -1560,7 +1573,8 @@
           "D": "Iron oxidation during export is performed by hephaestin, not hepcidin.",
           "E": "Ferroportin is not a sodium-coupled transporter."
         }
-      }
+      },
+      "hy": true
     }
   ]
 }

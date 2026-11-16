@@ -40,7 +40,8 @@
           "D": "Mesenteric adenitis is a disorder of children with right lower quadrant pain following a viral illness and is not a neonatal disease.",
           "E": "Superior mesenteric artery syndrome follows rapid weight loss and causes postprandial epigastric pain with bilious vomiting from duodenal compression, not bloody stools or pneumatosis."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "small-intestine-disorders-002",
@@ -240,7 +241,8 @@
           "D": "Correct. Sudden severe pain out of proportion to a soft abdomen in a patient with atrial fibrillation is acute mesenteric ischemia.",
           "E": "Adult intussusception is uncommon, requires a pathologic lead point, and would present with obstructive symptoms rather than abrupt pain out of proportion to exam."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "small-intestine-disorders-007",
@@ -320,7 +322,8 @@
           "D": "Mesenteric venous thrombosis occurs in hypercoagulable states; no such history is given, and atrial fibrillation points to an arterial embolic source.",
           "E": "The celiac artery supplies foregut structures; its occlusion would not produce isolated jejunal and ileal ischemia."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "small-intestine-disorders-009",
@@ -360,7 +363,8 @@
           "D": "Intussusception is a mechanical telescoping of bowel and is not caused by shock or vasopressors.",
           "E": "Correct. Shock and vasopressor-induced vasoconstriction produce non-occlusive mesenteric ischemia with patent major vessels."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "small-intestine-disorders-010",
@@ -560,7 +564,8 @@
           "D": "Mesenteric adenitis causes right lower quadrant pain and fever after a viral illness in older children, without a sausage-shaped mass or currant jelly stool.",
           "E": "Appendicitis peaks in the second and third decades and would cause pain migrating to the right lower quadrant with localized tenderness rather than episodic colic with a palpable mass."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "small-intestine-disorders-015",
@@ -600,7 +605,8 @@
           "D": "Correct. The target (donut) sign of concentric rings is the sonographic finding of intussusception.",
           "E": "Colonic wall thickening with pericolonic fat stranding describes ischemic colitis in elderly patients."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "small-intestine-disorders-016",
@@ -720,7 +726,8 @@
           "D": "Necrotizing enterocolitis occurs in preterm neonates, not in school-age children.",
           "E": "Correct. Enlarged mesenteric nodes with a normal appendix after a viral upper respiratory infection, with shifting tenderness and relative lymphocytosis, is mesenteric adenitis."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "small-intestine-disorders-019",
@@ -840,7 +847,8 @@
           "D": "Correct: periumbilical pain migrating to McBurney's point with anorexia after pain onset and mild leukocytosis with left shift is the classic appendicitis picture.",
           "E": "Intussusception peaks at 5 to 9 months of age with colicky pain, currant jelly stool, and a sausage-shaped mass; in adults it is uncommon and requires a pathologic lead point."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "appendicitis-002",
@@ -880,7 +888,8 @@
           "D": "Herniation of mucosa and submucosa through the muscular layer at sites of vasa recta penetration describes colonic pseudodiverticula.",
           "E": "Transient hypoperfusion of watershed segments describes ischemic colitis, which affects the splenic flexure and rectosigmoid junction in the elderly."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "appendicitis-003",
@@ -920,7 +929,8 @@
           "D": "T12 lies below the umbilicus and does not account for periumbilical referral of midgut visceral pain.",
           "E": "L2 is well below the umbilical dermatome and does not receive the midgut visceral afferents responsible for this pain."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "appendicitis-004",
@@ -960,7 +970,8 @@
           "D": "Mesenteric adenitis characteristically produces less localized tenderness and fewer peritoneal signs, not a positional sign referable to the psoas muscle.",
           "E": "An appendicolith is an obstructing cause identified on imaging and cannot be inferred from a hip extension maneuver."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "appendicitis-005",
@@ -1120,7 +1131,8 @@
           "D": "CT angiography is the test of choice for acute mesenteric ischemia, not appendicitis.",
           "E": "Colonoscopy is used to assess colonic mucosa and the level of colonic obstruction, not acute appendicitis."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "appendicitis-009",
@@ -1160,7 +1172,8 @@
           "D": "CT angiography is the diagnostic test of choice for acute mesenteric ischemia.",
           "E": "Correct: CT of the abdomen is the imaging procedure of choice for suspected appendicitis."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "appendicitis-010",
@@ -1480,7 +1493,8 @@
           "D": "Necrotizing enterocolitis occurs in preterm neonates in the first weeks of life, not in school-age children.",
           "E": "Ischemic colitis predominantly affects the elderly and causes abdominal pain followed by hematochezia."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "appendicitis-018",
@@ -1640,7 +1654,8 @@
           "D": "Sigmoid volvulus presents with obstruction, abdominal distension, and obstipation with a dilated coffee bean shaped loop, not focal inflammation of a diverticula-bearing segment.",
           "E": "Colorectal carcinoma causes insidious obstruction with distension and obstipation rather than acute fever and focal pericolic inflammation over 2 days."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "colon-disorders-002",
@@ -1720,7 +1735,8 @@
           "D": "The submucosa herniates, but it does so together with the mucosa and through, not with, the muscularis propria.",
           "E": "Correct. Colonic pseudodiverticula are composed of mucosa and submucosa that herniate through the muscular layer."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "colon-disorders-004",
@@ -1760,7 +1776,8 @@
           "D": "Where the longitudinal muscle layer is complete, as in the rectum, diverticula do not form at all.",
           "E": "The pouches are related to the vascular penetration points rather than to the mesocolic insertion line itself."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "colon-disorders-005",
@@ -1840,7 +1857,8 @@
           "D": "Correct. Painless brisk hematochezia with a clot at a diverticular orifice reflects arterial rupture at the neck of the diverticulum.",
           "E": "Volvulus produces closed-loop obstruction with distension and obstipation, not isolated painless hematochezia with an otherwise normal colon."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "colon-disorders-007",
@@ -1920,7 +1938,8 @@
           "D": "The mid transverse colon is not the typical location of these vascular lesions.",
           "E": "Correct. Angiodysplasias are most commonly located in the cecum and right colon."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "colon-disorders-009",
@@ -2160,7 +2179,8 @@
           "D": "Nasogastric decompression is used in bowel obstruction and does not address an abscess.",
           "E": "Correct. A diverticular abscess is complicated disease and is managed with drainage in addition to antibiotics."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "colon-disorders-015",
@@ -2240,7 +2260,8 @@
           "D": "Correct. The splenic flexure is a classic watershed area involved in ischemic colitis.",
           "E": "The jejunum and ileum are the territory affected by acute mesenteric ischemia, which distinguishes it from ischemic colitis."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "colon-disorders-017",
@@ -2480,7 +2501,8 @@
           "D": "Twisting of the sigmoid around its mesentery is volvulus, a closed-loop colonic obstruction causing distension and obstipation.",
           "E": "An adhesive band causes small bowel obstruction and requires prior abdominal surgery; it does not explain the CT finding of a narrowed aortomesenteric angle."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gi-obstruction-003",
@@ -2640,7 +2662,8 @@
           "D": "Colorectal cancer causes colonic obstruction with a dilated colon; here all dilated bowel is small intestine and no colonic gas is present.",
           "E": "Adult intussusception is uncommon and requires a pathologic lead point such as a polyp or tumor; nothing here suggests one."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gi-obstruction-007",
@@ -2800,7 +2823,8 @@
           "D": "Feeding an obstructed patient worsens proximal accumulation of gas and fluid and increases vomiting and aspiration risk.",
           "E": "Correct: bowel rest, nasogastric decompression, and intravenous fluids resolve most adhesive obstructions."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gi-obstruction-011",
@@ -2840,7 +2864,8 @@
           "D": "Feeding an obstructed patient with peritoneal signs is unsafe and does not address the surgical emergency.",
           "E": "Colonoscopic decompression addresses sigmoid volvulus and has no role in strangulated small bowel obstruction."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gi-obstruction-012",
@@ -2880,7 +2905,8 @@
           "D": "Correct: pneumobilia, SBO, and an ectopic gallstone constitute Rigler triad of gallstone ileus.",
           "E": "Cecal volvulus is a colonic closed-loop obstruction of younger patients and does not cause biliary air."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gi-obstruction-013",
@@ -2960,7 +2986,8 @@
           "C": "Correct: an obstructing annular lesion of the distal colon in an older adult is most likely adenocarcinoma, the most common cause of colonic obstruction.",
           "E": "Gallstone ileus obstructs the small intestine at the ileocecal valve and is accompanied by pneumobilia and an ectopic stone."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gi-obstruction-015",
@@ -3080,7 +3107,8 @@
           "D": "Correct: the demographics and coffee bean sign pointing to the left lower quadrant indicate sigmoid volvulus.",
           "E": "A diverticular stricture narrows the sigmoid lumen through chronic fibrosis and does not create a massively twisted single loop."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gi-obstruction-018",
@@ -3280,7 +3308,8 @@
           "D": "A tubular adenoma shows dysplastic glands with crowded hyperchromatic nuclei and loss of goblet cells, whereas this polyp contains mature goblet cells without atypia.",
           "E": "A villous adenoma is a dysplastic neoplasm with long finger-like fronds; this lesion has neither villous architecture nor dysplasia."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "intestinal-polyps-003",
@@ -3400,7 +3429,8 @@
           "D": "Correct: pigmented macules plus small intestine predominant hamartomatous polyps in a child indicate Peutz-Jeghers syndrome from an STK11 mutation.",
           "E": "MUTYH mutations cause an autosomal recessive polyposis syndrome with 10 to 100 adenomatous colorectal polyps, not hamartomas with pigmented macules."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "intestinal-polyps-006",
@@ -3520,7 +3550,8 @@
           "D": "Correct: juvenile polyposis syndrome is associated with congenital malformations such as pulmonary arteriovenous malformations.",
           "E": "Sebaceous skin neoplasms are associated with Lynch syndrome, which is a nonpolyposis mismatch repair disorder."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "intestinal-polyps-009",
@@ -3680,7 +3711,8 @@
           "D": "Risk rises with three or more polyps, so a single polyp does not increase risk.",
           "E": "It is high-grade rather than low-grade dysplasia that confers increased malignant potential."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "intestinal-polyps-013",
@@ -3720,7 +3752,8 @@
           "D": "Tubular histology is the lower-risk pattern; it is villous histology that conveys higher malignant risk.",
           "E": "Hyperplastic polyps lack malignant potential entirely."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "intestinal-polyps-014",
@@ -3760,7 +3793,8 @@
           "D": "A Peutz-Jeghers polyp is a hamartoma defined by smooth muscle bundles cutting through the lamina propria beneath a nondysplastic surface.",
           "E": "Correct: irregular crowded glands with hyperchromatic nuclei and loss of goblet cells define an adenomatous polyp."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "intestinal-polyps-015",
@@ -3800,7 +3834,8 @@
           "D": "Correct: full-length crypt serration with crypt dilation and lateral crypt extension in a right-sided sessile polyp defines a sessile serrated polyp.",
           "E": "A villous adenoma is composed of dysplastic villous fronds, whereas this lesion explicitly lacks cytologic dysplasia."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "intestinal-polyps-016",
@@ -4040,7 +4075,8 @@
           "D": "Peutz-Jeghers syndrome causes hamartomatous polyps predominantly in the small intestine along with mucocutaneous hyperpigmentation, neither of which is described.",
           "E": "MUTYH-associated polyposis is autosomal recessive and produces only 10 to 100 polyps, which does not fit an affected father, an affected aunt, and more than 400 polyps."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "hereditary-colon-cancer-002",
@@ -4120,7 +4156,8 @@
           "D": "Sebaceous neoplasms of the skin are among the extracolonic cancers associated with Lynch syndrome.",
           "E": "Epidermoid cysts are an extracolonic feature of Gardner syndrome, not Peutz-Jeghers syndrome."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "hereditary-colon-cancer-004",
@@ -4160,7 +4197,8 @@
           "D": "Sebaceous skin neoplasms are associated with Lynch syndrome and its mismatch repair gene mutations.",
           "E": "Correct: juvenile polyposis syndrome includes congenital malformations such as pulmonary arteriovenous malformations."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "hereditary-colon-cancer-005",
@@ -4240,7 +4278,8 @@
           "D": "SMAD4 mutations cause juvenile polyposis syndrome with hamartomatous polyps presenting in adolescence.",
           "E": "MUTYH-associated polyposis is autosomal recessive and produces 10 to 100 adenomatous polyps, which does not match this dominant-appearing family pattern."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "hereditary-colon-cancer-007",
@@ -4320,7 +4359,8 @@
           "D": "Peutz-Jeghers syndrome produces hamartomatous polyps with mucocutaneous hyperpigmentation, not hundreds of adenomas with osteomas.",
           "E": "Juvenile polyposis syndrome produces hamartomatous polyps and congenital malformations such as pulmonary arteriovenous malformations."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "hereditary-colon-cancer-009",
@@ -4360,7 +4400,8 @@
           "D": "Peutz-Jeghers syndrome causes hamartomatous polyps with mucocutaneous hyperpigmentation, not adenomatous polyposis with a brain tumor.",
           "E": "MUTYH-associated polyposis is an autosomal recessive adenomatous polyposis with gastric and duodenal polyps, osteomas, dental cysts, desmoids, sebaceous tumors, and thyroid cancer, not medulloblastoma."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "hereditary-colon-cancer-010",
@@ -4640,7 +4681,8 @@
           "D": "Pancreatic adenocarcinoma risk is increased in juvenile polyposis syndrome.",
           "E": "Hepatocellular carcinoma is not among the malignancies associated with Lynch syndrome."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "hereditary-colon-cancer-017",
@@ -4840,7 +4882,8 @@
           "D": "Age 55 would delay screening well past the recommended starting age and past the age at which most sporadic colorectal cancers begin to arise.",
           "E": "Age 60 would leave more than a decade of recommended screening undone in an average-risk adult."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "colorectal-cancer-carcinoid-002",
@@ -5120,7 +5163,8 @@
           "D": "Prior cholecystectomy is not a recognized risk factor for colorectal carcinoma.",
           "E": "Gastroesophageal reflux disease is an upper gastrointestinal disorder and is not among the risk factors for colorectal carcinoma."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "colorectal-cancer-carcinoid-009",
@@ -5200,7 +5244,8 @@
           "D": "Inflammatory pseudopolyps arise in inflammatory bowel disease from repeated cycles of injury and healing and are non-neoplastic, so they would not yield invasive adenocarcinoma on biopsy.",
           "E": "Correct. Distal colon carcinomas typically form annular, constricting lesions that narrow the lumen and cause obstructive symptoms."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "colorectal-cancer-carcinoid-011",
@@ -5240,7 +5285,8 @@
           "D": "Polyp shape is relevant to estimating malignant potential of a precursor lesion, not to prognosis after an invasive cancer is resected.",
           "E": "Mucinous differentiation is characteristic of microsatellite-unstable, right-sided tumors, but it is not one of the two dominant prognostic factors."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "colorectal-cancer-carcinoid-012",
@@ -5400,7 +5446,8 @@
           "D": "CT colonography is a screening modality, not a treatment, and offers no therapeutic capability.",
           "E": "Correct. Microsatellite instability tumors respond to immune checkpoint inhibitors."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "colorectal-cancer-carcinoid-016",
@@ -5440,7 +5487,8 @@
           "D": "Carcinoembryonic antigen has low sensitivity and specificity for early-stage disease and should not be used to detect cancer.",
           "E": "Deferring evaluation ignores an abnormal finding; screening schedules apply to asymptomatic patients without evidence of blood loss."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "colorectal-cancer-carcinoid-017",
@@ -5520,7 +5568,8 @@
           "D": "Gastrin is not among the vasoactive substances responsible for carcinoid syndrome.",
           "E": "Somatostatin analogs are used to treat this syndrome; somatostatin excess does not cause flushing and bronchospasm."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "colorectal-cancer-carcinoid-019",
@@ -5640,7 +5689,8 @@
           "D": "Patent urachus presents with urine leaking from the umbilicus, not with herniated abdominal viscera.",
           "E": "An epigastric hernia occurs in the midline between the xiphoid process and the umbilicus and does not present as a neonatal sac-covered mass at the cord insertion."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "congenital-abdominal-wall-defects-002",
@@ -5680,7 +5730,8 @@
           "D": "Correct. Uncovered bowel protruding through a wall defect beside the umbilical cord is the defining presentation of gastroschisis.",
           "E": "Spigelian hernias protrude through the Spigelian fascia at the lateral edge of the rectus muscle and are not a neonatal defect with exposed bowel at the cord."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "congenital-abdominal-wall-defects-003",
@@ -5760,7 +5811,8 @@
           "D": "Urachal patency causes urinary drainage from the umbilicus rather than herniation of abdominal organs.",
           "E": "Correct. Omphalocele occurs when the intestines fail to return into the abdomen by the 10th to 11th week."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "congenital-abdominal-wall-defects-005",
@@ -5800,7 +5852,8 @@
           "D": "Surgical correction is considered if the hernia has not resolved by about age 3, not at 6 months in an asymptomatic infant.",
           "E": "Urgent repair within days applies to incarcerated hernias; this hernia reduces easily and is not tender."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "congenital-abdominal-wall-defects-006",
@@ -5880,7 +5933,8 @@
           "D": "Correct. Heart defects are among the birth defects that frequently accompany omphalocele.",
           "E": "Orofacial clefting is not a recognized association of omphalocele."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "congenital-abdominal-wall-defects-008",
@@ -6240,7 +6294,8 @@
           "D": "Trisomy 16 is not among the abnormalities linked with omphalocele.",
           "E": "47,XXY is not a recognized association of omphalocele."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "congenital-abdominal-wall-defects-017",
@@ -6440,7 +6495,8 @@
           "D": "A Spigelian hernia protrudes at the lateral edge of the rectus abdominis muscle, not in the groin below the inguinal ligament.",
           "E": "An umbilical hernia occurs at the umbilicus, far from the groin."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "hernias-types-management-002",
@@ -6520,7 +6576,8 @@
           "D": "Correct: passage through the internal ring lateral to the inferior epigastric vessels alongside the spermatic cord defines an indirect inguinal hernia.",
           "E": "An epigastric hernia occurs in the midline between the xiphoid process and the umbilicus."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "hernias-types-management-004",
@@ -6560,7 +6617,8 @@
           "D": "The lateral border of the rectus abdominis is the site of a Spigelian hernia, not a groin bulge above the inguinal ligament.",
           "E": "The midline between xiphoid and umbilicus is the site of an epigastric hernia."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "hernias-types-management-005",
@@ -6640,7 +6698,8 @@
           "D": "Correct: signs of strangulation mandate immediate emergency surgical repair.",
           "E": "Delaying reassessment risks bowel necrosis, perforation, and death."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "hernias-types-management-007",
@@ -6760,7 +6819,8 @@
           "D": "Epigastric hernias are less common lesions of the upper midline and are not the highest-risk type described.",
           "E": "Correct: the narrow, rigid femoral canal gives femoral hernias the highest strangulation risk."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "hernias-types-management-010",
@@ -6800,7 +6860,8 @@
           "D": "An epigastric hernia occurs through the midline between xiphoid and umbilicus in the absence of a prior incision.",
           "E": "A direct inguinal hernia occurs in the groin above the inguinal ligament, not along an abdominal scar."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "hernias-types-management-011",
@@ -7200,7 +7261,8 @@
           "D": "Failure of fascial healing at an incision produces an incisional hernia, and this patient has no prior operation.",
           "E": "Correct: a persistent processus vaginalis underlies the indirect inguinal hernia described."
         }
-      }
+      },
+      "hy": true
     }
   ]
 }

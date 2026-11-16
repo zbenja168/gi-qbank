@@ -39,7 +39,8 @@
           "D": "Segmentation waves are rhythmic phasic contractions driven by discrete electrical events, the opposite of sustained tonic tone.",
           "E": "Accelerating gastric emptying requires phasic antral contractions; tonic sphincter tone actually restrains flow."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "digestive-motility-002",
@@ -156,7 +157,8 @@
           "D": "A peptic stricture from reflux causes mechanical narrowing but not the incomplete relaxation/elevated pressure pattern of loss of inhibitory neurons.",
           "E": "Pyloric hypertrophy affects gastric outlet, not lower esophageal sphincter relaxation."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "digestive-motility-005",
@@ -273,7 +275,8 @@
           "C": "Chloride flux participates in generating slow waves themselves, not in driving the additional spikes needed for strong contraction.",
           "D": "Sphincter relaxation is a separate event and does not generate contractile force in the corpus."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "digestive-motility-008",
@@ -390,7 +393,8 @@
           "C": "Compartmental barriers are held by tonic contraction, not by mixing segments.",
           "D": "Fecal expulsion involves colonic mass movements and the defecation reflex, not small-bowel segmentation."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "digestive-motility-011",
@@ -585,7 +589,8 @@
           "C": "Parietal cell loss affects acid secretion, not gastric pacemaker-driven emptying.",
           "E": "ICC loss reduces or disorganizes slow-wave activity; it does not increase slow-wave frequency."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "digestive-motility-016",
@@ -663,7 +668,8 @@
           "D": "Segmentation predominates postprandially for absorption, whereas the MMC operates during fasting.",
           "E": "Haustral shuttling is a colonic mixing pattern, not the interdigestive sweep of the stomach and small intestine."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "digestive-motility-018",
@@ -780,7 +786,8 @@
           "D": "Erythromycin's prokinetic effect is via motilin receptors, not direct muscarinic agonism.",
           "E": "5-HT4 agonism describes other prokinetics; erythromycin acts at the motilin receptor."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "neural-control-of-the-gi-system-enteric-nervous-system-001",
@@ -819,7 +826,8 @@
           "C": "Nutrient absorption is a function of enterocytes, not of a nerve plexus.",
           "D": "Hormone release into blood is the role of enteroendocrine cells, not the myenteric plexus."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "neural-control-of-the-gi-system-enteric-nervous-system-002",
@@ -858,7 +866,8 @@
           "D": "Segmentation is a motility pattern controlled by the myenteric plexus.",
           "E": "Contraction of the muscularis externa is driven by the myenteric plexus."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "neural-control-of-the-gi-system-enteric-nervous-system-003",
@@ -897,7 +906,8 @@
           "D": "Serotonin overproduction by enteric EC cells characterizes carcinoid syndrome, not aganglionosis.",
           "E": "The problem is failure of the aganglionic segment to relax, not a failure to contract."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "neural-control-of-the-gi-system-enteric-nervous-system-004",
@@ -975,7 +985,8 @@
           "D": "Interneurons cannot begin the arc; sensory detection must come first.",
           "E": "A pathway routed through the spinal cord is a long-loop reflex, not the short-loop ENS reflex."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "neural-control-of-the-gi-system-enteric-nervous-system-006",
@@ -1053,7 +1064,8 @@
           "D": "CCK is released by duodenal I cells and acts mainly on pancreas, gallbladder, and vagal afferents.",
           "E": "Secretin is released by duodenal S cells in response to acid."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "neural-control-of-the-gi-system-enteric-nervous-system-008",
@@ -1170,7 +1182,8 @@
           "C": "Sympathetic activity does reduce secretion but contracts sphincters rather than relaxing them.",
           "D": "Sympathetic activity reduces secretion but also reduces motility rather than leaving it unchanged."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "neural-control-of-the-gi-system-enteric-nervous-system-011",
@@ -1404,7 +1417,8 @@
           "C": "Gastrin contributes, but the cephalic phase requires vagal neural input, not gastrin alone.",
           "D": "CCK is an intestinal-phase hormone, not the initiator of the cephalic phase."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "neural-control-of-the-gi-system-enteric-nervous-system-017",
@@ -1755,7 +1769,8 @@
           "C": "D cells secrete somatostatin, which inhibits rather than stimulates acid secretion.",
           "E": "Mucous neck cells secrete mucus and bicarbonate for protection."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gastric-secretion-and-the-parietal-cell-006",
@@ -1833,7 +1848,8 @@
           "D": "HCO3- export is performed by the basolateral Cl-/HCO3- antiporter.",
           "E": "K+ recycling occurs through apical K+ channels, not the ATPase itself."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gastric-secretion-and-the-parietal-cell-008",
@@ -1872,7 +1888,8 @@
           "D": "K+ recycling maintains pump substrate and does not alter blood pH.",
           "E": "Carbonic anhydrase is active, not inhibited, and supplies the HCO3- that is exported."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gastric-secretion-and-the-parietal-cell-009",
@@ -2067,7 +2084,8 @@
           "D": "Somatostatin inhibits gastrin and acid secretion.",
           "E": "Cholecystokinin is a duodenal hormone not central to cephalic-phase gastrin release."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gastric-secretion-and-the-parietal-cell-014",
@@ -2223,7 +2241,8 @@
           "D": "Reduced lipase affects fat, not protein, digestion.",
           "E": "Somatostatin changes regulate acid secretion but do not directly block protein digestion."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gastric-secretion-and-the-parietal-cell-018",
@@ -2262,7 +2281,8 @@
           "C": "Vitamin D absorption is not tied to parietal cell secretion.",
           "D": "Vitamin K absorption depends on bile, not intrinsic factor."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gastric-secretion-and-the-parietal-cell-019",
@@ -2340,7 +2360,8 @@
           "D": "Pepsinogen secretion is not the protective function NSAIDs impair.",
           "E": "Intrinsic factor output is unrelated to NSAID-induced mucosal injury."
         }
-      }
+      },
+      "hy": true
     }
   ]
 }

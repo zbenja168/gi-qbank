@@ -39,7 +39,8 @@
           "D": "Campylobacter is invasive and typically causes bloody, inflammatory diarrhea with fecal leukocytes.",
           "E": "EHEC produces bloody diarrhea linked to undercooked beef or petting-zoo exposure, not watery traveler's diarrhea."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "bacterial-infectious-diarrhea-002",
@@ -117,7 +118,8 @@
           "D": "B. cereus emetic illness fits vomiting but is classically linked to reheated fried rice, not cream pastries.",
           "E": "ETEC causes watery traveler's diarrhea, not a vomiting-predominant picnic outbreak."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "bacterial-infectious-diarrhea-004",
@@ -234,7 +236,8 @@
           "D": "V. cholerae causes rice-water stools without pseudomembranes and requires contaminated water/seafood exposure.",
           "E": "S. aureus food poisoning is a brief vomiting illness, not pseudomembranous colitis."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "bacterial-infectious-diarrhea-007",
@@ -273,7 +276,8 @@
           "C": "Intravenous vancomycin does not reach the colonic lumen; vancomycin must be given orally for CDI.",
           "E": "Rifaximin is not first-line therapy for an initial episode of CDI."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "bacterial-infectious-diarrhea-008",
@@ -468,7 +472,8 @@
           "C": "Dysmotility is not characterized by the stool osmotic gap.",
           "D": "Malabsorptive diarrhea is not indicated by a low secretory osmotic gap."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "bacterial-infectious-diarrhea-013",
@@ -663,7 +668,8 @@
           "C": "Diarrhea does not typically cause hypernatremia with a respiratory acidosis.",
           "E": "The primary disturbance is potassium and bicarbonate loss, not hypocalcemia with alkalosis."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "bacterial-infectious-diarrhea-018",
@@ -741,7 +747,8 @@
           "C": "LT increases, not decreases, cAMP.",
           "E": "ETEC LT does not act through ryanodine-receptor calcium release."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "bacterial-infectious-diarrhea-020",
@@ -819,7 +826,8 @@
           "D": "Yersinia is a bipolar-staining coccobacillus grown in the cold (4 C), not a 42 C comma-shaped rod.",
           "E": "Vibrio cholerae is comma-shaped but grows in alkaline media and causes watery, not bloody, diarrhea."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes-002",
@@ -858,7 +866,8 @@
           "C": "The mechanism is antibody cross-reactivity, not immune-complex deposition in the vasa nervorum.",
           "D": "GBS here follows a bacterial infection, not reactivation of a latent herpesvirus."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes-003",
@@ -975,7 +984,8 @@
           "D": "Vibrio cholerae causes watery, not bloody, diarrhea.",
           "E": "Rotavirus causes watery, non-bloody diarrhea in this age group."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes-006",
@@ -1014,7 +1024,8 @@
           "D": "Antimotility agents prolong toxin contact time and worsen outcomes.",
           "E": "Antibiotics of any class should be avoided in EHEC O157:H7."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes-007",
@@ -1092,7 +1103,8 @@
           "D": "Fluoroquinolones are not standard therapy for Listeria.",
           "E": "Metronidazole targets anaerobes/protozoa, not Listeria."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes-009",
@@ -1131,7 +1143,8 @@
           "C": "ETEC causes traveler's diarrhea in developing regions, not closed-setting adult outbreaks.",
           "D": "Campylobacter causes bloody diarrhea after poultry, not this outbreak pattern."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes-010",
@@ -1170,7 +1183,8 @@
           "D": "Enteric adenovirus causes milder, prolonged diarrhea without strong winter seasonality.",
           "E": "Astrovirus causes milder disease and is a less common cause than rotavirus."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "infectious-diarrhea-invasive-bacterial-and-viral-causes-011",
@@ -1599,7 +1613,8 @@
           "C": "Trichuris embeds whip-shaped adult worms in cecal mucosa and is diagnosed by barrel-shaped eggs, not flask-shaped ulcers with trophozoites.",
           "D": "Cystoisospora causes watery diarrhea in a brush-border/enterocyte niche and shows large acid-fast oocysts, not invasive erythrophagocytic trophozoites."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "key-gi-parasites-and-amoebas-002",
@@ -1638,7 +1653,8 @@
           "D": "Albendazole treats helminths such as Trichuris and Echinococcus, not amebiasis.",
           "E": "Nitazoxanide is used for coccidian (Cryptosporidium) diarrhea, not as the tissue-active agent for amebic dysentery."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "key-gi-parasites-and-amoebas-003",
@@ -1677,7 +1693,8 @@
           "D": "Cystoisospora oocysts are large (20-33 micrometer) and ellipsoidal, not small and round.",
           "E": "Trichuris is a helminth diagnosed by barrel-shaped eggs, not acid-fast oocysts."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "key-gi-parasites-and-amoebas-004",
@@ -1833,7 +1850,8 @@
           "D": "Cystoisosporiasis causes watery diarrhea with large acid-fast oocysts, not eggs with bipolar plugs.",
           "E": "Echinococcosis causes hepatic/pulmonary cysts, not an egg-passing intestinal infection with prolapse."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "key-gi-parasites-and-amoebas-008",
@@ -1872,7 +1890,8 @@
           "D": "Praziquantel treats flukes and most tapeworms, but not Trichuris and not the treatment of choice here.",
           "E": "Nitazoxanide is used for Cryptosporidium, not for whipworm."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "key-gi-parasites-and-amoebas-009",
@@ -1911,7 +1930,8 @@
           "C": "Trichuris is an intestinal nematode and does not form hepatic cysts.",
           "E": "Cryptosporidium is an intestinal coccidian and does not form hepatic cysts."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "key-gi-parasites-and-amoebas-010",
@@ -2067,7 +2087,8 @@
           "C": "The brush-border parasitophorous vacuole describes Cryptosporidium, not Cyclospora.",
           "E": "Chlorine resistance is a property of Cryptosporidium and does not explain lack of person-to-person spread."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "key-gi-parasites-and-amoebas-014",

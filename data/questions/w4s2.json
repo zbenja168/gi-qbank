@@ -39,7 +39,8 @@
           "D": "G cells secrete gastrin and stimulate gastric acid; they are predominantly in the antrum.",
           "E": "D cells secrete somatostatin, an inhibitory hormone, not CCK."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gi-hormones-the-intestinal-phase-of-digestion-002",
@@ -117,7 +118,8 @@
           "C": "CCK slows gastric emptying rather than accelerating it.",
           "E": "Insulin potentiation is the action of GIP/GLP-1, not CCK."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gi-hormones-the-intestinal-phase-of-digestion-004",
@@ -156,7 +158,8 @@
           "D": "I cells secrete CCK; they do not produce pancreatic bicarbonate fluid.",
           "E": "Gallbladder epithelium concentrates and stores bile, not pancreatic bicarbonate."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gi-hormones-the-intestinal-phase-of-digestion-005",
@@ -195,7 +198,8 @@
           "D": "Gastrin stimulates gastric acid secretion from G cells.",
           "E": "Motilin regulates the migrating motor complex between meals; it is not the K-cell incretin."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gi-hormones-the-intestinal-phase-of-digestion-006",
@@ -312,7 +316,8 @@
           "C": "The migrating motor complex sweeps the gut between meals, not a postprandial duodenal brake.",
           "D": "Receptive relaxation is fundic accommodation during swallowing, not duodenal feedback."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gi-hormones-the-intestinal-phase-of-digestion-009",
@@ -351,7 +356,8 @@
           "C": "Fiber is not identified as the dominant inhibitory signal in this brick.",
           "D": "Water empties rapidly and does not potently slow emptying."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gi-hormones-the-intestinal-phase-of-digestion-010",
@@ -468,7 +474,8 @@
           "D": "Pepsin is a gastric enzyme that actually works best at acidic pH.",
           "E": "Enterokinase is a brush-border enzyme that activates trypsinogen, not the fat-digesting enzyme denatured here."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gi-hormones-the-intestinal-phase-of-digestion-013",
@@ -819,7 +826,8 @@
           "C": "Crypts of Lieberkühn house progenitor cells for epithelial renewal, not the absorptive projections described.",
           "D": "Brush border enzymes are membrane proteins that complete terminal digestion; they are not a structural surface-amplifying projection."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "exocrine-functions-of-the-gi-system-002",
@@ -897,7 +905,8 @@
           "D": "Enteropeptidase activates trypsinogen in the duodenum and is unrelated to bile acid synthesis.",
           "E": "Pancreatic lipase hydrolyzes dietary triglycerides and does not synthesize bile acids."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "exocrine-functions-of-the-gi-system-004",
@@ -936,7 +945,8 @@
           "C": "Carboxypeptidase A is a zymogen product of the cascade, not its initiator.",
           "E": "Amylase digests starch and plays no role in zymogen activation."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "exocrine-functions-of-the-gi-system-005",
@@ -1209,7 +1219,8 @@
           "C": "The steroid backbone alone does not confer detergent activity without the asymmetric hydrophilic/hydrophobic faces.",
           "D": "Molecular size is not the property responsible for emulsification."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "exocrine-functions-of-the-gi-system-012",
@@ -1287,7 +1298,8 @@
           "D": "The stomach does not reabsorb bile salts.",
           "E": "The colon can reabsorb some recycled secondary bile acids but is not the primary ASBT-mediated reclamation site."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "exocrine-functions-of-the-gi-system-014",
@@ -1326,7 +1338,8 @@
           "C": "Zollinger-Ellison syndrome produces refractory ulcers and acid-mediated steatorrhea, not villous atrophy from immune destruction.",
           "E": "Acute pancreatitis is intrapancreatic autodigestion and does not cause the described duodenal histology."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "exocrine-functions-of-the-gi-system-015",
@@ -1482,7 +1495,8 @@
           "D": "Gastric acid production is a parietal cell function unrelated to pancreatic ductal CFTR.",
           "E": "Villous atrophy is a feature of celiac disease, not the direct consequence of ductal CFTR loss."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "exocrine-functions-of-the-gi-system-019",
@@ -1599,7 +1613,8 @@
           "C": "Chest CT does not establish a motility diagnosis.",
           "D": "Scintigraphy assesses gastric emptying, used for gastroparesis, not the esophagus."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gastrointestinal-motility-disorders-002",
@@ -1716,7 +1731,8 @@
           "C": "Jackhammer esophagus has properly sequenced but excessively forceful contractions, not premature/simultaneous ones.",
           "E": "Eosinophilic esophagitis causes solid-food dysphagia/food impaction, not a corkscrew manometric pattern."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gastrointestinal-motility-disorders-005",
@@ -1794,7 +1810,8 @@
           "C": "The hydrogen breath test evaluates carbohydrate malabsorption, not gastric emptying.",
           "D": "Colonic transit studies assess constipation, not gastric emptying."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gastrointestinal-motility-disorders-007",
@@ -1911,7 +1928,8 @@
           "D": "Ogilvie syndrome is massive colonic (not diffuse small and large bowel) dilation.",
           "E": "Toxic megacolon involves colonic dilation with systemic toxicity and colitis, not diffuse postoperative gas."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gastrointestinal-motility-disorders-010",
@@ -1989,7 +2007,8 @@
           "D": "Toxic megacolon involves severe colitis with systemic toxicity, not the atonic pseudo-obstruction of a septic patient.",
           "E": "Ileus classically affects both small and large bowel diffusely, whereas this is predominantly massive colonic dilation."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gastrointestinal-motility-disorders-012",
@@ -2184,7 +2203,8 @@
           "D": "Steatorrhea is greasy, foul-smelling fat malabsorption, not sugar-triggered watery stool.",
           "E": "Factitious diarrhea is from surreptitious laxative use, not dairy ingestion."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gastrointestinal-motility-disorders-017",
@@ -2262,7 +2282,8 @@
           "D": "Insulinoma causes hypoglycemia, not secretory diarrhea.",
           "E": "Glucagonoma causes necrolytic migratory erythema and hyperglycemia, not WDHA."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "gastrointestinal-motility-disorders-019",
@@ -2457,7 +2478,8 @@
           "D": "Lactulose is an osmotic laxative and does not cause colonic pigmentation.",
           "E": "Methylcellulose is a bulk-forming laxative and does not produce melanosis coli."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "laxatives-and-antidiarrheals-004",
@@ -2496,7 +2518,8 @@
           "D": "Stimulating mu-opioid receptors describes opioid antidiarrheals like loperamide, which slow the gut.",
           "E": "Activating guanylate cyclase C is the mechanism of linaclotide, an IBS-C drug."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "laxatives-and-antidiarrheals-005",
@@ -2652,7 +2675,8 @@
           "C": "Bisacodyl is a stimulant laxative in the same category she has already tried without benefit.",
           "D": "Cholestyramine is a bile-acid sequestrant used for diarrhea, not constipation."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "laxatives-and-antidiarrheals-009",
@@ -2808,7 +2832,8 @@
           "C": "Blocking peripheral mu-opioid receptors describes opiate antagonists.",
           "D": "Mucosal irritation of enteric neurons describes stimulant laxatives such as senna or castor oil."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "laxatives-and-antidiarrheals-013",
@@ -2847,7 +2872,8 @@
           "C": "Stimulating prostaglandin and mucus secretion describes bismuth subsalicylate's mucosal defense action.",
           "D": "Increasing chloride secretion describes IBS-C drugs like lubiprostone, which promote diarrhea, not treat it."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "laxatives-and-antidiarrheals-014",
@@ -2886,7 +2912,8 @@
           "C": "Pancreatitis risk relates to eluxadoline, not diphenoxylate-atropine.",
           "E": "Atropine is an antimuscarinic, not a serotonin receptor blocker."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "laxatives-and-antidiarrheals-015",
@@ -3003,7 +3030,8 @@
           "C": "Melanosis coli results from chronic stimulant laxative use.",
           "E": "Flatulence is the adverse effect of bulk-forming laxatives, not a serious limiting effect of alosetron."
         }
-      }
+      },
+      "hy": true
     },
     {
       "id": "laxatives-and-antidiarrheals-018",

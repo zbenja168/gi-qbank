@@ -184,7 +184,8 @@
         "acute cholecystitis",
         "Murphy sign",
         "physical exam"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "biliary-noninfectious-005",
@@ -276,7 +277,8 @@
         "ascending cholangitis",
         "Charcot triad",
         "biliary obstruction"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "biliary-noninfectious-007",
@@ -323,7 +325,8 @@
         "severe cholangitis",
         "ERCP",
         "management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "biliary-noninfectious-008",
@@ -600,7 +603,8 @@
         "cholecystectomy",
         "definitive treatment",
         "cholelithiasis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "biliary-noninfectious-014",
@@ -646,7 +650,8 @@
         "primary biliary cholangitis",
         "antimitochondrial antibody",
         "intrahepatic cholestasis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "biliary-noninfectious-015",
@@ -692,7 +697,8 @@
         "primary sclerosing cholangitis",
         "ulcerative colitis",
         "beading"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "biliary-noninfectious-016",
@@ -784,7 +790,8 @@
         "intrahepatic cholestasis",
         "extrahepatic cholestasis",
         "imaging"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "biliary-noninfectious-018",
@@ -968,7 +975,8 @@
         "hemangioma",
         "imaging",
         "benign"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hepatobiliary-neoplasms-002",
@@ -1060,7 +1068,8 @@
         "adenoma",
         "oral-contraceptives",
         "benign"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hepatobiliary-neoplasms-004",
@@ -1106,7 +1115,8 @@
         "HCC",
         "cirrhosis",
         "AFP"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hepatobiliary-neoplasms-005",
@@ -1198,7 +1208,8 @@
         "cholangiocarcinoma",
         "Klatskin",
         "biliary"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hepatobiliary-neoplasms-007",
@@ -1290,7 +1301,8 @@
         "HCC",
         "risk-factors",
         "hepatitis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hepatobiliary-neoplasms-009",
@@ -1382,7 +1394,8 @@
         "cholangiocarcinoma",
         "PSC",
         "risk-factors"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hepatobiliary-neoplasms-011",
@@ -1566,7 +1579,8 @@
         "FNH",
         "management",
         "benign"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "hepatobiliary-neoplasms-015",
@@ -1888,7 +1902,8 @@
         "SBP",
         "ascitic fluid analysis",
         "diagnosis"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "peritonitis-002",
@@ -1934,7 +1949,8 @@
         "SBP",
         "microbiology",
         "E. coli"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "peritonitis-003",
@@ -1980,7 +1996,8 @@
         "physical exam",
         "rigidity",
         "signs"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "peritonitis-004",
@@ -2072,7 +2089,8 @@
         "SBP",
         "treatment",
         "cefotaxime"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "peritonitis-006",
@@ -2118,7 +2136,8 @@
         "secondary peritonitis",
         "source control",
         "management"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "peritonitis-007",
@@ -2256,7 +2275,8 @@
         "peritoneal carcinomatosis",
         "omental caking",
         "malignancy"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "peritonitis-010",
@@ -2394,7 +2414,8 @@
         "dialysis peritonitis",
         "microbiology",
         "Staphylococcus"
-      ]
+      ],
+      "hy": true
     },
     {
       "id": "peritonitis-013",
