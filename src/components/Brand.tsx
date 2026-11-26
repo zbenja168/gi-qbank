@@ -10,7 +10,7 @@
 const AT_URL = 'https://activetransport.app';
 
 const BLURB =
-  'This free question bank is a Secondary Active Transport study tool. ' +
+  'This free question bank is a Primary Active Transport study tool, built from your bricks in class order. ' +
   'Active Transport turns your own notes, lectures, and Anki decks into ' +
   'NBME-style practice questions in seconds — on top of a 12,000-question bank.';
 
