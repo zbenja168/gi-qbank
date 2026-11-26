@@ -13,6 +13,7 @@ import { track } from './utils/track';
 import { Tier } from './utils/questionLoader';
 import { restoreSkin } from './utils/skin';
 
+import { SiteHeader } from './components/SiteHeader';
 type Page = 'home' | 'quiz' | 'dashboard' | 'review';
 
 function AppShell() {
@@ -201,6 +202,7 @@ export default function App() {
   return (
     <>
       <BrandBadge />
+      <SiteHeader />
       <AppShell />
     </>
   );

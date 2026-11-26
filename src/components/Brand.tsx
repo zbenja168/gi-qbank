@@ -1,27 +1,26 @@
-// Active Transport branding — self-contained drop-in for the "Secondary Active
-// Transport" free QBanks. Ports the spinning-transporter logo mark from
-// activetransport.app so every QBank carries the brand and links home.
+// Active Transport branding for the Primary Active Transport study tools.
+// Source of truth: C:/study-tools/_shared/react/Brand.tsx, copied byte-identical
+// into every React tool by _shared/sync_react.py. Edit it there, not here.
 //
 // Exports:
-//   <BrandBadge/> — small fixed corner pill, render once at the app root so the
-//                   logo shows on every page.
-//   <BrandCard/>  — full linking card with a blurb + CTA for the home page.
+//   <LogoMark/>   the spinning-transporter mark from activetransport.app.
+//   <BrandStyle/> the keyframes + wordmark/card/badge styles (idempotent).
+//   <BrandBadge/> small fixed corner pill; render once at the app root. It also
+//                 collects tool-track.js's "Signed in / Sign in" pill into the
+//                 same corner stack so the two never cover content separately.
+//   <BrandCard/>  the promo card; copy follows the tool type (STYLE_SPEC §4).
+import { useEffect, useRef } from 'react';
+import { SITE } from '../siteConfig';
 
 const AT_URL = 'https://activetransport.app';
 
-const BLURB =
-  'This free question bank is a Primary Active Transport study tool, built from your bricks in class order. ' +
-  'Active Transport turns your own notes, lectures, and Anki decks into ' +
-  'NBME-style practice questions in seconds — on top of a 12,000-question bank.';
-
 // Injected once; duplicate tags are harmless if it renders more than once.
-function BrandStyle() {
+export function BrandStyle() {
   return (
     <style>{`
       /* The spinning transporter: a copy of activetransport.app's header mark
-         (templates/_logo_mark.html + static/style.css), so the tools and the
-         site show the same logo. Stepped 120-degree rotation with a dwell, and
-         one substrate pumped up through the pore that leaves as product. */
+         (templates/_logo_mark.html + static/style.css). Stepped 120-degree
+         rotation with a dwell, and one substrate pumped up through the pore. */
       @keyframes atStepRotate {
         0%, 2%    { transform: rotate(0deg); }
         7%        { transform: rotate(90deg); }
@@ -61,10 +60,61 @@ function BrandStyle() {
         font-weight: 800;
         letter-spacing: -0.02em;
       }
-      .at-badge { transition: transform .15s ease, box-shadow .15s ease; }
+
+      /* Corner stack: the AT badge and tool-track.js's sign-in pill, side by side. */
+      .at-corner {
+        position: fixed; left: 16px; bottom: 16px; z-index: 50;
+        display: flex; align-items: center; gap: 8px; max-width: calc(100vw - 32px);
+        pointer-events: none;
+      }
+      .at-corner > * { pointer-events: auto; }
+      .at-badge {
+        display: flex; align-items: center; gap: 8px; flex-shrink: 0;
+        padding: 7px 12px 7px 9px; border-radius: 999px;
+        background: rgba(15,23,42,0.92); border: 1px solid #334155;
+        text-decoration: none; backdrop-filter: blur(6px);
+        box-shadow: 0 4px 14px rgba(0,0,0,0.35);
+        transition: transform .15s ease, box-shadow .15s ease;
+      }
       .at-badge:hover { transform: translateY(-1px); box-shadow: 0 6px 20px rgba(34,211,238,0.18); }
-      .at-cta { transition: background .15s ease, transform .15s ease; }
-      .at-cta:hover { background: linear-gradient(135deg, #22d3ee 0%, #2dd4bf 100%); transform: translateY(-1px); }
+      .at-badge-text { display: flex; flex-direction: column; line-height: 1.05; }
+      .at-badge-sub { font-size: 0.62rem; color: #64748b; }
+      .at-corner #at-auth-badge { position: static !important; flex-shrink: 1; min-width: 0; white-space: nowrap; }
+      @media (max-width: 640px) {
+        .at-corner { left: 12px; bottom: 12px; max-width: calc(100vw - 24px); }
+        .at-badge { height: 36px; box-sizing: border-box; padding: 0 11px 0 8px; gap: 6px; }
+        .at-badge .at-badge-sub { display: none; }
+        .at-corner #at-auth-badge { height: 36px; box-sizing: border-box; padding: 0 11px !important; }
+      }
+
+      /* Promo card: icon | text | button in a row; stacked below 640px. */
+      .at-card {
+        display: grid; grid-template-columns: auto minmax(0, 1fr) auto;
+        grid-template-areas: "icon title cta" "icon text cta";
+        column-gap: 16px; row-gap: 4px; align-items: center;
+        margin: 24px 0; padding: 16px 18px; border-radius: 16px; text-decoration: none;
+        background: linear-gradient(135deg, rgba(34,211,238,0.08), rgba(45,212,191,0.05));
+        border: 1px solid #1e3a44;
+      }
+      .at-card-icon { grid-area: icon; display: flex; }
+      .at-card-title { grid-area: title; font-size: 1.05rem; align-self: end; }
+      .at-card-text { grid-area: text; margin: 0; font-size: 0.86rem; color: #94a3b8; line-height: 1.5; align-self: start; }
+      .at-card-cta {
+        grid-area: cta; white-space: nowrap; text-align: center;
+        padding: 10px 16px; border-radius: 10px; font-size: 0.875rem; font-weight: 600;
+        color: #0f172a; background: linear-gradient(135deg, #38bdf8 0%, #22d3ee 45%, #2dd4bf 100%);
+        transition: filter .15s ease, transform .15s ease;
+      }
+      .at-card:hover .at-card-cta { filter: brightness(1.08); transform: translateY(-1px); }
+      @media (max-width: 639px) {
+        .at-card {
+          grid-template-columns: auto minmax(0, 1fr);
+          grid-template-areas: "icon title" "text text" "cta cta";
+          row-gap: 10px; column-gap: 10px; padding: 16px;
+        }
+        .at-card-title { align-self: center; }
+        .at-card-cta { display: flex; align-items: center; justify-content: center; min-height: 44px; white-space: normal; }
+      }
     `}</style>
   );
 }
@@ -74,8 +124,7 @@ function BrandStyle() {
  *  Same geometry and paint order as the site's templates/_logo_mark.html
  *  (viewBox 120x112, rendered 30:28): two membrane leaflets, the ring and tube
  *  of the transporter, a three-lobed head that turns in 120-degree steps, and a
- *  substrate threaded between the head's back and front lobes so it rises
- *  through the motor rather than sliding over it.
+ *  substrate threaded between the head's back and front lobes.
  */
 export function LogoMark({ size = 28 }: { size?: number }) {
   return (
@@ -102,74 +151,64 @@ export function LogoMark({ size = 28 }: { size?: number }) {
   );
 }
 
-// Small fixed pill, bottom-left, on every page.
+// Small fixed pill, bottom-left, on every page. tool-track.js (loaded from
+// activetransport.app) appends its own sign-in pill to <body> bottom-right; it
+// is moved into this stack so phones get one corner, not two.
 export function BrandBadge() {
+  const stack = useRef<HTMLDivElement>(null);
+  useEffect(() => {
+    const adopt = () => {
+      const pill = document.getElementById('at-auth-badge');
+      if (pill && stack.current && pill.parentElement !== stack.current) stack.current.appendChild(pill);
+      return !!pill;
+    };
+    if (adopt()) return;
+    const obs = new MutationObserver(() => { if (adopt()) obs.disconnect(); });
+    obs.observe(document.body, { childList: true });
+    const stop = window.setTimeout(() => obs.disconnect(), 20000);
+    return () => { obs.disconnect(); window.clearTimeout(stop); };
+  }, []);
   return (
     <>
       <BrandStyle />
-      <a
-        href={AT_URL}
-        target="_blank"
-        rel="noopener noreferrer"
-        className="at-badge"
-        title="Made by Active Transport — AI NBME questions from your notes"
-        style={{
-          position: 'fixed', left: 16, bottom: 16, zIndex: 50,
-          display: 'flex', alignItems: 'center', gap: 8,
-          padding: '7px 12px 7px 9px', borderRadius: 999,
-          background: 'rgba(15,23,42,0.92)', border: '1px solid #334155',
-          textDecoration: 'none', backdropFilter: 'blur(6px)',
-          boxShadow: '0 4px 14px rgba(0,0,0,0.35)',
-        }}
-      >
-        <LogoMark size={22} />
-        <span style={{ display: 'flex', flexDirection: 'column', lineHeight: 1.05 }}>
-          <span className="at-wordmark" style={{ fontSize: '0.82rem' }}>Active Transport</span>
-          <span style={{ fontSize: '0.62rem', color: '#64748b' }}>AI NBME questions →</span>
-        </span>
-      </a>
+      <div ref={stack} className="at-corner">
+        <a
+          id="at-badge-root"
+          href={AT_URL}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="at-badge"
+          title="Made by Active Transport: NBME-style questions from your own notes"
+        >
+          <LogoMark size={22} />
+          <span className="at-badge-text">
+            <span className="at-wordmark" style={{ fontSize: '0.82rem' }}>Active Transport</span>
+            <span className="at-badge-sub">AI NBME questions →</span>
+          </span>
+        </a>
+      </div>
     </>
   );
 }
 
-// Linking card for the top of the home page.
-export function BrandCard() {
+type CardKind = 'qbank' | 'game';
+
+// Promo card. Place it after the tool's main content (STYLE_SPEC §4), never as
+// the first screen on a phone.
+export function BrandCard({ kind }: { kind?: CardKind }) {
+  const k: CardKind = kind ?? (SITE.family === 'qbank' || SITE.family === 'picqbank' ? 'qbank' : 'game');
+  const what = k === 'qbank' ? 'This free question bank' : 'This free study game';
   return (
     <>
       <BrandStyle />
-      <a
-        href={AT_URL}
-        target="_blank"
-        rel="noopener noreferrer"
-        style={{
-          display: 'flex', alignItems: 'center', gap: 16, marginBottom: 24,
-          padding: '16px 18px', borderRadius: 16, textDecoration: 'none',
-          background: 'linear-gradient(135deg, rgba(34,211,238,0.08), rgba(45,212,191,0.05))',
-          border: '1px solid #1e3a44',
-        }}
-      >
-        <div style={{ display: 'flex', alignItems: 'center', gap: 12, flex: '1 1 auto', minWidth: 0 }}>
-          <LogoMark size={34} />
-          <div style={{ minWidth: 0 }}>
-            <div style={{ display: 'flex', alignItems: 'baseline', gap: 8, flexWrap: 'wrap' }}>
-              <span className="at-wordmark" style={{ fontSize: '1.05rem' }}>Active Transport</span>
-              <span style={{ fontSize: '0.7rem', color: '#5eead4', border: '1px solid #164e46', borderRadius: 999, padding: '1px 8px' }}>
-                the full app
-              </span>
-            </div>
-            <p style={{ margin: '4px 0 0', fontSize: '0.86rem', color: '#94a3b8', lineHeight: 1.45 }}>{BLURB}</p>
-          </div>
-        </div>
-        <span
-          className="at-cta"
-          style={{
-            flexShrink: 0, alignSelf: 'center', whiteSpace: 'nowrap',
-            padding: '9px 16px', borderRadius: 10, fontSize: '0.85rem', fontWeight: 600,
-            color: '#0f172a', background: 'linear-gradient(135deg, #38bdf8, #2dd4bf)',
-          }}
-        >
-          Try Active Transport →
-        </span>
+      <a href={`${AT_URL}/#primary`} target="_blank" rel="noopener noreferrer" className="at-card">
+        <span className="at-card-icon"><LogoMark size={34} /></span>
+        <span className="at-card-title at-wordmark">Active Transport</span>
+        <p className="at-card-text">
+          {what} is part of Primary Active Transport: study tools built from your bricks, in class order.
+          {' '}Active Transport also turns your own notes into NBME-style questions and Anki cards.
+        </p>
+        <span className="at-card-cta">Open Active Transport →</span>
       </a>
     </>
   );

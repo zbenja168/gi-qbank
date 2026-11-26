@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { Question } from '../../types/question';
 
+import { lectureName } from '../SiteHeader';
 interface Props {
   question: Question;
   index: number;
@@ -45,7 +46,7 @@ export function QuestionCard({
 
   const getChoiceStyle = (label: string) => {
     if (!answered) {
-      return 'border-slate-600 hover:border-teal-400 hover:bg-slate-700 cursor-pointer';
+      return 'border-slate-600 hover:border-blue-400 hover:bg-slate-700 cursor-pointer';
     }
     if (label === question.correctAnswer) {
       return 'border-green-500 bg-green-900/40';
@@ -84,7 +85,7 @@ export function QuestionCard({
           </span>
         </div>
         <div className="flex items-center gap-2">
-          {answered && <span className="text-xs text-slate-500">{question.topicName}</span>}
+          {answered && <span className="text-xs text-slate-500">{lectureName(question.topicName)}</span>}
           <button
             onClick={onBookmark}
             className={`p-1.5 rounded transition-colors ${isBookmarked ? 'text-amber-400' : 'text-slate-500 hover:text-amber-400'}`}
@@ -115,7 +116,7 @@ export function QuestionCard({
       {/* Progress bar */}
       <div data-part="card-progress" className="w-full h-1.5 bg-slate-700 rounded-full mb-6">
         <div
-          className="h-full bg-teal-500 rounded-full transition-all duration-300"
+          className="h-full bg-blue-500 rounded-full transition-all duration-300"
           style={{ width: `${((index + 1) / total) * 100}%` }}
         />
       </div>
@@ -232,7 +233,7 @@ export function QuestionCard({
           <button
             onClick={onNext}
             disabled={!answered}
-            className="px-5 py-2.5 rounded-lg bg-teal-600 text-white hover:bg-teal-500 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
+            className="px-5 py-2.5 rounded-lg bg-blue-600 text-white hover:bg-blue-500 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
           >
             Next
           </button>

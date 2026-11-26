@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import "./at-shell.css";
 @import "./skins.css";
 
 :root {

@@ -2,6 +2,7 @@ import { ProgressData } from '../types/progress';
 import { Question } from '../types/question';
 import { getOverallStats, getTopicStats } from '../utils/stats';
 
+import { lectureName } from '../components/SiteHeader';
 interface Props {
   progress: ProgressData;
   questions: Question[];
@@ -23,7 +24,7 @@ export function DashboardPage({ progress, questions, onBack, onClearProgress, to
             <button onClick={onBack} className="text-slate-400 hover:text-slate-200">
               <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" /></svg>
             </button>
-            <h1 className="text-xl font-bold text-teal-400">Dashboard</h1>
+            <h1 className="text-xl font-bold text-slate-100">Dashboard</h1>
           </div>
           <button
             onClick={() => {
@@ -53,7 +54,7 @@ export function DashboardPage({ progress, questions, onBack, onClearProgress, to
             <div className="text-sm text-slate-400 mt-1">Incorrect</div>
           </div>
           <div className="bg-slate-800 rounded-xl border border-slate-700 p-5 text-center">
-            <div className="text-3xl font-bold text-teal-400">{stats.percentage}%</div>
+            <div className="text-3xl font-bold text-blue-400">{stats.percentage}%</div>
             <div className="text-sm text-slate-400 mt-1">Score</div>
           </div>
         </div>
@@ -65,7 +66,7 @@ export function DashboardPage({ progress, questions, onBack, onClearProgress, to
           </div>
           <div className="w-full h-3 bg-slate-700 rounded-full overflow-hidden">
             <div
-              className="h-full bg-teal-500 rounded-full transition-all"
+              className="h-full bg-blue-500 rounded-full transition-all"
               style={{ width: `${(stats.total / totalQuestions) * 100}%` }}
             />
           </div>
@@ -78,7 +79,7 @@ export function DashboardPage({ progress, questions, onBack, onClearProgress, to
               {topicStats.sort((a, b) => a.percentage - b.percentage).map(ts => (
                 <div key={ts.topicId}>
                   <div className="flex justify-between text-sm mb-1">
-                    <span className="text-slate-300 truncate mr-2">{ts.name}</span>
+                    <span className="text-slate-300 truncate mr-2">{lectureName(ts.name)}</span>
                     <span className={`font-medium flex-shrink-0 ${
                       ts.percentage >= 70 ? 'text-green-400' : ts.percentage >= 50 ? 'text-amber-400' : 'text-red-400'
                     }`}>

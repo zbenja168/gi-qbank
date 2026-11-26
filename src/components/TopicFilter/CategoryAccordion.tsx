@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { Category } from '../../types/topic';
 import { TopicStat } from '../../hooks/useTopicProgress';
 
+import { lectureName } from '../SiteHeader';
 interface Props {
   category: Category;
   selectedTopicIds: Set<string>;
@@ -64,8 +65,8 @@ export function CategoryAccordion({
           {allSelected && <svg className="w-3 h-3 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" /></svg>}
           {someSelected && <div className="w-2 h-0.5 bg-blue-400 rounded" />}
         </button>
-        <span className={`font-semibold flex-1 ${catComplete ? 'text-slate-500' : 'text-slate-200'}`}>
-          {category.name}
+        <span className={`font-semibold flex-1 at-wrap ${catComplete ? 'text-slate-500' : 'text-slate-200'}`}>
+          {lectureName(category.name)}
         </span>
         {catComplete
           ? <span className="text-xs font-semibold text-green-500 uppercase tracking-wide">Complete</span>
@@ -103,8 +104,8 @@ export function CategoryAccordion({
                   onChange={() => onToggleTopic(topic.id)}
                   className="w-4 h-4 rounded border-slate-500 text-blue-500 focus:ring-blue-500 bg-slate-700 disabled:opacity-50"
                 />
-                <span className={`text-sm flex-1 ${done ? 'text-slate-500 line-through' : 'text-slate-300'}`}>
-                  {topic.name}
+                <span className={`text-sm flex-1 at-wrap ${done ? 'text-slate-500 line-through' : 'text-slate-300'}`}>
+                  {lectureName(topic.name)}
                 </span>
                 {done ? (
                   <span className="text-xs font-semibold text-green-500 uppercase tracking-wide">Complete</span>
