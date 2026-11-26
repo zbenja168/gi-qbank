@@ -213,18 +213,18 @@ export function HomePage({
         {locked && (
           <div className="bg-slate-800 border border-amber-500/40 rounded-2xl p-8 text-center">
             <div className="text-4xl mb-3">🔒</div>
-            <h2 className="text-xl font-bold text-slate-100 mb-2">Advanced is an Active Transport Pro feature</h2>
+            <h2 className="text-xl font-bold text-slate-100 mb-2">Sign in to unlock Advanced</h2>
             <p className="text-slate-400 max-w-lg mx-auto mb-6">
               {entitlementReason === 'not_signed_in'
-                ? 'Open this QBank from the Active Transport hub while signed in to your Pro account to unlock UWorld-style advanced questions.'
+                ? 'Open this QBank from the Active Transport hub while signed in to your free account to unlock UWorld-style advanced questions.'
                 : entitlement === 'error'
                   ? "Couldn't reach Active Transport to check your membership. Check your connection and try again."
-                  : 'Upgrade to Active Transport Pro to unlock UWorld-style, multi-step advanced questions across every brick — plus AI questions from your own notes.'}
+                  : 'Sign in to your free Active Transport account to unlock UWorld-style, multi-step advanced questions across every brick — plus AI questions from your own notes.'}
             </p>
             <div className="flex items-center justify-center gap-3 flex-wrap">
-              <a href="https://activetransport.app/pricing" target="_blank" rel="noopener"
+              <a href="https://activetransport.app/signup" target="_blank" rel="noopener"
                  className="px-5 py-2.5 rounded-lg bg-amber-500 text-slate-900 font-semibold hover:bg-amber-400 transition-colors">
-                Upgrade to Pro →
+                Create a free account →
               </a>
               <button onClick={() => onSetTier('standard')}
                  className="px-5 py-2.5 rounded-lg border border-slate-600 text-slate-300 hover:bg-slate-700 transition-colors">
