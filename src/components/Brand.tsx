@@ -8,9 +8,8 @@
 //   <BrandBadge/> small fixed corner pill; render once at the app root. It also
 //                 collects tool-track.js's "Signed in / Sign in" pill into the
 //                 same corner stack so the two never cover content separately.
-//   <BrandCard/>  the promo card; copy follows the tool type (STYLE_SPEC §4).
+//   <BrandCard/>  the promo card: title + button (STYLE_SPEC §4).
 import { useEffect, useRef } from 'react';
-import { SITE } from '../siteConfig';
 
 const AT_URL = 'https://activetransport.app';
 
@@ -90,14 +89,14 @@ export function BrandStyle() {
       /* Promo card: icon | text | button in a row; stacked below 640px. */
       .at-card {
         display: grid; grid-template-columns: auto minmax(0, 1fr) auto;
-        grid-template-areas: "icon title cta" "icon text cta";
+        grid-template-areas: "icon title cta";
         column-gap: 16px; row-gap: 4px; align-items: center;
         margin: 24px 0; padding: 16px 18px; border-radius: 16px; text-decoration: none;
         background: linear-gradient(135deg, rgba(34,211,238,0.08), rgba(45,212,191,0.05));
         border: 1px solid #1e3a44;
       }
       .at-card-icon { grid-area: icon; display: flex; }
-      .at-card-title { grid-area: title; font-size: 1.05rem; align-self: end; }
+      .at-card-title { grid-area: title; font-size: 1.05rem; font-weight: 700; color: #e2e8f0; min-width: 0; }
       .at-card-text { grid-area: text; margin: 0; font-size: 0.86rem; color: #94a3b8; line-height: 1.5; align-self: start; }
       .at-card-cta {
         grid-area: cta; white-space: nowrap; text-align: center;
@@ -109,7 +108,7 @@ export function BrandStyle() {
       @media (max-width: 639px) {
         .at-card {
           grid-template-columns: auto minmax(0, 1fr);
-          grid-template-areas: "icon title" "text text" "cta cta";
+          grid-template-areas: "icon title" "cta cta";
           row-gap: 10px; column-gap: 10px; padding: 16px;
         }
         .at-card-title { align-self: center; }
@@ -178,12 +177,11 @@ export function BrandBadge() {
           target="_blank"
           rel="noopener noreferrer"
           className="at-badge"
-          title="Made by Active Transport: NBME-style questions from your own notes"
+          title="Active Transport"
         >
           <LogoMark size={22} />
           <span className="at-badge-text">
             <span className="at-wordmark" style={{ fontSize: '0.82rem' }}>Active Transport</span>
-            <span className="at-badge-sub">AI NBME questions →</span>
           </span>
         </a>
       </div>
@@ -193,21 +191,17 @@ export function BrandBadge() {
 
 type CardKind = 'qbank' | 'game';
 
-// Promo card. Place it after the tool's main content (STYLE_SPEC §4), never as
-// the first screen on a phone.
-export function BrandCard({ kind }: { kind?: CardKind }) {
-  const k: CardKind = kind ?? (SITE.family === 'qbank' || SITE.family === 'picqbank' ? 'qbank' : 'game');
-  const what = k === 'qbank' ? 'This free question bank' : 'This free study game';
+// Promo card (STYLE_SPEC §4): "Part of Active Transport" plus the button, no
+// paragraph. Place it after the tool's main content, never as the first screen
+// on a phone. `kind` is kept so existing call sites compile; the copy no longer
+// differs by tool type.
+export function BrandCard(_props: { kind?: CardKind }) {
   return (
     <>
       <BrandStyle />
       <a href={`${AT_URL}/#primary`} target="_blank" rel="noopener noreferrer" className="at-card">
         <span className="at-card-icon"><LogoMark size={34} /></span>
-        <span className="at-card-title at-wordmark">Active Transport</span>
-        <p className="at-card-text">
-          {what} is part of Primary Active Transport: study tools built from your bricks, in class order.
-          {' '}Active Transport also turns your own notes into NBME-style questions and Anki cards.
-        </p>
+        <span className="at-card-title">Part of <span className="at-wordmark">Active Transport</span></span>
         <span className="at-card-cta">Open Active Transport →</span>
       </a>
     </>

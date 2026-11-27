@@ -121,7 +121,7 @@ function AppShell() {
   if (!topicsHook.topics && tier === 'standard') {
     return (
       <div className="min-h-screen flex items-center justify-center bg-slate-900">
-        <p className="text-red-400">Failed to load topics. Check that data/topics.json exists.</p>
+        <p className="text-red-400">Failed to load topics.</p>
       </div>
     );
   }
