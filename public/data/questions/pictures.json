@@ -1,0 +1,1084 @@
+{
+  "categoryId": "pictures",
+  "categoryName": "Pictures by week",
+  "questions": [
+    {
+      "id": "gipic-058",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "This section of gastric body/fundus mucosa has two cell populations circled. The cells circled in yellow secrete which of the following substances?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gastrin"
+        },
+        {
+          "label": "B",
+          "text": "Intrinsic factor"
+        },
+        {
+          "label": "C",
+          "text": "Mucus"
+        },
+        {
+          "label": "D",
+          "text": "Pepsinogen"
+        },
+        {
+          "label": "E",
+          "text": "Somatostatin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The yellow-circled cells are parietal cells: large, round, pale-eosinophilic cells in the upper and middle gland that secrete HCl and intrinsic factor (needed for vitamin B12 absorption in the ileum).",
+        "whyCorrect": "The yellow-circled cells are parietal (oxyntic) cells, recognized by their large size, central nucleus and pink cytoplasm. They secrete HCl and intrinsic factor. The basophilic cells circled in red at the gland base are chief cells, which secrete pepsinogen.",
+        "whyWrongByChoice": {
+          "A": "Gastrin comes from G cells in the antrum and stimulates parietal cells rather than being made by them.",
+          "C": "Mucus is secreted by surface foveolar and neck mucous cells, not by the large eosinophilic parietal cells.",
+          "D": "Pepsinogen is secreted by chief cells, the basophilic cells at the base of fundic glands.",
+          "E": "Somatostatin is released by D cells and inhibits parietal cell acid secretion."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-058_gi021_f06.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Histology of the Gastrointestinal Tract",
+      "lectureTopicId": "histology-gi-tract",
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-061",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "This high-power image shows the base of small-intestinal crypts. The cells containing the bright red cytoplasmic granules secrete which products?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Defensins and lysozyme"
+        },
+        {
+          "label": "B",
+          "text": "Gastrin and somatostatin"
+        },
+        {
+          "label": "C",
+          "text": "Hydrochloric acid and intrinsic factor"
+        },
+        {
+          "label": "D",
+          "text": "Mucus and bicarbonate"
+        },
+        {
+          "label": "E",
+          "text": "Pepsinogen"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Paneth cells sit at the crypt base and release antimicrobial defensins, lysozyme, and phospholipase A2, protecting stem cells.",
+        "whyCorrect": "Paneth cells sit at the crypt base and release antimicrobial defensins, lysozyme, and phospholipase A2, protecting stem cells.",
+        "whyWrongByChoice": {
+          "B": "Gastrin and somatostatin are enteroendocrine hormones from G and D cells, not antimicrobial products.",
+          "C": "HCl and intrinsic factor are products of gastric parietal cells, not intestinal crypt-base cells.",
+          "D": "Mucus and bicarbonate come from goblet cells and Brunner glands, not from these eosinophilic granular cells.",
+          "E": "Pepsinogen is secreted by gastric chief cells, not cells at the base of intestinal crypts."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-061_gi021_f12.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Histology of the Gastrointestinal Tract",
+      "lectureTopicId": "histology-gi-tract",
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-062",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "This low-power section of the gut wall shows a distinctive feature spanning the mucosa and submucosa. This feature is most abundant in which segment of the GI tract?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Duodenum"
+        },
+        {
+          "label": "B",
+          "text": "Esophagus"
+        },
+        {
+          "label": "C",
+          "text": "Ileum"
+        },
+        {
+          "label": "D",
+          "text": "Jejunum"
+        },
+        {
+          "label": "E",
+          "text": "Stomach"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Peyer patches are aggregated lymphoid follicles concentrated in the ileum, providing mucosal immune surveillance.",
+        "whyCorrect": "Peyer patches are aggregated lymphoid follicles concentrated in the ileum, providing mucosal immune surveillance.",
+        "whyWrongByChoice": {
+          "A": "The duodenum is identified by submucosal Brunner glands, not abundant aggregated lymphoid nodules.",
+          "B": "The esophagus has stratified squamous epithelium and only scattered lymphoid tissue, not Peyer patches.",
+          "D": "The jejunum has tall plicae and villi but few aggregated lymphoid follicles.",
+          "E": "The stomach has gastric pits and glands and normally lacks organized lymphoid aggregates."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-062_gi021_f13.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Histology of the Gastrointestinal Tract",
+      "lectureTopicId": "histology-gi-tract",
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-133",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "A 74-year-old man with atrial fibrillation undergoes emergency laparotomy for acute abdominal pain. The bowel shown in this intraoperative photograph is found. What is the most likely underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic celiac artery compression"
+        },
+        {
+          "label": "B",
+          "text": "Inferior mesenteric artery thrombosis"
+        },
+        {
+          "label": "C",
+          "text": "Sigmoid volvulus"
+        },
+        {
+          "label": "D",
+          "text": "Splenic vein thrombosis"
+        },
+        {
+          "label": "E",
+          "text": "Superior mesenteric artery embolism"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Acute occlusion of the SMA, most often from a cardioembolic embolus, infarcts the entire midgut (jejunum, ileum, and proximal colon), producing the dusky, hemorrhagic necrosis shown. Because loss of the midgut is often unsurvivable, flow must be restored rapidly.",
+        "whyCorrect": "Acute occlusion of the SMA, most often from a cardioembolic embolus, infarcts the entire midgut (jejunum, ileum, and proximal colon), producing the dusky, hemorrhagic necrosis shown. Because loss of the midgut is often unsurvivable, flow must be restored rapidly.",
+        "whyWrongByChoice": {
+          "A": "Chronic celiac artery compression (median arcuate ligament syndrome) causes postprandial pain, not acute small-bowel necrosis.",
+          "B": "IMA thrombosis affects the descending and sigmoid colon (hindgut), not the small bowel.",
+          "C": "Sigmoid volvulus strangulates the sigmoid colon, not the small intestine.",
+          "D": "Splenic vein thrombosis causes left-sided (sinistral) portal hypertension with gastric varices, not small-bowel infarction."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-133_gi025_f06.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "GI Blood Supply and Innervation",
+      "lectureTopicId": "gi-blood-supply-innervation",
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-143",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "A 3-week-old infant is brought in for poor feeding. The oral lesions shown come off when scraped with a tongue blade. Which organism is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Actinomyces israelii"
+        },
+        {
+          "label": "B",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "C",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "D",
+          "text": "Herpes simplex virus type 1"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus mutans"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Oral thrush (pseudomembranous candidiasis) is caused by Candida albicans and produces scrapable white plaques on the oral mucosa. It typically arises with immunosuppression, antibiotic use, or inhaled corticosteroid therapy. Scrapability distinguishes it from hairy leukoplakia.",
+        "whyCorrect": "Oral thrush (pseudomembranous candidiasis) is caused by Candida albicans and produces scrapable white plaques on the oral mucosa. It typically arises with immunosuppression, antibiotic use, or inhaled corticosteroid therapy. Scrapability distinguishes it from hairy leukoplakia.",
+        "whyWrongByChoice": {
+          "A": "Actinomyces israelii causes cervicofacial abscesses with draining sinuses and sulfur granules, not scrapable white mucosal plaques in an infant.",
+          "C": "EBV causes oral hairy leukoplakia, a corrugated white lesion on the lateral tongue that cannot be scraped off, typically in immunocompromised adults.",
+          "D": "HSV-1 produces painful vesicles that rupture into shallow ulcers, not white curd-like plaques that wipe off to leave a red base.",
+          "E": "Streptococcus mutans initiates dental caries by fermenting sugars on tooth enamel; it does not form white pseudomembranes on the oral mucosa."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-143_gi029_f05.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "lectureTopicId": "oral-dysbiosis",
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-144",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "A 36-year-old man with HIV has the painless tongue lesion shown, which cannot be scraped off. Reactivation of which virus is most strongly associated with this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coxsackievirus A"
+        },
+        {
+          "label": "B",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "C",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "D",
+          "text": "Herpes simplex virus type 1"
+        },
+        {
+          "label": "E",
+          "text": "Human papillomavirus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hairy leukoplakia produces non-scrapable, corrugated white patches on the lateral tongue and results from Epstein-Barr virus reactivation, characteristically in immunocompromised (e.g., HIV) patients. Unlike thrush, it cannot be wiped off.",
+        "whyCorrect": "Hairy leukoplakia produces non-scrapable, corrugated white patches on the lateral tongue and results from Epstein-Barr virus reactivation, characteristically in immunocompromised (e.g., HIV) patients. Unlike thrush, it cannot be wiped off.",
+        "whyWrongByChoice": {
+          "A": "Coxsackievirus A causes herpangina and hand-foot-mouth disease, with vesicles and ulcers on the soft palate and oral mucosa rather than a fixed white tongue lesion.",
+          "B": "CMV in immunocompromised patients causes large, shallow GI ulcers (e.g., esophagitis, colitis), not corrugated white plaques on the lateral tongue.",
+          "D": "HSV-1 causes painful vesicles and ulcers (gingivostomatitis, cold sores), not a painless corrugated white patch on the tongue.",
+          "E": "HPV causes oral papillomas and oropharyngeal squamous carcinoma, not the shaggy, non-scrapable lateral-tongue plaques of hairy leukoplakia."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-144_gi029_f06.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "lectureTopicId": "oral-dysbiosis",
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-145",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "A 3-year-old boy has fever, drooling, and refusal to eat for 2 days. The lesions shown involve his lips, perioral skin, and gums. Which virus is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coxsackievirus A"
+        },
+        {
+          "label": "B",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "C",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "D",
+          "text": "Herpes simplex virus type 1"
+        },
+        {
+          "label": "E",
+          "text": "Varicella-zoster virus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Primary herpetic gingivostomatitis is caused by HSV-1 and typically presents in children 6 months to 5 years with painful oral vesicles that ulcerate and resolve within 1-2 weeks. A Tzanck smear may show multinucleated giant cells, though PCR is now preferred.",
+        "whyCorrect": "Primary herpetic gingivostomatitis is caused by HSV-1 and typically presents in children 6 months to 5 years with painful oral vesicles that ulcerate and resolve within 1-2 weeks. A Tzanck smear may show multinucleated giant cells, though PCR is now preferred.",
+        "whyWrongByChoice": {
+          "A": "Coxsackievirus A causes herpangina, with vesicles confined to the posterior oropharynx and soft palate, and spares the gingiva and perioral skin.",
+          "B": "CMV rarely causes oral lesions in healthy children; it causes ulcers mainly in immunocompromised hosts and does not produce acute vesicular gingivostomatitis.",
+          "C": "EBV causes infectious mononucleosis with exudative pharyngitis, lymphadenopathy, and splenomegaly, not clustered perioral and gingival vesicles.",
+          "E": "Varicella-zoster virus causes a generalized vesicular rash in crops over the trunk and face; oral lesions are incidental rather than a perioral and gingival eruption."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-145_gi029_f07.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "lectureTopicId": "oral-dysbiosis",
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-070",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "A 25-year-old man has intermittent dysphagia to solid foods. Endoscopy of his mid-esophagus is shown. Which disorder is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Achalasia"
+        },
+        {
+          "label": "B",
+          "text": "Barrett esophagus"
+        },
+        {
+          "label": "C",
+          "text": "Candida esophagitis"
+        },
+        {
+          "label": "D",
+          "text": "Eosinophilic esophagitis"
+        },
+        {
+          "label": "E",
+          "text": "Reflux esophagitis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Concentric rings ('trachealization'), along with furrows and white exudates, are the most characteristic endoscopic finding of eosinophilic esophagitis.",
+        "whyCorrect": "Concentric rings ('trachealization'), along with furrows and white exudates, are the most characteristic endoscopic finding of eosinophilic esophagitis.",
+        "whyWrongByChoice": {
+          "A": "Achalasia shows a dilated, food-filled esophagus with a tight LES, not stacked mucosal rings.",
+          "B": "Barrett esophagus appears as salmon-colored columnar mucosa extending above the GE junction, not as trachea-like rings.",
+          "C": "Candida esophagitis produces white adherent plaques on an erythematous mucosa, not fixed concentric rings.",
+          "E": "Reflux esophagitis causes distal linear erosions near the GE junction rather than rings along the length of the esophagus."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-070_gi000_f12.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Benign Esophageal Disorders: GERD, Esophagitis, and Structural Disorders",
+      "lectureTopicId": "benign-esophageal-disorders",
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-071",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "A 45-year-old man with HIV has painful swallowing. His endoscopy (A) and a PAS-stained mucosal brushing (B) are shown. Which organism is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspergillus fumigatus"
+        },
+        {
+          "label": "B",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "C",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "D",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "E",
+          "text": "Histoplasma capsulatum"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Candida esophagitis presents with adherent white/yellow plaques; brushing reveals yeast and pseudohyphae. It is the most common infectious esophagitis in immunocompromised patients.",
+        "whyCorrect": "Candida esophagitis presents with adherent white/yellow plaques; brushing reveals yeast and pseudohyphae. It is the most common infectious esophagitis in immunocompromised patients.",
+        "whyWrongByChoice": {
+          "A": "Aspergillus forms septate hyphae branching at acute angles and invades vessels in neutropenic patients; it is not a cause of esophageal thrush.",
+          "C": "CMV esophagitis causes large, shallow linear ulcers, and biopsy shows enlarged cells with owl's-eye inclusions, not filamentous structures.",
+          "D": "HSV esophagitis causes small punched-out ulcers, and cytology shows multinucleated cells with ground-glass nuclei, not branching filaments.",
+          "E": "Histoplasma appears as tiny intracellular yeasts inside macrophages and rarely involves the esophagus; it does not form pseudohyphae on brushing."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-071_gi000_f13.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Benign Esophageal Disorders: GERD, Esophagitis, and Structural Disorders",
+      "lectureTopicId": "benign-esophageal-disorders",
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-045",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "A gastric antral biopsy from a 45-year-old man with epigastric pain is shown with a silver stain. The arrows mark organisms in the surface mucus. What is the most likely organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Campylobacter jejuni"
+        },
+        {
+          "label": "B",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "C",
+          "text": "Giardia lamblia"
+        },
+        {
+          "label": "D",
+          "text": "Helicobacter pylori"
+        },
+        {
+          "label": "E",
+          "text": "Vibrio cholerae"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Helicobacter pylori is a gram-negative, curved (seagull-shaped) rod that colonizes the mucus layer over gastric epithelium. It produces urease to survive gastric acid and causes chronic gastritis, peptic ulcers, gastric cancer, and MALT lymphoma.",
+        "whyCorrect": "Helicobacter pylori is a gram-negative, curved (seagull-shaped) rod that colonizes the mucus layer over gastric epithelium. It produces urease to survive gastric acid and causes chronic gastritis, peptic ulcers, gastric cancer, and MALT lymphoma.",
+        "whyWrongByChoice": {
+          "A": "Campylobacter jejuni is a curved rod that infects the small and large intestine causing bloody diarrhea, not gastric mucosa.",
+          "B": "Candida appears as budding yeast and pseudohyphae, much larger than bacteria, and does not line up as curved rods along the gastric pits.",
+          "C": "Giardia trophozoites are pear-shaped, binucleate protozoa attached to duodenal villi, not curved bacteria in gastric mucus.",
+          "E": "Vibrio cholerae is a comma-shaped rod that colonizes the small intestine and causes secretory diarrhea; it does not survive gastric acid to colonize the stomach."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-045_gi001_f02.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Peptic Ulcer Disease and Gastritis",
+      "lectureTopicId": "peptic-ulcer-gastritis",
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-046",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "This well-circumscribed parotid tumor is shown at low (A) and higher (B) power. Which type of background stroma, seen in panel B, characterizes this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amyloid deposition"
+        },
+        {
+          "label": "B",
+          "text": "Chondromyxoid (myxoid and hyaline) stroma"
+        },
+        {
+          "label": "C",
+          "text": "Dense lymphoid stroma with germinal centers"
+        },
+        {
+          "label": "D",
+          "text": "Desmoplastic fibrous stroma"
+        },
+        {
+          "label": "E",
+          "text": "Mucin-filled cystic spaces"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pleomorphic adenoma shows epithelial and myoepithelial cells embedded in a chondromyxoid matrix. This mixed pattern distinguishes it from Warthin tumor (lymphoid stroma) and mucoepidermoid carcinoma (mucous cells).",
+        "whyCorrect": "Pleomorphic adenoma shows epithelial and myoepithelial cells embedded in a chondromyxoid matrix. This mixed pattern distinguishes it from Warthin tumor (lymphoid stroma) and mucoepidermoid carcinoma (mucous cells).",
+        "whyWrongByChoice": {
+          "A": "Amyloid deposition is seen in medullary thyroid carcinoma and systemic amyloidosis, not as the background matrix of a parotid mixed tumor.",
+          "C": "A dense lymphoid stroma with germinal centers characterizes Warthin tumor, which has oncocytic bilayered epithelium rather than myoepithelial cells in a matrix.",
+          "D": "Desmoplastic fibrous stroma is a reaction to invasive carcinoma, whereas this tumor is well demarcated with a cartilage-like matrix made by myoepithelial cells.",
+          "E": "Mucin-filled cystic spaces with mucous, epidermoid, and intermediate cells define mucoepidermoid carcinoma, the most common malignant salivary tumor."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-046_gi002_f05.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Oral, Salivary Gland, and Esophageal Neoplasms",
+      "lectureTopicId": "upper-gi-neoplasms",
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-047",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "This parotid tumor from a 62-year-old man is shown at low (A) and high (B) power; arrows mark key features. Which tumor and risk-factor association is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenoid cystic carcinoma - associated with perineural invasion"
+        },
+        {
+          "label": "B",
+          "text": "Chronic sialadenitis - associated with ductal obstruction"
+        },
+        {
+          "label": "C",
+          "text": "Mucoepidermoid carcinoma - associated with a chromosomal translocation"
+        },
+        {
+          "label": "D",
+          "text": "Pleomorphic adenoma - associated with prior radiation exposure"
+        },
+        {
+          "label": "E",
+          "text": "Warthin tumor - strongly associated with smoking"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A bilayered oncocytic epithelium over lymphoid stroma with germinal centers is diagnostic of Warthin tumor. It arises almost exclusively in the parotid gland and is strongly linked to smoking.",
+        "whyCorrect": "A bilayered oncocytic epithelium over lymphoid stroma with germinal centers is diagnostic of Warthin tumor. It arises almost exclusively in the parotid gland and is strongly linked to smoking.",
+        "whyWrongByChoice": {
+          "A": "Adenoid cystic carcinoma shows cribriform (Swiss-cheese) nests of basaloid cells and perineural invasion, not oncocytic bilayers over lymphoid stroma.",
+          "B": "Chronic sialadenitis from duct obstruction shows atrophic acini, fibrosis, and scattered inflammation rather than a discrete tumor with oncocytic bilayered epithelium.",
+          "C": "Mucoepidermoid carcinoma, linked to the CRTC1-MAML2 translocation, contains mucous and squamoid cells without a germinal-center lymphoid stroma.",
+          "D": "Pleomorphic adenoma has epithelial and myoepithelial cells in a chondromyxoid stroma, with no oncocytic bilayer or germinal-center lymphoid background."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-047_gi002_f06.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Oral, Salivary Gland, and Esophageal Neoplasms",
+      "lectureTopicId": "upper-gi-neoplasms",
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-099",
+      "topicId": "pictures-w1",
+      "topicName": "Week 1 pictures",
+      "stem": "A 63-year-old man has a nonhealing, indurated lesion of the oral mucosa (top). A biopsy is shown below. Which risk-factor combination is most classically associated with this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune sialadenitis"
+        },
+        {
+          "label": "B",
+          "text": "Chronic gastroesophageal reflux"
+        },
+        {
+          "label": "C",
+          "text": "Epstein-Barr virus infection"
+        },
+        {
+          "label": "D",
+          "text": "High-risk HPV infection"
+        },
+        {
+          "label": "E",
+          "text": "Tobacco and alcohol use"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "This is keratinizing squamous cell carcinoma of the oral cavity, classically driven by combined tobacco and alcohol exposure, in contrast to HPV-driven nonkeratinizing oropharyngeal SCC.",
+        "whyCorrect": "This is keratinizing squamous cell carcinoma of the oral cavity, classically driven by combined tobacco and alcohol exposure, in contrast to HPV-driven nonkeratinizing oropharyngeal SCC.",
+        "whyWrongByChoice": {
+          "A": "Autoimmune sialadenitis (Sjogren syndrome) raises the risk of MALT lymphoma of the salivary glands, not keratinizing oral squamous carcinoma.",
+          "B": "Chronic reflux drives Barrett esophagus and distal esophageal adenocarcinoma, not invasive keratinizing carcinoma of the oral mucosa.",
+          "C": "EBV is linked to nasopharyngeal carcinoma and hairy leukoplakia, not to keratinizing squamous carcinoma of the oral cavity.",
+          "D": "High-risk HPV (type 16) drives nonkeratinizing oropharyngeal carcinoma of the tonsils and tongue base, not classic keratinizing oral cavity cancer."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-099_gi002_f02.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Oral, Salivary Gland, and Esophageal Neoplasms",
+      "lectureTopicId": "upper-gi-neoplasms",
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-111",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "A Prussian blue-stained bone marrow aspirate from a patient with microcytic anemia is shown; the arrow marks an abnormal erythroid precursor. Accumulation of iron in this pattern most directly results from a defect in which process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Folate-dependent nucleotide synthesis for DNA replication"
+        },
+        {
+          "label": "B",
+          "text": "Incorporation of iron into protoporphyrin IX to form heme"
+        },
+        {
+          "label": "C",
+          "text": "Synthesis of globin polypeptide chains"
+        },
+        {
+          "label": "D",
+          "text": "Transferrin-mediated cellular iron uptake"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin B12-dependent methylmalonyl-CoA conversion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The image shows a ringed sideroblast. When heme synthesis is impaired (e.g., ALAS2 deficiency in X-linked sideroblastic anemia), iron cannot be incorporated into protoporphyrin IX, so unused iron accumulates in perinuclear mitochondria and stains with Prussian blue, forming a ring around the nucleus.",
+        "whyCorrect": "The image shows a ringed sideroblast. When heme synthesis is impaired (e.g., ALAS2 deficiency in X-linked sideroblastic anemia), iron cannot be incorporated into protoporphyrin IX, so unused iron accumulates in perinuclear mitochondria and stains with Prussian blue, forming a ring around the nucleus.",
+        "whyWrongByChoice": {
+          "A": "Folate-dependent DNA synthesis defects cause megaloblastic anemia with large, asynchronously maturing precursors, not mitochondrial iron rings.",
+          "C": "Defective globin synthesis causes thalassemia with microcytic, target-cell anemia; heme synthesis proceeds and ringed sideroblasts are not the hallmark.",
+          "D": "Failed transferrin-mediated uptake would deprive precursors of iron, so iron could not accumulate around the nucleus.",
+          "E": "B12-dependent methylmalonyl-CoA conversion affects myelin and fatty acid metabolism; B12 deficiency causes megaloblastic anemia, not ringed sideroblasts."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-111_gi008_f02.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Porphyrins and Iron Homeostasis",
+      "lectureTopicId": "porphyrins-iron-homeostasis",
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-112",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "This liver is seen during cholecystectomy in a 25-year-old man with mild, intermittent jaundice due to conjugated hyperbilirubinemia. Which condition does this gross appearance indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Crigler-Najjar syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Dubin-Johnson syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Gilbert syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Rotor syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Wilson disease"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Dubin-Johnson syndrome is caused by defective canalicular excretion of conjugated bilirubin (MRP2/ABCC2 mutation). Accumulation of dark pigment in hepatocytes gives the characteristic glossy black liver. Rotor syndrome is similar biochemically but does not produce a black liver.",
+        "whyCorrect": "Dubin-Johnson syndrome is caused by defective canalicular excretion of conjugated bilirubin (MRP2/ABCC2 mutation). Accumulation of dark pigment in hepatocytes gives the characteristic glossy black liver. Rotor syndrome is similar biochemically but does not produce a black liver.",
+        "whyWrongByChoice": {
+          "A": "Crigler-Najjar syndrome is absent or severely reduced UGT1A1 causing severe neonatal unconjugated hyperbilirubinemia and kernicterus risk, with no black pigment.",
+          "C": "Gilbert syndrome is mild reduced UGT1A1 activity causing intermittent unconjugated hyperbilirubinemia with stress or fasting, and the liver looks normal.",
+          "D": "Rotor syndrome also causes conjugated hyperbilirubinemia but, unlike this condition, the liver is not pigmented black.",
+          "E": "Wilson disease deposits copper causing hepatitis, cirrhosis, and Kayser-Fleischer rings, not a glossy black liver."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-112_gi008_f06.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Porphyrins and Iron Homeostasis",
+      "lectureTopicId": "porphyrins-iron-homeostasis",
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-116",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "This H&E section of liver shows a portal tract at the bottom center. In which region of the hepatic lobule are the hemorrhage and hepatocyte loss concentrated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bile canaliculi"
+        },
+        {
+          "label": "B",
+          "text": "Centrilobular zone (zone 3)"
+        },
+        {
+          "label": "C",
+          "text": "Midzonal region (zone 2)"
+        },
+        {
+          "label": "D",
+          "text": "Periportal zone (zone 1)"
+        },
+        {
+          "label": "E",
+          "text": "Portal tract"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Passive venous congestion backs up at the central vein, so RBC pooling and injury concentrate in the centrilobular zone 3, with relative sparing of the periportal region.",
+        "whyCorrect": "Passive venous congestion backs up at the central vein, so RBC pooling and injury concentrate in the centrilobular zone 3, with relative sparing of the periportal region.",
+        "whyWrongByChoice": {
+          "A": "Bile canaliculi are tiny channels between hepatocytes, not a lobular zone, and they are the site of cholestasis rather than red cell pooling.",
+          "C": "Zone 2 lies between the portal and central regions and is not the main site of congestive injury (it is classically hit by yellow fever).",
+          "D": "Zone 1 surrounds the portal tracts and receives the most oxygenated blood, so it is relatively spared in venous congestion.",
+          "E": "The portal tract contains the triad of vessels and duct in connective tissue and is not where congestion pools blood."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-116_gi009_f10.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Benign Liver Disease",
+      "lectureTopicId": "benign-liver-disease",
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-118",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "This H&E liver biopsy is from a 52-year-old woman with obesity and type 2 diabetes. What do the clear spaces within the hepatocytes most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cholestatic bile accumulation"
+        },
+        {
+          "label": "B",
+          "text": "Dilated blood-filled sinusoids"
+        },
+        {
+          "label": "C",
+          "text": "Hydropic (ballooning) degeneration"
+        },
+        {
+          "label": "D",
+          "text": "Intracellular glycogen accumulation"
+        },
+        {
+          "label": "E",
+          "text": "Large-droplet triglyceride accumulation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In hepatic steatosis, triglyceride droplets coalesce into a single large vacuole that pushes the nucleus to the periphery, producing macrovesicular fat. Zone 3 (centrilobular) accentuation is characteristic of adult MASLD.",
+        "whyCorrect": "In hepatic steatosis, triglyceride droplets coalesce into a single large vacuole that pushes the nucleus to the periphery, producing macrovesicular fat. Zone 3 (centrilobular) accentuation is characteristic of adult MASLD.",
+        "whyWrongByChoice": {
+          "A": "Cholestasis shows yellow-green bile plugs in canaliculi and feathery hepatocytes, not large clear round vacuoles.",
+          "B": "Dilated sinusoids lie between hepatocyte plates and contain red cells; they are not clear vacuoles inside hepatocytes.",
+          "C": "Ballooning degeneration swells hepatocytes with pale, wispy cytoplasm and a central nucleus, rather than a single sharp round vacuole pushing the nucleus aside.",
+          "D": "Glycogen accumulation clears the cytoplasm diffusely and gives a central nucleus, without a sharp single vacuole displacing it."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-118_gi011_f01.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD)",
+      "lectureTopicId": "masld",
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-123",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "This trichrome-stained liver biopsy is from a 58-year-old man with long-standing heavy alcohol use. What does this pattern represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute viral hepatitis"
+        },
+        {
+          "label": "B",
+          "text": "Cholestasis"
+        },
+        {
+          "label": "C",
+          "text": "Cirrhosis"
+        },
+        {
+          "label": "D",
+          "text": "Normal liver"
+        },
+        {
+          "label": "E",
+          "text": "Simple steatosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Bridging fibrosis surrounding regenerative nodules is the defining architecture of cirrhosis, the irreversible end stage of alcohol-associated liver disease with disrupted sinusoidal architecture and impaired function.",
+        "whyCorrect": "Bridging fibrosis surrounding regenerative nodules is the defining architecture of cirrhosis, the irreversible end stage of alcohol-associated liver disease with disrupted sinusoidal architecture and impaired function.",
+        "whyWrongByChoice": {
+          "A": "Acute viral hepatitis shows lobular inflammation, ballooning, and apoptotic (Councilman) bodies without established fibrous septa around nodules.",
+          "B": "Cholestasis shows bile plugs and pigment in hepatocytes and canaliculi, not fibrous bands encircling regenerative nodules.",
+          "D": "A normal liver has intact lobules with hepatocyte cords radiating from central veins and only minimal portal connective tissue.",
+          "E": "Simple steatosis shows fat vacuoles in hepatocytes with preserved lobular architecture and no bridging fibrosis."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-123_gi012_f06.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Cirrhosis and Portal Hypertension",
+      "lectureTopicId": "cirrhosis-portal-hypertension",
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-127",
+      "topicId": "pictures-w2",
+      "topicName": "Week 2 pictures",
+      "stem": "A 55-year-old man with cirrhosis has the abdominal wall finding shown. Portosystemic shunting through which vessels produces it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Azygos vein"
+        },
+        {
+          "label": "B",
+          "text": "Inferior vena cava"
+        },
+        {
+          "label": "C",
+          "text": "Left gastric (coronary) vein"
+        },
+        {
+          "label": "D",
+          "text": "Paraumbilical veins"
+        },
+        {
+          "label": "E",
+          "text": "Superior rectal vein"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Caput medusae results from anastomosis between engorged paraumbilical veins and small epigastric veins of the abdominal wall, driven by portal hypertension. Recanalization of the paraumbilical/umbilical vein produces the visible radiating collaterals.",
+        "whyCorrect": "Caput medusae results from anastomosis between engorged paraumbilical veins and small epigastric veins of the abdominal wall, driven by portal hypertension. Recanalization of the paraumbilical/umbilical vein produces the visible radiating collaterals.",
+        "whyWrongByChoice": {
+          "A": "The azygos vein is the systemic side of the esophageal varix shunt and does not drain to the umbilicus.",
+          "B": "The IVC is the systemic outflow that collaterals ultimately reach, not the recanalized vessel that runs to the umbilicus.",
+          "C": "Left gastric vein collaterals feed esophageal varices, not dilated veins on the abdominal wall.",
+          "E": "Superior rectal vein collaterals with the middle/inferior rectal veins produce anorectal varices, not periumbilical veins."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-127_gi015_f02.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Cirrhosis and Portal Hypertension",
+      "lectureTopicId": "cirrhosis-portal-hypertension",
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-090",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "A 67-year-old woman has sudden, severe abdominal pain. Her upright chest radiograph is shown. What does this radiograph most likely show?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basilar pulmonary consolidation"
+        },
+        {
+          "label": "B",
+          "text": "Bilateral pleural effusions"
+        },
+        {
+          "label": "C",
+          "text": "Free intraperitoneal air"
+        },
+        {
+          "label": "D",
+          "text": "Subphrenic abscess"
+        },
+        {
+          "label": "E",
+          "text": "Tension pneumothorax"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "An upright chest film is sensitive for detecting free intraperitoneal air, seen as lucent air collections under the diaphragm (pneumoperitoneum). This suggests perforation of a hollow viscus, such as a perforated duodenal ulcer, and mandates surgical evaluation.",
+        "whyCorrect": "An upright chest film is sensitive for detecting free intraperitoneal air, seen as lucent air collections under the diaphragm (pneumoperitoneum). This suggests perforation of a hollow viscus, such as a perforated duodenal ulcer, and mandates surgical evaluation.",
+        "whyWrongByChoice": {
+          "A": "Basilar consolidation appears as an opacity in the lung bases, not as a lucent crescent below the diaphragm.",
+          "B": "Pleural effusions appear as dense opacities that blunt the costophrenic angles, not as lucent air.",
+          "D": "A subphrenic abscess is usually a single, often unilateral collection with an air-fluid level, not thin crescents under both hemidiaphragms.",
+          "E": "Tension pneumothorax shows air in the pleural space with a collapsed lung and mediastinal shift, above the diaphragm rather than beneath it."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-090_gi020_f05.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Peritonitis",
+      "lectureTopicId": "peritonitis",
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-091",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "A 68-year-old man has fever and abdominal pain. A CT of his pelvis is shown; the arrows mark the abnormality. What is the most likely underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute appendicitis"
+        },
+        {
+          "label": "B",
+          "text": "Colonic adenocarcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Diverticulitis"
+        },
+        {
+          "label": "D",
+          "text": "Ischemic colitis"
+        },
+        {
+          "label": "E",
+          "text": "Ulcerative colitis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Segmental sigmoid wall thickening with pericolic fat stranding, free fluid, and small extraluminal gas locules is classic for acute diverticulitis with microperforation, a common cause of localized secondary peritonitis.",
+        "whyCorrect": "Segmental sigmoid wall thickening with pericolic fat stranding, free fluid, and small extraluminal gas locules is classic for acute diverticulitis with microperforation, a common cause of localized secondary peritonitis.",
+        "whyWrongByChoice": {
+          "A": "Acute appendicitis involves the right lower quadrant appendix, not a thickened segment of sigmoid colon.",
+          "B": "Colonic adenocarcinoma usually causes an irregular, shouldered mass with nodes; it can mimic this but is not the most likely cause of acute inflammation with free air.",
+          "D": "Ischemic colitis favors watershed areas such as the splenic flexure, with thumbprinting and bloody diarrhea, rather than sigmoid inflammation with extraluminal air.",
+          "E": "Ulcerative colitis is continuous mucosal inflammation from the rectum proximally, not a focal sigmoid segment with microperforation."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-091_gi020_f06.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Peritonitis",
+      "lectureTopicId": "peritonitis",
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-092",
+      "topicId": "pictures-w3",
+      "topicName": "Week 3 pictures",
+      "stem": "A 50-year-old man has chronic epigastric pain. His abdominal CT (left, arrow) and plain film (right, circled) are shown. The marked finding is virtually pathognomonic for which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute interstitial edematous pancreatitis"
+        },
+        {
+          "label": "B",
+          "text": "Chronic pancreatitis"
+        },
+        {
+          "label": "C",
+          "text": "Gallstone ileus"
+        },
+        {
+          "label": "D",
+          "text": "Pancreatic ductal adenocarcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Pancreatic pseudocyst"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Parenchymal calcifications are the most reliable imaging finding of established chronic pancreatitis, reflecting calcified intraductal protein plugs; they are nearly 100% specific and are most common in advanced alcohol-related disease.",
+        "whyCorrect": "Parenchymal calcifications are the most reliable imaging finding of established chronic pancreatitis, reflecting calcified intraductal protein plugs; they are nearly 100% specific and are most common in advanced alcohol-related disease.",
+        "whyWrongByChoice": {
+          "A": "Acute interstitial pancreatitis causes an enlarged, edematous pancreas with peripancreatic stranding, not parenchymal calcification.",
+          "C": "Gallstone ileus shows pneumobilia, small bowel obstruction, and an ectopic gallstone (Rigler triad), not pancreatic calcifications.",
+          "D": "Ductal adenocarcinoma is a hypoenhancing mass that may obstruct ducts; calcification is uncommon and not pathognomonic.",
+          "E": "A pseudocyst is a fluid collection with a fibrous wall, appearing as a low-density cyst rather than scattered calcifications."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-092_gi022_f09.png",
+      "tags": [
+        "picture"
+      ],
+      "lecture": "Acute and Chronic Pancreatitis",
+      "lectureTopicId": "pancreatitis",
+      "source": "gi-picqbank"
+    }
+  ]
+}
