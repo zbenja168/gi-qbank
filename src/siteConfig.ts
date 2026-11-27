@@ -40,23 +40,8 @@ export const SITE: SiteConfig = {
       "current": false
     },
     {
-      "label": "Learning Games",
-      "url": "https://zbenja168.github.io/gi-learning-games/",
-      "current": false
-    },
-    {
-      "label": "Study Games",
+      "label": "Games",
       "url": "https://zbenja168.github.io/gi-dragndrop/gi_index.html",
-      "current": false
-    },
-    {
-      "label": "Picture Match",
-      "url": "https://zbenja168.github.io/gi-picdnd/",
-      "current": false
-    },
-    {
-      "label": "Anatomy ID",
-      "url": "https://zbenja168.github.io/gi-anatomy/",
       "current": false
     },
     {
