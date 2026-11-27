@@ -925,6 +925,53 @@
       ]
     },
     {
+      "id": "gipic-118",
+      "topicId": "masld",
+      "topicName": "Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD)",
+      "stem": "This H&E liver biopsy is from a 52-year-old woman with obesity and type 2 diabetes. What do the clear spaces within the hepatocytes most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cholestatic bile accumulation"
+        },
+        {
+          "label": "B",
+          "text": "Dilated blood-filled sinusoids"
+        },
+        {
+          "label": "C",
+          "text": "Hydropic (ballooning) degeneration"
+        },
+        {
+          "label": "D",
+          "text": "Intracellular glycogen accumulation"
+        },
+        {
+          "label": "E",
+          "text": "Large-droplet triglyceride accumulation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In hepatic steatosis, triglyceride droplets coalesce into a single large vacuole that pushes the nucleus to the periphery, producing macrovesicular fat. Zone 3 (centrilobular) accentuation is characteristic of adult MASLD.",
+        "whyCorrect": "In hepatic steatosis, triglyceride droplets coalesce into a single large vacuole that pushes the nucleus to the periphery, producing macrovesicular fat. Zone 3 (centrilobular) accentuation is characteristic of adult MASLD.",
+        "whyWrongByChoice": {
+          "A": "Cholestasis shows yellow-green bile plugs in canaliculi and feathery hepatocytes, not large clear round vacuoles.",
+          "B": "Dilated sinusoids lie between hepatocyte plates and contain red cells; they are not clear vacuoles inside hepatocytes.",
+          "C": "Ballooning degeneration swells hepatocytes with pale, wispy cytoplasm and a central nucleus, rather than a single sharp round vacuole pushing the nucleus aside.",
+          "D": "Glycogen accumulation clears the cytoplasm diffusely and gives a central nucleus, without a sharp single vacuole displacing it."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-118_gi011_f01.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "gi-picqbank"
+    },
+    {
       "id": "alcohol-liver-disease-001",
       "topicId": "alcohol-liver-disease",
       "topicName": "Alcohol-Associated Liver Disease",
@@ -4649,6 +4696,100 @@
         "management",
         "end-stage"
       ]
+    },
+    {
+      "id": "gipic-123",
+      "topicId": "cirrhosis-portal-hypertension",
+      "topicName": "Cirrhosis and Portal Hypertension",
+      "stem": "This trichrome-stained liver biopsy is from a 58-year-old man with long-standing heavy alcohol use. What does this pattern represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute viral hepatitis"
+        },
+        {
+          "label": "B",
+          "text": "Cholestasis"
+        },
+        {
+          "label": "C",
+          "text": "Cirrhosis"
+        },
+        {
+          "label": "D",
+          "text": "Normal liver"
+        },
+        {
+          "label": "E",
+          "text": "Simple steatosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Bridging fibrosis surrounding regenerative nodules is the defining architecture of cirrhosis, the irreversible end stage of alcohol-associated liver disease with disrupted sinusoidal architecture and impaired function.",
+        "whyCorrect": "Bridging fibrosis surrounding regenerative nodules is the defining architecture of cirrhosis, the irreversible end stage of alcohol-associated liver disease with disrupted sinusoidal architecture and impaired function.",
+        "whyWrongByChoice": {
+          "A": "Acute viral hepatitis shows lobular inflammation, ballooning, and apoptotic (Councilman) bodies without established fibrous septa around nodules.",
+          "B": "Cholestasis shows bile plugs and pigment in hepatocytes and canaliculi, not fibrous bands encircling regenerative nodules.",
+          "D": "A normal liver has intact lobules with hepatocyte cords radiating from central veins and only minimal portal connective tissue.",
+          "E": "Simple steatosis shows fat vacuoles in hepatocytes with preserved lobular architecture and no bridging fibrosis."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-123_gi012_f06.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-127",
+      "topicId": "cirrhosis-portal-hypertension",
+      "topicName": "Cirrhosis and Portal Hypertension",
+      "stem": "A 55-year-old man with cirrhosis has the abdominal wall finding shown. Portosystemic shunting through which vessels produces it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Azygos vein"
+        },
+        {
+          "label": "B",
+          "text": "Inferior vena cava"
+        },
+        {
+          "label": "C",
+          "text": "Left gastric (coronary) vein"
+        },
+        {
+          "label": "D",
+          "text": "Paraumbilical veins"
+        },
+        {
+          "label": "E",
+          "text": "Superior rectal vein"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Caput medusae results from anastomosis between engorged paraumbilical veins and small epigastric veins of the abdominal wall, driven by portal hypertension. Recanalization of the paraumbilical/umbilical vein produces the visible radiating collaterals.",
+        "whyCorrect": "Caput medusae results from anastomosis between engorged paraumbilical veins and small epigastric veins of the abdominal wall, driven by portal hypertension. Recanalization of the paraumbilical/umbilical vein produces the visible radiating collaterals.",
+        "whyWrongByChoice": {
+          "A": "The azygos vein is the systemic side of the esophageal varix shunt and does not drain to the umbilicus.",
+          "B": "The IVC is the systemic outflow that collaterals ultimately reach, not the recanalized vessel that runs to the umbilicus.",
+          "C": "Left gastric vein collaterals feed esophageal varices, not dilated veins on the abdominal wall.",
+          "E": "Superior rectal vein collaterals with the middle/inferior rectal veins produce anorectal varices, not periumbilical veins."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-127_gi015_f02.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "gi-picqbank"
     }
   ]
 }

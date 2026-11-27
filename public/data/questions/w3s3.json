@@ -930,6 +930,53 @@
       "hy": true
     },
     {
+      "id": "gipic-092",
+      "topicId": "pancreatitis",
+      "topicName": "Acute and Chronic Pancreatitis",
+      "stem": "A 50-year-old man has chronic epigastric pain. His abdominal CT (left, arrow) and plain film (right, circled) are shown. The marked finding is virtually pathognomonic for which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute interstitial edematous pancreatitis"
+        },
+        {
+          "label": "B",
+          "text": "Chronic pancreatitis"
+        },
+        {
+          "label": "C",
+          "text": "Gallstone ileus"
+        },
+        {
+          "label": "D",
+          "text": "Pancreatic ductal adenocarcinoma"
+        },
+        {
+          "label": "E",
+          "text": "Pancreatic pseudocyst"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Parenchymal calcifications are the most reliable imaging finding of established chronic pancreatitis, reflecting calcified intraductal protein plugs; they are nearly 100% specific and are most common in advanced alcohol-related disease.",
+        "whyCorrect": "Parenchymal calcifications are the most reliable imaging finding of established chronic pancreatitis, reflecting calcified intraductal protein plugs; they are nearly 100% specific and are most common in advanced alcohol-related disease.",
+        "whyWrongByChoice": {
+          "A": "Acute interstitial pancreatitis causes an enlarged, edematous pancreas with peripancreatic stranding, not parenchymal calcification.",
+          "C": "Gallstone ileus shows pneumobilia, small bowel obstruction, and an ectopic gallstone (Rigler triad), not pancreatic calcifications.",
+          "D": "Ductal adenocarcinoma is a hypoenhancing mass that may obstruct ducts; calcification is uncommon and not pathognomonic.",
+          "E": "A pseudocyst is a fluid collection with a fibrous wall, appearing as a low-density cyst rather than scattered calcifications."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-092_gi022_f09.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "gi-picqbank"
+    },
+    {
       "id": "pancreatic-carcinoma-001",
       "topicId": "pancreatic-carcinoma",
       "topicName": "Pancreatic Carcinoma",

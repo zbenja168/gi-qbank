@@ -2784,6 +2784,100 @@
         "HIPEC",
         "treatment"
       ]
+    },
+    {
+      "id": "gipic-090",
+      "topicId": "peritonitis",
+      "topicName": "Peritonitis",
+      "stem": "A 67-year-old woman has sudden, severe abdominal pain. Her upright chest radiograph is shown. What does this radiograph most likely show?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basilar pulmonary consolidation"
+        },
+        {
+          "label": "B",
+          "text": "Bilateral pleural effusions"
+        },
+        {
+          "label": "C",
+          "text": "Free intraperitoneal air"
+        },
+        {
+          "label": "D",
+          "text": "Subphrenic abscess"
+        },
+        {
+          "label": "E",
+          "text": "Tension pneumothorax"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "An upright chest film is sensitive for detecting free intraperitoneal air, seen as lucent air collections under the diaphragm (pneumoperitoneum). This suggests perforation of a hollow viscus, such as a perforated duodenal ulcer, and mandates surgical evaluation.",
+        "whyCorrect": "An upright chest film is sensitive for detecting free intraperitoneal air, seen as lucent air collections under the diaphragm (pneumoperitoneum). This suggests perforation of a hollow viscus, such as a perforated duodenal ulcer, and mandates surgical evaluation.",
+        "whyWrongByChoice": {
+          "A": "Basilar consolidation appears as an opacity in the lung bases, not as a lucent crescent below the diaphragm.",
+          "B": "Pleural effusions appear as dense opacities that blunt the costophrenic angles, not as lucent air.",
+          "D": "A subphrenic abscess is usually a single, often unilateral collection with an air-fluid level, not thin crescents under both hemidiaphragms.",
+          "E": "Tension pneumothorax shows air in the pleural space with a collapsed lung and mediastinal shift, above the diaphragm rather than beneath it."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-090_gi020_f05.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-091",
+      "topicId": "peritonitis",
+      "topicName": "Peritonitis",
+      "stem": "A 68-year-old man has fever and abdominal pain. A CT of his pelvis is shown; the arrows mark the abnormality. What is the most likely underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute appendicitis"
+        },
+        {
+          "label": "B",
+          "text": "Colonic adenocarcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Diverticulitis"
+        },
+        {
+          "label": "D",
+          "text": "Ischemic colitis"
+        },
+        {
+          "label": "E",
+          "text": "Ulcerative colitis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Segmental sigmoid wall thickening with pericolic fat stranding, free fluid, and small extraluminal gas locules is classic for acute diverticulitis with microperforation, a common cause of localized secondary peritonitis.",
+        "whyCorrect": "Segmental sigmoid wall thickening with pericolic fat stranding, free fluid, and small extraluminal gas locules is classic for acute diverticulitis with microperforation, a common cause of localized secondary peritonitis.",
+        "whyWrongByChoice": {
+          "A": "Acute appendicitis involves the right lower quadrant appendix, not a thickened segment of sigmoid colon.",
+          "B": "Colonic adenocarcinoma usually causes an irregular, shouldered mass with nodes; it can mimic this but is not the most likely cause of acute inflammation with free air.",
+          "D": "Ischemic colitis favors watershed areas such as the splenic flexure, with thumbprinting and bloody diarrhea, rather than sigmoid inflammation with extraluminal air.",
+          "E": "Ulcerative colitis is continuous mucosal inflammation from the rectum proximally, not a focal sigmoid segment with microperforation."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-091_gi020_f06.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "gi-picqbank"
     }
   ]
 }

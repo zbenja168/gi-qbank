@@ -1875,6 +1875,147 @@
       ]
     },
     {
+      "id": "gipic-058",
+      "topicId": "histology-gi-tract",
+      "topicName": "Histology of the Gastrointestinal Tract",
+      "stem": "This section of gastric body/fundus mucosa has two cell populations circled. The cells circled in yellow secrete which of the following substances?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gastrin"
+        },
+        {
+          "label": "B",
+          "text": "Intrinsic factor"
+        },
+        {
+          "label": "C",
+          "text": "Mucus"
+        },
+        {
+          "label": "D",
+          "text": "Pepsinogen"
+        },
+        {
+          "label": "E",
+          "text": "Somatostatin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The yellow-circled cells are parietal cells: large, round, pale-eosinophilic cells in the upper and middle gland that secrete HCl and intrinsic factor (needed for vitamin B12 absorption in the ileum).",
+        "whyCorrect": "The yellow-circled cells are parietal (oxyntic) cells, recognized by their large size, central nucleus and pink cytoplasm. They secrete HCl and intrinsic factor. The basophilic cells circled in red at the gland base are chief cells, which secrete pepsinogen.",
+        "whyWrongByChoice": {
+          "A": "Gastrin comes from G cells in the antrum and stimulates parietal cells rather than being made by them.",
+          "C": "Mucus is secreted by surface foveolar and neck mucous cells, not by the large eosinophilic parietal cells.",
+          "D": "Pepsinogen is secreted by chief cells, the basophilic cells at the base of fundic glands.",
+          "E": "Somatostatin is released by D cells and inhibits parietal cell acid secretion."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-058_gi021_f06.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-061",
+      "topicId": "histology-gi-tract",
+      "topicName": "Histology of the Gastrointestinal Tract",
+      "stem": "This high-power image shows the base of small-intestinal crypts. The cells containing the bright red cytoplasmic granules secrete which products?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Defensins and lysozyme"
+        },
+        {
+          "label": "B",
+          "text": "Gastrin and somatostatin"
+        },
+        {
+          "label": "C",
+          "text": "Hydrochloric acid and intrinsic factor"
+        },
+        {
+          "label": "D",
+          "text": "Mucus and bicarbonate"
+        },
+        {
+          "label": "E",
+          "text": "Pepsinogen"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Paneth cells sit at the crypt base and release antimicrobial defensins, lysozyme, and phospholipase A2, protecting stem cells.",
+        "whyCorrect": "Paneth cells sit at the crypt base and release antimicrobial defensins, lysozyme, and phospholipase A2, protecting stem cells.",
+        "whyWrongByChoice": {
+          "B": "Gastrin and somatostatin are enteroendocrine hormones from G and D cells, not antimicrobial products.",
+          "C": "HCl and intrinsic factor are products of gastric parietal cells, not intestinal crypt-base cells.",
+          "D": "Mucus and bicarbonate come from goblet cells and Brunner glands, not from these eosinophilic granular cells.",
+          "E": "Pepsinogen is secreted by gastric chief cells, not cells at the base of intestinal crypts."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-061_gi021_f12.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-062",
+      "topicId": "histology-gi-tract",
+      "topicName": "Histology of the Gastrointestinal Tract",
+      "stem": "This low-power section of the gut wall shows a distinctive feature spanning the mucosa and submucosa. This feature is most abundant in which segment of the GI tract?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Duodenum"
+        },
+        {
+          "label": "B",
+          "text": "Esophagus"
+        },
+        {
+          "label": "C",
+          "text": "Ileum"
+        },
+        {
+          "label": "D",
+          "text": "Jejunum"
+        },
+        {
+          "label": "E",
+          "text": "Stomach"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Peyer patches are aggregated lymphoid follicles concentrated in the ileum, providing mucosal immune surveillance.",
+        "whyCorrect": "Peyer patches are aggregated lymphoid follicles concentrated in the ileum, providing mucosal immune surveillance.",
+        "whyWrongByChoice": {
+          "A": "The duodenum is identified by submucosal Brunner glands, not abundant aggregated lymphoid nodules.",
+          "B": "The esophagus has stratified squamous epithelium and only scattered lymphoid tissue, not Peyer patches.",
+          "D": "The jejunum has tall plicae and villi but few aggregated lymphoid follicles.",
+          "E": "The stomach has gastric pits and glands and normally lacks organized lymphoid aggregates."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-062_gi021_f13.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "gi-picqbank"
+    },
+    {
       "id": "oral-region-anatomy-001",
       "topicId": "oral-region-anatomy",
       "topicName": "Gross Anatomy and Histology of the Oral Region",
@@ -3729,6 +3870,53 @@
         "embolism",
         "anatomy"
       ]
+    },
+    {
+      "id": "gipic-133",
+      "topicId": "gi-blood-supply-innervation",
+      "topicName": "GI Blood Supply and Innervation",
+      "stem": "A 74-year-old man with atrial fibrillation undergoes emergency laparotomy for acute abdominal pain. The bowel shown in this intraoperative photograph is found. What is the most likely underlying cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic celiac artery compression"
+        },
+        {
+          "label": "B",
+          "text": "Inferior mesenteric artery thrombosis"
+        },
+        {
+          "label": "C",
+          "text": "Sigmoid volvulus"
+        },
+        {
+          "label": "D",
+          "text": "Splenic vein thrombosis"
+        },
+        {
+          "label": "E",
+          "text": "Superior mesenteric artery embolism"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Acute occlusion of the SMA, most often from a cardioembolic embolus, infarcts the entire midgut (jejunum, ileum, and proximal colon), producing the dusky, hemorrhagic necrosis shown. Because loss of the midgut is often unsurvivable, flow must be restored rapidly.",
+        "whyCorrect": "Acute occlusion of the SMA, most often from a cardioembolic embolus, infarcts the entire midgut (jejunum, ileum, and proximal colon), producing the dusky, hemorrhagic necrosis shown. Because loss of the midgut is often unsurvivable, flow must be restored rapidly.",
+        "whyWrongByChoice": {
+          "A": "Chronic celiac artery compression (median arcuate ligament syndrome) causes postprandial pain, not acute small-bowel necrosis.",
+          "B": "IMA thrombosis affects the descending and sigmoid colon (hindgut), not the small bowel.",
+          "C": "Sigmoid volvulus strangulates the sigmoid colon, not the small intestine.",
+          "D": "Splenic vein thrombosis causes left-sided (sinistral) portal hypertension with gastric varices, not small-bowel infarction."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-133_gi025_f06.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "gi-picqbank"
     },
     {
       "id": "gi-tract-anatomy-001",

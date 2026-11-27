@@ -2814,6 +2814,147 @@
       ]
     },
     {
+      "id": "gipic-143",
+      "topicId": "oral-dysbiosis",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "A 3-week-old infant is brought in for poor feeding. The oral lesions shown come off when scraped with a tongue blade. Which organism is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Actinomyces israelii"
+        },
+        {
+          "label": "B",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "C",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "D",
+          "text": "Herpes simplex virus type 1"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus mutans"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Oral thrush (pseudomembranous candidiasis) is caused by Candida albicans and produces scrapable white plaques on the oral mucosa. It typically arises with immunosuppression, antibiotic use, or inhaled corticosteroid therapy. Scrapability distinguishes it from hairy leukoplakia.",
+        "whyCorrect": "Oral thrush (pseudomembranous candidiasis) is caused by Candida albicans and produces scrapable white plaques on the oral mucosa. It typically arises with immunosuppression, antibiotic use, or inhaled corticosteroid therapy. Scrapability distinguishes it from hairy leukoplakia.",
+        "whyWrongByChoice": {
+          "A": "Actinomyces israelii causes cervicofacial abscesses with draining sinuses and sulfur granules, not scrapable white mucosal plaques in an infant.",
+          "C": "EBV causes oral hairy leukoplakia, a corrugated white lesion on the lateral tongue that cannot be scraped off, typically in immunocompromised adults.",
+          "D": "HSV-1 produces painful vesicles that rupture into shallow ulcers, not white curd-like plaques that wipe off to leave a red base.",
+          "E": "Streptococcus mutans initiates dental caries by fermenting sugars on tooth enamel; it does not form white pseudomembranes on the oral mucosa."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-143_gi029_f05.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-144",
+      "topicId": "oral-dysbiosis",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "A 36-year-old man with HIV has the painless tongue lesion shown, which cannot be scraped off. Reactivation of which virus is most strongly associated with this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coxsackievirus A"
+        },
+        {
+          "label": "B",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "C",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "D",
+          "text": "Herpes simplex virus type 1"
+        },
+        {
+          "label": "E",
+          "text": "Human papillomavirus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hairy leukoplakia produces non-scrapable, corrugated white patches on the lateral tongue and results from Epstein-Barr virus reactivation, characteristically in immunocompromised (e.g., HIV) patients. Unlike thrush, it cannot be wiped off.",
+        "whyCorrect": "Hairy leukoplakia produces non-scrapable, corrugated white patches on the lateral tongue and results from Epstein-Barr virus reactivation, characteristically in immunocompromised (e.g., HIV) patients. Unlike thrush, it cannot be wiped off.",
+        "whyWrongByChoice": {
+          "A": "Coxsackievirus A causes herpangina and hand-foot-mouth disease, with vesicles and ulcers on the soft palate and oral mucosa rather than a fixed white tongue lesion.",
+          "B": "CMV in immunocompromised patients causes large, shallow GI ulcers (e.g., esophagitis, colitis), not corrugated white plaques on the lateral tongue.",
+          "D": "HSV-1 causes painful vesicles and ulcers (gingivostomatitis, cold sores), not a painless corrugated white patch on the tongue.",
+          "E": "HPV causes oral papillomas and oropharyngeal squamous carcinoma, not the shaggy, non-scrapable lateral-tongue plaques of hairy leukoplakia."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-144_gi029_f06.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-145",
+      "topicId": "oral-dysbiosis",
+      "topicName": "Oral Dysbiosis: Microflora and Clinical Pathologies",
+      "stem": "A 3-year-old boy has fever, drooling, and refusal to eat for 2 days. The lesions shown involve his lips, perioral skin, and gums. Which virus is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coxsackievirus A"
+        },
+        {
+          "label": "B",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "C",
+          "text": "Epstein-Barr virus"
+        },
+        {
+          "label": "D",
+          "text": "Herpes simplex virus type 1"
+        },
+        {
+          "label": "E",
+          "text": "Varicella-zoster virus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Primary herpetic gingivostomatitis is caused by HSV-1 and typically presents in children 6 months to 5 years with painful oral vesicles that ulcerate and resolve within 1-2 weeks. A Tzanck smear may show multinucleated giant cells, though PCR is now preferred.",
+        "whyCorrect": "Primary herpetic gingivostomatitis is caused by HSV-1 and typically presents in children 6 months to 5 years with painful oral vesicles that ulcerate and resolve within 1-2 weeks. A Tzanck smear may show multinucleated giant cells, though PCR is now preferred.",
+        "whyWrongByChoice": {
+          "A": "Coxsackievirus A causes herpangina, with vesicles confined to the posterior oropharynx and soft palate, and spares the gingiva and perioral skin.",
+          "B": "CMV rarely causes oral lesions in healthy children; it causes ulcers mainly in immunocompromised hosts and does not produce acute vesicular gingivostomatitis.",
+          "C": "EBV causes infectious mononucleosis with exudative pharyngitis, lymphadenopathy, and splenomegaly, not clustered perioral and gingival vesicles.",
+          "E": "Varicella-zoster virus causes a generalized vesicular rash in crops over the trunk and face; oral lesions are incidental rather than a perioral and gingival eruption."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-145_gi029_f07.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "gi-picqbank"
+    },
+    {
       "id": "sjogren-syndrome-001",
       "topicId": "sjogren-syndrome",
       "topicName": "Sjögren Syndrome",

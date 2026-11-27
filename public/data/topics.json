@@ -14,9 +14,9 @@
         {
           "id": "histology-gi-tract",
           "name": "Histology of the Gastrointestinal Tract",
-          "questionCount": 20,
-          "hyCount": 7,
-          "hyCoreCount": 7
+          "questionCount": 23,
+          "hyCount": 10,
+          "hyCoreCount": 10
         },
         {
           "id": "oral-region-anatomy",
@@ -28,9 +28,9 @@
         {
           "id": "gi-blood-supply-innervation",
           "name": "GI Blood Supply and Innervation",
-          "questionCount": 20,
-          "hyCount": 7,
-          "hyCoreCount": 7
+          "questionCount": 21,
+          "hyCount": 8,
+          "hyCoreCount": 8
         },
         {
           "id": "gi-tract-anatomy",
@@ -65,9 +65,9 @@
         {
           "id": "oral-dysbiosis",
           "name": "Oral Dysbiosis: Microflora and Clinical Pathologies",
-          "questionCount": 20,
-          "hyCount": 7,
-          "hyCoreCount": 7
+          "questionCount": 23,
+          "hyCount": 10,
+          "hyCoreCount": 10
         },
         {
           "id": "sjogren-syndrome",
@@ -88,23 +88,23 @@
         {
           "id": "benign-esophageal-disorders",
           "name": "Benign Esophageal Disorders: GERD, Esophagitis, and Structural Disorders",
-          "questionCount": 20,
-          "hyCount": 7,
-          "hyCoreCount": 7
+          "questionCount": 22,
+          "hyCount": 9,
+          "hyCoreCount": 9
         },
         {
           "id": "peptic-ulcer-gastritis",
           "name": "Peptic Ulcer Disease and Gastritis",
-          "questionCount": 20,
-          "hyCount": 7,
-          "hyCoreCount": 7
+          "questionCount": 21,
+          "hyCount": 8,
+          "hyCoreCount": 8
         },
         {
           "id": "upper-gi-neoplasms",
           "name": "Oral, Salivary Gland, and Esophageal Neoplasms",
-          "questionCount": 20,
-          "hyCount": 7,
-          "hyCoreCount": 7
+          "questionCount": 23,
+          "hyCount": 10,
+          "hyCoreCount": 10
         },
         {
           "id": "gastric-neoplasms",
@@ -162,16 +162,16 @@
         {
           "id": "porphyrins-iron-homeostasis",
           "name": "Porphyrins and Iron Homeostasis",
-          "questionCount": 20,
-          "hyCount": 7,
-          "hyCoreCount": 7
+          "questionCount": 22,
+          "hyCount": 9,
+          "hyCoreCount": 9
         },
         {
           "id": "benign-liver-disease",
           "name": "Benign Liver Disease",
-          "questionCount": 20,
-          "hyCount": 7,
-          "hyCoreCount": 7
+          "questionCount": 21,
+          "hyCount": 8,
+          "hyCoreCount": 8
         }
       ],
       "week": 2,
@@ -185,9 +185,9 @@
         {
           "id": "masld",
           "name": "Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD)",
-          "questionCount": 20,
-          "hyCount": 7,
-          "hyCoreCount": 7
+          "questionCount": 21,
+          "hyCount": 8,
+          "hyCoreCount": 8
         },
         {
           "id": "alcohol-liver-disease",
@@ -213,9 +213,9 @@
         {
           "id": "cirrhosis-portal-hypertension",
           "name": "Cirrhosis and Portal Hypertension",
-          "questionCount": 20,
-          "hyCount": 7,
-          "hyCoreCount": 7
+          "questionCount": 22,
+          "hyCount": 9,
+          "hyCoreCount": 9
         }
       ],
       "week": 2,
@@ -273,9 +273,9 @@
         {
           "id": "peritonitis",
           "name": "Peritonitis",
-          "questionCount": 20,
-          "hyCount": 7,
-          "hyCoreCount": 7
+          "questionCount": 22,
+          "hyCount": 9,
+          "hyCoreCount": 9
         }
       ],
       "week": 3,
@@ -289,9 +289,9 @@
         {
           "id": "pancreatitis",
           "name": "Acute and Chronic Pancreatitis",
-          "questionCount": 20,
-          "hyCount": 7,
-          "hyCoreCount": 7
+          "questionCount": 21,
+          "hyCount": 8,
+          "hyCoreCount": 8
         },
         {
           "id": "pancreatic-carcinoma",
@@ -599,45 +599,6 @@
       ],
       "week": 6,
       "weekName": "Week 6",
-      "weekSubtitle": ""
-    },
-    {
-      "id": "pictures",
-      "name": "Pictures by week",
-      "topics": [
-        {
-          "id": "pictures-w1",
-          "name": "Week 1 pictures",
-          "sourceFile": "Picture QBank (curated)",
-          "coreCount": 13,
-          "extraCount": 0,
-          "questionCount": 13,
-          "hyCount": 13,
-          "hyCoreCount": 13
-        },
-        {
-          "id": "pictures-w2",
-          "name": "Week 2 pictures",
-          "sourceFile": "Picture QBank (curated)",
-          "coreCount": 6,
-          "extraCount": 0,
-          "questionCount": 6,
-          "hyCount": 6,
-          "hyCoreCount": 6
-        },
-        {
-          "id": "pictures-w3",
-          "name": "Week 3 pictures",
-          "sourceFile": "Picture QBank (curated)",
-          "coreCount": 3,
-          "extraCount": 0,
-          "questionCount": 3,
-          "hyCount": 3,
-          "hyCoreCount": 3
-        }
-      ],
-      "week": 7,
-      "weekName": "Picture questions",
       "weekSubtitle": ""
     }
   ],

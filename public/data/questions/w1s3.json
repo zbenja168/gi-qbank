@@ -950,6 +950,100 @@
       ]
     },
     {
+      "id": "gipic-070",
+      "topicId": "benign-esophageal-disorders",
+      "topicName": "Benign Esophageal Disorders: GERD, Esophagitis, and Structural Disorders",
+      "stem": "A 25-year-old man has intermittent dysphagia to solid foods. Endoscopy of his mid-esophagus is shown. Which disorder is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Achalasia"
+        },
+        {
+          "label": "B",
+          "text": "Barrett esophagus"
+        },
+        {
+          "label": "C",
+          "text": "Candida esophagitis"
+        },
+        {
+          "label": "D",
+          "text": "Eosinophilic esophagitis"
+        },
+        {
+          "label": "E",
+          "text": "Reflux esophagitis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Concentric rings ('trachealization'), along with furrows and white exudates, are the most characteristic endoscopic finding of eosinophilic esophagitis.",
+        "whyCorrect": "Concentric rings ('trachealization'), along with furrows and white exudates, are the most characteristic endoscopic finding of eosinophilic esophagitis.",
+        "whyWrongByChoice": {
+          "A": "Achalasia shows a dilated, food-filled esophagus with a tight LES, not stacked mucosal rings.",
+          "B": "Barrett esophagus appears as salmon-colored columnar mucosa extending above the GE junction, not as trachea-like rings.",
+          "C": "Candida esophagitis produces white adherent plaques on an erythematous mucosa, not fixed concentric rings.",
+          "E": "Reflux esophagitis causes distal linear erosions near the GE junction rather than rings along the length of the esophagus."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-070_gi000_f12.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-071",
+      "topicId": "benign-esophageal-disorders",
+      "topicName": "Benign Esophageal Disorders: GERD, Esophagitis, and Structural Disorders",
+      "stem": "A 45-year-old man with HIV has painful swallowing. His endoscopy (A) and a PAS-stained mucosal brushing (B) are shown. Which organism is responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspergillus fumigatus"
+        },
+        {
+          "label": "B",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "C",
+          "text": "Cytomegalovirus"
+        },
+        {
+          "label": "D",
+          "text": "Herpes simplex virus"
+        },
+        {
+          "label": "E",
+          "text": "Histoplasma capsulatum"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Candida esophagitis presents with adherent white/yellow plaques; brushing reveals yeast and pseudohyphae. It is the most common infectious esophagitis in immunocompromised patients.",
+        "whyCorrect": "Candida esophagitis presents with adherent white/yellow plaques; brushing reveals yeast and pseudohyphae. It is the most common infectious esophagitis in immunocompromised patients.",
+        "whyWrongByChoice": {
+          "A": "Aspergillus forms septate hyphae branching at acute angles and invades vessels in neutropenic patients; it is not a cause of esophageal thrush.",
+          "C": "CMV esophagitis causes large, shallow linear ulcers, and biopsy shows enlarged cells with owl's-eye inclusions, not filamentous structures.",
+          "D": "HSV esophagitis causes small punched-out ulcers, and cytology shows multinucleated cells with ground-glass nuclei, not branching filaments.",
+          "E": "Histoplasma appears as tiny intracellular yeasts inside macrophages and rarely involves the esophagus; it does not form pseudohyphae on brushing."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-071_gi000_f13.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "gi-picqbank"
+    },
+    {
       "id": "peptic-ulcer-gastritis-001",
       "topicId": "peptic-ulcer-gastritis",
       "topicName": "Peptic Ulcer Disease and Gastritis",
@@ -1867,6 +1961,53 @@
         "urea breath test",
         "follow-up"
       ]
+    },
+    {
+      "id": "gipic-045",
+      "topicId": "peptic-ulcer-gastritis",
+      "topicName": "Peptic Ulcer Disease and Gastritis",
+      "stem": "A gastric antral biopsy from a 45-year-old man with epigastric pain is shown with a silver stain. The arrows mark organisms in the surface mucus. What is the most likely organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Campylobacter jejuni"
+        },
+        {
+          "label": "B",
+          "text": "Candida albicans"
+        },
+        {
+          "label": "C",
+          "text": "Giardia lamblia"
+        },
+        {
+          "label": "D",
+          "text": "Helicobacter pylori"
+        },
+        {
+          "label": "E",
+          "text": "Vibrio cholerae"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Helicobacter pylori is a gram-negative, curved (seagull-shaped) rod that colonizes the mucus layer over gastric epithelium. It produces urease to survive gastric acid and causes chronic gastritis, peptic ulcers, gastric cancer, and MALT lymphoma.",
+        "whyCorrect": "Helicobacter pylori is a gram-negative, curved (seagull-shaped) rod that colonizes the mucus layer over gastric epithelium. It produces urease to survive gastric acid and causes chronic gastritis, peptic ulcers, gastric cancer, and MALT lymphoma.",
+        "whyWrongByChoice": {
+          "A": "Campylobacter jejuni is a curved rod that infects the small and large intestine causing bloody diarrhea, not gastric mucosa.",
+          "B": "Candida appears as budding yeast and pseudohyphae, much larger than bacteria, and does not line up as curved rods along the gastric pits.",
+          "C": "Giardia trophozoites are pear-shaped, binucleate protozoa attached to duodenal villi, not curved bacteria in gastric mucus.",
+          "E": "Vibrio cholerae is a comma-shaped rod that colonizes the small intestine and causes secretory diarrhea; it does not survive gastric acid to colonize the stomach."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-045_gi001_f02.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "gi-picqbank"
     },
     {
       "id": "upper-gi-neoplasms-001",
@@ -2794,6 +2935,147 @@
         "epidemiology"
       ],
       "hy": true
+    },
+    {
+      "id": "gipic-046",
+      "topicId": "upper-gi-neoplasms",
+      "topicName": "Oral, Salivary Gland, and Esophageal Neoplasms",
+      "stem": "This well-circumscribed parotid tumor is shown at low (A) and higher (B) power. Which type of background stroma, seen in panel B, characterizes this tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amyloid deposition"
+        },
+        {
+          "label": "B",
+          "text": "Chondromyxoid (myxoid and hyaline) stroma"
+        },
+        {
+          "label": "C",
+          "text": "Dense lymphoid stroma with germinal centers"
+        },
+        {
+          "label": "D",
+          "text": "Desmoplastic fibrous stroma"
+        },
+        {
+          "label": "E",
+          "text": "Mucin-filled cystic spaces"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pleomorphic adenoma shows epithelial and myoepithelial cells embedded in a chondromyxoid matrix. This mixed pattern distinguishes it from Warthin tumor (lymphoid stroma) and mucoepidermoid carcinoma (mucous cells).",
+        "whyCorrect": "Pleomorphic adenoma shows epithelial and myoepithelial cells embedded in a chondromyxoid matrix. This mixed pattern distinguishes it from Warthin tumor (lymphoid stroma) and mucoepidermoid carcinoma (mucous cells).",
+        "whyWrongByChoice": {
+          "A": "Amyloid deposition is seen in medullary thyroid carcinoma and systemic amyloidosis, not as the background matrix of a parotid mixed tumor.",
+          "C": "A dense lymphoid stroma with germinal centers characterizes Warthin tumor, which has oncocytic bilayered epithelium rather than myoepithelial cells in a matrix.",
+          "D": "Desmoplastic fibrous stroma is a reaction to invasive carcinoma, whereas this tumor is well demarcated with a cartilage-like matrix made by myoepithelial cells.",
+          "E": "Mucin-filled cystic spaces with mucous, epidermoid, and intermediate cells define mucoepidermoid carcinoma, the most common malignant salivary tumor."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-046_gi002_f05.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-047",
+      "topicId": "upper-gi-neoplasms",
+      "topicName": "Oral, Salivary Gland, and Esophageal Neoplasms",
+      "stem": "This parotid tumor from a 62-year-old man is shown at low (A) and high (B) power; arrows mark key features. Which tumor and risk-factor association is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adenoid cystic carcinoma - associated with perineural invasion"
+        },
+        {
+          "label": "B",
+          "text": "Chronic sialadenitis - associated with ductal obstruction"
+        },
+        {
+          "label": "C",
+          "text": "Mucoepidermoid carcinoma - associated with a chromosomal translocation"
+        },
+        {
+          "label": "D",
+          "text": "Pleomorphic adenoma - associated with prior radiation exposure"
+        },
+        {
+          "label": "E",
+          "text": "Warthin tumor - strongly associated with smoking"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A bilayered oncocytic epithelium over lymphoid stroma with germinal centers is diagnostic of Warthin tumor. It arises almost exclusively in the parotid gland and is strongly linked to smoking.",
+        "whyCorrect": "A bilayered oncocytic epithelium over lymphoid stroma with germinal centers is diagnostic of Warthin tumor. It arises almost exclusively in the parotid gland and is strongly linked to smoking.",
+        "whyWrongByChoice": {
+          "A": "Adenoid cystic carcinoma shows cribriform (Swiss-cheese) nests of basaloid cells and perineural invasion, not oncocytic bilayers over lymphoid stroma.",
+          "B": "Chronic sialadenitis from duct obstruction shows atrophic acini, fibrosis, and scattered inflammation rather than a discrete tumor with oncocytic bilayered epithelium.",
+          "C": "Mucoepidermoid carcinoma, linked to the CRTC1-MAML2 translocation, contains mucous and squamoid cells without a germinal-center lymphoid stroma.",
+          "D": "Pleomorphic adenoma has epithelial and myoepithelial cells in a chondromyxoid stroma, with no oncocytic bilayer or germinal-center lymphoid background."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-047_gi002_f06.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "gi-picqbank"
+    },
+    {
+      "id": "gipic-099",
+      "topicId": "upper-gi-neoplasms",
+      "topicName": "Oral, Salivary Gland, and Esophageal Neoplasms",
+      "stem": "A 63-year-old man has a nonhealing, indurated lesion of the oral mucosa (top). A biopsy is shown below. Which risk-factor combination is most classically associated with this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune sialadenitis"
+        },
+        {
+          "label": "B",
+          "text": "Chronic gastroesophageal reflux"
+        },
+        {
+          "label": "C",
+          "text": "Epstein-Barr virus infection"
+        },
+        {
+          "label": "D",
+          "text": "High-risk HPV infection"
+        },
+        {
+          "label": "E",
+          "text": "Tobacco and alcohol use"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "This is keratinizing squamous cell carcinoma of the oral cavity, classically driven by combined tobacco and alcohol exposure, in contrast to HPV-driven nonkeratinizing oropharyngeal SCC.",
+        "whyCorrect": "This is keratinizing squamous cell carcinoma of the oral cavity, classically driven by combined tobacco and alcohol exposure, in contrast to HPV-driven nonkeratinizing oropharyngeal SCC.",
+        "whyWrongByChoice": {
+          "A": "Autoimmune sialadenitis (Sjogren syndrome) raises the risk of MALT lymphoma of the salivary glands, not keratinizing oral squamous carcinoma.",
+          "B": "Chronic reflux drives Barrett esophagus and distal esophageal adenocarcinoma, not invasive keratinizing carcinoma of the oral mucosa.",
+          "C": "EBV is linked to nasopharyngeal carcinoma and hairy leukoplakia, not to keratinizing squamous carcinoma of the oral cavity.",
+          "D": "High-risk HPV (type 16) drives nonkeratinizing oropharyngeal carcinoma of the tonsils and tongue base, not classic keratinizing oral cavity cancer."
+        }
+      },
+      "difficulty": "medium",
+      "tier": "core",
+      "hy": true,
+      "imageRef": "gipic-099_gi002_f02.png",
+      "tags": [
+        "picture"
+      ],
+      "source": "gi-picqbank"
     },
     {
       "id": "gastric-neoplasms-001",
