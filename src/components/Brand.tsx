@@ -158,6 +158,8 @@ export function BrandBadge() {
   useEffect(() => {
     const adopt = () => {
       const pill = document.getElementById('at-auth-badge');
+      // A page whose header has the pill slot (SiteHeader authSlot) keeps it there.
+      if (document.getElementById('at-auth-slot')) return !!pill;
       if (pill && stack.current && pill.parentElement !== stack.current) stack.current.appendChild(pill);
       return !!pill;
     };

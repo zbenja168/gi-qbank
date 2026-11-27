@@ -51,6 +51,9 @@
   /* Room for the fixed corner badge so it never covers the last buttons. */
   @media (max-width: 640px) {
     body { padding-bottom: 64px; }
+    /* ...unless the header holds the sign-in pill (SiteHeader authSlot):
+       then nothing floats, so nothing needs the room. */
+    body:has(#at-auth-slot) { padding-bottom: 0; }
   }
 }
 
@@ -127,8 +130,192 @@
     .at-sh-sibs::-webkit-scrollbar { display: none; }
     .at-sh-pill { height: 40px; padding: 0 14px; }
   }
+  /* Sign-in pill slot (SiteHeader authSlot). tool-track.js renders its pill
+     inside #at-auth-slot when the element exists. */
+  .at-sh-slot { flex-shrink: 0; display: flex; align-items: center; min-height: 40px; }
+  .at-sh-slot:empty { display: none; }
+  .at-sh-title + .at-sh-slot { margin-left: auto; }
+  @media (max-width: 639px) {
+    .at-sh-has-slot { position: relative; }
+    /* Right end of the brand row, which is the first row once the header stacks. */
+    .at-sh-has-slot .at-sh-slot { position: absolute; top: 10px; right: 16px; }
+  }
+
   /* The exam skins imitate an exam interface; the quiz drops the brand bar. */
   html[data-skin] body:has([data-part='quiz-root']) .at-sh { display: none; }
+}
+
+@layer components {
+  /* ---- Clean QBank home (TopicPicker / QBankToolbar / StartBar) --------- */
+  /* Course art: big, borderless, and fading into the page on every edge. */
+  .at-art {
+    display: block; width: calc(100% + 48px); max-width: none; height: 310px; object-fit: contain;
+    margin: -28px -24px -12px; opacity: .55; pointer-events: none;
+    -webkit-mask-image: radial-gradient(ellipse 62% 78% at 50% 50%, #000 50%, transparent 100%);
+            mask-image: radial-gradient(ellipse 62% 78% at 50% 50%, #000 50%, transparent 100%);
+  }
+  @media (max-width: 639px) { .at-art { height: 170px; width: calc(100% + 32px); margin: -14px -16px -6px; } }
+
+  .at-tb, .at-pk, .at-sb { font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif; }
+  /* Zero-specificity resets, so each component class below still wins. */
+  :where(.at-tb, .at-pk, .at-sb) button { cursor: pointer; font: inherit; color: inherit; }
+  :where(.at-tb, .at-sb) button:disabled { cursor: not-allowed; }
+
+  /* Toolbar: one slim row. */
+  .at-tb {
+    display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;
+    gap: 10px 16px; margin: 0 0 16px;
+  }
+  .at-tb-left, .at-tb-right { display: flex; align-items: center; gap: 8px 12px; flex-wrap: wrap; min-width: 0; }
+  .at-tb-seg {
+    display: inline-flex; padding: 3px; border-radius: 11px;
+    background: #1e293b; border: 1px solid #334155;
+  }
+  .at-tb-seg button {
+    display: inline-flex; align-items: center; gap: 6px; height: 36px; padding: 0 14px;
+    border-radius: 8px; font-size: 0.84rem; font-weight: 600; color: #94a3b8;
+    transition: background-color .15s ease, color .15s ease;
+  }
+  .at-tb-seg button:hover:not(.is-on) { color: #e2e8f0; }
+  .at-tb-seg button.is-on { background: var(--at-accent); color: var(--at-on-accent); }
+  .at-tb-seg button.is-hy.is-on { background: #fbbf24; color: #0f172a; }
+  .at-tb-zap { width: 13px; height: 13px; color: #fbbf24; flex-shrink: 0; }
+  .at-tb-seg button.is-hy.is-on .at-tb-zap { color: #0f172a; }
+
+  .at-tb-menu { position: relative; }
+  .at-tb-btn {
+    display: inline-flex; align-items: center; gap: 6px; height: 40px; padding: 0 10px 0 12px;
+    border-radius: 10px; border: 1px solid #334155; background: transparent;
+    font-size: 0.84rem; color: #cbd5e1; white-space: nowrap;
+    transition: border-color .15s ease;
+  }
+  .at-tb-btn:hover:not(:disabled), .at-tb-btn[aria-expanded="true"] { border-color: #475569; }
+  .at-tb-btn:disabled { opacity: 0.5; }
+  .at-tb-btn-k { color: #94a3b8; }
+  .at-tb-btn-v { color: #f1f5f9; font-weight: 600; }
+  .at-tb-caret { width: 14px; height: 14px; color: #64748b; }
+  .at-tb-pop {
+    position: absolute; right: 0; top: calc(100% + 6px); z-index: 30; min-width: 196px;
+    padding: 5px; border-radius: 12px; background: #1e293b; border: 1px solid #334155;
+    box-shadow: 0 14px 34px rgba(0, 0, 0, 0.45);
+  }
+  .at-tb-pop button {
+    display: flex; align-items: center; gap: 8px; width: 100%; height: 40px; padding: 0 10px;
+    border-radius: 8px; font-size: 0.86rem; color: #e2e8f0; text-align: left; white-space: nowrap;
+  }
+  .at-tb-pop button:hover { background: #334155; }
+  .at-tb-tick { width: 14px; color: var(--at-accent); font-weight: 700; }
+
+  .at-tb-sw-wrap { display: inline-flex; }
+  .at-tb-sw {
+    display: inline-flex; align-items: center; gap: 9px; height: 40px; padding: 0 4px;
+    font-size: 0.84rem; font-weight: 500; color: #cbd5e1; white-space: nowrap;
+  }
+  .at-tb-sw:disabled { opacity: 0.45; }
+  .at-tb-sw-track {
+    position: relative; width: 34px; height: 20px; border-radius: 999px; background: #334155;
+    transition: background-color .15s ease; flex-shrink: 0;
+  }
+  .at-tb-sw-dot {
+    position: absolute; top: 2px; left: 2px; width: 16px; height: 16px; border-radius: 50%;
+    background: #94a3b8; transition: transform .15s ease, background-color .15s ease;
+  }
+  .at-tb-sw.is-on .at-tb-sw-track { background: var(--at-accent); }
+  .at-tb-sw.is-on .at-tb-sw-dot { transform: translateX(14px); background: var(--at-on-accent); }
+  @media (max-width: 639px) {
+    .at-tb-right { width: 100%; justify-content: space-between; }
+    .at-tb-pop { right: auto; left: 0; }
+  }
+
+  /* Picker: collapsible weeks of quiet session rows. */
+  .at-pk { display: flex; flex-direction: column; gap: 8px; margin: 0 0 24px; }
+  .at-pk-week { border: 1px solid #1e293b; border-radius: 12px; background: #131c2e; overflow: hidden; }
+  .at-pk-week.is-open { border-color: #283548; }
+  .at-pk-wh {
+    display: flex; align-items: center; gap: 12px; width: 100%; min-height: 52px;
+    padding: 0 12px 0 16px; text-align: left; color: #e2e8f0;
+  }
+  .at-pk-wh:hover { background: rgba(148, 163, 184, 0.05); }
+  .at-pk-wh-label {
+    flex: 1; min-width: 0; font-size: 0.95rem; font-weight: 600;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  }
+  .at-pk-wh-picked { font-size: 0.74rem; font-weight: 600; color: var(--at-accent); white-space: nowrap; }
+  .at-pk-muted { font-size: 0.78rem; color: #64748b; white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .at-pk-chev { width: 16px; height: 16px; color: #64748b; flex-shrink: 0; transition: transform .15s ease; }
+  .at-pk-chev.is-open { transform: rotate(180deg); }
+
+  .at-pk-row { position: relative; border-top: 1px solid #1e293b; }
+  .at-pk-rh { position: relative; display: flex; align-items: stretch; }
+  .at-pk-pick {
+    flex: 1; min-width: 0; display: flex; align-items: center; gap: 12px; min-height: 48px;
+    padding: 0 6px 0 16px; text-align: left; color: #e2e8f0;
+  }
+  .at-pk-pick:hover, .at-pk-exp:hover { background: rgba(148, 163, 184, 0.05); }
+  .at-pk-row.is-picked { background: color-mix(in oklab, var(--at-accent) 6%, transparent); }
+  .at-pk-name { flex: 1; min-width: 0; overflow-wrap: anywhere; font-size: 0.92rem; font-weight: 500; }
+  .at-pk-row.is-done .at-pk-name { color: #64748b; }
+  .at-pk-exp { width: 46px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; }
+  .at-pk-box {
+    width: 18px; height: 18px; border-radius: 5px; border: 1.5px solid #475569; flex-shrink: 0;
+    display: flex; align-items: center; justify-content: center;
+    transition: background-color .12s ease, border-color .12s ease;
+  }
+  .at-pk-box svg { width: 12px; height: 12px; }
+  .at-pk-box.is-on { background: var(--at-accent); border-color: var(--at-accent); color: var(--at-on-accent); }
+  .at-pk-box.is-some { border-color: var(--at-accent); }
+  .at-pk-dash { width: 8px; height: 2px; border-radius: 1px; background: var(--at-accent); }
+  /* Shown only once a session is started. */
+  .at-pk-prog {
+    position: absolute; left: 46px; right: 52px; bottom: 7px; height: 2px;
+    border-radius: 2px; background: #1e293b; overflow: hidden; pointer-events: none;
+  }
+  .at-pk-prog > div { height: 100%; background: color-mix(in oklab, var(--at-accent) 80%, #0f172a); }
+
+  .at-pk-lects { list-style: none; margin: 0; padding: 2px 8px 8px 34px; }
+  .at-pk-lect {
+    display: flex; align-items: center; gap: 10px; min-height: 40px; padding: 0 8px;
+    border-radius: 8px; cursor: pointer; color: #cbd5e1;
+  }
+  .at-pk-lect:hover { background: rgba(148, 163, 184, 0.06); }
+  .at-pk-lect .at-pk-name { font-size: 0.86rem; font-weight: 400; }
+  /* The real checkbox stays for keyboard and screen readers; .at-pk-box draws it. */
+  .at-pk-sr {
+    position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; border: 0;
+    overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap;
+  }
+  .at-pk-lect { position: relative; }
+  .at-pk-lect .at-pk-box { width: 16px; height: 16px; border-radius: 4px; }
+  .at-pk-lect .at-pk-box svg { width: 11px; height: 11px; }
+  .at-pk-sr:focus-visible + .at-pk-box { outline: 2px solid var(--at-accent); outline-offset: 2px; }
+  .at-pk-lect.is-done { cursor: default; opacity: 0.55; }
+
+  /* Start bar: slides up only while something is selected. */
+  .at-sb {
+    position: fixed; left: 0; right: 0; bottom: 0; z-index: 40;
+    padding: 14px 16px calc(14px + env(safe-area-inset-bottom, 0px));
+    background: linear-gradient(to top, #0f172a 62%, rgba(15, 23, 42, 0));
+    transform: translateY(110%); visibility: hidden; pointer-events: none;
+    transition: transform .22s ease, visibility 0s linear .22s;
+  }
+  .at-sb.is-up { transform: none; visibility: visible; pointer-events: auto; transition: transform .22s ease; }
+  .at-sb-in { max-width: calc(64rem - 32px); margin: 0 auto; display: flex; gap: 10px; }
+  .at-sb-go {
+    flex: 1; min-width: 0; height: 52px; padding: 0 16px; border-radius: 12px;
+    font-size: 1rem; font-weight: 700; color: #0f172a; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    background: linear-gradient(135deg, #38bdf8 0%, #22d3ee 45%, #2dd4bf 100%);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+  }
+  .at-sb-go.is-hy { background: #fbbf24; }
+  .at-sb-go:hover:not(:disabled) { filter: brightness(1.07); }
+  .at-sb-dot { margin: 0 0.45em; opacity: 0.55; }
+  .at-sb-clear {
+    flex-shrink: 0; height: 52px; padding: 0 16px; border-radius: 12px;
+    border: 1px solid #334155; background: #0f172a; color: #cbd5e1; font-size: 0.9rem; font-weight: 600;
+  }
+  .at-sb-clear:hover { border-color: #475569; color: #f1f5f9; }
+  .at-sb-spacer { height: 84px; }
+  @media (prefers-reduced-motion: reduce) { .at-sb, .at-sb.is-up { transition: none; } }
 }
 
 @layer utilities {

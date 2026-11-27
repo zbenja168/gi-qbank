@@ -3,7 +3,7 @@ import { Question } from '../types/question';
 import { ProgressData, AnswerRecord, Session } from '../types/progress';
 import { QuestionCard } from '../components/Question/QuestionCard';
 import { useTimer } from '../hooks/useTimer';
-import { track } from '../utils/track';
+import { track, trackTopic } from '../utils/track';
 import { SkinName } from '../utils/skin';
 
 import { SITE } from '../siteConfig';
@@ -86,7 +86,7 @@ export function QuizPage({
     };
 
     onRecordAnswer(currentQuestion.id, record);
-    track('question_answered');
+    track('question_answered', { qid: currentQuestion.id, correct: isCorrect, topic: currentQuestion.topicId });
     setSessionAnswers(prev => new Map(prev).set(currentQuestion.id, isCorrect));
   }, [currentQuestion, timer, onRecordAnswer]);
 
@@ -105,7 +105,7 @@ export function QuizPage({
 
     if (answered.length > 0) {
       onRecordSession(session);
-      track('quiz_complete', { score: session.score, total: session.total });
+      track('quiz_complete', { score: session.score, total: session.total, topic: trackTopic(selectedTopicIds) });
     }
     onExit();
   }, [sessionAnswers, sessionCorrect, sessionStart, selectedTopicIds, onRecordSession, onExit]);

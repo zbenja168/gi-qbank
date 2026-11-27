@@ -21,6 +21,9 @@ export interface TopicStat {
   hyTotal: number;
   hyRemaining: number;
   hyComplete: boolean;
+  /** ISO time of the latest answer in the topic; the picker opens the week
+   *  holding the most recent one. */
+  lastAt?: string;
 }
 
 /** Per-topic completion, so the picker can say what is left rather than just
@@ -71,6 +74,11 @@ export function useTopicProgress(
   for (const [topicId, ids] of idsByTopic) {
     const answered = ids.all.reduce((n, id) => n + (answers[id] ? 1 : 0), 0);
     const hyAnswered = ids.hy.reduce((n, id) => n + (answers[id] ? 1 : 0), 0);
+    let lastAt: string | undefined;
+    for (const id of ids.all) {
+      const at = answers[id]?.answeredAt;
+      if (at && (!lastAt || at > lastAt)) lastAt = at;
+    }
     stats.set(topicId, {
       total: ids.all.length,
       answered,
@@ -79,6 +87,7 @@ export function useTopicProgress(
       hyTotal: ids.hy.length,
       hyRemaining: ids.hy.length - hyAnswered,
       hyComplete: ids.hy.length > 0 && hyAnswered >= ids.hy.length,
+      lastAt,
     });
   }
   return { stats, answeredIds: new Set(Object.keys(answers)) };

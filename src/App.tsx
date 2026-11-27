@@ -8,8 +8,7 @@ import { HomePage } from './pages/HomePage';
 import { QuizPage } from './pages/QuizPage';
 import { DashboardPage } from './pages/DashboardPage';
 import { ReviewPage } from './pages/ReviewPage';
-import { BrandBadge } from './components/Brand';
-import { track } from './utils/track';
+import { track, trackTopic } from './utils/track';
 import { Tier } from './utils/questionLoader';
 import { restoreSkin } from './utils/skin';
 
@@ -58,7 +57,7 @@ function AppShell() {
   const handleStartQuiz = useCallback(async () => {
     // Pass progress so completed questions are filtered out
     await loadQuestions(topicsHook.categoriesForSelected, topicsHook.selectedTopicIds, progress, tier);
-    track('quiz_start');
+    track('quiz_start', { topic: trackTopic(topicsHook.selectedTopicIds) });
     setPage('quiz');
   }, [loadQuestions, topicsHook.categoriesForSelected, topicsHook.selectedTopicIds, progress, tier]);
 
@@ -201,8 +200,9 @@ function AppShell() {
 export default function App() {
   return (
     <>
-      <BrandBadge />
-      <SiteHeader />
+      {/* No floating corner badge: the header carries the brand, and its
+          #at-auth-slot holds tool-track.js's sign-in pill. */}
+      <SiteHeader authSlot />
       <AppShell />
     </>
   );

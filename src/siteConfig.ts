@@ -6,6 +6,7 @@ export interface SiteConfig {
   repo: string;
   family: 'qbank' | 'picqbank' | 'picdnd' | 'anatomy';
   course: string;
+  courseKey: string;
   type: string;
   title: string;
   accent: string;
@@ -19,6 +20,7 @@ export const SITE: SiteConfig = {
   "repo": "gi-qbank",
   "family": "qbank",
   "course": "Gastrointestinal",
+  "courseKey": "gi",
   "type": "QBank",
   "title": "Gastrointestinal QBank",
   "accent": "#f97316",
@@ -33,11 +35,6 @@ export const SITE: SiteConfig = {
       "label": "QBank",
       "url": "https://zbenja168.github.io/gi-qbank/",
       "current": true
-    },
-    {
-      "label": "Picture QBank",
-      "url": "https://zbenja168.github.io/gi-picqbank/",
-      "current": false
     },
     {
       "label": "Games",
