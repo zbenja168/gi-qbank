@@ -40,7 +40,7 @@ export function SiteHeader({ authSlot = false }: { authSlot?: boolean }) {
           <span className="at-wordmark at-sh-word">Active Transport</span>
         </a>
         <div className="at-sh-title">
-          <div className="at-sh-eyebrow">Primary Active Transport · {SITE.course}</div>
+          <div className="at-sh-eyebrow">Active Transport · {SITE.course}</div>
           <h1 className="at-sh-h1">{SITE.title}</h1>
         </div>
         {SITE.siblings.length > 1 && (
