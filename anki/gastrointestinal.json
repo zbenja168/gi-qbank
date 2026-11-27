@@ -1,0 +1,524 @@
+{
+ "course": "Gastrointestinal",
+ "whole": {
+  "file": "gastrointestinal.apkg",
+  "cards": 1642,
+  "mb": 26.2
+ },
+ "weeks": [
+  {
+   "file": "gastrointestinal/week-1.apkg",
+   "cards": 402,
+   "mb": 9.7,
+   "week": 1,
+   "sessions": [
+    {
+     "file": "gastrointestinal/week-1-session-1.apkg",
+     "cards": 165,
+     "mb": 5.3,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "gastrointestinal/lecture-01.apkg",
+       "cards": 34,
+       "mb": 0.4,
+       "title": "GI System: Foundations and Overview"
+      },
+      {
+       "file": "gastrointestinal/lecture-02.apkg",
+       "cards": 30,
+       "mb": 1.8,
+       "title": "Histology of the Gastrointestinal Tract"
+      },
+      {
+       "file": "gastrointestinal/lecture-03.apkg",
+       "cards": 38,
+       "mb": 1.7,
+       "title": "Gross Anatomy and Histology of the Oral Region"
+      },
+      {
+       "file": "gastrointestinal/lecture-04.apkg",
+       "cards": 31,
+       "mb": 0.8,
+       "title": "GI Blood Supply and Innervation"
+      },
+      {
+       "file": "gastrointestinal/lecture-05.apkg",
+       "cards": 32,
+       "mb": 0.8,
+       "title": "Anatomy of the Gastrointestinal Tract"
+      }
+     ]
+    },
+    {
+     "file": "gastrointestinal/week-1-session-2.apkg",
+     "cards": 113,
+     "mb": 1.8,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "gastrointestinal/lecture-06.apkg",
+       "cards": 30,
+       "mb": 1.2,
+       "title": "Development of the Gastrointestinal System"
+      },
+      {
+       "file": "gastrointestinal/lecture-07.apkg",
+       "cards": 27,
+       "mb": 0.3,
+       "title": "Congenital Disorders of the GI Tract"
+      },
+      {
+       "file": "gastrointestinal/lecture-08.apkg",
+       "cards": 26,
+       "mb": 0.2,
+       "title": "Oral Dysbiosis: Microflora and Clinical Pathologies"
+      },
+      {
+       "file": "gastrointestinal/lecture-09.apkg",
+       "cards": 30,
+       "mb": 0.2,
+       "title": "Sjögren Syndrome"
+      }
+     ]
+    },
+    {
+     "file": "gastrointestinal/week-1-session-3.apkg",
+     "cards": 124,
+     "mb": 2.7,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "gastrointestinal/lecture-10.apkg",
+       "cards": 34,
+       "mb": 1.1,
+       "title": "Benign Esophageal Disorders: GERD, Esophagitis, and Structural Disorders"
+      },
+      {
+       "file": "gastrointestinal/lecture-11.apkg",
+       "cards": 30,
+       "mb": 0.5,
+       "title": "Peptic Ulcer Disease and Gastritis"
+      },
+      {
+       "file": "gastrointestinal/lecture-12.apkg",
+       "cards": 30,
+       "mb": 0.6,
+       "title": "Oral, Salivary Gland, and Esophageal Neoplasms"
+      },
+      {
+       "file": "gastrointestinal/lecture-13.apkg",
+       "cards": 30,
+       "mb": 0.7,
+       "title": "Gastric Neoplasms"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "gastrointestinal/week-2.apkg",
+   "cards": 356,
+   "mb": 9.0,
+   "week": 2,
+   "sessions": [
+    {
+     "file": "gastrointestinal/week-2-session-1.apkg",
+     "cards": 167,
+     "mb": 6.8,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "gastrointestinal/lecture-14.apkg",
+       "cards": 43,
+       "mb": 2.3,
+       "title": "Anatomy of the Liver, Biliary System, and Exocrine Pancreas"
+      },
+      {
+       "file": "gastrointestinal/lecture-15.apkg",
+       "cards": 54,
+       "mb": 3.4,
+       "title": "Anatomy of the Femoral and Inguinal Regions"
+      },
+      {
+       "file": "gastrointestinal/lecture-16.apkg",
+       "cards": 34,
+       "mb": 0.8,
+       "title": "Histology of the Accessory Digestive Organs"
+      },
+      {
+       "file": "gastrointestinal/lecture-17.apkg",
+       "cards": 36,
+       "mb": 0.5,
+       "title": "Liver Function and Regeneration"
+      }
+     ]
+    },
+    {
+     "file": "gastrointestinal/week-2-session-2.apkg",
+     "cards": 59,
+     "mb": 0.8,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "gastrointestinal/lecture-18.apkg",
+       "cards": 28,
+       "mb": 0.2,
+       "title": "Porphyrins and Iron Homeostasis"
+      },
+      {
+       "file": "gastrointestinal/lecture-19.apkg",
+       "cards": 31,
+       "mb": 0.6,
+       "title": "Benign Liver Disease"
+      }
+     ]
+    },
+    {
+     "file": "gastrointestinal/week-2-session-3.apkg",
+     "cards": 130,
+     "mb": 1.6,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "gastrointestinal/lecture-20.apkg",
+       "cards": 23,
+       "mb": 0.3,
+       "title": "Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD)"
+      },
+      {
+       "file": "gastrointestinal/lecture-21.apkg",
+       "cards": 26,
+       "mb": 0.6,
+       "title": "Alcohol-Associated Liver Disease"
+      },
+      {
+       "file": "gastrointestinal/lecture-22.apkg",
+       "cards": 24,
+       "mb": 0.2,
+       "title": "Hepatic Ethanol Metabolism"
+      },
+      {
+       "file": "gastrointestinal/lecture-23.apkg",
+       "cards": 30,
+       "mb": 0.4,
+       "title": "Inherited Metabolic Liver Diseases (Wilson, Hemochromatosis, A1AT)"
+      },
+      {
+       "file": "gastrointestinal/lecture-24.apkg",
+       "cards": 27,
+       "mb": 0.3,
+       "title": "Cirrhosis and Portal Hypertension"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "gastrointestinal/week-3.apkg",
+   "cards": 211,
+   "mb": 1.7,
+   "week": 3,
+   "sessions": [
+    {
+     "file": "gastrointestinal/week-3-session-1.apkg",
+     "cards": 78,
+     "mb": 0.8,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "gastrointestinal/lecture-25.apkg",
+       "cards": 30,
+       "mb": 0.6,
+       "title": "Viral Hepatitis: Presentation, Diagnosis, and Autoimmune Comparison"
+      },
+      {
+       "file": "gastrointestinal/lecture-26.apkg",
+       "cards": 26,
+       "mb": 0.1,
+       "title": "Infectious Hepatic Abscesses and Flukes"
+      },
+      {
+       "file": "gastrointestinal/lecture-27.apkg",
+       "cards": 22,
+       "mb": 0.1,
+       "title": "Drugs to Treat Hepatitis B and C Infections"
+      }
+     ]
+    },
+    {
+     "file": "gastrointestinal/week-3-session-2.apkg",
+     "cards": 82,
+     "mb": 0.6,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "gastrointestinal/lecture-28.apkg",
+       "cards": 28,
+       "mb": 0.3,
+       "title": "Noninfectious Disorders of the Biliary System"
+      },
+      {
+       "file": "gastrointestinal/lecture-29.apkg",
+       "cards": 28,
+       "mb": 0.2,
+       "title": "Hepatic and Biliary Neoplasms"
+      },
+      {
+       "file": "gastrointestinal/lecture-30.apkg",
+       "cards": 26,
+       "mb": 0.2,
+       "title": "Peritonitis"
+      }
+     ]
+    },
+    {
+     "file": "gastrointestinal/week-3-session-3.apkg",
+     "cards": 51,
+     "mb": 0.5,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "gastrointestinal/lecture-31.apkg",
+       "cards": 28,
+       "mb": 0.3,
+       "title": "Acute and Chronic Pancreatitis"
+      },
+      {
+       "file": "gastrointestinal/lecture-32.apkg",
+       "cards": 23,
+       "mb": 0.2,
+       "title": "Pancreatic Carcinoma"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "gastrointestinal/week-4.apkg",
+   "cards": 255,
+   "mb": 1.4,
+   "week": 4,
+   "sessions": [
+    {
+     "file": "gastrointestinal/week-4-session-1.apkg",
+     "cards": 91,
+     "mb": 0.7,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "gastrointestinal/lecture-33.apkg",
+       "cards": 29,
+       "mb": 0.1,
+       "title": "Digestive Motility"
+      },
+      {
+       "file": "gastrointestinal/lecture-34.apkg",
+       "cards": 29,
+       "mb": 0.1,
+       "title": "Neural Control of the GI System (Enteric Nervous System)"
+      },
+      {
+       "file": "gastrointestinal/lecture-35.apkg",
+       "cards": 33,
+       "mb": 0.6,
+       "title": "Gastric Secretion and the Parietal Cell"
+      }
+     ]
+    },
+    {
+     "file": "gastrointestinal/week-4-session-2.apkg",
+     "cards": 108,
+     "mb": 0.5,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "gastrointestinal/lecture-36.apkg",
+       "cards": 24,
+       "mb": 0.1,
+       "title": "GI Hormones & the Intestinal Phase of Digestion"
+      },
+      {
+       "file": "gastrointestinal/lecture-37.apkg",
+       "cards": 29,
+       "mb": 0.1,
+       "title": "Exocrine Functions of the GI System"
+      },
+      {
+       "file": "gastrointestinal/lecture-38.apkg",
+       "cards": 31,
+       "mb": 0.3,
+       "title": "Gastrointestinal Motility Disorders"
+      },
+      {
+       "file": "gastrointestinal/lecture-39.apkg",
+       "cards": 24,
+       "mb": 0.2,
+       "title": "Laxatives and Antidiarrheals"
+      }
+     ]
+    },
+    {
+     "file": "gastrointestinal/week-4-session-3.apkg",
+     "cards": 56,
+     "mb": 0.2,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "gastrointestinal/lecture-40.apkg",
+       "cards": 26,
+       "mb": 0.1,
+       "title": "Luminal Fat Digestion and Absorption"
+      },
+      {
+       "file": "gastrointestinal/lecture-41.apkg",
+       "cards": 30,
+       "mb": 0.1,
+       "title": "Intestinal Nutrient Transporter Mechanisms"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "gastrointestinal/week-5.apkg",
+   "cards": 254,
+   "mb": 1.7,
+   "week": 5,
+   "sessions": [
+    {
+     "file": "gastrointestinal/week-5-session-1.apkg",
+     "cards": 80,
+     "mb": 0.5,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "gastrointestinal/lecture-42.apkg",
+       "cards": 27,
+       "mb": 0.2,
+       "title": "Normal GI Flora"
+      },
+      {
+       "file": "gastrointestinal/lecture-43.apkg",
+       "cards": 28,
+       "mb": 0.2,
+       "title": "GI Mucosal Immunity and Immune Failures"
+      },
+      {
+       "file": "gastrointestinal/lecture-44.apkg",
+       "cards": 25,
+       "mb": 0.2,
+       "title": "Antibiotic Spectrum for GI Infections"
+      }
+     ]
+    },
+    {
+     "file": "gastrointestinal/week-5-session-2.apkg",
+     "cards": 88,
+     "mb": 0.6,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "gastrointestinal/lecture-45.apkg",
+       "cards": 30,
+       "mb": 0.2,
+       "title": "Bacterial Infectious Diarrhea"
+      },
+      {
+       "file": "gastrointestinal/lecture-46.apkg",
+       "cards": 30,
+       "mb": 0.2,
+       "title": "Infectious Diarrhea: Invasive Bacterial and Viral Causes"
+      },
+      {
+       "file": "gastrointestinal/lecture-47.apkg",
+       "cards": 28,
+       "mb": 0.4,
+       "title": "Key GI Parasites and Amoebas"
+      }
+     ]
+    },
+    {
+     "file": "gastrointestinal/week-5-session-3.apkg",
+     "cards": 86,
+     "mb": 0.6,
+     "session": 3,
+     "lectures": [
+      {
+       "file": "gastrointestinal/lecture-48.apkg",
+       "cards": 28,
+       "mb": 0.4,
+       "title": "Inflammatory Bowel Disease"
+      },
+      {
+       "file": "gastrointestinal/lecture-49.apkg",
+       "cards": 30,
+       "mb": 0.2,
+       "title": "Pharmacologic Agents for Inflammatory Bowel Disease"
+      },
+      {
+       "file": "gastrointestinal/lecture-50.apkg",
+       "cards": 28,
+       "mb": 0.2,
+       "title": "Traumatic and Mechanical GI Injuries"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "gastrointestinal/week-6.apkg",
+   "cards": 164,
+   "mb": 3.1,
+   "week": 6,
+   "sessions": [
+    {
+     "file": "gastrointestinal/week-6-session-1.apkg",
+     "cards": 91,
+     "mb": 1.0,
+     "session": 1,
+     "lectures": [
+      {
+       "file": "gastrointestinal/lecture-51.apkg",
+       "cards": 31,
+       "mb": 0.4,
+       "title": "Small Intestine and Colon Disorders"
+      },
+      {
+       "file": "gastrointestinal/lecture-52.apkg",
+       "cards": 31,
+       "mb": 0.5,
+       "title": "Intestinal Neoplasms"
+      },
+      {
+       "file": "gastrointestinal/lecture-53.apkg",
+       "cards": 29,
+       "mb": 0.2,
+       "title": "Abdominal Wall Defects"
+      }
+     ]
+    },
+    {
+     "file": "gastrointestinal/week-6-session-2.apkg",
+     "cards": 73,
+     "mb": 2.1,
+     "session": 2,
+     "lectures": [
+      {
+       "file": "gastrointestinal/lecture-54.apkg",
+       "cards": 40,
+       "mb": 1.4,
+       "title": "Benign Anorectal Disease"
+      },
+      {
+       "file": "gastrointestinal/lecture-55.apkg",
+       "cards": 33,
+       "mb": 0.7,
+       "title": "Excretory Functions of the GI System"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

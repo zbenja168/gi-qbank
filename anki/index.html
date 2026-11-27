@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gastrointestinal Anki Deck · Active Transport</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500..800&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet">
+<style>
+  :root { --bg:#0b1220; --card:#1e293b; --line:#334155; --ink:#e2e8f0; --muted:#94a3b8; --accent:#84cc16;
+          --grad:linear-gradient(135deg,#38bdf8 0%,#22d3ee 45%,#2dd4bf 100%); }
+  * { box-sizing:border-box; }
+  html, body { overflow-x:hidden; }
+  @media (max-width:640px) { .art { width:240px; height:200px; right:-30px; opacity:.35; } }
+  body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.5 Inter,system-ui,-apple-system,"Segoe UI",sans-serif; }
+  .wrap { max-width:760px; margin:0 auto; padding:20px 16px 72px; position:relative; }
+  .art { position:absolute; right:-40px; top:-10px; width:360px; height:300px; object-fit:contain; opacity:.45; pointer-events:none;
+         -webkit-mask-image:radial-gradient(closest-side,#000 40%,transparent); mask-image:radial-gradient(closest-side,#000 40%,transparent); }
+  .brand { display:inline-flex; align-items:center; gap:8px; color:var(--ink); text-decoration:none; font-weight:700; position:relative; }
+  .brand b { background:var(--grad); -webkit-background-clip:text; background-clip:text; color:transparent; }
+  .eyebrow { font:600 12px/1 "JetBrains Mono",monospace; letter-spacing:.08em; text-transform:uppercase; color:var(--muted); margin:28px 0 6px; position:relative; }
+  h1 { font:800 clamp(28px,6vw,40px)/1.1 "Bricolage Grotesque",Inter,sans-serif; margin:0 0 18px; position:relative; }
+  .whole { display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap; background:var(--card);
+           border:1px solid var(--line); border-left:4px solid var(--accent); border-radius:14px; padding:16px 18px; position:relative; }
+  .whole .t { font:700 18px/1.2 "Bricolage Grotesque",Inter,sans-serif; }
+  .meta { color:var(--muted); font-size:13px; }
+  .btn { display:inline-flex; align-items:center; gap:6px; border:0; border-radius:10px; padding:10px 16px; font:600 15px Inter,sans-serif;
+         text-decoration:none; color:#0b1220; background:var(--grad); white-space:nowrap; }
+  .btn.sm { padding:6px 12px; font-size:13px; background:transparent; color:var(--ink); border:1px solid var(--line); }
+  .btn.sm:hover, .btn.sm:focus-visible { border-color:var(--accent); outline:none; }
+  details { background:var(--card); border:1px solid var(--line); border-radius:14px; margin-top:12px; overflow:hidden; }
+  summary { list-style:none; cursor:pointer; display:flex; align-items:center; justify-content:space-between; gap:12px; padding:14px 18px; }
+  summary::-webkit-details-marker { display:none; }
+  summary .t { font:700 17px/1.2 "Bricolage Grotesque",Inter,sans-serif; display:flex; align-items:center; gap:10px; }
+  summary .t::before { content:"›"; color:var(--accent); font-size:22px; line-height:1; transition:transform .15s; }
+  details[open] > summary .t::before { transform:rotate(90deg); }
+  .sess { border-top:1px solid var(--line); padding:10px 18px 12px; }
+  .row { display:flex; align-items:center; justify-content:space-between; gap:10px; padding:6px 0; }
+  .row .n { min-width:0; }
+  .sess > .row .n { font-weight:600; }
+  .lec { padding-left:14px; border-left:2px solid var(--line); margin-left:2px; }
+  .lec .row .n { font-size:15px; color:#cbd5e1; overflow-wrap:anywhere; }
+  .note { color:var(--muted); font-size:13px; margin-top:22px; }
+  .err { color:#fca5a5; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <img class="art" src="https://activetransport.app/static/course-art/gi.svg" alt="">
+  <a class="brand" href="https://activetransport.app/"><b>Active Transport</b></a>
+  <div class="eyebrow">Active Transport · Gastrointestinal</div>
+  <h1>Anki deck</h1>
+  <div id="app"><p class="meta">Loading…</p></div>
+  <p class="note">Import in Anki with File → Import. Downloads merge into one Gastrointestinal deck, with no duplicates and your progress kept.</p>
+</div>
+<script>
+(function () {
+  var app = document.getElementById('app');
+  function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
+  function meta(x) { return x.cards + ' cards · ' + x.mb + ' MB'; }
+  function dl(x, label, cls) {
+    return '<a class="btn' + (cls ? ' ' + cls : '') + '" href="' + esc(x.file) + '" download>' + (label || 'Download') + '</a>';
+  }
+  function track(kind) {
+    try { if (window.plausible) window.plausible('Anki download', { props: { which: kind } }); } catch (e) {}
+  }
+  fetch('gastrointestinal.json', { cache: 'no-cache' }).then(function (r) { return r.json(); }).then(function (d) {
+    var h = '<div class="whole"><div><div class="t">Whole course</div><div class="meta">' + meta(d.whole) + '</div></div>' + dl(d.whole) + '</div>';
+    d.weeks.forEach(function (w) {
+      var wl = w.sessions.every(function (s) { return s.session === 0; }) ? 'More topics' : 'Week ' + w.week;
+      h += '<details><summary><span class="t">' + wl + '</span><span class="meta">' + meta(w) + '</span></summary>';
+      h += '<div class="sess"><div class="row"><span class="n">All of Week ' + w.week + '</span>' + dl(w, 'Download', 'sm') + '</div></div>';
+      w.sessions.forEach(function (s) {
+        h += '<div class="sess"><div class="row"><span class="n">Session ' + s.session + ' <span class="meta">· ' + meta(s) + '</span></span>' + dl(s, 'Download', 'sm') + '</div><div class="lec">';
+        s.lectures.forEach(function (l) {
+          h += '<div class="row"><span class="n">' + esc(l.title) + ' <span class="meta">· ' + l.cards + '</span></span>' + dl(l, 'Get', 'sm') + '</div>';
+        });
+        h += '</div></div>';
+      });
+      h += '</details>';
+    });
+    app.innerHTML = h;
+    var last = app.querySelectorAll('details');
+    if (last.length) last[last.length - 1].open = true;
+    app.addEventListener('click', function (e) {
+      var a = e.target.closest('a[download]');
+      if (a) track(a.getAttribute('href'));
+    });
+  }).catch(function () {
+    app.innerHTML = '<p class="err">Couldn’t load the deck list.</p><a class="btn" href="gastrointestinal.apkg" download>Download the whole course</a>';
+  });
+})();
+</script>
+<script defer src="https://activetransport.app/static/tool-track.js"></script>
+</body>
+</html>
