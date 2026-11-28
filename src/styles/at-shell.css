@@ -325,3 +325,13 @@
   .bg-sky-500.text-white:not(:disabled),
   .bg-sky-600.text-white:not(:disabled) { color: var(--at-on-accent); }
 }
+
+/* QBank highlighter (components/Highlighter.tsx). Exam-yellow with dark ink in
+   every theme and skin, so a highlight reads the same everywhere. */
+mark[data-part='hl'] {
+  background: #fde047; color: #111418 !important; border-radius: 2px;
+  padding: 0 1px; cursor: pointer; box-decoration-break: clone; -webkit-box-decoration-break: clone;
+}
+mark[data-part='hl']:hover { background: #facc15; }
+[data-hl-on='on'] ::selection { background: rgba(253, 224, 71, 0.55); }
+[data-part='card-tools'] { display: flex; justify-content: flex-end; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }

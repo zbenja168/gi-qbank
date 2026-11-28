@@ -2,6 +2,8 @@ import { useState } from 'react';
 import { Question } from '../../types/question';
 
 import { lectureName } from '../SiteHeader';
+import { useHighlights, HighlightText, HighlightToggle } from '../Highlighter';
+import { ReportQuestion } from '../ReportQuestion';
 interface Props {
   question: Question;
   index: number;
@@ -25,6 +27,8 @@ export function QuestionCard({
 }: Props) {
   const [selected, setSelected] = useState<string | null>(previousAnswer ?? null);
   const answered = selected !== null;
+  // Highlights for this question (kept in this browser, per question).
+  const hl = useHighlights(question.id);
 
   // Options the student has ruled out with the cross-out control. Local to the
   // card, which is keyed by question id, so each question starts clean.
@@ -121,6 +125,13 @@ export function QuestionCard({
         />
       </div>
 
+      {/* Question tools. Their own row rather than the meta row, because the
+          exam skins hide the meta row and both tools belong in exam mode too. */}
+      <div data-part="card-tools">
+        <HighlightToggle hl={hl} />
+        <ReportQuestion question={question} />
+      </div>
+
       {/* Image. Tap/click opens it full size in a new tab (pinch-zoom on a phone). */}
       {question.imageRef && (
         <div data-part="figure" className="mb-6 flex justify-center">
@@ -143,7 +154,7 @@ export function QuestionCard({
 
       {/* Stem */}
       <div data-part="stem" className="bg-slate-800 rounded-xl border border-slate-700 p-6 mb-6 shadow-sm">
-        <p className="text-slate-200 leading-relaxed whitespace-pre-line">{question.stem}</p>
+        <HighlightText field="stem" text={question.stem} hl={hl} className="text-slate-200 leading-relaxed whitespace-pre-line" />
       </div>
 
       {/* Choices */}
@@ -209,11 +220,11 @@ export function QuestionCard({
               </span>
             )}
           </div>
-          <p className="text-slate-300 mb-4 leading-relaxed">{question.explanation.summary}</p>
+          <HighlightText field="summary" text={question.explanation.summary || ''} hl={hl} className="text-slate-300 mb-4 leading-relaxed" />
 
           <div className="mb-4">
             <h4 className="font-semibold text-slate-200 mb-1">Why {question.correctAnswer} is correct:</h4>
-            <p className="text-slate-400 leading-relaxed">{question.explanation.whyCorrect}</p>
+            <HighlightText field="whyCorrect" text={question.explanation.whyCorrect || ''} hl={hl} className="text-slate-400 leading-relaxed" />
           </div>
 
           <div>
@@ -224,9 +235,7 @@ export function QuestionCard({
                 .map(c => (
                   <div key={c.label} className="flex gap-2">
                     <span className="font-medium text-slate-500 flex-shrink-0">{c.label}.</span>
-                    <p className="text-slate-400 text-sm leading-relaxed">
-                      {question.explanation.whyWrongByChoice[c.label]}
-                    </p>
+                    <HighlightText field={`wrong-${c.label}`} text={question.explanation.whyWrongByChoice[c.label] || ''} hl={hl} className="text-slate-400 text-sm leading-relaxed" />
                   </div>
                 ))}
             </div>
